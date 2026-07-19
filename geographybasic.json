@@ -1,0 +1,491 @@
+{
+  "title": "Basics of Geography Quiz (Bilingual)",
+  "questions": [
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "Nitrogen and Oxygen make up the majority of the Earth's atmosphere.",
+        "Hydrogen and Helium make up the majority of the Earth's atmosphere.",
+        "Oxygen and Argon make up the majority of the Earth's atmosphere.",
+        "Carbon Dioxide and Oxygen make up the majority of the Earth's atmosphere."
+      ],
+      "options_hi": [
+        "पृथ्वी के वायुमंडल में अधिकांश भाग नाइट्रोजन और ऑक्सीजन का है।",
+        "पृथ्वी के वायुमंडल में अधिकांश भाग हाइड्रोजन और हीलियम का है।",
+        "पृथ्वी के वायुमंडल में अधिकांश भाग ऑक्सीजन और आर्गन का है।",
+        "पृथ्वी के वायुमंडल में अधिकांश भाग कार्बन डाइऑक्साइड और ऑक्सीजन का है।"
+      ],
+      "answer_en": "Nitrogen and Oxygen make up the majority of the Earth's atmosphere.",
+      "answer_hi": "पृथ्वी के वायुमंडल में अधिकांश भाग नाइट्रोजन और ऑक्सीजन का है।",
+      "explanation_en": "Nitrogen (~78%) and Oxygen (~21%) make up about 99% of the atmosphere.",
+      "explanation_hi": "नाइट्रोजन (~78%) और ऑक्सीजन (~21%) मिलकर वायुमंडल का लगभग 99% हिस्सा बनाते हैं।"
+    },
+    {
+      "question_en": "The Earth's magnetic field is believed to originate from the _____.",
+      "question_hi": "पृथ्वी का चुंबकीय क्षेत्र _____ से उत्पन्न माना जाता है।",
+      "options_en": [
+        "Mantle",
+        "Inner Core",
+        "Outer Core",
+        "Crust"
+      ],
+      "options_hi": [
+        "मैंटल",
+        "आंतरिक क्रोड",
+        "बाह्य क्रोड",
+        "भूपर्पटी"
+      ],
+      "answer_en": "Outer Core",
+      "answer_hi": "बाह्य क्रोड",
+      "explanation_en": "Convection currents in the molten, iron-rich outer core generate Earth's magnetic field.",
+      "explanation_hi": "पिघले हुए, लोहे से भरपूर बाह्य क्रोड में संवहन धाराएं पृथ्वी का चुंबकीय क्षेत्र उत्पन्न करती हैं।"
+    },
+    {
+      "question_en": "The magnitude of an earthquake is measured on the _____ scale.",
+      "question_hi": "भूकंप की तीव्रता _____ पैमाने पर मापी जाती है।",
+      "options_en": [
+        "Richter",
+        "Beaufort",
+        "Fujita",
+        "Kelvin"
+      ],
+      "options_hi": [
+        "रिक्टर",
+        "ब्यूफोर्ट",
+        "फुजिता",
+        "केल्विन"
+      ],
+      "answer_en": "Richter",
+      "answer_hi": "रिक्टर",
+      "explanation_en": "Earthquake magnitude is commonly measured using the Richter scale.",
+      "explanation_hi": "भूकंप की तीव्रता आमतौर पर रिक्टर पैमाने पर मापी जाती है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "The Arctic Circle is located at approximately 66.5° N latitude.",
+        "The Arctic Circle is located at approximately 45° N latitude.",
+        "The Arctic Circle is located at approximately 90° N latitude.",
+        "The Arctic Circle is located at approximately 23.5° N latitude."
+      ],
+      "options_hi": [
+        "आर्कटिक वृत्त लगभग 66.5° उत्तर अक्षांश पर स्थित है।",
+        "आर्कटिक वृत्त लगभग 45° उत्तर अक्षांश पर स्थित है।",
+        "आर्कटिक वृत्त लगभग 90° उत्तर अक्षांश पर स्थित है।",
+        "आर्कटिक वृत्त लगभग 23.5° उत्तर अक्षांश पर स्थित है।"
+      ],
+      "answer_en": "The Arctic Circle is located at approximately 66.5° N latitude.",
+      "answer_hi": "आर्कटिक वृत्त लगभग 66.5° उत्तर अक्षांश पर स्थित है।",
+      "explanation_en": "The Arctic Circle lies at 66.5° North latitude.",
+      "explanation_hi": "आर्कटिक वृत्त 66.5° उत्तर अक्षांश पर स्थित है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "Earth is the third planet from the Sun.",
+        "Earth is the fourth planet from the Sun.",
+        "Earth is the first planet from the Sun.",
+        "Earth is the second planet from the Sun."
+      ],
+      "options_hi": [
+        "पृथ्वी सूर्य से तीसरा ग्रह है।",
+        "पृथ्वी सूर्य से चौथा ग्रह है।",
+        "पृथ्वी सूर्य से पहला ग्रह है।",
+        "पृथ्वी सूर्य से दूसरा ग्रह है।"
+      ],
+      "answer_en": "Earth is the third planet from the Sun.",
+      "answer_hi": "पृथ्वी सूर्य से तीसरा ग्रह है।",
+      "explanation_en": "In order from the Sun: Mercury, Venus, Earth — so Earth is third.",
+      "explanation_hi": "सूर्य से क्रम में: बुध, शुक्र, पृथ्वी — इसलिए पृथ्वी तीसरा ग्रह है।"
+    },
+    {
+      "question_en": "Approximately _____ of the Earth's surface is covered by water.",
+      "question_hi": "पृथ्वी की सतह का लगभग _____ भाग जल से ढका है।",
+      "options_en": [
+        "50%",
+        "61%",
+        "90%",
+        "71%"
+      ],
+      "options_hi": [
+        "50%",
+        "61%",
+        "90%",
+        "71%"
+      ],
+      "answer_en": "71%",
+      "answer_hi": "71%",
+      "explanation_en": "About 71% of the Earth's surface is covered by water, mostly oceans.",
+      "explanation_hi": "पृथ्वी की सतह का लगभग 71% भाग जल से ढका है, जिसमें अधिकांश महासागर हैं।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "Approximately 61% of the Earth's surface is covered by water.",
+        "Approximately 90% of the Earth's surface is covered by water.",
+        "Approximately 50% of the Earth's surface is covered by water.",
+        "Approximately 71% of the Earth's surface is covered by water."
+      ],
+      "options_hi": [
+        "पृथ्वी की सतह का लगभग 61% भाग जल से ढका है।",
+        "पृथ्वी की सतह का लगभग 90% भाग जल से ढका है।",
+        "पृथ्वी की सतह का लगभग 50% भाग जल से ढका है।",
+        "पृथ्वी की सतह का लगभग 71% भाग जल से ढका है।"
+      ],
+      "answer_en": "Approximately 71% of the Earth's surface is covered by water.",
+      "answer_hi": "पृथ्वी की सतह का लगभग 71% भाग जल से ढका है।",
+      "explanation_en": "About 71% of the Earth's surface is covered by water, mostly oceans.",
+      "explanation_hi": "पृथ्वी की सतह का लगभग 71% भाग जल से ढका है, जिसमें अधिकांश महासागर हैं।"
+    },
+    {
+      "question_en": "_____ is the planet closest to the Sun.",
+      "question_hi": "_____ सूर्य के सबसे निकट स्थित ग्रह है।",
+      "options_en": [
+        "Mercury",
+        "Mars",
+        "Earth",
+        "Venus"
+      ],
+      "options_hi": [
+        "बुध",
+        "मंगल",
+        "पृथ्वी",
+        "शुक्र"
+      ],
+      "answer_en": "Mercury",
+      "answer_hi": "बुध",
+      "explanation_en": "Mercury orbits closest to the Sun among all eight planets.",
+      "explanation_hi": "आठों ग्रहों में बुध सूर्य की सबसे निकटतम कक्षा में परिक्रमा करता है।"
+    },
+    {
+      "question_en": "The Earth's axis is tilted at an angle of approximately _____.",
+      "question_hi": "पृथ्वी की धुरी लगभग _____ के कोण पर झुकी हुई है।",
+      "options_en": [
+        "66.5°",
+        "15°",
+        "45°",
+        "23.5°"
+      ],
+      "options_hi": [
+        "66.5°",
+        "15°",
+        "45°",
+        "23.5°"
+      ],
+      "answer_en": "23.5°",
+      "answer_hi": "23.5°",
+      "explanation_en": "Earth's axial tilt of about 23.5° is responsible for the changing seasons.",
+      "explanation_hi": "पृथ्वी की लगभग 23.5° की धुरी झुकाव ऋतु परिवर्तन का कारण है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "The time difference for every 1° of longitude is 15 minutes.",
+        "The time difference for every 1° of longitude is 1 hour.",
+        "The time difference for every 1° of longitude is 4 minutes.",
+        "The time difference for every 1° of longitude is 1 minute."
+      ],
+      "options_hi": [
+        "प्रत्येक 1° देशांतर के लिए समय का अंतर 15 मिनट होता है।",
+        "प्रत्येक 1° देशांतर के लिए समय का अंतर 1 घंटा होता है।",
+        "प्रत्येक 1° देशांतर के लिए समय का अंतर 4 मिनट होता है।",
+        "प्रत्येक 1° देशांतर के लिए समय का अंतर 1 मिनट होता है।"
+      ],
+      "answer_en": "The time difference for every 1° of longitude is 4 minutes.",
+      "answer_hi": "प्रत्येक 1° देशांतर के लिए समय का अंतर 4 मिनट होता है।",
+      "explanation_en": "Since 360° = 24 hours, each degree of longitude equals 4 minutes of time difference.",
+      "explanation_hi": "चूंकि 360° = 24 घंटे होते हैं, इसलिए प्रत्येक देशांतर डिग्री 4 मिनट के समय अंतर के बराबर होती है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "The Tropic of Capricorn is located at approximately 0° latitude.",
+        "The Tropic of Capricorn is located at approximately 45° S latitude.",
+        "The Tropic of Capricorn is located at approximately 66.5° S latitude.",
+        "The Tropic of Capricorn is located at approximately 23.5° S latitude."
+      ],
+      "options_hi": [
+        "मकर रेखा लगभग 0° अक्षांश पर स्थित है।",
+        "मकर रेखा लगभग 45° दक्षिण अक्षांश पर स्थित है।",
+        "मकर रेखा लगभग 66.5° दक्षिण अक्षांश पर स्थित है।",
+        "मकर रेखा लगभग 23.5° दक्षिण अक्षांश पर स्थित है।"
+      ],
+      "answer_en": "The Tropic of Capricorn is located at approximately 23.5° S latitude.",
+      "answer_hi": "मकर रेखा लगभग 23.5° दक्षिण अक्षांश पर स्थित है।",
+      "explanation_en": "The Tropic of Capricorn lies at 23.5° South latitude.",
+      "explanation_hi": "मकर रेखा 23.5° दक्षिण अक्षांश पर स्थित है।"
+    },
+    {
+      "question_en": "Which latitude passes roughly through the middle of India?",
+      "question_hi": "कौन सी अक्षांश रेखा भारत के लगभग बीच से होकर गुजरती है?",
+      "options_en": [
+        "Tropic of Capricorn",
+        "Arctic Circle",
+        "Tropic of Cancer",
+        "Equator"
+      ],
+      "options_hi": [
+        "मकर रेखा",
+        "आर्कटिक वृत्त",
+        "कर्क रेखा",
+        "भूमध्य रेखा"
+      ],
+      "answer_en": "Tropic of Cancer",
+      "answer_hi": "कर्क रेखा",
+      "explanation_en": "The Tropic of Cancer (23.5°N) passes through the middle of India, across 8 states.",
+      "explanation_hi": "कर्क रेखा (23.5° उत्तर) भारत के 8 राज्यों से होकर, देश के लगभग बीच से गुजरती है।"
+    },
+    {
+      "question_en": "Which is the smallest planet in the solar system?",
+      "question_hi": "सौरमंडल का सबसे छोटा ग्रह कौन सा है?",
+      "options_en": [
+        "Pluto",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "options_hi": [
+        "प्लूटो",
+        "मंगल",
+        "बुध",
+        "शुक्र"
+      ],
+      "answer_en": "Mercury",
+      "answer_hi": "बुध",
+      "explanation_en": "Mercury is the smallest planet (Pluto is no longer classified as a planet).",
+      "explanation_hi": "बुध सबसे छोटा ग्रह है (प्लूटो अब ग्रह की श्रेणी में नहीं है)।"
+    },
+    {
+      "question_en": "Which instrument is used to measure the intensity of earthquakes?",
+      "question_hi": "भूकंप की तीव्रता मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+      "options_en": [
+        "Anemometer",
+        "Thermometer",
+        "Seismograph",
+        "Barometer"
+      ],
+      "options_hi": [
+        "एनीमोमीटर",
+        "थर्मामीटर",
+        "सिस्मोग्राफ (भूकंपमापी)",
+        "बैरोमीटर"
+      ],
+      "answer_en": "Seismograph",
+      "answer_hi": "सिस्मोग्राफ (भूकंपमापी)",
+      "explanation_en": "A Seismograph records the motion of the ground during an earthquake.",
+      "explanation_hi": "सिस्मोग्राफ भूकंप के दौरान भूमि की गति को रिकॉर्ड करता है।"
+    },
+    {
+      "question_en": "_____ is the branch of science that studies the Earth's physical features, atmosphere, and phenomena.",
+      "question_hi": "_____ विज्ञान की वह शाखा है जो पृथ्वी की भौतिक विशेषताओं, वायुमंडल और परिघटनाओं का अध्ययन करती है।",
+      "options_en": [
+        "Geology",
+        "Geography",
+        "Astronomy",
+        "Meteorology"
+      ],
+      "options_hi": [
+        "भूविज्ञान",
+        "भूगोल",
+        "खगोल विज्ञान",
+        "मौसम विज्ञान"
+      ],
+      "answer_en": "Geography",
+      "answer_hi": "भूगोल",
+      "explanation_en": "Geography is the study of the Earth's landscapes, features, inhabitants, and phenomena.",
+      "explanation_hi": "भूगोल पृथ्वी के भू-दृश्यों, विशेषताओं, निवासियों और परिघटनाओं का अध्ययन है।"
+    },
+    {
+      "question_en": "Which is the second most abundant element in the Earth's crust?",
+      "question_hi": "पृथ्वी की भूपर्पटी में दूसरा सबसे प्रचुर तत्व कौन सा है?",
+      "options_en": [
+        "Silicon",
+        "Oxygen",
+        "Aluminium",
+        "Iron"
+      ],
+      "options_hi": [
+        "सिलिकॉन",
+        "ऑक्सीजन",
+        "एल्युमिनियम",
+        "लोहा"
+      ],
+      "answer_en": "Silicon",
+      "answer_hi": "सिलिकॉन",
+      "explanation_en": "Silicon is the second most abundant element in the Earth's crust, after Oxygen.",
+      "explanation_hi": "ऑक्सीजन के बाद सिलिकॉन पृथ्वी की भूपर्पटी में दूसरा सबसे प्रचुर तत्व है।"
+    },
+    {
+      "question_en": "The Arctic Circle is located at approximately _____ latitude.",
+      "question_hi": "आर्कटिक वृत्त लगभग _____ अक्षांश पर स्थित है।",
+      "options_en": [
+        "66.5° N",
+        "45° N",
+        "23.5° N",
+        "90° N"
+      ],
+      "options_hi": [
+        "66.5° उत्तर",
+        "45° उत्तर",
+        "23.5° उत्तर",
+        "90° उत्तर"
+      ],
+      "answer_en": "66.5° N",
+      "answer_hi": "66.5° उत्तर",
+      "explanation_en": "The Arctic Circle lies at 66.5° North latitude.",
+      "explanation_hi": "आर्कटिक वृत्त 66.5° उत्तर अक्षांश पर स्थित है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "The Standard Meridian of India is 90° E.",
+        "The Standard Meridian of India is 82.5° E.",
+        "The Standard Meridian of India is 0°.",
+        "The Standard Meridian of India is 68.5° E."
+      ],
+      "options_hi": [
+        "भारत की मानक याम्योत्तर 90° पूर्व है।",
+        "भारत की मानक याम्योत्तर 82.5° पूर्व है।",
+        "भारत की मानक याम्योत्तर 0° है।",
+        "भारत की मानक याम्योत्तर 68.5° पूर्व है।"
+      ],
+      "answer_en": "The Standard Meridian of India is 82.5° E.",
+      "answer_hi": "भारत की मानक याम्योत्तर 82.5° पूर्व है।",
+      "explanation_en": "India's Standard Meridian is 82.5° East, used to determine Indian Standard Time.",
+      "explanation_hi": "भारत की मानक याम्योत्तर 82.5° पूर्व है, जिसका उपयोग भारतीय मानक समय निर्धारित करने के लिए किया जाता है।"
+    },
+    {
+      "question_en": "The International Date Line is located along approximately the _____ longitude.",
+      "question_hi": "अंतर्राष्ट्रीय तिथि रेखा लगभग _____ देशांतर पर स्थित है।",
+      "options_en": [
+        "90°",
+        "180°",
+        "45°",
+        "0°"
+      ],
+      "options_hi": [
+        "90°",
+        "180°",
+        "45°",
+        "0°"
+      ],
+      "answer_en": "180°",
+      "answer_hi": "180°",
+      "explanation_en": "The International Date Line roughly follows the 180° meridian in the Pacific Ocean.",
+      "explanation_hi": "अंतर्राष्ट्रीय तिथि रेखा प्रशांत महासागर में लगभग 180° याम्योत्तर के साथ चलती है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "Seismograph is used to measure the intensity of earthquakes.",
+        "Thermometer is used to measure the intensity of earthquakes.",
+        "Anemometer is used to measure the intensity of earthquakes.",
+        "Barometer is used to measure the intensity of earthquakes."
+      ],
+      "options_hi": [
+        "भूकंप की तीव्रता मापने के लिए सिस्मोग्राफ (भूकंपमापी) का उपयोग किया जाता है।",
+        "भूकंप की तीव्रता मापने के लिए थर्मामीटर का उपयोग किया जाता है।",
+        "भूकंप की तीव्रता मापने के लिए एनीमोमीटर का उपयोग किया जाता है।",
+        "भूकंप की तीव्रता मापने के लिए बैरोमीटर का उपयोग किया जाता है।"
+      ],
+      "answer_en": "Seismograph is used to measure the intensity of earthquakes.",
+      "answer_hi": "भूकंप की तीव्रता मापने के लिए सिस्मोग्राफ (भूकंपमापी) का उपयोग किया जाता है।",
+      "explanation_en": "A Seismograph records the motion of the ground during an earthquake.",
+      "explanation_hi": "सिस्मोग्राफ भूकंप के दौरान भूमि की गति को रिकॉर्ड करता है।"
+    },
+    {
+      "question_en": "The second most abundant element in the Earth's crust is _____.",
+      "question_hi": "पृथ्वी की भूपर्पटी में दूसरा सबसे प्रचुर तत्व _____ है।",
+      "options_en": [
+        "Silicon",
+        "Oxygen",
+        "Iron",
+        "Aluminium"
+      ],
+      "options_hi": [
+        "सिलिकॉन",
+        "ऑक्सीजन",
+        "लोहा",
+        "एल्युमिनियम"
+      ],
+      "answer_en": "Silicon",
+      "answer_hi": "सिलिकॉन",
+      "explanation_en": "Silicon is the second most abundant element in the Earth's crust, after Oxygen.",
+      "explanation_hi": "ऑक्सीजन के बाद सिलिकॉन पृथ्वी की भूपर्पटी में दूसरा सबसे प्रचुर तत्व है।"
+    },
+    {
+      "question_en": "The Earth takes approximately _____ to complete one revolution around the Sun.",
+      "question_hi": "पृथ्वी को सूर्य की परिक्रमा पूरी करने में लगभग _____ लगता है।",
+      "options_en": [
+        "100 days",
+        "365.25 days",
+        "30 days",
+        "24 hours"
+      ],
+      "options_hi": [
+        "100 दिन",
+        "365.25 दिन",
+        "30 दिन",
+        "24 घंटे"
+      ],
+      "answer_en": "365.25 days",
+      "answer_hi": "365.25 दिन",
+      "explanation_en": "One revolution (a year) takes about 365.25 days, which is why a leap year is added every 4 years.",
+      "explanation_hi": "एक परिक्रमण (एक वर्ष) में लगभग 365.25 दिन लगते हैं, इसीलिए हर 4 वर्ष में एक लीप वर्ष जोड़ा जाता है।"
+    },
+    {
+      "question_en": "What is the total number of latitudes on Earth?",
+      "question_hi": "पृथ्वी पर अक्षांश रेखाओं की कुल संख्या कितनी है?",
+      "options_en": [
+        "180",
+        "90",
+        "360",
+        "181"
+      ],
+      "options_hi": [
+        "180",
+        "90",
+        "360",
+        "181"
+      ],
+      "answer_en": "181",
+      "answer_hi": "181",
+      "explanation_en": "There are 180 latitudes (90 North + 90 South) plus the Equator itself, totaling 181.",
+      "explanation_hi": "180 अक्षांश रेखाएं (90 उत्तर + 90 दक्षिण) और स्वयं भूमध्य रेखा मिलाकर कुल 181 होती हैं।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "India's Standard Time (IST) is based on the local time near Mumbai.",
+        "India's Standard Time (IST) is based on the local time near Kolkata.",
+        "India's Standard Time (IST) is based on the local time near Delhi.",
+        "India's Standard Time (IST) is based on the local time near Mirzapur."
+      ],
+      "options_hi": [
+        "भारतीय मानक समय (IST) मुंबई के स्थानीय समय पर आधारित है।",
+        "भारतीय मानक समय (IST) कोलकाता के स्थानीय समय पर आधारित है।",
+        "भारतीय मानक समय (IST) दिल्ली के स्थानीय समय पर आधारित है।",
+        "भारतीय मानक समय (IST) मिर्ज़ापुर के स्थानीय समय पर आधारित है।"
+      ],
+      "answer_en": "India's Standard Time (IST) is based on the local time near Mirzapur.",
+      "answer_hi": "भारतीय मानक समय (IST) मिर्ज़ापुर के स्थानीय समय पर आधारित है।",
+      "explanation_en": "IST is based on the 82.5°E meridian, which passes near Mirzapur, Uttar Pradesh.",
+      "explanation_hi": "IST 82.5° पूर्व याम्योत्तर पर आधारित है, जो उत्तर प्रदेश के मिर्ज़ापुर के पास से गुजरती है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "The movement of the Earth around its own axis is called Rotation.",
+        "The movement of the Earth around its own axis is called Inclination.",
+        "The movement of the Earth around its own axis is called Orbit.",
+    
