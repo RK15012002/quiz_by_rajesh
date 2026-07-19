@@ -1,0 +1,2005 @@
+{
+  "title": "States and Capitals Quiz (Bilingual)",
+  "questions": [
+    {
+      "question_en": "Dehradun is the capital of which state/UT?",
+      "question_hi": "देहरादून किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Telangana",
+        "Uttarakhand",
+        "Ladakh",
+        "Andaman and Nicobar Islands"
+      ],
+      "options_hi": [
+        "तेलंगाना",
+        "उत्तराखंड",
+        "लद्दाख",
+        "अंडमान और निकोबार द्वीप समूह"
+      ],
+      "answer_en": "Uttarakhand",
+      "answer_hi": "उत्तराखंड",
+      "explanation_en": "Dehradun is the capital of Uttarakhand.",
+      "explanation_hi": "देहरादून, उत्तराखंड की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Haryana is _____.",
+      "question_hi": "हरियाणा की राजधानी _____ है।",
+      "options_en": [
+        "Bhubaneswar",
+        "Leh",
+        "Chandigarh",
+        "Gangtok"
+      ],
+      "options_hi": [
+        "भुवनेश्वर",
+        "लेह",
+        "चंडीगढ़",
+        "गंगटोक"
+      ],
+      "answer_en": "Chandigarh",
+      "answer_hi": "चंडीगढ़",
+      "explanation_en": "Haryana's capital city is Chandigarh.",
+      "explanation_hi": "हरियाणा की राजधानी शहर चंडीगढ़ है।"
+    },
+    {
+      "question_en": "What is the capital of Dadra and Nagar Haveli and Daman and Diu?",
+      "question_hi": "दादरा और नगर हवेली और दमन और दीव की राजधानी क्या है?",
+      "options_en": [
+        "Kohima",
+        "Kavaratti",
+        "Daman",
+        "Jaipur"
+      ],
+      "options_hi": [
+        "कोहिमा",
+        "कवरत्ती",
+        "दमन",
+        "जयपुर"
+      ],
+      "answer_en": "Daman",
+      "answer_hi": "दमन",
+      "explanation_en": "The capital of Dadra and Nagar Haveli and Daman and Diu is Daman.",
+      "explanation_hi": "दादरा और नगर हवेली और दमन और दीव की राजधानी दमन है।"
+    },
+    {
+      "question_en": "What is the capital of Assam?",
+      "question_hi": "असम की राजधानी क्या है?",
+      "options_en": [
+        "Mumbai",
+        "Dispur",
+        "Ranchi",
+        "Kavaratti"
+      ],
+      "options_hi": [
+        "मुंबई",
+        "दिसपुर",
+        "रांची",
+        "कवरत्ती"
+      ],
+      "answer_en": "Dispur",
+      "answer_hi": "दिसपुर",
+      "explanation_en": "The capital of Assam is Dispur.",
+      "explanation_hi": "असम की राजधानी दिसपुर है।"
+    },
+    {
+      "question_en": "What is the capital of Maharashtra?",
+      "question_hi": "महाराष्ट्र की राजधानी क्या है?",
+      "options_en": [
+        "Thiruvananthapuram",
+        "Mumbai",
+        "Shillong",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "तिरुवनंतपुरम",
+        "मुंबई",
+        "शिलांग",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Mumbai",
+      "answer_hi": "मुंबई",
+      "explanation_en": "The capital of Maharashtra is Mumbai.",
+      "explanation_hi": "महाराष्ट्र की राजधानी मुंबई है।"
+    },
+    {
+      "question_en": "Daman is the capital of which state/UT?",
+      "question_hi": "दमन किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Dadra and Nagar Haveli and Daman and Diu",
+        "Puducherry",
+        "Punjab",
+        "Telangana"
+      ],
+      "options_hi": [
+        "दादरा और नगर हवेली और दमन और दीव",
+        "पुदुचेरी",
+        "पंजाब",
+        "तेलंगाना"
+      ],
+      "answer_en": "Dadra and Nagar Haveli and Daman and Diu",
+      "answer_hi": "दादरा और नगर हवेली और दमन और दीव",
+      "explanation_en": "Daman is the capital of Dadra and Nagar Haveli and Daman and Diu.",
+      "explanation_hi": "दमन, दादरा और नगर हवेली और दमन और दीव की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Rajasthan?",
+      "question_hi": "राजस्थान की राजधानी क्या है?",
+      "options_en": [
+        "Kohima",
+        "Puducherry",
+        "Jaipur",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "कोहिमा",
+        "पुदुचेरी",
+        "जयपुर",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Jaipur",
+      "answer_hi": "जयपुर",
+      "explanation_en": "The capital of Rajasthan is Jaipur.",
+      "explanation_hi": "राजस्थान की राजधानी जयपुर है।"
+    },
+    {
+      "question_en": "The capital of Lakshadweep is _____.",
+      "question_hi": "लक्षद्वीप की राजधानी _____ है।",
+      "options_en": [
+        "Kavaratti",
+        "Panaji",
+        "Chandigarh",
+        "Gandhinagar"
+      ],
+      "options_hi": [
+        "कवरत्ती",
+        "पणजी",
+        "चंडीगढ़",
+        "गांधीनगर"
+      ],
+      "answer_en": "Kavaratti",
+      "answer_hi": "कवरत्ती",
+      "explanation_en": "Lakshadweep's capital city is Kavaratti.",
+      "explanation_hi": "लक्षद्वीप की राजधानी शहर कवरत्ती है।"
+    },
+    {
+      "question_en": "Puducherry is the capital of which state/UT?",
+      "question_hi": "पुदुचेरी किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Puducherry",
+        "Haryana",
+        "Assam",
+        "Meghalaya"
+      ],
+      "options_hi": [
+        "पुदुचेरी",
+        "हरियाणा",
+        "असम",
+        "मेघालय"
+      ],
+      "answer_en": "Puducherry",
+      "answer_hi": "पुदुचेरी",
+      "explanation_en": "Puducherry is the capital of Puducherry.",
+      "explanation_hi": "पुदुचेरी, पुदुचेरी की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Mizoram?",
+      "question_hi": "मिजोरम की राजधानी क्या है?",
+      "options_en": [
+        "Chandigarh",
+        "Agartala",
+        "Aizawl",
+        "Patna"
+      ],
+      "options_hi": [
+        "चंडीगढ़",
+        "अगरतला",
+        "आइजोल",
+        "पटना"
+      ],
+      "answer_en": "Aizawl",
+      "answer_hi": "आइजोल",
+      "explanation_en": "The capital of Mizoram is Aizawl.",
+      "explanation_hi": "मिजोरम की राजधानी आइजोल है।"
+    },
+    {
+      "question_en": "What is the capital of Chandigarh (UT)?",
+      "question_hi": "चंडीगढ़ (केंद्र शासित प्रदेश) की राजधानी क्या है?",
+      "options_en": [
+        "Dispur",
+        "Kolkata",
+        "Chennai",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "दिसपुर",
+        "कोलकाता",
+        "चेन्नई",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Chandigarh",
+      "answer_hi": "चंडीगढ़",
+      "explanation_en": "The capital of Chandigarh (UT) is Chandigarh.",
+      "explanation_hi": "चंडीगढ़ (केंद्र शासित प्रदेश) की राजधानी चंडीगढ़ है।"
+    },
+    {
+      "question_en": "Ranchi is the capital of which state/UT?",
+      "question_hi": "रांची किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Karnataka",
+        "Chhattisgarh",
+        "Himachal Pradesh",
+        "Jharkhand"
+      ],
+      "options_hi": [
+        "कर्नाटक",
+        "छत्तीसगढ़",
+        "हिमाचल प्रदेश",
+        "झारखंड"
+      ],
+      "answer_en": "Jharkhand",
+      "answer_hi": "झारखंड",
+      "explanation_en": "Ranchi is the capital of Jharkhand.",
+      "explanation_hi": "रांची, झारखंड की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Manipur?",
+      "question_hi": "मणिपुर की राजधानी क्या है?",
+      "options_en": [
+        "Shimla",
+        "Imphal",
+        "Thiruvananthapuram",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "शिमला",
+        "इंफाल",
+        "तिरुवनंतपुरम",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Imphal",
+      "answer_hi": "इंफाल",
+      "explanation_en": "The capital of Manipur is Imphal.",
+      "explanation_hi": "मणिपुर की राजधानी इंफाल है।"
+    },
+    {
+      "question_en": "What is the capital of Bihar?",
+      "question_hi": "बिहार की राजधानी क्या है?",
+      "options_en": [
+        "Patna",
+        "Daman",
+        "Bhopal",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "पटना",
+        "दमन",
+        "भोपाल",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Patna",
+      "answer_hi": "पटना",
+      "explanation_en": "The capital of Bihar is Patna.",
+      "explanation_hi": "बिहार की राजधानी पटना है।"
+    },
+    {
+      "question_en": "What is the capital of Chhattisgarh?",
+      "question_hi": "छत्तीसगढ़ की राजधानी क्या है?",
+      "options_en": [
+        "Raipur",
+        "Puducherry",
+        "Ranchi",
+        "New Delhi"
+      ],
+      "options_hi": [
+        "रायपुर",
+        "पुदुचेरी",
+        "रांची",
+        "नई दिल्ली"
+      ],
+      "answer_en": "Raipur",
+      "answer_hi": "रायपुर",
+      "explanation_en": "The capital of Chhattisgarh is Raipur.",
+      "explanation_hi": "छत्तीसगढ़ की राजधानी रायपुर है।"
+    },
+    {
+      "question_en": "What is the capital of Karnataka?",
+      "question_hi": "कर्नाटक की राजधानी क्या है?",
+      "options_en": [
+        "Ranchi",
+        "Gangtok",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "options_hi": [
+        "रांची",
+        "गंगटोक",
+        "बेंगलुरु",
+        "चेन्नई"
+      ],
+      "answer_en": "Bengaluru",
+      "answer_hi": "बेंगलुरु",
+      "explanation_en": "The capital of Karnataka is Bengaluru.",
+      "explanation_hi": "कर्नाटक की राजधानी बेंगलुरु है।"
+    },
+    {
+      "question_en": "Hyderabad is the capital of which state/UT?",
+      "question_hi": "हैदराबाद किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Lakshadweep",
+        "Ladakh",
+        "Telangana",
+        "Himachal Pradesh"
+      ],
+      "options_hi": [
+        "लक्षद्वीप",
+        "लद्दाख",
+        "तेलंगाना",
+        "हिमाचल प्रदेश"
+      ],
+      "answer_en": "Telangana",
+      "answer_hi": "तेलंगाना",
+      "explanation_en": "Hyderabad is the capital of Telangana.",
+      "explanation_hi": "हैदराबाद, तेलंगाना की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of West Bengal is _____.",
+      "question_hi": "पश्चिम बंगाल की राजधानी _____ है।",
+      "options_en": [
+        "Chennai",
+        "Imphal",
+        "Hyderabad",
+        "Kolkata"
+      ],
+      "options_hi": [
+        "चेन्नई",
+        "इंफाल",
+        "हैदराबाद",
+        "कोलकाता"
+      ],
+      "answer_en": "Kolkata",
+      "answer_hi": "कोलकाता",
+      "explanation_en": "West Bengal's capital city is Kolkata.",
+      "explanation_hi": "पश्चिम बंगाल की राजधानी शहर कोलकाता है।"
+    },
+    {
+      "question_en": "Patna is the capital of which state/UT?",
+      "question_hi": "पटना किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Maharashtra",
+        "Tripura",
+        "Uttarakhand",
+        "Bihar"
+      ],
+      "options_hi": [
+        "महाराष्ट्र",
+        "त्रिपुरा",
+        "उत्तराखंड",
+        "बिहार"
+      ],
+      "answer_en": "Bihar",
+      "answer_hi": "बिहार",
+      "explanation_en": "Patna is the capital of Bihar.",
+      "explanation_hi": "पटना, बिहार की राजधानी है।"
+    },
+    {
+      "question_en": "Gangtok is the capital of which state/UT?",
+      "question_hi": "गंगटोक किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Karnataka",
+        "Odisha",
+        "Tripura",
+        "Sikkim"
+      ],
+      "options_hi": [
+        "कर्नाटक",
+        "ओडिशा",
+        "त्रिपुरा",
+        "सिक्किम"
+      ],
+      "answer_en": "Sikkim",
+      "answer_hi": "सिक्किम",
+      "explanation_en": "Gangtok is the capital of Sikkim.",
+      "explanation_hi": "गंगटोक, सिक्किम की राजधानी है।"
+    },
+    {
+      "question_en": "Kolkata is the capital of which state/UT?",
+      "question_hi": "कोलकाता किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Gujarat",
+        "West Bengal",
+        "Sikkim",
+        "Tripura"
+      ],
+      "options_hi": [
+        "गुजरात",
+        "पश्चिम बंगाल",
+        "सिक्किम",
+        "त्रिपुरा"
+      ],
+      "answer_en": "West Bengal",
+      "answer_hi": "पश्चिम बंगाल",
+      "explanation_en": "Kolkata is the capital of West Bengal.",
+      "explanation_hi": "कोलकाता, पश्चिम बंगाल की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Arunachal Pradesh?",
+      "question_hi": "अरुणाचल प्रदेश की राजधानी क्या है?",
+      "options_en": [
+        "Itanagar",
+        "Amaravati",
+        "Ranchi",
+        "Bengaluru"
+      ],
+      "options_hi": [
+        "ईटानगर",
+        "अमरावती",
+        "रांची",
+        "बेंगलुरु"
+      ],
+      "answer_en": "Itanagar",
+      "answer_hi": "ईटानगर",
+      "explanation_en": "The capital of Arunachal Pradesh is Itanagar.",
+      "explanation_hi": "अरुणाचल प्रदेश की राजधानी ईटानगर है।"
+    },
+    {
+      "question_en": "Leh is the capital of which state/UT?",
+      "question_hi": "लेह किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Ladakh",
+        "Delhi (NCT)",
+        "Uttarakhand",
+        "Rajasthan"
+      ],
+      "options_hi": [
+        "लद्दाख",
+        "दिल्ली (एनसीटी)",
+        "उत्तराखंड",
+        "राजस्थान"
+      ],
+      "answer_en": "Ladakh",
+      "answer_hi": "लद्दाख",
+      "explanation_en": "Leh is the capital of Ladakh.",
+      "explanation_hi": "लेह, लद्दाख की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Uttarakhand is _____.",
+      "question_hi": "उत्तराखंड की राजधानी _____ है।",
+      "options_en": [
+        "Dehradun",
+        "Shimla",
+        "Patna",
+        "Kolkata"
+      ],
+      "options_hi": [
+        "देहरादून",
+        "शिमला",
+        "पटना",
+        "कोलकाता"
+      ],
+      "answer_en": "Dehradun",
+      "answer_hi": "देहरादून",
+      "explanation_en": "Uttarakhand's capital city is Dehradun.",
+      "explanation_hi": "उत्तराखंड की राजधानी शहर देहरादून है।"
+    },
+    {
+      "question_en": "What is the capital of West Bengal?",
+      "question_hi": "पश्चिम बंगाल की राजधानी क्या है?",
+      "options_en": [
+        "Agartala",
+        "Ranchi",
+        "Kolkata",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "अगरतला",
+        "रांची",
+        "कोलकाता",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Kolkata",
+      "answer_hi": "कोलकाता",
+      "explanation_en": "The capital of West Bengal is Kolkata.",
+      "explanation_hi": "पश्चिम बंगाल की राजधानी कोलकाता है।"
+    },
+    {
+      "question_en": "The capital of Mizoram is _____.",
+      "question_hi": "मिजोरम की राजधानी _____ है।",
+      "options_en": [
+        "Aizawl",
+        "Kavaratti",
+        "Lucknow",
+        "Kohima"
+      ],
+      "options_hi": [
+        "आइजोल",
+        "कवरत्ती",
+        "लखनऊ",
+        "कोहिमा"
+      ],
+      "answer_en": "Aizawl",
+      "answer_hi": "आइजोल",
+      "explanation_en": "Mizoram's capital city is Aizawl.",
+      "explanation_hi": "मिजोरम की राजधानी शहर आइजोल है।"
+    },
+    {
+      "question_en": "The capital of Chandigarh (UT) is _____.",
+      "question_hi": "चंडीगढ़ (केंद्र शासित प्रदेश) की राजधानी _____ है।",
+      "options_en": [
+        "Dehradun",
+        "Jaipur",
+        "Chandigarh",
+        "Imphal"
+      ],
+      "options_hi": [
+        "देहरादून",
+        "जयपुर",
+        "चंडीगढ़",
+        "इंफाल"
+      ],
+      "answer_en": "Chandigarh",
+      "answer_hi": "चंडीगढ़",
+      "explanation_en": "Chandigarh (UT)'s capital city is Chandigarh.",
+      "explanation_hi": "चंडीगढ़ (केंद्र शासित प्रदेश) की राजधानी शहर चंडीगढ़ है।"
+    },
+    {
+      "question_en": "Dispur is the capital of which state/UT?",
+      "question_hi": "दिसपुर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Haryana",
+        "West Bengal",
+        "Assam",
+        "Mizoram"
+      ],
+      "options_hi": [
+        "हरियाणा",
+        "पश्चिम बंगाल",
+        "असम",
+        "मिजोरम"
+      ],
+      "answer_en": "Assam",
+      "answer_hi": "असम",
+      "explanation_en": "Dispur is the capital of Assam.",
+      "explanation_hi": "दिसपुर, असम की राजधानी है।"
+    },
+    {
+      "question_en": "Itanagar is the capital of which state/UT?",
+      "question_hi": "ईटानगर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Arunachal Pradesh",
+        "Odisha",
+        "Tamil Nadu",
+        "Delhi (NCT)"
+      ],
+      "options_hi": [
+        "अरुणाचल प्रदेश",
+        "ओडिशा",
+        "तमिलनाडु",
+        "दिल्ली (एनसीटी)"
+      ],
+      "answer_en": "Arunachal Pradesh",
+      "answer_hi": "अरुणाचल प्रदेश",
+      "explanation_en": "Itanagar is the capital of Arunachal Pradesh.",
+      "explanation_hi": "ईटानगर, अरुणाचल प्रदेश की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Madhya Pradesh?",
+      "question_hi": "मध्य प्रदेश की राजधानी क्या है?",
+      "options_en": [
+        "Chandigarh",
+        "Bhopal",
+        "Patna",
+        "Hyderabad"
+      ],
+      "options_hi": [
+        "चंडीगढ़",
+        "भोपाल",
+        "पटना",
+        "हैदराबाद"
+      ],
+      "answer_en": "Bhopal",
+      "answer_hi": "भोपाल",
+      "explanation_en": "The capital of Madhya Pradesh is Bhopal.",
+      "explanation_hi": "मध्य प्रदेश की राजधानी भोपाल है।"
+    },
+    {
+      "question_en": "Mumbai is the capital of which state/UT?",
+      "question_hi": "मुंबई किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Haryana",
+        "Assam",
+        "Maharashtra",
+        "Arunachal Pradesh"
+      ],
+      "options_hi": [
+        "हरियाणा",
+        "असम",
+        "महाराष्ट्र",
+        "अरुणाचल प्रदेश"
+      ],
+      "answer_en": "Maharashtra",
+      "answer_hi": "महाराष्ट्र",
+      "explanation_en": "Mumbai is the capital of Maharashtra.",
+      "explanation_hi": "मुंबई, महाराष्ट्र की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Telangana is _____.",
+      "question_hi": "तेलंगाना की राजधानी _____ है।",
+      "options_en": [
+        "Thiruvananthapuram",
+        "Kavaratti",
+        "Hyderabad",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "तिरुवनंतपुरम",
+        "कवरत्ती",
+        "हैदराबाद",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Hyderabad",
+      "answer_hi": "हैदराबाद",
+      "explanation_en": "Telangana's capital city is Hyderabad.",
+      "explanation_hi": "तेलंगाना की राजधानी शहर हैदराबाद है।"
+    },
+    {
+      "question_en": "Amaravati is the capital of which state/UT?",
+      "question_hi": "अमरावती किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Chhattisgarh",
+        "Andhra Pradesh",
+        "Karnataka",
+        "West Bengal"
+      ],
+      "options_hi": [
+        "छत्तीसगढ़",
+        "आंध्र प्रदेश",
+        "कर्नाटक",
+        "पश्चिम बंगाल"
+      ],
+      "answer_en": "Andhra Pradesh",
+      "answer_hi": "आंध्र प्रदेश",
+      "explanation_en": "Amaravati is the capital of Andhra Pradesh.",
+      "explanation_hi": "अमरावती, आंध्र प्रदेश की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Odisha is _____.",
+      "question_hi": "ओडिशा की राजधानी _____ है।",
+      "options_en": [
+        "Panaji",
+        "Imphal",
+        "Bhubaneswar",
+        "Chennai"
+      ],
+      "options_hi": [
+        "पणजी",
+        "इंफाल",
+        "भुवनेश्वर",
+        "चेन्नई"
+      ],
+      "answer_en": "Bhubaneswar",
+      "answer_hi": "भुवनेश्वर",
+      "explanation_en": "Odisha's capital city is Bhubaneswar.",
+      "explanation_hi": "ओडिशा की राजधानी शहर भुवनेश्वर है।"
+    },
+    {
+      "question_en": "Chandigarh is the capital of which state/UT?",
+      "question_hi": "चंडीगढ़ किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Haryana",
+        "Delhi (NCT)",
+        "Manipur",
+        "Odisha"
+      ],
+      "options_hi": [
+        "हरियाणा",
+        "दिल्ली (एनसीटी)",
+        "मणिपुर",
+        "ओडिशा"
+      ],
+      "answer_en": "Haryana",
+      "answer_hi": "हरियाणा",
+      "explanation_en": "Chandigarh is the capital of Haryana.",
+      "explanation_hi": "चंडीगढ़, हरियाणा की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Jammu and Kashmir?",
+      "question_hi": "जम्मू और कश्मीर की राजधानी क्या है?",
+      "options_en": [
+        "Gandhinagar",
+        "Srinagar",
+        "Shimla",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "गांधीनगर",
+        "श्रीनगर",
+        "शिमला",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Srinagar",
+      "answer_hi": "श्रीनगर",
+      "explanation_en": "The capital of Jammu and Kashmir is Srinagar.",
+      "explanation_hi": "जम्मू और कश्मीर की राजधानी श्रीनगर है।"
+    },
+    {
+      "question_en": "The capital of Rajasthan is _____.",
+      "question_hi": "राजस्थान की राजधानी _____ है।",
+      "options_en": [
+        "Jaipur",
+        "Raipur",
+        "Dispur",
+        "Mumbai"
+      ],
+      "options_hi": [
+        "जयपुर",
+        "रायपुर",
+        "दिसपुर",
+        "मुंबई"
+      ],
+      "answer_en": "Jaipur",
+      "answer_hi": "जयपुर",
+      "explanation_en": "Rajasthan's capital city is Jaipur.",
+      "explanation_hi": "राजस्थान की राजधानी शहर जयपुर है।"
+    },
+    {
+      "question_en": "The capital of Jammu and Kashmir is _____.",
+      "question_hi": "जम्मू और कश्मीर की राजधानी _____ है।",
+      "options_en": [
+        "Srinagar",
+        "Leh",
+        "Patna",
+        "Dehradun"
+      ],
+      "options_hi": [
+        "श्रीनगर",
+        "लेह",
+        "पटना",
+        "देहरादून"
+      ],
+      "answer_en": "Srinagar",
+      "answer_hi": "श्रीनगर",
+      "explanation_en": "Jammu and Kashmir's capital city is Srinagar.",
+      "explanation_hi": "जम्मू और कश्मीर की राजधानी शहर श्रीनगर है।"
+    },
+    {
+      "question_en": "What is the capital of Andhra Pradesh?",
+      "question_hi": "आंध्र प्रदेश की राजधानी क्या है?",
+      "options_en": [
+        "Amaravati",
+        "Panaji",
+        "New Delhi",
+        "Aizawl"
+      ],
+      "options_hi": [
+        "अमरावती",
+        "पणजी",
+        "नई दिल्ली",
+        "आइजोल"
+      ],
+      "answer_en": "Amaravati",
+      "answer_hi": "अमरावती",
+      "explanation_en": "The capital of Andhra Pradesh is Amaravati.",
+      "explanation_hi": "आंध्र प्रदेश की राजधानी अमरावती है।"
+    },
+    {
+      "question_en": "The capital of Andaman and Nicobar Islands is _____.",
+      "question_hi": "अंडमान और निकोबार द्वीप समूह की राजधानी _____ है।",
+      "options_en": [
+        "Hyderabad",
+        "Puducherry",
+        "Chandigarh",
+        "Port Blair"
+      ],
+      "options_hi": [
+        "हैदराबाद",
+        "पुदुचेरी",
+        "चंडीगढ़",
+        "पोर्ट ब्लेयर"
+      ],
+      "answer_en": "Port Blair",
+      "answer_hi": "पोर्ट ब्लेयर",
+      "explanation_en": "Andaman and Nicobar Islands's capital city is Port Blair.",
+      "explanation_hi": "अंडमान और निकोबार द्वीप समूह की राजधानी शहर पोर्ट ब्लेयर है।"
+    },
+    {
+      "question_en": "Chandigarh is the capital of which state/UT?",
+      "question_hi": "चंडीगढ़ किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Haryana",
+        "Uttar Pradesh",
+        "Puducherry",
+        "Punjab"
+      ],
+      "options_hi": [
+        "हरियाणा",
+        "उत्तर प्रदेश",
+        "पुदुचेरी",
+        "पंजाब"
+      ],
+      "answer_en": "Punjab",
+      "answer_hi": "पंजाब",
+      "explanation_en": "Chandigarh is the capital of Punjab.",
+      "explanation_hi": "चंडीगढ़, पंजाब की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Kerala?",
+      "question_hi": "केरल की राजधानी क्या है?",
+      "options_en": [
+        "Puducherry",
+        "Raipur",
+        "Thiruvananthapuram",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "पुदुचेरी",
+        "रायपुर",
+        "तिरुवनंतपुरम",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Thiruvananthapuram",
+      "answer_hi": "तिरुवनंतपुरम",
+      "explanation_en": "The capital of Kerala is Thiruvananthapuram.",
+      "explanation_hi": "केरल की राजधानी तिरुवनंतपुरम है।"
+    },
+    {
+      "question_en": "The capital of Chhattisgarh is _____.",
+      "question_hi": "छत्तीसगढ़ की राजधानी _____ है।",
+      "options_en": [
+        "Dispur",
+        "Aizawl",
+        "Srinagar",
+        "Raipur"
+      ],
+      "options_hi": [
+        "दिसपुर",
+        "आइजोल",
+        "श्रीनगर",
+        "रायपुर"
+      ],
+      "answer_en": "Raipur",
+      "answer_hi": "रायपुर",
+      "explanation_en": "Chhattisgarh's capital city is Raipur.",
+      "explanation_hi": "छत्तीसगढ़ की राजधानी शहर रायपुर है।"
+    },
+    {
+      "question_en": "Raipur is the capital of which state/UT?",
+      "question_hi": "रायपुर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Kerala",
+        "Punjab",
+        "Puducherry",
+        "Chhattisgarh"
+      ],
+      "options_hi": [
+        "केरल",
+        "पंजाब",
+        "पुदुचेरी",
+        "छत्तीसगढ़"
+      ],
+      "answer_en": "Chhattisgarh",
+      "answer_hi": "छत्तीसगढ़",
+      "explanation_en": "Raipur is the capital of Chhattisgarh.",
+      "explanation_hi": "रायपुर, छत्तीसगढ़ की राजधानी है।"
+    },
+    {
+      "question_en": "Thiruvananthapuram is the capital of which state/UT?",
+      "question_hi": "तिरुवनंतपुरम किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Goa",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Kerala"
+      ],
+      "options_hi": [
+        "गोवा",
+        "उत्तर प्रदेश",
+        "मध्य प्रदेश",
+        "केरल"
+      ],
+      "answer_en": "Kerala",
+      "answer_hi": "केरल",
+      "explanation_en": "Thiruvananthapuram is the capital of Kerala.",
+      "explanation_hi": "तिरुवनंतपुरम, केरल की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Haryana?",
+      "question_hi": "हरियाणा की राजधानी क्या है?",
+      "options_en": [
+        "Raipur",
+        "Imphal",
+        "Chandigarh",
+        "Ranchi"
+      ],
+      "options_hi": [
+        "रायपुर",
+        "इंफाल",
+        "चंडीगढ़",
+        "रांची"
+      ],
+      "answer_en": "Chandigarh",
+      "answer_hi": "चंडीगढ़",
+      "explanation_en": "The capital of Haryana is Chandigarh.",
+      "explanation_hi": "हरियाणा की राजधानी चंडीगढ़ है।"
+    },
+    {
+      "question_en": "The capital of Punjab is _____.",
+      "question_hi": "पंजाब की राजधानी _____ है।",
+      "options_en": [
+        "Kohima",
+        "Leh",
+        "Gandhinagar",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "कोहिमा",
+        "लेह",
+        "गांधीनगर",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Chandigarh",
+      "answer_hi": "चंडीगढ़",
+      "explanation_en": "Punjab's capital city is Chandigarh.",
+      "explanation_hi": "पंजाब की राजधानी शहर चंडीगढ़ है।"
+    },
+    {
+      "question_en": "Kohima is the capital of which state/UT?",
+      "question_hi": "कोहिमा किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Sikkim",
+        "Chhattisgarh",
+        "Bihar",
+        "Nagaland"
+      ],
+      "options_hi": [
+        "सिक्किम",
+        "छत्तीसगढ़",
+        "बिहार",
+        "नागालैंड"
+      ],
+      "answer_en": "Nagaland",
+      "answer_hi": "नागालैंड",
+      "explanation_en": "Kohima is the capital of Nagaland.",
+      "explanation_hi": "कोहिमा, नागालैंड की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Uttar Pradesh is _____.",
+      "question_hi": "उत्तर प्रदेश की राजधानी _____ है।",
+      "options_en": [
+        "Imphal",
+        "Lucknow",
+        "Gandhinagar",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "इंफाल",
+        "लखनऊ",
+        "गांधीनगर",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Lucknow",
+      "answer_hi": "लखनऊ",
+      "explanation_en": "Uttar Pradesh's capital city is Lucknow.",
+      "explanation_hi": "उत्तर प्रदेश की राजधानी शहर लखनऊ है।"
+    },
+    {
+      "question_en": "What is the capital of Uttar Pradesh?",
+      "question_hi": "उत्तर प्रदेश की राजधानी क्या है?",
+      "options_en": [
+        "Raipur",
+        "Bhubaneswar",
+        "Lucknow",
+        "Kohima"
+      ],
+      "options_hi": [
+        "रायपुर",
+        "भुवनेश्वर",
+        "लखनऊ",
+        "कोहिमा"
+      ],
+      "answer_en": "Lucknow",
+      "answer_hi": "लखनऊ",
+      "explanation_en": "The capital of Uttar Pradesh is Lucknow.",
+      "explanation_hi": "उत्तर प्रदेश की राजधानी लखनऊ है।"
+    },
+    {
+      "question_en": "What is the capital of Nagaland?",
+      "question_hi": "नागालैंड की राजधानी क्या है?",
+      "options_en": [
+        "Puducherry",
+        "Hyderabad",
+        "Chandigarh",
+        "Kohima"
+      ],
+      "options_hi": [
+        "पुदुचेरी",
+        "हैदराबाद",
+        "चंडीगढ़",
+        "कोहिमा"
+      ],
+      "answer_en": "Kohima",
+      "answer_hi": "कोहिमा",
+      "explanation_en": "The capital of Nagaland is Kohima.",
+      "explanation_hi": "नागालैंड की राजधानी कोहिमा है।"
+    },
+    {
+      "question_en": "Chandigarh is the capital of which state/UT?",
+      "question_hi": "चंडीगढ़ किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Lakshadweep",
+        "Chandigarh (UT)",
+        "Bihar",
+        "West Bengal"
+      ],
+      "options_hi": [
+        "लक्षद्वीप",
+        "चंडीगढ़ (केंद्र शासित प्रदेश)",
+        "बिहार",
+        "पश्चिम बंगाल"
+      ],
+      "answer_en": "Chandigarh (UT)",
+      "answer_hi": "चंडीगढ़ (केंद्र शासित प्रदेश)",
+      "explanation_en": "Chandigarh is the capital of Chandigarh (UT).",
+      "explanation_hi": "चंडीगढ़, चंडीगढ़ (केंद्र शासित प्रदेश) की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Meghalaya is _____.",
+      "question_hi": "मेघालय की राजधानी _____ है।",
+      "options_en": [
+        "Leh",
+        "Gangtok",
+        "Shillong",
+        "Puducherry"
+      ],
+      "options_hi": [
+        "लेह",
+        "गंगटोक",
+        "शिलांग",
+        "पुदुचेरी"
+      ],
+      "answer_en": "Shillong",
+      "answer_hi": "शिलांग",
+      "explanation_en": "Meghalaya's capital city is Shillong.",
+      "explanation_hi": "मेघालय की राजधानी शहर शिलांग है।"
+    },
+    {
+      "question_en": "The capital of Delhi (NCT) is _____.",
+      "question_hi": "दिल्ली (एनसीटी) की राजधानी _____ है।",
+      "options_en": [
+        "Gangtok",
+        "Raipur",
+        "Chandigarh",
+        "New Delhi"
+      ],
+      "options_hi": [
+        "गंगटोक",
+        "रायपुर",
+        "चंडीगढ़",
+        "नई दिल्ली"
+      ],
+      "answer_en": "New Delhi",
+      "answer_hi": "नई दिल्ली",
+      "explanation_en": "Delhi (NCT)'s capital city is New Delhi.",
+      "explanation_hi": "दिल्ली (एनसीटी) की राजधानी शहर नई दिल्ली है।"
+    },
+    {
+      "question_en": "Port Blair is the capital of which state/UT?",
+      "question_hi": "पोर्ट ब्लेयर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Rajasthan",
+        "Nagaland",
+        "Andaman and Nicobar Islands",
+        "Ladakh"
+      ],
+      "options_hi": [
+        "राजस्थान",
+        "नागालैंड",
+        "अंडमान और निकोबार द्वीप समूह",
+        "लद्दाख"
+      ],
+      "answer_en": "Andaman and Nicobar Islands",
+      "answer_hi": "अंडमान और निकोबार द्वीप समूह",
+      "explanation_en": "Port Blair is the capital of Andaman and Nicobar Islands.",
+      "explanation_hi": "पोर्ट ब्लेयर, अंडमान और निकोबार द्वीप समूह की राजधानी है।"
+    },
+    {
+      "question_en": "Jaipur is the capital of which state/UT?",
+      "question_hi": "जयपुर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Rajasthan",
+        "Punjab",
+        "Tripura",
+        "Lakshadweep"
+      ],
+      "options_hi": [
+        "राजस्थान",
+        "पंजाब",
+        "त्रिपुरा",
+        "लक्षद्वीप"
+      ],
+      "answer_en": "Rajasthan",
+      "answer_hi": "राजस्थान",
+      "explanation_en": "Jaipur is the capital of Rajasthan.",
+      "explanation_hi": "जयपुर, राजस्थान की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Sikkim is _____.",
+      "question_hi": "सिक्किम की राजधानी _____ है।",
+      "options_en": [
+        "Shimla",
+        "Gangtok",
+        "Daman",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "शिमला",
+        "गंगटोक",
+        "दमन",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Gangtok",
+      "answer_hi": "गंगटोक",
+      "explanation_en": "Sikkim's capital city is Gangtok.",
+      "explanation_hi": "सिक्किम की राजधानी शहर गंगटोक है।"
+    },
+    {
+      "question_en": "Shillong is the capital of which state/UT?",
+      "question_hi": "शिलांग किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Meghalaya",
+        "Bihar",
+        "Gujarat",
+        "Manipur"
+      ],
+      "options_hi": [
+        "मेघालय",
+        "बिहार",
+        "गुजरात",
+        "मणिपुर"
+      ],
+      "answer_en": "Meghalaya",
+      "answer_hi": "मेघालय",
+      "explanation_en": "Shillong is the capital of Meghalaya.",
+      "explanation_hi": "शिलांग, मेघालय की राजधानी है।"
+    },
+    {
+      "question_en": "Gandhinagar is the capital of which state/UT?",
+      "question_hi": "गांधीनगर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Puducherry",
+        "Gujarat",
+        "Bihar",
+        "Madhya Pradesh"
+      ],
+      "options_hi": [
+        "पुदुचेरी",
+        "गुजरात",
+        "बिहार",
+        "मध्य प्रदेश"
+      ],
+      "answer_en": "Gujarat",
+      "answer_hi": "गुजरात",
+      "explanation_en": "Gandhinagar is the capital of Gujarat.",
+      "explanation_hi": "गांधीनगर, गुजरात की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Andhra Pradesh is _____.",
+      "question_hi": "आंध्र प्रदेश की राजधानी _____ है।",
+      "options_en": [
+        "Itanagar",
+        "Aizawl",
+        "Chandigarh",
+        "Amaravati"
+      ],
+      "options_hi": [
+        "ईटानगर",
+        "आइजोल",
+        "चंडीगढ़",
+        "अमरावती"
+      ],
+      "answer_en": "Amaravati",
+      "answer_hi": "अमरावती",
+      "explanation_en": "Andhra Pradesh's capital city is Amaravati.",
+      "explanation_hi": "आंध्र प्रदेश की राजधानी शहर अमरावती है।"
+    },
+    {
+      "question_en": "What is the capital of Telangana?",
+      "question_hi": "तेलंगाना की राजधानी क्या है?",
+      "options_en": [
+        "Panaji",
+        "Itanagar",
+        "Hyderabad",
+        "Port Blair"
+      ],
+      "options_hi": [
+        "पणजी",
+        "ईटानगर",
+        "हैदराबाद",
+        "पोर्ट ब्लेयर"
+      ],
+      "answer_en": "Hyderabad",
+      "answer_hi": "हैदराबाद",
+      "explanation_en": "The capital of Telangana is Hyderabad.",
+      "explanation_hi": "तेलंगाना की राजधानी हैदराबाद है।"
+    },
+    {
+      "question_en": "What is the capital of Gujarat?",
+      "question_hi": "गुजरात की राजधानी क्या है?",
+      "options_en": [
+        "Patna",
+        "Gandhinagar",
+        "Bengaluru",
+        "Kolkata"
+      ],
+      "options_hi": [
+        "पटना",
+        "गांधीनगर",
+        "बेंगलुरु",
+        "कोलकाता"
+      ],
+      "answer_en": "Gandhinagar",
+      "answer_hi": "गांधीनगर",
+      "explanation_en": "The capital of Gujarat is Gandhinagar.",
+      "explanation_hi": "गुजरात की राजधानी गांधीनगर है।"
+    },
+    {
+      "question_en": "What is the capital of Tripura?",
+      "question_hi": "त्रिपुरा की राजधानी क्या है?",
+      "options_en": [
+        "Panaji",
+        "Kavaratti",
+        "Chandigarh",
+        "Agartala"
+      ],
+      "options_hi": [
+        "पणजी",
+        "कवरत्ती",
+        "चंडीगढ़",
+        "अगरतला"
+      ],
+      "answer_en": "Agartala",
+      "answer_hi": "अगरतला",
+      "explanation_en": "The capital of Tripura is Agartala.",
+      "explanation_hi": "त्रिपुरा की राजधानी अगरतला है।"
+    },
+    {
+      "question_en": "What is the capital of Ladakh?",
+      "question_hi": "लद्दाख की राजधानी क्या है?",
+      "options_en": [
+        "Dehradun",
+        "Patna",
+        "Kohima",
+        "Leh"
+      ],
+      "options_hi": [
+        "देहरादून",
+        "पटना",
+        "कोहिमा",
+        "लेह"
+      ],
+      "answer_en": "Leh",
+      "answer_hi": "लेह",
+      "explanation_en": "The capital of Ladakh is Leh.",
+      "explanation_hi": "लद्दाख की राजधानी लेह है।"
+    },
+    {
+      "question_en": "The capital of Assam is _____.",
+      "question_hi": "असम की राजधानी _____ है।",
+      "options_en": [
+        "Gandhinagar",
+        "Daman",
+        "Chandigarh",
+        "Dispur"
+      ],
+      "options_hi": [
+        "गांधीनगर",
+        "दमन",
+        "चंडीगढ़",
+        "दिसपुर"
+      ],
+      "answer_en": "Dispur",
+      "answer_hi": "दिसपुर",
+      "explanation_en": "Assam's capital city is Dispur.",
+      "explanation_hi": "असम की राजधानी शहर दिसपुर है।"
+    },
+    {
+      "question_en": "Aizawl is the capital of which state/UT?",
+      "question_hi": "आइजोल किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Delhi (NCT)",
+        "Sikkim",
+        "Andhra Pradesh",
+        "Mizoram"
+      ],
+      "options_hi": [
+        "दिल्ली (एनसीटी)",
+        "सिक्किम",
+        "आंध्र प्रदेश",
+        "मिजोरम"
+      ],
+      "answer_en": "Mizoram",
+      "answer_hi": "मिजोरम",
+      "explanation_en": "Aizawl is the capital of Mizoram.",
+      "explanation_hi": "आइजोल, मिजोरम की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Meghalaya?",
+      "question_hi": "मेघालय की राजधानी क्या है?",
+      "options_en": [
+        "Aizawl",
+        "Chandigarh",
+        "Lucknow",
+        "Shillong"
+      ],
+      "options_hi": [
+        "आइजोल",
+        "चंडीगढ़",
+        "लखनऊ",
+        "शिलांग"
+      ],
+      "answer_en": "Shillong",
+      "answer_hi": "शिलांग",
+      "explanation_en": "The capital of Meghalaya is Shillong.",
+      "explanation_hi": "मेघालय की राजधानी शिलांग है।"
+    },
+    {
+      "question_en": "Bhubaneswar is the capital of which state/UT?",
+      "question_hi": "भुवनेश्वर किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Tripura",
+        "Odisha",
+        "Jammu and Kashmir",
+        "Andhra Pradesh"
+      ],
+      "options_hi": [
+        "त्रिपुरा",
+        "ओडिशा",
+        "जम्मू और कश्मीर",
+        "आंध्र प्रदेश"
+      ],
+      "answer_en": "Odisha",
+      "answer_hi": "ओडिशा",
+      "explanation_en": "Bhubaneswar is the capital of Odisha.",
+      "explanation_hi": "भुवनेश्वर, ओडिशा की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Goa is _____.",
+      "question_hi": "गोवा की राजधानी _____ है।",
+      "options_en": [
+        "Jaipur",
+        "Itanagar",
+        "Daman",
+        "Panaji"
+      ],
+      "options_hi": [
+        "जयपुर",
+        "ईटानगर",
+        "दमन",
+        "पणजी"
+      ],
+      "answer_en": "Panaji",
+      "answer_hi": "पणजी",
+      "explanation_en": "Goa's capital city is Panaji.",
+      "explanation_hi": "गोवा की राजधानी शहर पणजी है।"
+    },
+    {
+      "question_en": "Bhopal is the capital of which state/UT?",
+      "question_hi": "भोपाल किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Madhya Pradesh",
+        "Odisha",
+        "Arunachal Pradesh",
+        "Lakshadweep"
+      ],
+      "options_hi": [
+        "मध्य प्रदेश",
+        "ओडिशा",
+        "अरुणाचल प्रदेश",
+        "लक्षद्वीप"
+      ],
+      "answer_en": "Madhya Pradesh",
+      "answer_hi": "मध्य प्रदेश",
+      "explanation_en": "Bhopal is the capital of Madhya Pradesh.",
+      "explanation_hi": "भोपाल, मध्य प्रदेश की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Dadra and Nagar Haveli and Daman and Diu is _____.",
+      "question_hi": "दादरा और नगर हवेली और दमन और दीव की राजधानी _____ है।",
+      "options_en": [
+        "Bengaluru",
+        "Mumbai",
+        "Daman",
+        "Gandhinagar"
+      ],
+      "options_hi": [
+        "बेंगलुरु",
+        "मुंबई",
+        "दमन",
+        "गांधीनगर"
+      ],
+      "answer_en": "Daman",
+      "answer_hi": "दमन",
+      "explanation_en": "Dadra and Nagar Haveli and Daman and Diu's capital city is Daman.",
+      "explanation_hi": "दादरा और नगर हवेली और दमन और दीव की राजधानी शहर दमन है।"
+    },
+    {
+      "question_en": "What is the capital of Goa?",
+      "question_hi": "गोवा की राजधानी क्या है?",
+      "options_en": [
+        "Port Blair",
+        "Chandigarh",
+        "Panaji",
+        "Thiruvananthapuram"
+      ],
+      "options_hi": [
+        "पोर्ट ब्लेयर",
+        "चंडीगढ़",
+        "पणजी",
+        "तिरुवनंतपुरम"
+      ],
+      "answer_en": "Panaji",
+      "answer_hi": "पणजी",
+      "explanation_en": "The capital of Goa is Panaji.",
+      "explanation_hi": "गोवा की राजधानी पणजी है।"
+    },
+    {
+      "question_en": "The capital of Nagaland is _____.",
+      "question_hi": "नागालैंड की राजधानी _____ है।",
+      "options_en": [
+        "Chennai",
+        "Kavaratti",
+        "Kohima",
+        "Amaravati"
+      ],
+      "options_hi": [
+        "चेन्नई",
+        "कवरत्ती",
+        "कोहिमा",
+        "अमरावती"
+      ],
+      "answer_en": "Kohima",
+      "answer_hi": "कोहिमा",
+      "explanation_en": "Nagaland's capital city is Kohima.",
+      "explanation_hi": "नागालैंड की राजधानी शहर कोहिमा है।"
+    },
+    {
+      "question_en": "Chennai is the capital of which state/UT?",
+      "question_hi": "चेन्नई किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Jammu and Kashmir",
+        "Chhattisgarh",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "options_hi": [
+        "जम्मू और कश्मीर",
+        "छत्तीसगढ़",
+        "गुजरात",
+        "तमिलनाडु"
+      ],
+      "answer_en": "Tamil Nadu",
+      "answer_hi": "तमिलनाडु",
+      "explanation_en": "Chennai is the capital of Tamil Nadu.",
+      "explanation_hi": "चेन्नई, तमिलनाडु की राजधानी है।"
+    },
+    {
+      "question_en": "What is the capital of Punjab?",
+      "question_hi": "पंजाब की राजधानी क्या है?",
+      "options_en": [
+        "Hyderabad",
+        "Gangtok",
+        "Leh",
+        "Chandigarh"
+      ],
+      "options_hi": [
+        "हैदराबाद",
+        "गंगटोक",
+        "लेह",
+        "चंडीगढ़"
+      ],
+      "answer_en": "Chandigarh",
+      "answer_hi": "चंडीगढ़",
+      "explanation_en": "The capital of Punjab is Chandigarh.",
+      "explanation_hi": "पंजाब की राजधानी चंडीगढ़ है।"
+    },
+    {
+      "question_en": "What is the capital of Tamil Nadu?",
+      "question_hi": "तमिलनाडु की राजधानी क्या है?",
+      "options_en": [
+        "Kavaratti",
+        "Thiruvananthapuram",
+        "Lucknow",
+        "Chennai"
+      ],
+      "options_hi": [
+        "कवरत्ती",
+        "तिरुवनंतपुरम",
+        "लखनऊ",
+        "चेन्नई"
+      ],
+      "answer_en": "Chennai",
+      "answer_hi": "चेन्नई",
+      "explanation_en": "The capital of Tamil Nadu is Chennai.",
+      "explanation_hi": "तमिलनाडु की राजधानी चेन्नई है।"
+    },
+    {
+      "question_en": "What is the capital of Delhi (NCT)?",
+      "question_hi": "दिल्ली (एनसीटी) की राजधानी क्या है?",
+      "options_en": [
+        "Amaravati",
+        "Dispur",
+        "New Delhi",
+        "Shimla"
+      ],
+      "options_hi": [
+        "अमरावती",
+        "दिसपुर",
+        "नई दिल्ली",
+        "शिमला"
+      ],
+      "answer_en": "New Delhi",
+      "answer_hi": "नई दिल्ली",
+      "explanation_en": "The capital of Delhi (NCT) is New Delhi.",
+      "explanation_hi": "दिल्ली (एनसीटी) की राजधानी नई दिल्ली है।"
+    },
+    {
+      "question_en": "The capital of Karnataka is _____.",
+      "question_hi": "कर्नाटक की राजधानी _____ है।",
+      "options_en": [
+        "Daman",
+        "Bhubaneswar",
+        "Port Blair",
+        "Bengaluru"
+      ],
+      "options_hi": [
+        "दमन",
+        "भुवनेश्वर",
+        "पोर्ट ब्लेयर",
+        "बेंगलुरु"
+      ],
+      "answer_en": "Bengaluru",
+      "answer_hi": "बेंगलुरु",
+      "explanation_en": "Karnataka's capital city is Bengaluru.",
+      "explanation_hi": "कर्नाटक की राजधानी शहर बेंगलुरु है।"
+    },
+    {
+      "question_en": "What is the capital of Sikkim?",
+      "question_hi": "सिक्किम की राजधानी क्या है?",
+      "options_en": [
+        "Gangtok",
+        "Aizawl",
+        "Panaji",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "गंगटोक",
+        "आइजोल",
+        "पणजी",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Gangtok",
+      "answer_hi": "गंगटोक",
+      "explanation_en": "The capital of Sikkim is Gangtok.",
+      "explanation_hi": "सिक्किम की राजधानी गंगटोक है।"
+    },
+    {
+      "question_en": "The capital of Jharkhand is _____.",
+      "question_hi": "झारखंड की राजधानी _____ है।",
+      "options_en": [
+        "Aizawl",
+        "Panaji",
+        "Ranchi",
+        "Kohima"
+      ],
+      "options_hi": [
+        "आइजोल",
+        "पणजी",
+        "रांची",
+        "कोहिमा"
+      ],
+      "answer_en": "Ranchi",
+      "answer_hi": "रांची",
+      "explanation_en": "Jharkhand's capital city is Ranchi.",
+      "explanation_hi": "झारखंड की राजधानी शहर रांची है।"
+    },
+    {
+      "question_en": "What is the capital of Uttarakhand?",
+      "question_hi": "उत्तराखंड की राजधानी क्या है?",
+      "options_en": [
+        "Kohima",
+        "Dehradun",
+        "Jaipur",
+        "Chennai"
+      ],
+      "options_hi": [
+        "कोहिमा",
+        "देहरादून",
+        "जयपुर",
+        "चेन्नई"
+      ],
+      "answer_en": "Dehradun",
+      "answer_hi": "देहरादून",
+      "explanation_en": "The capital of Uttarakhand is Dehradun.",
+      "explanation_hi": "उत्तराखंड की राजधानी देहरादून है।"
+    },
+    {
+      "question_en": "The capital of Kerala is _____.",
+      "question_hi": "केरल की राजधानी _____ है।",
+      "options_en": [
+        "Shimla",
+        "Aizawl",
+        "Thiruvananthapuram",
+        "Itanagar"
+      ],
+      "options_hi": [
+        "शिमला",
+        "आइजोल",
+        "तिरुवनंतपुरम",
+        "ईटानगर"
+      ],
+      "answer_en": "Thiruvananthapuram",
+      "answer_hi": "तिरुवनंतपुरम",
+      "explanation_en": "Kerala's capital city is Thiruvananthapuram.",
+      "explanation_hi": "केरल की राजधानी शहर तिरुवनंतपुरम है।"
+    },
+    {
+      "question_en": "Bengaluru is the capital of which state/UT?",
+      "question_hi": "बेंगलुरु किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Karnataka",
+        "Nagaland",
+        "Arunachal Pradesh",
+        "Andhra Pradesh"
+      ],
+      "options_hi": [
+        "कर्नाटक",
+        "नागालैंड",
+        "अरुणाचल प्रदेश",
+        "आंध्र प्रदेश"
+      ],
+      "answer_en": "Karnataka",
+      "answer_hi": "कर्नाटक",
+      "explanation_en": "Bengaluru is the capital of Karnataka.",
+      "explanation_hi": "बेंगलुरु, कर्नाटक की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Puducherry is _____.",
+      "question_hi": "पुदुचेरी की राजधानी _____ है।",
+      "options_en": [
+        "Daman",
+        "Gangtok",
+        "Jaipur",
+        "Puducherry"
+      ],
+      "options_hi": [
+        "दमन",
+        "गंगटोक",
+        "जयपुर",
+        "पुदुचेरी"
+      ],
+      "answer_en": "Puducherry",
+      "answer_hi": "पुदुचेरी",
+      "explanation_en": "Puducherry's capital city is Puducherry.",
+      "explanation_hi": "पुदुचेरी की राजधानी शहर पुदुचेरी है।"
+    },
+    {
+      "question_en": "What is the capital of Himachal Pradesh?",
+      "question_hi": "हिमाचल प्रदेश की राजधानी क्या है?",
+      "options_en": [
+        "Shimla",
+        "Mumbai",
+        "Thiruvananthapuram",
+        "Bhopal"
+      ],
+      "options_hi": [
+        "शिमला",
+        "मुंबई",
+        "तिरुवनंतपुरम",
+        "भोपाल"
+      ],
+      "answer_en": "Shimla",
+      "answer_hi": "शिमला",
+      "explanation_en": "The capital of Himachal Pradesh is Shimla.",
+      "explanation_hi": "हिमाचल प्रदेश की राजधानी शिमला है।"
+    },
+    {
+      "question_en": "What is the capital of Odisha?",
+      "question_hi": "ओडिशा की राजधानी क्या है?",
+      "options_en": [
+        "Port Blair",
+        "Panaji",
+        "Chandigarh",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "पोर्ट ब्लेयर",
+        "पणजी",
+        "चंडीगढ़",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Bhubaneswar",
+      "answer_hi": "भुवनेश्वर",
+      "explanation_en": "The capital of Odisha is Bhubaneswar.",
+      "explanation_hi": "ओडिशा की राजधानी भुवनेश्वर है।"
+    },
+    {
+      "question_en": "The capital of Tripura is _____.",
+      "question_hi": "त्रिपुरा की राजधानी _____ है।",
+      "options_en": [
+        "Agartala",
+        "Patna",
+        "Mumbai",
+        "Leh"
+      ],
+      "options_hi": [
+        "अगरतला",
+        "पटना",
+        "मुंबई",
+        "लेह"
+      ],
+      "answer_en": "Agartala",
+      "answer_hi": "अगरतला",
+      "explanation_en": "Tripura's capital city is Agartala.",
+      "explanation_hi": "त्रिपुरा की राजधानी शहर अगरतला है।"
+    },
+    {
+      "question_en": "The capital of Arunachal Pradesh is _____.",
+      "question_hi": "अरुणाचल प्रदेश की राजधानी _____ है।",
+      "options_en": [
+        "Hyderabad",
+        "Srinagar",
+        "Kavaratti",
+        "Itanagar"
+      ],
+      "options_hi": [
+        "हैदराबाद",
+        "श्रीनगर",
+        "कवरत्ती",
+        "ईटानगर"
+      ],
+      "answer_en": "Itanagar",
+      "answer_hi": "ईटानगर",
+      "explanation_en": "Arunachal Pradesh's capital city is Itanagar.",
+      "explanation_hi": "अरुणाचल प्रदेश की राजधानी शहर ईटानगर है।"
+    },
+    {
+      "question_en": "Lucknow is the capital of which state/UT?",
+      "question_hi": "लखनऊ किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Delhi (NCT)",
+        "Uttar Pradesh",
+        "Gujarat",
+        "Uttarakhand"
+      ],
+      "options_hi": [
+        "दिल्ली (एनसीटी)",
+        "उत्तर प्रदेश",
+        "गुजरात",
+        "उत्तराखंड"
+      ],
+      "answer_en": "Uttar Pradesh",
+      "answer_hi": "उत्तर प्रदेश",
+      "explanation_en": "Lucknow is the capital of Uttar Pradesh.",
+      "explanation_hi": "लखनऊ, उत्तर प्रदेश की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Bihar is _____.",
+      "question_hi": "बिहार की राजधानी _____ है।",
+      "options_en": [
+        "Shimla",
+        "Agartala",
+        "Patna",
+        "Lucknow"
+      ],
+      "options_hi": [
+        "शिमला",
+        "अगरतला",
+        "पटना",
+        "लखनऊ"
+      ],
+      "answer_en": "Patna",
+      "answer_hi": "पटना",
+      "explanation_en": "Bihar's capital city is Patna.",
+      "explanation_hi": "बिहार की राजधानी शहर पटना है।"
+    },
+    {
+      "question_en": "New Delhi is the capital of which state/UT?",
+      "question_hi": "नई दिल्ली किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Delhi (NCT)",
+        "Kerala",
+        "Nagaland",
+        "Punjab"
+      ],
+      "options_hi": [
+        "दिल्ली (एनसीटी)",
+        "केरल",
+        "नागालैंड",
+        "पंजाब"
+      ],
+      "answer_en": "Delhi (NCT)",
+      "answer_hi": "दिल्ली (एनसीटी)",
+      "explanation_en": "New Delhi is the capital of Delhi (NCT).",
+      "explanation_hi": "नई दिल्ली, दिल्ली (एनसीटी) की राजधानी है।"
+    },
+    {
+      "question_en": "Shimla is the capital of which state/UT?",
+      "question_hi": "शिमला किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Puducherry",
+        "Chandigarh (UT)",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "options_hi": [
+        "पुदुचेरी",
+        "चंडीगढ़ (केंद्र शासित प्रदेश)",
+        "उत्तर प्रदेश",
+        "हिमाचल प्रदेश"
+      ],
+      "answer_en": "Himachal Pradesh",
+      "answer_hi": "हिमाचल प्रदेश",
+      "explanation_en": "Shimla is the capital of Himachal Pradesh.",
+      "explanation_hi": "शिमला, हिमाचल प्रदेश की राजधानी है।"
+    },
+    {
+      "question_en": "Agartala is the capital of which state/UT?",
+      "question_hi": "अगरतला किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Tripura",
+        "Kerala",
+        "Karnataka",
+        "Nagaland"
+      ],
+      "options_hi": [
+        "त्रिपुरा",
+        "केरल",
+        "कर्नाटक",
+        "नागालैंड"
+      ],
+      "answer_en": "Tripura",
+      "answer_hi": "त्रिपुरा",
+      "explanation_en": "Agartala is the capital of Tripura.",
+      "explanation_hi": "अगरतला, त्रिपुरा की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Tamil Nadu is _____.",
+      "question_hi": "तमिलनाडु की राजधानी _____ है।",
+      "options_en": [
+        "Aizawl",
+        "Gandhinagar",
+        "Chennai",
+        "Raipur"
+      ],
+      "options_hi": [
+        "आइजोल",
+        "गांधीनगर",
+        "चेन्नई",
+        "रायपुर"
+      ],
+      "answer_en": "Chennai",
+      "answer_hi": "चेन्नई",
+      "explanation_en": "Tamil Nadu's capital city is Chennai.",
+      "explanation_hi": "तमिलनाडु की राजधानी शहर चेन्नई है।"
+    },
+    {
+      "question_en": "What is the capital of Lakshadweep?",
+      "question_hi": "लक्षद्वीप की राजधानी क्या है?",
+      "options_en": [
+        "Patna",
+        "Kolkata",
+        "Raipur",
+        "Kavaratti"
+      ],
+      "options_hi": [
+        "पटना",
+        "कोलकाता",
+        "रायपुर",
+        "कवरत्ती"
+      ],
+      "answer_en": "Kavaratti",
+      "answer_hi": "कवरत्ती",
+      "explanation_en": "The capital of Lakshadweep is Kavaratti.",
+      "explanation_hi": "लक्षद्वीप की राजधानी कवरत्ती है।"
+    },
+    {
+      "question_en": "The capital of Ladakh is _____.",
+      "question_hi": "लद्दाख की राजधानी _____ है।",
+      "options_en": [
+        "Leh",
+        "Chandigarh",
+        "Lucknow",
+        "Bhubaneswar"
+      ],
+      "options_hi": [
+        "लेह",
+        "चंडीगढ़",
+        "लखनऊ",
+        "भुवनेश्वर"
+      ],
+      "answer_en": "Leh",
+      "answer_hi": "लेह",
+      "explanation_en": "Ladakh's capital city is Leh.",
+      "explanation_hi": "लद्दाख की राजधानी शहर लेह है।"
+    },
+    {
+      "question_en": "What is the capital of Andaman and Nicobar Islands?",
+      "question_hi": "अंडमान और निकोबार द्वीप समूह की राजधानी क्या है?",
+      "options_en": [
+        "Gangtok",
+        "Bhubaneswar",
+        "Patna",
+        "Port Blair"
+      ],
+      "options_hi": [
+        "गंगटोक",
+        "भुवनेश्वर",
+        "पटना",
+        "पोर्ट ब्लेयर"
+      ],
+      "answer_en": "Port Blair",
+      "answer_hi": "पोर्ट ब्लेयर",
+      "explanation_en": "The capital of Andaman and Nicobar Islands is Port Blair.",
+      "explanation_hi": "अंडमान और निकोबार द्वीप समूह की राजधानी पोर्ट ब्लेयर है।"
+    },
+    {
+      "question_en": "The capital of Maharashtra is _____.",
+      "question_hi": "महाराष्ट्र की राजधानी _____ है।",
+      "options_en": [
+        "Ranchi",
+        "Bhubaneswar",
+        "Raipur",
+        "Mumbai"
+      ],
+      "options_hi": [
+        "रांची",
+        "भुवनेश्वर",
+        "रायपुर",
+        "मुंबई"
+      ],
+      "answer_en": "Mumbai",
+      "answer_hi": "मुंबई",
+      "explanation_en": "Maharashtra's capital city is Mumbai.",
+      "explanation_hi": "महाराष्ट्र की राजधानी शहर मुंबई है।"
+    },
+    {
+      "question_en": "Kavaratti is the capital of which state/UT?",
+      "question_hi": "कवरत्ती किस राज्य/केंद्र शासित प्रदेश की राजधानी है?",
+      "options_en": [
+        "Jharkhand",
+        "Lakshadweep",
+        "Maharashtra",
+        "Delhi (NCT)"
+      ],
+      "options_hi": [
+        "झारखंड",
+        "लक्षद्वीप",
+        "महाराष्ट्र",
+        "दिल्ली (एनसीटी)"
+      ],
+      "answer_en": "Lakshadweep",
+      "answer_hi": "लक्षद्वीप",
+      "explanation_en": "Kavaratti is the capital of Lakshadweep.",
+      "explanation_hi": "कवरत्ती, लक्षद्वीप की राजधानी है।"
+    },
+    {
+      "question_en": "The capital of Himachal Pradesh is _____.",
+      "question_hi": "हिमाचल प्रदेश की राजधानी _____ है।",
+      "options_en": [
+        "Shimla",
+        "Raipur",
+        "Chandigarh",
+        "Daman"
+      ],
+      "options_hi": [
+        "शिमला",
+        "रायपुर",
+        "चंडीगढ़",
+        "दमन"
+      ],
+      "answer_en": "Shimla",
+      "answer_hi": "शिमला",
+      "explanation_en": "Himachal Pradesh's capital city is Shimla.",
+      "explanation_hi": "हिमाचल प्रदेश की राजधानी शहर शिमला है।"
+    }
+  ]
+}
