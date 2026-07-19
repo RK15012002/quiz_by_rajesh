@@ -488,4 +488,18 @@
         "The movement of the Earth around its own axis is called Rotation.",
         "The movement of the Earth around its own axis is called Inclination.",
         "The movement of the Earth around its own axis is called Orbit.",
-    
+        "The movement of the Earth around its own axis is called Revolution."
+      ],
+      "options_hi": [
+        "पृथ्वी की अपनी धुरी पर घूमने की गति को घूर्णन (Rotation) कहते हैं।",
+        "पृथ्वी की अपनी धुरी पर घूमने की गति को झुकाव (Inclination) कहते हैं।",
+        "पृथ्वी की अपनी धुरी पर घूमने की गति को कक्षा (Orbit) कहते हैं।",
+        "पृथ्वी की अपनी धुरी पर घूमने की गति को परिक्रमण (Revolution) कहते हैं।"
+      ],
+      "answer_en": "The movement of the Earth around its own axis is called Rotation.",
+      "answer_hi": "पृथ्वी की अपनी धुरी पर घूमने की गति को घूर्णन (Rotation) कहते हैं।",
+      "explanation_en": "The spin of the Earth on its own axis is called Rotation; it takes about 24 hours and causes day and night.",
+      "explanation_hi": "पृथ्वी का अपनी धुरी पर घूमना घूर्णन (Rotation) कहलाता है; इसमें लगभग 24 घंटे लगते हैं और इसी से दिन-रात होते हैं।"
+    }
+  ]
+}
