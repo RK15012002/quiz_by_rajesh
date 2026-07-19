@@ -3,5 +3,6 @@
   { "title": "Physics Frequency", "file": "physics_frequency.json" },
   { "title": "States & capital", "file": "states.json" },
 { "title": "Geography Basis", "file": "geographybasic.json" },
-{ "title": "Geography Stars", "file": "geo_stars.json" }
+{ "title": "Geography Stars", "file": "geo_stars.json" },
+{ "title": "RRB Station controller", "file": "rrb_station_controller.json" }
 ]
