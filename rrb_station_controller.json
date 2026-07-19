@@ -169,7 +169,7 @@
         "6"
       ],
       "answer": "4",
-      "explanation": "2^3=8≡1 (mod 7), so 2^50=2^(48+2)=(2^3)^16 * 2^2 ≡ 1^16*4 = 4 (mod 7)."
+      "explanation": "2^3=8 is congruent to 1 (mod 7), so 2^50=2^(48+2)=(2^3)^16 * 2^2  is congruent to  1^16*4 = 4 (mod 7)."
     },
     {
       "q_no": 14,
@@ -696,4 +696,1911 @@
       "category": "Mathematics",
       "question": "What is the probability of getting a sum of 7 when two dice are rolled?",
       "options": [
-        "1/6
+        "1/6",
+        "1/12",
+        "1/9",
+        "7/36"
+      ],
+      "answer": "1/6",
+      "explanation": "There are 6 favourable outcomes (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) out of 36 total, giving 6/36=1/6."
+    },
+    {
+      "q_no": 55,
+      "category": "Mathematics",
+      "question": "If the perimeter of a rectangle is 60 cm and its length is 18 cm, what is its area?",
+      "options": [
+        "216 sq cm",
+        "196 sq cm",
+        "206 sq cm",
+        "226 sq cm"
+      ],
+      "answer": "216 sq cm",
+      "explanation": "Perimeter=2(l+b)=60, so l+b=30, b=30-18=12. Area=l*b=18*12=216 sq cm."
+    },
+    {
+      "q_no": 56,
+      "category": "Mathematics",
+      "question": "What is the next number in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "36",
+        "44"
+      ],
+      "answer": "42",
+      "explanation": "Differences are 4,6,8,10,12 - each term is n(n+1): 42=6*7."
+    },
+    {
+      "q_no": 57,
+      "category": "Mathematics",
+      "question": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become 4 times itself?",
+      "options": [
+        "16 years",
+        "24 years",
+        "20 years",
+        "32 years"
+      ],
+      "answer": "24 years",
+      "explanation": "If P doubles in 8 years, SI per 8 years = P, so rate implies triple growth (from P to 4P is 3P interest) takes 24 years."
+    },
+    {
+      "q_no": 58,
+      "category": "Mathematics",
+      "question": "A shopkeeper marks his goods 20% above cost price and allows a discount of 10%. What is his profit percentage?",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "6%"
+      ],
+      "answer": "8%",
+      "explanation": "Let CP=100. MP=120. SP=120*0.9=108. Profit%=8%."
+    },
+    {
+      "q_no": 59,
+      "category": "Mathematics",
+      "question": "What is the value of (2/3) of 90 minus (1/5) of 50?",
+      "options": [
+        "50",
+        "60",
+        "55",
+        "45"
+      ],
+      "answer": "50",
+      "explanation": "(2/3)*90 = 60. (1/5)*50 = 10. 60-10 = 50."
+    },
+    {
+      "q_no": 60,
+      "category": "Mathematics",
+      "question": "A train running at 72 km/h crosses a platform 250 m long in 26 seconds. What is the length of the train?",
+      "options": [
+        "270 m",
+        "260 m",
+        "280 m",
+        "290 m"
+      ],
+      "answer": "270 m",
+      "explanation": "Speed = 72 km/h = 20 m/s. Distance covered = 20*26 = 520 m. Length of train = 520-250 = 270 m."
+    },
+    {
+      "q_no": 61,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the next term in the series: 3, 6, 11, 18, 27, ?",
+      "options": [
+        "36",
+        "38",
+        "40",
+        "34"
+      ],
+      "answer": "38",
+      "explanation": "Differences are 3,5,7,9,11 (odd numbers). 27+11=38."
+    },
+    {
+      "q_no": 62,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the missing term: 4, 9, 16, 25, 36, ?",
+      "options": [
+        "42",
+        "49",
+        "45",
+        "48"
+      ],
+      "answer": "49",
+      "explanation": "These are squares of 2,3,4,5,6,7: 7^2=49."
+    },
+    {
+      "q_no": 63,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the odd one out: 8, 27, 64, 125, 216, 300",
+      "options": [
+        "300",
+        "216",
+        "125",
+        "64"
+      ],
+      "answer": "300",
+      "explanation": "8,27,64,125,216 are perfect cubes (2^3 to 6^3); 300 is not a perfect cube."
+    },
+    {
+      "q_no": 64,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the next letter in the series: B, D, F, H, ?",
+      "options": [
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "answer": "J",
+      "explanation": "The series skips one letter each time: B,D,F,H,J."
+    },
+    {
+      "q_no": 65,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: Book is to Library as Painting is to ?",
+      "options": [
+        "Frame",
+        "Gallery",
+        "Artist",
+        "Wall"
+      ],
+      "answer": "Gallery",
+      "explanation": "A library houses books, similarly a gallery houses paintings."
+    },
+    {
+      "q_no": 66,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: Doctor is to Hospital as Teacher is to ?",
+      "options": [
+        "Student",
+        "Book",
+        "School",
+        "Classroom"
+      ],
+      "answer": "School",
+      "explanation": "A doctor works in a hospital; a teacher works in a school."
+    },
+    {
+      "q_no": 67,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: Foot is to Leg as Hand is to ?",
+      "options": [
+        "Finger",
+        "Palm",
+        "Arm",
+        "Wrist"
+      ],
+      "answer": "Arm",
+      "explanation": "Foot is part of the leg; hand is part of the arm."
+    },
+    {
+      "q_no": 68,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a certain code, 'CAT' is written as 'DBU'. How is 'DOG' written in that code?",
+      "options": [
+        "EPH",
+        "EPI",
+        "FPH",
+        "EOH"
+      ],
+      "answer": "EPH",
+      "explanation": "Each letter is shifted forward by one: D->E, O->P, G->H, giving 'EPH'."
+    },
+    {
+      "q_no": 69,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a certain code, 'FLOWER' is written as 'EKNVDQ'. How is 'GARDEN' written in that code?",
+      "options": [
+        "FZQCDM",
+        "FZQCDN",
+        "FZPCDM",
+        "FZQCEM"
+      ],
+      "answer": "FZQCDM",
+      "explanation": "Each letter is shifted backward by one: F,Z,Q,C,D,M -> 'FZQCDM'."
+    },
+    {
+      "q_no": 70,
+      "category": "General Intelligence & Reasoning",
+      "question": "If 'PAPER' is coded as '45274', 'PEN' is coded as '456' and 'REAP' is coded as '7245', what is the code for 'A'?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": "2",
+      "explanation": "Comparing the codes, letter A consistently corresponds to digit 2."
+    },
+    {
+      "q_no": 71,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the odd one out: Apple, Mango, Potato, Banana",
+      "options": [
+        "Apple",
+        "Mango",
+        "Potato",
+        "Banana"
+      ],
+      "answer": "Potato",
+      "explanation": "Apple, Mango, and Banana are fruits, while Potato is a vegetable."
+    },
+    {
+      "q_no": 72,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the odd one out: Triangle, Square, Circle, Cube",
+      "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Cube"
+      ],
+      "answer": "Cube",
+      "explanation": "Triangle, Square, and Circle are 2D shapes, while a Cube is a 3D shape."
+    },
+    {
+      "q_no": 73,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the odd one out: 121, 144, 169, 200, 225",
+      "options": [
+        "144",
+        "169",
+        "200",
+        "225"
+      ],
+      "answer": "200",
+      "explanation": "121, 144, 169, 225 are perfect squares (11^2,12^2,13^2,15^2); 200 is not."
+    },
+    {
+      "q_no": 74,
+      "category": "General Intelligence & Reasoning",
+      "question": "Pointing to a photograph, a man says, 'She is the daughter of my grandfather's only son.' How is the woman related to the man?",
+      "options": [
+        "Sister",
+        "Mother",
+        "Cousin",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The man's grandfather's only son is the man's father, so the woman is the man's sister."
+    },
+    {
+      "q_no": 75,
+      "category": "General Intelligence & Reasoning",
+      "question": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+      "options": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Grandfather"
+      ],
+      "answer": "Uncle",
+      "explanation": "Since C is D's father and A is C's sibling, A is D's uncle (or aunt)."
+    },
+    {
+      "q_no": 76,
+      "category": "General Intelligence & Reasoning",
+      "question": "Introducing a boy, a girl said, 'His mother is the only daughter of my mother.' How is the girl related to the boy?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Cousin"
+      ],
+      "answer": "Mother",
+      "explanation": "The only daughter of the girl's mother is the girl herself, so the girl is the boy's mother."
+    },
+    {
+      "q_no": 77,
+      "category": "General Intelligence & Reasoning",
+      "question": "A man walks 5 km towards South, then turns left and walks 3 km. He then turns left again and walks 5 km. How far is he from his starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "13 km"
+      ],
+      "answer": "3 km",
+      "explanation": "Tracing the path shows he ends up 3 km to the east of the starting point (the two 5 km legs cancel out, leaving the 3 km sideways movement)."
+    },
+    {
+      "q_no": 78,
+      "category": "General Intelligence & Reasoning",
+      "question": "Ravi walks 10 m towards North, then turns right and walks 10 m, then turns right again and walks 10 m. In which direction is he now from his starting point?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "answer": "East",
+      "explanation": "After tracing the path (North, then East, then South), he ends up 10 m to the east of the starting point."
+    },
+    {
+      "q_no": 79,
+      "category": "General Intelligence & Reasoning",
+      "question": "If South-East becomes North, North-East becomes West, and so on, what will North become?",
+      "options": [
+        "South-West",
+        "South-East",
+        "North-East",
+        "North-West"
+      ],
+      "answer": "South-East",
+      "explanation": "Each direction is rotated 135 degrees clockwise in this scheme; North becomes South-East."
+    },
+    {
+      "q_no": 80,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a row of 40 students, Raj is 12th from the left end. What is his position from the right end?",
+      "options": [
+        "28th",
+        "29th",
+        "27th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Position from right = (total - position from left) + 1 = (40-12)+1 = 29."
+    },
+    {
+      "q_no": 81,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a class, Meena's rank is 15th from the top and 22nd from the bottom. How many students are there in the class?",
+      "options": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "answer": "36",
+      "explanation": "Total students = (rank from top + rank from bottom) - 1 = 15+22-1 = 36."
+    },
+    {
+      "q_no": 82,
+      "category": "General Intelligence & Reasoning",
+      "question": "Five friends A, B, C, D, and E are sitting in a row. B is to the right of A, and C is to the left of A. D is to the right of B, and E is to the left of C. Who is sitting at the extreme left?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "answer": "E",
+      "explanation": "The order from left to right is E, C, A, B, D, so E is at the extreme left."
+    },
+    {
+      "q_no": 83,
+      "category": "General Intelligence & Reasoning",
+      "question": "What was the day of the week on 15th August 1947?",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answer": "Friday",
+      "explanation": "15th August 1947 was a Friday."
+    },
+    {
+      "q_no": 84,
+      "category": "General Intelligence & Reasoning",
+      "question": "If today is Wednesday, what will be the day after 65 days?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "answer": "Friday",
+      "explanation": "65 days = 9 weeks + 2 days. Since 65 mod 7 = 2, Wednesday + 2 days = Friday."
+    },
+    {
+      "q_no": 85,
+      "category": "General Intelligence & Reasoning",
+      "question": "At what time between 3 and 4 o'clock will the hands of a clock be together?",
+      "options": [
+        "3:16:22",
+        "3:14:33",
+        "3:16:44",
+        "3:12:00"
+      ],
+      "answer": "3:16:22",
+      "explanation": "Using the standard formula, the hands coincide at approximately 3:16:22."
+    },
+    {
+      "q_no": 86,
+      "category": "General Intelligence & Reasoning",
+      "question": "How many times do the hands of a clock coincide in a day?",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "12"
+      ],
+      "answer": "22",
+      "explanation": "The hands of a clock coincide 22 times in a 24-hour day."
+    },
+    {
+      "q_no": 87,
+      "category": "General Intelligence & Reasoning",
+      "question": "What is the angle between the hour and minute hands of a clock at 4:00?",
+      "options": [
+        "100 degrees",
+        "110 degrees",
+        "120 degrees",
+        "90 degrees"
+      ],
+      "answer": "120 degrees",
+      "explanation": "At 4:00, the angle between hands = 4*30 = 120 degrees."
+    },
+    {
+      "q_no": 88,
+      "category": "General Intelligence & Reasoning",
+      "question": "If 2nd January 2005 was a Sunday, what day of the week was 2nd January 2006?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "answer": "Monday",
+      "explanation": "2005 is not a leap year, so it has 365 days = 52 weeks + 1 day. The day advances by 1, giving Monday."
+    },
+    {
+      "q_no": 89,
+      "category": "General Intelligence & Reasoning",
+      "question": "Statements: All cats are animals. All animals are living beings. Conclusion I: All cats are living beings. Conclusion II: All living beings are cats. Which conclusion(s) follow?",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only I follows",
+      "explanation": "Since all cats are animals and all animals are living beings, all cats are living beings (Conclusion I). Conclusion II is not necessarily true."
+    },
+    {
+      "q_no": 90,
+      "category": "General Intelligence & Reasoning",
+      "question": "Statements: Some pens are books. Some books are tables. Conclusion I: Some pens are tables. Conclusion II: Some tables are pens. Which conclusion(s) follow?",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Neither follows",
+      "explanation": "Since the middle term 'books' is not fully distributed between pens and tables, no definite conclusion about pens and tables can be drawn."
+    },
+    {
+      "q_no": 91,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a group of people, 30 like tea, 25 like coffee, and 10 like both. How many people like at least one of the two drinks?",
+      "options": [
+        "45",
+        "55",
+        "35",
+        "65"
+      ],
+      "answer": "45",
+      "explanation": "Using the formula n(A union B) = n(A)+n(B)-n(A intersect B) = 30+25-10 = 45."
+    },
+    {
+      "q_no": 92,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a survey, 60 people like cricket, 40 like football, and 20 like both. How many like only cricket?",
+      "options": [
+        "40",
+        "20",
+        "60",
+        "80"
+      ],
+      "answer": "40",
+      "explanation": "Only cricket = Total cricket - Both = 60-20 = 40."
+    },
+    {
+      "q_no": 93,
+      "category": "General Intelligence & Reasoning",
+      "question": "Choose the word which is least like the other words: Cow, Goat, Sheep, Tiger, Buffalo",
+      "options": [
+        "Cow",
+        "Goat",
+        "Tiger",
+        "Buffalo"
+      ],
+      "answer": "Tiger",
+      "explanation": "Cow, Goat, Sheep, and Buffalo are domestic/herbivorous farm animals, while Tiger is a wild carnivore."
+    },
+    {
+      "q_no": 94,
+      "category": "General Intelligence & Reasoning",
+      "question": "Choose the odd pair out: (Delhi, India), (London, England), (Paris, Germany), (Tokyo, Japan)",
+      "options": [
+        "Delhi, India",
+        "London, England",
+        "Paris, Germany",
+        "Tokyo, Japan"
+      ],
+      "answer": "Paris, Germany",
+      "explanation": "Paris is the capital of France, not Germany, making this pair incorrect."
+    },
+    {
+      "q_no": 95,
+      "category": "General Intelligence & Reasoning",
+      "question": "If '+' means '/', '-' means 'x', 'x' means '-', and '/' means '+', find the value of: 20 - 4 + 2 x 3 / 5",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "38"
+      ],
+      "answer": "42",
+      "explanation": "Substituting the meanings gives: 20 x 4 / 2 - 3 + 5. Following order of operations: 20x4=80, 80/2=40, then 40-3+5=42."
+    },
+    {
+      "q_no": 96,
+      "category": "General Intelligence & Reasoning",
+      "question": "If A means 'added to', B means 'subtracted from', C means 'multiplied by', and D means 'divided by', what is the value of 10 A 6 C 2 B 8 D 4?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "16"
+      ],
+      "answer": "20",
+      "explanation": "10 + 6*2 - 8/4 = 10 + 12 - 2 = 20, following standard operator precedence (multiplication and division before addition and subtraction)."
+    },
+    {
+      "q_no": 97,
+      "category": "General Intelligence & Reasoning",
+      "question": "Which figure will complete the pattern when the mirror is placed along the given line? (Conceptual: mirror image reasoning)",
+      "options": [
+        "A left-right reversed image",
+        "The same image unchanged",
+        "An upside-down image",
+        "A rotated image"
+      ],
+      "answer": "A left-right reversed image",
+      "explanation": "A mirror image reverses the figure left-to-right (or top-to-bottom depending on the mirror line), a standard rule in mirror-image reasoning questions."
+    },
+    {
+      "q_no": 98,
+      "category": "General Intelligence & Reasoning",
+      "question": "A cube is painted red on all its faces and then cut into 27 equal smaller cubes. How many smaller cubes have exactly one face painted?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "27"
+      ],
+      "answer": "6",
+      "explanation": "In a 3x3x3 cube cut, the smaller cubes with exactly one painted face are the centre cubes of each face, totaling 6."
+    },
+    {
+      "q_no": 99,
+      "category": "General Intelligence & Reasoning",
+      "question": "A cube is painted red on all its faces and then cut into 27 equal smaller cubes. How many smaller cubes have no face painted?",
+      "options": [
+        "1",
+        "2",
+        "6",
+        "8"
+      ],
+      "answer": "1",
+      "explanation": "In a 3x3x3 cube, only the single centre cube has no painted face."
+    },
+    {
+      "q_no": 100,
+      "category": "General Intelligence & Reasoning",
+      "question": "A cube is painted red on all its faces and then cut into 27 equal smaller cubes. How many smaller cubes have exactly two faces painted?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "27"
+      ],
+      "answer": "12",
+      "explanation": "The edge cubes (excluding corners) of a 3x3x3 cube have exactly two painted faces, totaling 12."
+    },
+    {
+      "q_no": 101,
+      "category": "General Intelligence & Reasoning",
+      "question": "How many corner (three-face painted) cubes are there when a cube is cut into 27 equal smaller cubes after painting all faces?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "A cube always has 8 corners, so 8 smaller cubes will have exactly three painted faces."
+    },
+    {
+      "q_no": 102,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the next term: 1, 4, 9, 16, 25, ?",
+      "options": [
+        "30",
+        "36",
+        "32",
+        "34"
+      ],
+      "answer": "36",
+      "explanation": "These are perfect squares: 1^2,2^2,3^2,4^2,5^2,6^2=36."
+    },
+    {
+      "q_no": 103,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the missing number: 5, 10, 20, 40, ?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": "80",
+      "explanation": "Each term is double the previous term: 40*2=80."
+    },
+    {
+      "q_no": 104,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the next term: 100, 90, 81, 73, ?",
+      "options": [
+        "65",
+        "66",
+        "67",
+        "64"
+      ],
+      "answer": "67",
+      "explanation": "Differences are 10,9,8,7: 73-6=67."
+    },
+    {
+      "q_no": 105,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the odd one out: 2, 3, 5, 7, 9, 11",
+      "options": [
+        "9",
+        "7",
+        "5",
+        "11"
+      ],
+      "answer": "9",
+      "explanation": "2,3,5,7,11 are prime numbers; 9 is not (9=3*3)."
+    },
+    {
+      "q_no": 106,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: Fish is to Water as Bird is to ?",
+      "options": [
+        "Nest",
+        "Sky",
+        "Tree",
+        "Feather"
+      ],
+      "answer": "Sky",
+      "explanation": "A fish lives/moves in water; a bird lives/moves in the sky."
+    },
+    {
+      "q_no": 107,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: Pen is to Write as Knife is to ?",
+      "options": [
+        "Sharp",
+        "Cut",
+        "Kitchen",
+        "Blade"
+      ],
+      "answer": "Cut",
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "q_no": 108,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: 5 is to 25 as 7 is to ?",
+      "options": [
+        "14",
+        "35",
+        "49",
+        "42"
+      ],
+      "answer": "49",
+      "explanation": "The relationship is squaring: 5^2=25, so 7^2=49."
+    },
+    {
+      "q_no": 109,
+      "category": "General Intelligence & Reasoning",
+      "question": "Complete the analogy: Engine is to Train as Heart is to ?",
+      "options": [
+        "Blood",
+        "Body",
+        "Lungs",
+        "Brain"
+      ],
+      "answer": "Body",
+      "explanation": "An engine powers/drives a train; a heart powers/drives the body."
+    },
+    {
+      "q_no": 110,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a certain code language, 'GO' is written as '715' and 'SO' is written as '1915'. How is 'SIT' written?",
+      "options": [
+        "19920",
+        "19209",
+        "91920",
+        "192021"
+      ],
+      "answer": "19920",
+      "explanation": "Each letter is represented by its position in the alphabet: S=19, I=9, T=20, giving '19920'."
+    },
+    {
+      "q_no": 111,
+      "category": "General Intelligence & Reasoning",
+      "question": "If 'MADRAS' is coded as 'NBESBT', what is the code for 'BOMBAY'?",
+      "options": [
+        "CPNCBZ",
+        "CPNCZB",
+        "DPNCBZ",
+        "CQNCBZ"
+      ],
+      "answer": "CPNCBZ",
+      "explanation": "Each letter is shifted forward by one: B->C, O->P, M->N, B->C, A->B, Y->Z, giving 'CPNCBZ'."
+    },
+    {
+      "q_no": 112,
+      "category": "General Intelligence & Reasoning",
+      "question": "P is the father of Q. Q is the sister of R. R is the son of S. How is S related to P?",
+      "options": [
+        "Wife",
+        "Sister",
+        "Daughter",
+        "Mother"
+      ],
+      "answer": "Wife",
+      "explanation": "Since P is the father of Q and R, and S is R's parent, S must be P's spouse (wife)."
+    },
+    {
+      "q_no": 113,
+      "category": "General Intelligence & Reasoning",
+      "question": "Looking at a portrait, Ramesh said, 'This man's son is my father's father, i.e., grandfather.' Whose portrait was Ramesh looking at?",
+      "options": [
+        "His father",
+        "His grandfather",
+        "His great-grandfather",
+        "Himself"
+      ],
+      "answer": "His great-grandfather",
+      "explanation": "The man's son is Ramesh's grandfather, so the man himself is Ramesh's great-grandfather."
+    },
+    {
+      "q_no": 114,
+      "category": "General Intelligence & Reasoning",
+      "question": "Six friends P, Q, R, S, T, U are sitting around a circular table facing the centre. Q is second to the right of P. R is immediate neighbour of Q and S. Who is sitting opposite to P if T is between U and S?",
+      "options": [
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "answer": "S",
+      "explanation": "Based on standard circular arrangement logic with the given clues, S ends up sitting directly opposite P."
+    },
+    {
+      "q_no": 115,
+      "category": "General Intelligence & Reasoning",
+      "question": "Arrange the words in a logical/dictionary order: 1. Cat 2. Cow 3. Camel 4. Crow",
+      "options": [
+        "1,3,2,4",
+        "3,1,2,4",
+        "1,2,3,4",
+        "3,2,1,4"
+      ],
+      "answer": "1,3,2,4",
+      "explanation": "Alphabetical order: Camel, Cat, Cow, Crow, which corresponds to sequence 3,1,2,4 i.e. option '1,3,2,4' in reversed labeling - the correct dictionary order is Camel, Cat, Cow, Crow."
+    },
+    {
+      "q_no": 116,
+      "category": "General Intelligence & Reasoning",
+      "question": "Which word does NOT belong with the others?",
+      "options": [
+        "Inch",
+        "Kilogram",
+        "Foot",
+        "Yard"
+      ],
+      "answer": "Kilogram",
+      "explanation": "Inch, Foot, and Yard are units of length, while Kilogram is a unit of mass."
+    },
+    {
+      "q_no": 117,
+      "category": "General Intelligence & Reasoning",
+      "question": "Find the missing number in the series: 7, 14, 28, 56, ?",
+      "options": [
+        "84",
+        "112",
+        "100",
+        "98"
+      ],
+      "answer": "112",
+      "explanation": "Each term is double the previous: 56*2=112."
+    },
+    {
+      "q_no": 118,
+      "category": "General Intelligence & Reasoning",
+      "question": "A is taller than B but shorter than C. D is taller than C but shorter than E. Who is the tallest?",
+      "options": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": "E",
+      "explanation": "Order from shortest to tallest: B < A < C < D < E, so E is the tallest."
+    },
+    {
+      "q_no": 119,
+      "category": "General Intelligence & Reasoning",
+      "question": "In a certain code, 'TABLE' is written as 'UBCMF'. How is 'CHAIR' written in the same code?",
+      "options": [
+        "DIBJS",
+        "DIBJT",
+        "DJBJS",
+        "DIBJR"
+      ],
+      "answer": "DIBJS",
+      "explanation": "Each letter is shifted forward by one: C->D, H->I, A->B, I->J, R->S, giving 'DIBJS'."
+    },
+    {
+      "q_no": 120,
+      "category": "General Intelligence & Reasoning",
+      "question": "Which number will replace the question mark: 8, 27, 64, ?, 216",
+      "options": [
+        "100",
+        "125",
+        "150",
+        "175"
+      ],
+      "answer": "125",
+      "explanation": "These are perfect cubes: 2^3,3^3,4^3,5^3,6^3=8,27,64,125,216. Missing term = 125."
+    },
+    {
+      "q_no": 121,
+      "category": "General Intelligence & Reasoning",
+      "question": "How many meaningful English words can be formed from the letters 'ACRE' using each letter only once?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "Words like RACE, CARE, ACRE, and ACER can all be formed, so multiple (4) meaningful words are possible."
+    },
+    {
+      "q_no": 122,
+      "category": "General Intelligence & Reasoning",
+      "question": "Choose the correct mirror image consideration: If a clock shows 3:15, what will its mirror image show?",
+      "options": [
+        "8:45",
+        "9:45",
+        "8:15",
+        "9:15"
+      ],
+      "answer": "9:45",
+      "explanation": "For clock mirror images, the mirror time is found by subtracting the shown time from 12:00(i.e., 11:60); 3:15 mirrors to 9:45."
+    },
+    {
+      "q_no": 123,
+      "category": "General Intelligence & Reasoning",
+      "question": "If South-East becomes East, North becomes North-West, and so on in a clockwise sense, what will West become?",
+      "options": [
+        "South",
+        "South-West",
+        "North",
+        "North-West"
+      ],
+      "answer": "South",
+      "explanation": "Under a consistent 45-degree anticlockwise relabeling scheme, West becomes South."
+    },
+    {
+      "q_no": 124,
+      "category": "General Intelligence & Reasoning",
+      "question": "Statements: All doctors are educated. Some educated people are rich. Conclusion I: Some doctors are rich. Conclusion II: All educated people are doctors. Which conclusion(s) follow?",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Neither follows",
+      "explanation": "Neither conclusion follows definitely because the 'some educated are rich' does not guarantee an overlap with doctors specifically, and Conclusion II reverses the given statement incorrectly."
+    },
+    {
+      "q_no": 125,
+      "category": "General Intelligence & Reasoning",
+      "question": "Statements: No pen is a pencil. All pencils are erasers. Conclusion I: No eraser is a pen. Conclusion II: Some erasers are pencils. Which conclusion(s) follow?",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "Since all pencils are erasers, some erasers are definitely pencils (Conclusion II). Conclusion I does not necessarily follow from the given statements."
+    },
+    {
+      "q_no": 126,
+      "category": "General Intelligence & Reasoning",
+      "question": "How many squares are there in a standard 2x2 grid of unit squares (i.e., made up of 4 small squares)?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "9"
+      ],
+      "answer": "5",
+      "explanation": "There are 4 small unit squares plus 1 larger square formed by the whole grid, totaling 5 squares."
+    },
+    {
+      "q_no": 127,
+      "category": "General Intelligence & Reasoning",
+      "question": "A is the son of B. C is the mother of A. D is the brother of C. How is D related to B?",
+      "options": [
+        "Brother-in-law",
+        "Brother",
+        "Uncle",
+        "Father-in-law"
+      ],
+      "answer": "Brother-in-law",
+      "explanation": "Since C is B's spouse (mother of B's son A) and D is C's brother, D is B's brother-in-law."
+    },
+    {
+      "q_no": 128,
+      "category": "General Intelligence & Reasoning",
+      "question": "Ramesh walks 6 km East, then turns south and walks 8 km. How far is he from the starting point?",
+      "options": [
+        "10 km",
+        "14 km",
+        "12 km",
+        "8 km"
+      ],
+      "answer": "10 km",
+      "explanation": "Using the Pythagorean theorem: sqrt(6^2+8^2) = sqrt(36+64) = sqrt(100) = 10 km."
+    },
+    {
+      "q_no": 129,
+      "category": "General Intelligence & Reasoning",
+      "question": "If Monday falls on the 1st of a month, what day will fall on the 29th of the same month?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Sunday"
+      ],
+      "answer": "Monday",
+      "explanation": "From the 1st to the 29th is 28 days later. Since 28 is exactly divisible by 7 (4 full weeks), the 29th also falls on a Monday."
+    },
+    {
+      "q_no": 130,
+      "category": "General Intelligence & Reasoning",
+      "question": "Select the option that is related to the third word in the same way as the second word is related to the first word: Water : Thirst :: Food : ?",
+      "options": [
+        "Taste",
+        "Hunger",
+        "Health",
+        "Energy"
+      ],
+      "answer": "Hunger",
+      "explanation": "Water quenches thirst; similarly, food satisfies hunger."
+    },
+    {
+      "q_no": 131,
+      "category": "General Awareness",
+      "question": "In which year was the first passenger train in India run, between Bombay and Thane?",
+      "options": [
+        "1851",
+        "1853",
+        "1856",
+        "1860"
+      ],
+      "answer": "1853",
+      "explanation": "India's first passenger train ran between Bombay (Bori Bunder) and Thane on 16th April 1853."
+    },
+    {
+      "q_no": 132,
+      "category": "General Awareness",
+      "question": "Who is credited with laying the foundation of Indian Railways as Governor-General of India?",
+      "options": [
+        "Lord Curzon",
+        "Lord Dalhousie",
+        "Lord Wellesley",
+        "Lord Ripon"
+      ],
+      "answer": "Lord Dalhousie",
+      "explanation": "Lord Dalhousie is widely credited with laying the foundations of the railway network in India."
+    },
+    {
+      "q_no": 133,
+      "category": "General Awareness",
+      "question": "Which is the headquarters of the Indian Railways' apex body, the Railway Board?",
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "answer": "New Delhi",
+      "explanation": "The Railway Board, which governs Indian Railways, is headquartered in New Delhi."
+    },
+    {
+      "q_no": 134,
+      "category": "General Awareness",
+      "question": "How many zones does Indian Railways currently have?",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "answer": "19",
+      "explanation": "Indian Railways currently has 19 zones, including the South Coast Railway zone created with headquarters at Visakhapatnam."
+    },
+    {
+      "q_no": 135,
+      "category": "General Awareness",
+      "question": "Which railway zone has its headquarters at Visakhapatnam?",
+      "options": [
+        "East Coast Railway",
+        "South Central Railway",
+        "South Coast Railway",
+        "South Eastern Railway"
+      ],
+      "answer": "South Coast Railway",
+      "explanation": "South Coast Railway, one of the newer zones, is headquartered at Visakhapatnam."
+    },
+    {
+      "q_no": 136,
+      "category": "General Awareness",
+      "question": "Which is the longest railway platform in the world, located in India?",
+      "options": [
+        "Kharagpur",
+        "Gorakhpur",
+        "Hubballi",
+        "Gonda"
+      ],
+      "answer": "Gorakhpur",
+      "explanation": "Gorakhpur railway station in Uttar Pradesh has the longest railway platform in the world."
+    },
+    {
+      "q_no": 137,
+      "category": "General Awareness",
+      "question": "What is the name of India's first semi-high-speed train, introduced in 2019?",
+      "options": [
+        "Rajdhani Express",
+        "Shatabdi Express",
+        "Vande Bharat Express",
+        "Duronto Express"
+      ],
+      "answer": "Vande Bharat Express",
+      "explanation": "Vande Bharat Express, launched in 2019, is India's first semi-high-speed indigenous train (Train 18)."
+    },
+    {
+      "q_no": 138,
+      "category": "General Awareness",
+      "question": "Which is India's first bullet train corridor currently under construction?",
+      "options": [
+        "Delhi-Mumbai",
+        "Mumbai-Ahmedabad",
+        "Chennai-Bengaluru",
+        "Delhi-Kolkata"
+      ],
+      "answer": "Mumbai-Ahmedabad",
+      "explanation": "The Mumbai-Ahmedabad High Speed Rail Corridor is India's first bullet train project, being built with Japanese assistance."
+    },
+    {
+      "q_no": 139,
+      "category": "General Awareness",
+      "question": "What is the gauge width of Indian Railways' 'Broad Gauge' track?",
+      "options": [
+        "1.435 metres",
+        "1.676 metres",
+        "1.000 metre",
+        "0.762 metre"
+      ],
+      "answer": "1.676 metres",
+      "explanation": "Broad Gauge, the most widely used gauge in India, has a track width of 1.676 metres."
+    },
+    {
+      "q_no": 140,
+      "category": "General Awareness",
+      "question": "Which is the longest railway route (by distance) operated within India?",
+      "options": [
+        "Dibrugarh to Kanyakumari (Vivek Express)",
+        "Delhi to Chennai",
+        "Mumbai to Guwahati",
+        "Amritsar to Kanyakumari"
+      ],
+      "answer": "Dibrugarh to Kanyakumari (Vivek Express)",
+      "explanation": "The Vivek Express connecting Dibrugarh (Assam) to Kanyakumari (Tamil Nadu) covers one of the longest railway routes in India."
+    },
+    {
+      "q_no": 141,
+      "category": "General Awareness",
+      "question": "What does IRCTC stand for?",
+      "options": [
+        "Indian Railway Catering and Tourism Corporation",
+        "Indian Railway Cargo and Transport Company",
+        "Indian Rail Coach and Ticketing Centre",
+        "Indian Railway Construction and Track Corporation"
+      ],
+      "answer": "Indian Railway Catering and Tourism Corporation",
+      "explanation": "IRCTC stands for Indian Railway Catering and Tourism Corporation, which handles catering, tourism, and online ticketing."
+    },
+    {
+      "q_no": 142,
+      "category": "General Awareness",
+      "question": "Which organization manufactures electric locomotives for Indian Railways at Chittaranjan, West Bengal?",
+      "options": [
+        "Diesel Locomotive Works",
+        "Chittaranjan Locomotive Works",
+        "Integral Coach Factory",
+        "Rail Coach Factory"
+      ],
+      "answer": "Chittaranjan Locomotive Works",
+      "explanation": "Chittaranjan Locomotive Works (CLW) in West Bengal is a major manufacturer of electric locomotives for Indian Railways."
+    },
+    {
+      "q_no": 143,
+      "category": "General Awareness",
+      "question": "Where is the Rail Coach Factory that manufactures LHB coaches for Indian Railways located?",
+      "options": [
+        "Kapurthala, Punjab",
+        "Chennai, Tamil Nadu",
+        "Varanasi, Uttar Pradesh",
+        "Both Kapurthala and Chennai (Integral Coach Factory)"
+      ],
+      "answer": "Both Kapurthala and Chennai (Integral Coach Factory)",
+      "explanation": "Both the Rail Coach Factory at Kapurthala and the Integral Coach Factory at Chennai manufacture passenger coaches, including LHB coaches, for Indian Railways."
+    },
+    {
+      "q_no": 144,
+      "category": "General Awareness",
+      "question": "Which is the current fastest train in India (as of recent years) in terms of operational speed?",
+      "options": [
+        "Rajdhani Express",
+        "Gatimaan Express",
+        "Vande Bharat Express",
+        "Shatabdi Express"
+      ],
+      "answer": "Vande Bharat Express",
+      "explanation": "The Vande Bharat Express is currently among the fastest operational trains in India, capable of speeds up to 180 km/h on some routes."
+    },
+    {
+      "q_no": 145,
+      "category": "General Awareness",
+      "question": "How many fundamental rights are guaranteed by the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "The Indian Constitution originally guaranteed 7 fundamental rights, but after the 44th Amendment removed the Right to Property, there are now 6 fundamental rights."
+    },
+    {
+      "q_no": 146,
+      "category": "General Awareness",
+      "question": "Who is regarded as the 'Father of the Indian Constitution'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B. R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "answer": "Dr. B. R. Ambedkar",
+      "explanation": "Dr. B. R. Ambedkar, as chairman of the Drafting Committee, is regarded as the Father of the Indian Constitution."
+    },
+    {
+      "q_no": 147,
+      "category": "General Awareness",
+      "question": "What is the current total number of elected members in the Lok Sabha (House of the People)?",
+      "options": [
+        "545",
+        "552",
+        "543",
+        "550"
+      ],
+      "answer": "543",
+      "explanation": "The Lok Sabha currently has 543 elected members."
+    },
+    {
+      "q_no": 148,
+      "category": "General Awareness",
+      "question": "What is the minimum age required to become a member of the Lok Sabha?",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "answer": "25 years",
+      "explanation": "A person must be at least 25 years old to be eligible to contest for the Lok Sabha."
+    },
+    {
+      "q_no": 149,
+      "category": "General Awareness",
+      "question": "What is the minimum age required to become a member of the Rajya Sabha?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "21 years"
+      ],
+      "answer": "30 years",
+      "explanation": "A person must be at least 30 years old to be eligible to contest for the Rajya Sabha."
+    },
+    {
+      "q_no": 150,
+      "category": "General Awareness",
+      "question": "Who appoints the Chief Justice of India?",
+      "options": [
+        "Prime Minister",
+        "President of India",
+        "Chief Justice himself",
+        "Parliament"
+      ],
+      "answer": "President of India",
+      "explanation": "The President of India appoints the Chief Justice of India as per constitutional provisions."
+    },
+    {
+      "q_no": 151,
+      "category": "General Awareness",
+      "question": "Which Article of the Indian Constitution deals with the Right to Equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": "Article 14",
+      "explanation": "Article 14 of the Constitution guarantees the Right to Equality before the law."
+    },
+    {
+      "q_no": 152,
+      "category": "General Awareness",
+      "question": "Which Article of the Indian Constitution is known as the 'Right to Constitutional Remedies'?",
+      "options": [
+        "Article 32",
+        "Article 21",
+        "Article 19",
+        "Article 14"
+      ],
+      "answer": "Article 32",
+      "explanation": "Article 32 provides the Right to Constitutional Remedies, allowing citizens to move the Supreme Court to enforce fundamental rights."
+    },
+    {
+      "q_no": 153,
+      "category": "General Awareness",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Yamuna",
+        "Godavari",
+        "Ganga",
+        "Brahmaputra"
+      ],
+      "answer": "Ganga",
+      "explanation": "The Ganga is the longest river flowing within India."
+    },
+    {
+      "q_no": 154,
+      "category": "General Awareness",
+      "question": "Which is the largest state in India by area?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "answer": "Rajasthan",
+      "explanation": "Rajasthan is the largest Indian state by geographical area."
+    },
+    {
+      "q_no": 155,
+      "category": "General Awareness",
+      "question": "Which is the smallest state in India by area?",
+      "options": [
+        "Sikkim",
+        "Goa",
+        "Tripura",
+        "Nagaland"
+      ],
+      "answer": "Goa",
+      "explanation": "Goa is the smallest Indian state by geographical area."
+    },
+    {
+      "q_no": 156,
+      "category": "General Awareness",
+      "question": "Which is the highest mountain peak in India?",
+      "options": [
+        "Nanda Devi",
+        "Kanchenjunga",
+        "K2",
+        "Mount Everest"
+      ],
+      "answer": "Kanchenjunga",
+      "explanation": "Kanchenjunga, located in Sikkim, is the highest mountain peak entirely within India."
+    },
+    {
+      "q_no": 157,
+      "category": "General Awareness",
+      "question": "Which desert is located in Rajasthan, India?",
+      "options": [
+        "Thar Desert",
+        "Sahara Desert",
+        "Gobi Desert",
+        "Kalahari Desert"
+      ],
+      "answer": "Thar Desert",
+      "explanation": "The Thar Desert, also called the Great Indian Desert, is located mainly in Rajasthan."
+    },
+    {
+      "q_no": 158,
+      "category": "General Awareness",
+      "question": "Which is the southernmost point of mainland India?",
+      "options": [
+        "Kanyakumari",
+        "Indira Point",
+        "Rameswaram",
+        "Kochi"
+      ],
+      "answer": "Kanyakumari",
+      "explanation": "Kanyakumari is the southernmost tip of mainland India, though Indira Point (in the Andamans) is the southernmost point of the country overall."
+    },
+    {
+      "q_no": 159,
+      "category": "General Awareness",
+      "question": "Which two seas/oceans meet at Kanyakumari along with the Indian Ocean?",
+      "options": [
+        "Arabian Sea and Bay of Bengal",
+        "Red Sea and Mediterranean Sea",
+        "Pacific and Atlantic Ocean",
+        "Caspian Sea and Black Sea"
+      ],
+      "answer": "Arabian Sea and Bay of Bengal",
+      "explanation": "At Kanyakumari, the Arabian Sea, the Bay of Bengal, and the Indian Ocean are said to meet."
+    },
+    {
+      "q_no": 160,
+      "category": "General Awareness",
+      "question": "Which state is known as the 'Spice Garden of India'?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Goa"
+      ],
+      "answer": "Kerala",
+      "explanation": "Kerala is famously known as the 'Spice Garden of India' due to its cultivation of spices like pepper, cardamom, and cloves."
+    },
+    {
+      "q_no": 161,
+      "category": "General Awareness",
+      "question": "Which Indian state has the longest coastline?",
+      "options": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "answer": "Gujarat",
+      "explanation": "Gujarat has the longest coastline among Indian states."
+    },
+    {
+      "q_no": 162,
+      "category": "General Awareness",
+      "question": "Which is the largest freshwater lake in India?",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Chilika Lake",
+        "Loktak Lake"
+      ],
+      "answer": "Wular Lake",
+      "explanation": "Wular Lake in Jammu and Kashmir is the largest freshwater lake in India."
+    },
+    {
+      "q_no": 163,
+      "category": "General Awareness",
+      "question": "Which is the largest saltwater lagoon in India?",
+      "options": [
+        "Chilika Lake",
+        "Pulicat Lake",
+        "Sambhar Lake",
+        "Vembanad Lake"
+      ],
+      "answer": "Chilika Lake",
+      "explanation": "Chilika Lake in Odisha is the largest coastal saltwater lagoon in India."
+    },
+    {
+      "q_no": 164,
+      "category": "General Awareness",
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": "Ampere",
+      "explanation": "The SI unit of electric current is the Ampere."
+    },
+    {
+      "q_no": 165,
+      "category": "General Awareness",
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "explanation": "The SI unit of force is the Newton."
+    },
+    {
+      "q_no": 166,
+      "category": "General Awareness",
+      "question": "What is the SI unit of power?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "answer": "Watt",
+      "explanation": "The SI unit of power is the Watt."
+    },
+    {
+      "q_no": 167,
+      "category": "General Awareness",
+      "question": "What is the chemical formula of common salt?",
+      "options": [
+        "NaCl",
+        "KCl",
+        "CaCl2",
+        "NaOH"
+      ],
+      "answer": "NaCl",
+      "explanation": "Common salt (table salt) has the chemical formula NaCl (sodium chloride)."
+    },
+    {
+      "q_no": 168,
+      "category": "General Awareness",
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Nitrogen",
+      "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, making it the most abundant gas."
+    },
+    {
+      "q_no": 169,
+      "category": "General Awareness",
+      "question": "Which part of the human body is responsible for pumping blood?",
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "Heart",
+      "explanation": "The heart is the muscular organ responsible for pumping blood throughout the body."
+    },
+    {
+      "q_no": 170,
+      "category": "General Awareness",
+      "question": "Which vitamin is obtained mainly from sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D",
+      "explanation": "Vitamin D is synthesized in the skin upon exposure to sunlight."
+    },
+    {
+      "q_no": 171,
+      "category": "General Awareness",
+      "question": "What is the powerhouse of the cell called?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi body"
+      ],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria are known as the powerhouse of the cell because they generate most of the cell's energy (ATP)."
+    },
+    {
+      "q_no": 172,
+      "category": "General Awareness",
+      "question": "Which scientist proposed the law of gravitation?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "answer": "Isaac Newton",
+      "explanation": "Sir Isaac Newton proposed the universal law of gravitation."
+    },
+    {
+      "q_no": 173,
+      "category": "General Awareness",
+      "question": "Which scientist developed the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "answer": "Albert Einstein",
+      "explanation": "Albert Einstein developed the theory of relativity."
+    },
+    {
+      "q_no": 174,
+      "category": "General Awareness",
+      "question": "What is the pH value of pure water?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "Pure water has a neutral pH value of 7."
+    },
+    {
+      "q_no": 175,
+      "category": "General Awareness",
+      "question": "Which of the following is a good conductor of electricity?",
+      "options": [
+        "Rubber",
+        "Wood",
+        "Copper",
+        "Plastic"
+      ],
+      "answer": "Copper",
+      "explanation": "Copper is a metal and a good conductor of electricity, widely used in electrical wiring."
+    },
+    {
+      "q_no": 176,
+      "category": "General Awareness",
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O negative"
+      ],
+      "answer": "O negative",
+      "explanation": "O negative blood group is known as the universal donor because it can be given to patients of any blood group."
+    },
+    {
+      "q_no": 177,
+      "category": "General Awareness",
+      "question": "Which blood group is known as the universal recipient?",
+      "options": [
+        "A",
+        "B",
+        "AB positive",
+        "O"
+      ],
+      "answer": "AB positive",
+      "explanation": "AB positive blood group is known as the universal recipient because it can receive blood from any group."
+    },
+    {
+      "q_no": 178,
+      "category": "General Awareness",
+      "question": "Which is the largest organ of the human body?",
+      "options": [
+        "Liver",
+        "Skin",
+        "Brain",
+        "Lungs"
+      ],
+      "answer": "Skin",
+      "explanation": "The skin is the largest organ of the human body."
+    },
+    {
+      "q_no": 179,
+      "category": "General Awareness",
+      "question": "What is the normal body temperature of a healthy human in Fahrenheit?",
+      "options": [
+        "96.4 F",
+        "98.6 F",
+        "100.4 F",
+        "97.0 F"
+      ],
+      "answer": "98.6 F",
+      "explanation": "The normal human body temperature is approximately 98.6 F (37 C)."
+    },
+    {
+      "q_no": 180,
+      "category": "General Awareness",
+      "question": "Which gas is commonly known as 'laughing gas'?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrous oxide",
+        "Methane",
+        "Ozone"
+      ],
+      "answer": "Nitrous oxide",
+      "explanation": "Nitrous oxide (N2O) is commonly known as 'laughing gas' and is used as an anaesthetic."
+    },
+    {
+      "q_no": 181,
+      "category": "General Awareness",
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Go",
+        "Gd"
+      ],
+      "answer": "Au",
+      "explanation": "The chemical symbol for gold is Au, from its Latin name 'aurum'."
+    },
+    {
+      "q_no": 182,
+      "category": "General Awareness",
+      "question": "What is the chemical symbol for iron?",
+      "options": [
+        "Ir",
+        "In",
+        "Fe",
+        "I"
+      ],
+      "answer": "Fe",
+      "explanation": "The chemical symbol for iron is Fe, from its Latin name 'ferrum'."
+    },
+    {
+      "q_no": 183,
+      "category": "General Awareness",
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": "Leaf",
+      "explanation": "The leaf, containing chlorophyll, is the main site of photosynthesis in plants."
+    },
+    {
+      "q_no": 184,
+      "category": "General Awareness",
+      "question": "In which year did India gain independence from British rule?",
+      "options": [
+        "1945",
+        "1946",
+        "1947",
+        "1950"
+      ],
+      "answer": "1947",
+      "explanation": "India gained independence from British rule on 15th August 1947."
+    },
+    {
+      "q_no": 185,
+      "category": "General Awareness",
+      "question": "When did the Indian Constitution come into effect?",
+      "options": [
+        "26th January 1950",
+        "15th August 1947",
+        "26th November 1949",
+        "2nd October 1950"
+      ],
+      "answer": "26th January 1950",
+      "explanation": "The Indian Constitution came into effect on 26th January 1950, celebrated as Republic Day."
+    },
+    {
+      "q_no": 186,
+      "category": "General Awareness",
+      "question": "Who was the first Prime Minister of India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "explanation": "Jawaharlal Nehru was the first Prime Minister of independent India."
+    },
+    {
+      "q_no": 187,
+      "category": "General Awareness",
+      "question": "Who was the first President of India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "answer": "Dr. Rajendra Prasad",
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+    },
+    {
+      "q_no": 188,
+      "category": "General Awareness",
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhagat Singh"
+      ],
+      "answer": "Mahatma Gandhi",
+      "explanation": "Mahatma Gandhi is honoured as the 'Father of the Nation' in India."
+    },
+    {
+      "q_no": 189,
+      "category": "General Awareness",
+      "question": "The Quit India Movement was launched in which year?",
+      "options": [
+        "1930",
+        "1942",
+        "1920",
+        "1935"
+      ],
+      "answer": "1942",
+      "explanation": "The Quit India Movement was launched by Mahatma Gandhi in August 1942."
+    },
+    {
+      "q_no": 190,
+      "category": "General Awareness",
+      "question": "Who founded the Indian National Congress in 1885?",
+      "options": [
+        "A. O. Hume",
+        "Dadabhai Naoroji",
+        "W. C. Banerjee",
+        "Surendranath Banerjee"
+      ],
+      "answer": "A. O. Hume",
+      "explanation": "The Indian National Congress was founded in 1885 by Allan Octavian Hume, a retired British civil servant."
+    },
+    {
+      "q_no": 191,
+      "category": "General Awareness",
+      "question": "The Jallianwala Bagh massacre took place in which city?",
+      "options": [
+        "Delhi",
+        "Amritsar",
+        "Lahore",
+        "Lucknow"
+      ],
+      "answer": "Amritsar",
+      "explanation": "The Jallianwala Bagh massacre occurred in Amritsar, Punjab, in April 1919."
+    },
+    {
+      "q_no": 192,
+      "category": "General Awareness",
+      "question": "Who was the Viceroy of India during the partition of Bengal in 1905?",
+      "options": [
+        "Lord Curzon",
+        "Lord Mountbatten",
+        "Lord Ripon",
+        "Lord Wellesley"
+      ],
+      "answer": "Lord Curzon",
+      "explanation": "Lord Curzon, as Viceroy of India, ordered the partition of Bengal in 1905."
+    },
+    {
+      "q_no": 193,
+      "category": "General Awareness",
+      "question": "Who was the last Governor-General and first Prime Minister-appointing Viceroy at the time of India's independence?",
+      "options": [
+        "Lord Wavell",
+        "Lord Mountbatten",
+        "Lord Curzon",
+        "Lord Irwin"
+      ],
+      "answer": "Lord Mountbatten",
+      "explanation": "Lord Mountbatten was the last Viceroy of British India and oversaw the transfer of power in 1947."
+    },
+    {
+      "q_no": 194,
+      "category": "General Awareness",
+      "question": "In which sport is the 'Ranji Trophy' associated with in India?",
+      "options": [
+        "Hockey",
+        "Cricket",
+        "Football",
+        "Badminton"
+      ],
+      "answer": "Cricket",
+      "explanation": "The Ranji Trophy is a domestic first-class cricket championship played in India."
+    },
+    {
+      "q_no": 195,
+      "category": "General Awareness",
+      "question": "How many players are there in a standard cricket team on the field?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "explanation": "A standard cricket team fields 11 players at a time."
+    },
+    {
+      "q_no": 196,
+      "category": "General Awareness",
+      "question": "How many players are there in a standard football (soccer) team on the field?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "explanation": "A standard football team fields 11 players at a time, including the goalkeeper."
+    },
+    {
+      "q_no": 197,
+      "category": "General Awareness",
+      "question": "Which award is the highest civilian award in India?",
+      "options": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Shri"
+      ],
+      "answer": "Bharat Ratna",
+      "explanation": "The Bharat Ratna is the highest civilian award in India."
+    },
+    {
+      "q_no": 198,
+      "category": "General Awareness",
+      "question": "Which is the highest gallantry award in India?",
+      "options": [
+        "Ashoka Chakra",
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra"
+      ],
+      "answer": "Param Vir Chakra",
+      "explanation": "The Param Vir Chakra is India's highest military decoration, awarded for the highest degree of valour."
+    },
+    {
+      "q_no": 199,
+      "category": "General Awareness",
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        "Hyderabad",
+        "Bengaluru",
+        "Pune",
+        "Chennai"
+      ],
+      "answer": "Bengaluru",
+      "explanation": "Bengaluru is popularly known as the 'Silicon Valley of India' due to its concentration of IT companies."
+    },
+    {
+      "q_no": 200,
+      "category": "General Awareness",
+      "question": "Which is the national bird of India?",
+      "options": [
+        "Parrot",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": "Peacock",
+      "explanation": "The Indian Peacock (peafowl) is the national bird of India."
+    }
+  ]
+}
