@@ -1,0 +1,2090 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F3ECDA">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>QuizMaster</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<style>
+  :root{
+    --paper:#F3ECDA;
+    --paper-light:#FBF8EF;
+    --graphite:#2B2B2E;
+    --graphite-soft:#6B6759;
+    --pencil:#E8B923;
+    --pen-blue:#2C5F8A;
+    --pen-red:#C0392B;
+    --pen-green:#3F7D4F;
+    --line:#D8CBA8;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+  html,body{margin:0;padding:0;background:var(--paper);color:var(--graphite);}
+  body{
+    font-family:'Public Sans',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  button{font-family:inherit;}
+  .app-shell{max-width:540px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column;position:relative;}
+  .content{flex:1;padding:24px 20px 12px;}
+
+  .stamp{
+    display:inline-block;border:3px solid var(--pen-blue);color:var(--pen-blue);
+    padding:6px 16px;transform:rotate(-2deg);font-family:'Space Mono',monospace;
+    font-weight:700;text-transform:uppercase;letter-spacing:2px;border-radius:4px;
+    font-size:clamp(20px,6vw,28px);
+  }
+  .subtitle{color:var(--graphite-soft);margin-top:18px;font-size:15px;line-height:1.5;}
+  .eyebrow{
+    font-family:'Space Mono',monospace;font-size:12px;letter-spacing:1.5px;
+    text-transform:uppercase;color:var(--graphite-soft);margin-bottom:4px;
+  }
+
+  .home-hero{padding-top:12vh;text-align:center;}
+  .home-buttons{margin-top:48px;display:flex;flex-direction:column;gap:14px;}
+
+  .btn{
+    display:flex;align-items:center;justify-content:center;gap:10px;
+    padding:16px 20px;border-radius:10px;border:none;font-size:16px;font-weight:600;
+    cursor:pointer;min-height:52px;transition:transform .1s ease, opacity .15s ease;
+  }
+  .btn:active{transform:scale(0.98);}
+  .btn-primary{background:var(--pen-blue);color:#fff;}
+  .btn-success{background:var(--pen-green);color:#fff;}
+  .btn-outline{background:transparent;color:var(--graphite);border:1.5px solid var(--graphite);}
+  .btn-text{background:transparent;color:var(--pen-blue);font-weight:600;padding:10px;}
+  .btn-danger{background:transparent;color:var(--pen-red);border:1.5px solid var(--pen-red);}
+  .btn:disabled{opacity:.4;cursor:not-allowed;}
+  .btn-row{display:flex;gap:10px;}
+  .btn-row .btn{flex:1;}
+
+  .card{
+    background:var(--paper-light);border:1px solid var(--line);border-radius:12px;
+    padding:18px;margin-bottom:14px;
+  }
+  .perforated::before{
+    content:"";display:block;height:10px;margin:-18px -18px 14px;
+    background-image:radial-gradient(circle, var(--paper) 3.2px, transparent 3.6px);
+    background-size:16px 16px;background-position:2px -3px;background-repeat:repeat-x;
+    border-bottom:1px dashed var(--line);
+  }
+
+  .field-label{font-size:13px;font-weight:600;color:var(--graphite-soft);margin-bottom:6px;display:block;}
+  input[type=text], textarea{
+    width:100%;padding:12px 14px;border:1.5px solid var(--line);border-radius:8px;
+    font-size:15px;font-family:inherit;background:#fff;color:var(--graphite);
+  }
+  input[type=text]:focus, textarea:focus{outline:2px solid var(--pen-blue);outline-offset:1px;border-color:var(--pen-blue);}
+  textarea{resize:vertical;min-height:70px;}
+
+  /* progress */
+  .progress-track{height:8px;background:var(--line);border-radius:4px;overflow:hidden;margin:14px 0 6px;}
+  .progress-fill{height:100%;background:var(--pencil);transition:width .25s ease;}
+  .progress-label{font-family:'Space Mono',monospace;font-size:12px;color:var(--graphite-soft);}
+
+  .question-text{font-size:clamp(18px,5vw,22px);font-weight:700;line-height:1.35;margin:16px 0 22px;}
+
+  /* scantron-style options */
+  .option{
+    display:flex;align-items:center;gap:14px;padding:14px;border:1.5px solid var(--line);
+    border-radius:10px;margin-bottom:10px;background:var(--paper-light);cursor:pointer;
+    transition:border-color .15s ease, box-shadow .15s ease;
+  }
+  .option:active{transform:scale(0.995);}
+  .option.selected{border-color:var(--pen-blue);box-shadow:0 0 0 1.5px var(--pen-blue) inset;}
+  .option.locked{cursor:default;}
+  .option.correct{background:#CFE8D4;border-color:var(--pen-green);box-shadow:0 0 0 1.5px var(--pen-green) inset;}
+  .option.incorrect{background:#F3D3CD;border-color:var(--pen-red);box-shadow:0 0 0 1.5px var(--pen-red) inset;}
+  .bubble{
+    width:32px;height:32px;min-width:32px;border-radius:50%;border:2.5px solid var(--graphite);
+    display:flex;align-items:center;justify-content:center;font-family:'Space Mono',monospace;
+    font-weight:700;font-size:14px;transition:background .15s ease, border-color .15s ease;
+  }
+  .option.selected .bubble{background:var(--pencil);border-color:var(--graphite);}
+  .option.correct .bubble{background:#fff;border-color:var(--pen-green);}
+  .option.incorrect .bubble{background:#fff;border-color:var(--pen-red);}
+  .option-text{font-size:15.5px;}
+
+  .feedback-msg{margin-top:16px;padding:12px 14px;border-radius:8px;font-weight:700;font-size:14.5px;}
+  .feedback-correct{background:#E7F1E9;color:var(--pen-green);}
+  .feedback-wrong{background:#F7E8E6;color:var(--pen-red);}
+  .feedback-locked{background:var(--line);color:var(--graphite-soft);}
+
+  .toggle-row{display:flex;align-items:center;gap:10px;margin-top:26px;font-size:13.5px;color:var(--graphite-soft);}
+  .toggle-row input[type=checkbox]{width:19px;height:19px;accent-color:var(--pen-blue);flex-shrink:0;}
+  .toggle-row.mt-tight{margin-top:14px;}
+
+  .timer-input-row{display:flex;align-items:center;gap:10px;margin-top:12px;margin-left:29px;}
+  .timer-input-row .field-label{margin-bottom:0;white-space:nowrap;}
+  .timer-input-row input[type=text]{width:64px;padding:8px 10px;text-align:center;}
+
+  .advanced-settings{margin-top:22px;}
+  .advanced-toggle{
+    background:none;border:none;padding:0;color:var(--graphite-soft);font-size:13px;font-weight:600;
+    cursor:pointer;font-family:inherit;
+  }
+  .advanced-panel{display:none;margin-top:12px;padding:14px;border:1px dashed var(--line);border-radius:10px;}
+  .advanced-panel.open{display:block;}
+  .advanced-panel input[type=text]{width:120px;}
+
+  /* per-question timer badge */
+  .meta-row{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+  .timer-display{
+    font-family:'Space Mono',monospace;font-size:13px;font-weight:700;color:var(--graphite-soft);
+    background:var(--paper-light);border:1.5px solid var(--line);border-radius:20px;padding:4px 12px;
+    white-space:nowrap;
+  }
+  .timer-display.timer-warning{color:var(--pen-red);border-color:var(--pen-red);background:#F7E8E6;}
+
+  /* bottom nav */
+  .bottom-nav{
+    position:sticky;bottom:0;background:var(--paper);padding:14px 20px calc(14px + env(safe-area-inset-bottom));
+    border-top:1px solid var(--line);display:flex;flex-direction:column;gap:10px;
+  }
+
+  /* modal */
+  .modal-overlay{
+    position:fixed;inset:0;background:rgba(43,43,46,.55);display:flex;align-items:flex-end;
+    justify-content:center;z-index:50;
+  }
+  .modal{
+    background:var(--paper-light);width:100%;max-width:540px;border-radius:16px 16px 0 0;
+    padding:22px 20px calc(22px + env(safe-area-inset-bottom));max-height:88vh;overflow-y:auto;
+  }
+  .modal h3{margin:0 0 16px;font-family:'Space Mono',monospace;font-size:16px;text-transform:uppercase;letter-spacing:1px;}
+  .type-toggle{display:flex;gap:8px;margin:10px 0 16px;}
+  .type-pill{
+    flex:1;padding:10px;text-align:center;border:1.5px solid var(--line);border-radius:8px;
+    font-size:13.5px;font-weight:600;cursor:pointer;color:var(--graphite-soft);
+  }
+  .type-pill.active{border-color:var(--pen-blue);color:var(--pen-blue);background:#EAF1F6;}
+  .option-input-row{display:flex;align-items:center;gap:8px;margin-bottom:8px;}
+  .option-input-row span{font-family:'Space Mono',monospace;font-size:13px;width:18px;color:var(--graphite-soft);}
+  .hint{font-size:12px;color:var(--graphite-soft);margin-top:4px;line-height:1.4;}
+
+  /* builder list */
+  .q-row{
+    display:flex;justify-content:space-between;align-items:flex-start;gap:10px;
+    padding:12px;border:1px solid var(--line);border-radius:8px;margin-bottom:8px;background:var(--paper-light);
+  }
+  .q-row-text{font-size:14.5px;flex:1;}
+  .q-row-remove{color:var(--pen-red);background:none;border:none;font-size:13px;font-weight:600;cursor:pointer;padding:4px;}
+
+  /* results */
+  .score-badge{
+    font-family:'Space Mono',monospace;font-size:clamp(28px,9vw,40px);font-weight:700;
+    text-align:center;margin:6px 0 4px;
+  }
+  .pill{display:inline-block;padding:3px 10px;border-radius:20px;font-size:12px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;}
+  .pill-correct{background:#E7F1E9;color:var(--pen-green);}
+  .pill-wrong{background:#F7E8E6;color:var(--pen-red);}
+  .pill-skipped{background:var(--line);color:var(--graphite-soft);}
+  .marks-label{float:right;font-family:'Space Mono',monospace;font-size:12px;font-weight:700;color:var(--graphite-soft);}
+  .review-answer{font-size:14px;margin-top:8px;color:var(--graphite-soft);}
+  .review-answer b{color:var(--graphite);}
+  .score-breakdown{text-align:center;font-size:13px;color:var(--graphite-soft);margin-top:4px;}
+
+  .help-text{white-space:pre-wrap;font-family:'Space Mono',monospace;font-size:12.5px;line-height:1.6;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px;}
+
+  #file-input{display:none;}
+  .center-text{text-align:center;}
+  .mt-6{margin-top:6px;}
+  .mt-24{margin-top:24px;}
+
+  /* dark mode */
+  [data-theme="dark"]{
+    --paper:#1B1B1D;--paper-light:#242427;--graphite:#F0EDE4;--graphite-soft:#A6A296;
+    --pen-blue:#5B9BD5;--pen-red:#E07A6C;--pen-green:#6FBF7F;--line:#3A3A3D;
+  }
+  [data-theme="dark"] input[type=text],[data-theme="dark"] textarea{background:#2A2A2D;color:var(--graphite);}
+  [data-theme="dark"] .modal-overlay{background:rgba(0,0,0,.65);}
+  [data-theme="dark"] .option.correct{background:#274430;}
+  [data-theme="dark"] .option.incorrect{background:#4A2C27;}
+  [data-theme="dark"] .option.correct .bubble,[data-theme="dark"] .option.incorrect .bubble{background:#1B1B1D;}
+
+  /* flag / bookmark button */
+  .flag-btn{
+    background:none;border:1.5px solid var(--line);border-radius:20px;padding:6px 12px;
+    font-size:12.5px;font-weight:600;color:var(--graphite-soft);cursor:pointer;font-family:inherit;
+  }
+  .flag-btn.active{border-color:var(--pencil);color:#8A6A0E;background:#FBF1D6;}
+
+  /* question navigator */
+  .navigator-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:8px 0 16px;}
+  .nav-cell{
+    aspect-ratio:1;border-radius:8px;border:1.5px solid var(--line);background:var(--paper-light);
+    font-family:'Space Mono',monospace;font-weight:700;font-size:13px;cursor:pointer;color:var(--graphite);
+  }
+  .nav-cell.answered{border-color:var(--pen-green);background:#E7F1E9;color:var(--pen-green);}
+  .nav-cell.flagged{box-shadow:0 0 0 2px var(--pencil) inset;}
+  .nav-cell.current{border-color:var(--pen-blue);box-shadow:0 0 0 2px var(--pen-blue) inset;}
+  .nav-cell:disabled{opacity:.4;cursor:not-allowed;}
+  .nav-legend{display:flex;flex-wrap:wrap;gap:12px;font-size:12px;color:var(--graphite-soft);margin-bottom:6px;}
+  .nav-legend .dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:middle;}
+  .dot-answered{background:var(--pen-green);}
+  .dot-unanswered{background:var(--line);}
+  .dot-flagged{background:var(--pencil);}
+  .dot-current{background:var(--pen-blue);}
+
+  /* result filter tabs */
+  .tabs{display:flex;gap:8px;flex-wrap:wrap;}
+  .tab-pill{
+    padding:8px 12px;border:1.5px solid var(--line);border-radius:20px;font-size:12.5px;font-weight:600;
+    cursor:pointer;color:var(--graphite-soft);
+  }
+  .tab-pill.active{border-color:var(--pen-blue);color:var(--pen-blue);background:#EAF1F6;}
+
+  .pill-pass{background:#E7F1E9;color:var(--pen-green);}
+  .pill-fail{background:#F7E8E6;color:var(--pen-red);}
+
+  .explanation-box{
+    margin-top:10px;padding:10px 12px;border-left:3px solid var(--pen-blue);background:var(--paper);
+    font-size:13.5px;color:var(--graphite-soft);border-radius:4px;line-height:1.5;
+  }
+
+  /* attempt history */
+  .history-row{
+    display:flex;align-items:center;gap:10px;padding:14px;border:1px solid var(--line);border-radius:10px;
+    margin-bottom:10px;background:var(--paper-light);cursor:pointer;
+  }
+
+  @media print{
+    .no-print,.bottom-nav,#file-input{display:none !important;}
+    body,.app-shell{background:#fff;}
+    .card{break-inside:avoid;}
+  }
+
+  /* gear icon / settings */
+  .top-bar{display:flex;justify-content:flex-end;align-items:center;gap:10px;margin-bottom:6px;}
+  .gear-btn{
+    background:var(--paper-light);border:1.5px solid var(--line);border-radius:50%;
+    width:42px;height:42px;font-size:19px;cursor:pointer;color:var(--graphite);
+    display:flex;align-items:center;justify-content:center;padding:0;flex-shrink:0;
+  }
+  .gear-btn:active{transform:scale(0.95);}
+  .lang-toggle{display:flex;gap:8px;margin:10px 0 20px;}
+</style>
+</head>
+<body>
+<div class="app-shell" id="app"></div>
+<input type="file" id="file-input" accept=".json,.csv,.xlsx,.xls">
+
+<script>
+/* ============================================================
+   OPTIONAL BACKEND (Google Apps Script) — for centralized results
+   and real (server-side) mobile-number access control.
+
+   Leave blank to run fully offline (registration is still collected
+   and shown/exported locally, but only on each attendee's own device).
+
+   To enable: deploy the companion Apps Script (see setup guide),
+   copy its Web App URL, and paste it below.
+   ============================================================ */
+const APPS_SCRIPT_URL = ''; // e.g. 'https://script.google.com/macros/s/XXXXX/exec'
+
+const state = {
+  title: 'Untitled Quiz',
+  questions: [],
+  questionMeta: [],
+  sourceQuestions: [],
+  index: 0,
+  answers: {},
+  checked: {},
+  timedOut: {},
+  questionStart: {},
+  questionTime: {},
+  flagged: {},
+  instantFeedback: false,
+  builderQuestions: [],
+  builderTitle: 'Untitled Quiz',
+  timerEnabled: true,
+  timePerQuestion: 30,
+  timerId: null,
+  timeLeft: 0,
+  overallTimerEnabled: false,
+  overallTimeMinutes: 30,
+  overallTimeLeft: 0,
+  overallTimerId: null,
+  negativeMarking: 0.25,
+  negativeMarkingInput: '1/4',
+  passingPercent: 40,
+  shuffleQuestions: true,
+  shuffleOptions: true,
+  showNavigator: true,
+  lockPrevious: false,
+  darkMode: false,
+  soundEnabled: false,
+  language: 'en',
+  startedAt: null,
+  currentAttemptId: null,
+  attendee: { name: '', mobile: '', email: '' },
+};
+
+/* ---------------- i18n (English / Hindi) ---------------- */
+const I18N = {
+  en: {
+    subtitle: "Load a question bank and take a quiz automatically,<br>or build your own from scratch.",
+    load_file: "Load Quiz File (JSON / CSV / Excel)",
+    create_quiz: "Create New Quiz",
+    my_results: "My Results",
+    file_format_help: "File Format Help",
+    settings: "Settings",
+    done: "Done",
+    language: "Language",
+    instant_feedback: "Show correct/incorrect immediately after each question",
+    time_each_question: "Time each question",
+    seconds_per_question: "Seconds per question",
+    overall_time_limit: "Set an overall time limit for the whole quiz",
+    minutes_whole_quiz: "Minutes for whole quiz",
+    advanced_settings_closed: "Advanced Settings ▸",
+    advanced_settings_open: "Advanced Settings ▾",
+    scoring: "Scoring",
+    negative_marking: "Negative marking (deducted per wrong answer)",
+    negative_marking_hint: "Enter a fraction (1/4, 1/2) or a decimal (0.25). Default is 1/4. Use 0 for no negative marking. Unanswered questions are never penalized.",
+    passing_score: "Passing score (%)",
+    passing_score_hint: "Used to show a Pass / Fail badge on your result.",
+    randomization: "Randomization",
+    shuffle_questions: "Shuffle question order",
+    shuffle_options: "Shuffle answer options",
+    navigation: "Navigation",
+    show_navigator: "Show question map (jump to any question)",
+    lock_previous: "Lock questions after moving forward (no going back)",
+    appearance_sound: "Appearance &amp; Sound",
+    dark_mode: "Dark mode",
+    sound_effects: "Sound effects",
+    help_title: "Question File Format",
+    help_json_title: "JSON (recommended)",
+    help_json_hint: 'Empty "options": [] makes it a typed short-answer question instead of multiple choice. "answer" must match an option exactly for MCQ. "explanation" is optional and appears on the result screen.',
+    help_bilingual_title: "Bilingual JSON (English + Hindi in one file)",
+    help_bilingual_hint: 'Use "_en"/"_hi" suffixed fields to give both languages per question. The app shows whichever matches the language toggle. options_en[i] and options_hi[i] must be the same choice, just translated. Plain "question"/"options"/"answer" (no suffix) still works as English-only.',
+    registration_title: "Before you start",
+    registration_hint: "Enter your details so your score can be recorded.",
+    registration_name: "Full name",
+    registration_name_placeholder: "e.g. Rahul Sharma",
+    registration_mobile: "Mobile number",
+    registration_mobile_placeholder: "10-digit mobile number",
+    registration_email: "Email (optional)",
+    registration_email_placeholder: "e.g. you@example.com",
+    registration_error: "Please enter your name and a valid 10-digit mobile number.",
+    registration_continue: "Continue to Quiz",
+    access_denied: "Access denied for this mobile number.",
+    help_csv_title: "CSV / Excel (easy to build in Excel)",
+    help_csv_hint: 'Leave option columns blank for a typed-answer question. The explanation column is optional. Save as "CSV UTF-8" from Excel, or upload the .xlsx file directly — both work.',
+    help_history_title: "Checking results later",
+    help_history_hint: 'Every completed quiz is saved automatically under "My Results" on the home screen, so you can review a detailed, textbook-style answer key for any past attempt at any time — even after closing the app.',
+    close: "Close",
+    build_eyebrow: "Build",
+    quiz_title: "Quiz title",
+    no_questions_yet: 'No questions yet. Tap "Add Question" to start.',
+    add_question: "Add Question",
+    export_json: "Export to JSON",
+    start_quiz: "Start Quiz",
+    back: "Back",
+    remove: "Remove",
+    add_question_title: "Add Question",
+    question_label: "Question",
+    question_placeholder: "Type the question...",
+    multiple_choice: "Multiple Choice",
+    short_answer: "Short Answer",
+    options_label: "Options",
+    option_placeholder: "Option {{n}}",
+    correct_answer_label: "Correct answer",
+    correct_answer_placeholder: "e.g. Paris",
+    correct_answer_hint: "For multiple choice, type the answer exactly as one of the options above.",
+    explanation_label: "Explanation (optional)",
+    explanation_placeholder: "Shown on the result screen to explain the correct answer...",
+    save_question: "Save Question",
+    cancel: "Cancel",
+    alert_fill_question: "Please fill in the question and correct answer.",
+    alert_min_options: "Please provide at least 2 options.",
+    alert_answer_match: "The correct answer must match one of the options exactly.",
+    alert_add_question_first: "Add at least one question first.",
+    question_of: "QUESTION {{n}} OF {{total}}",
+    flagged: "🚩 Flagged for review",
+    flag: "⚑ Flag for review",
+    question_map: "Question Map",
+    correct_feedback: "Correct!",
+    incorrect_feedback: "Incorrect — correct answer: {{answer}}",
+    time_up: "⏱ Time's up for this question — it's locked for the rest of the test.",
+    check_answer: "Check Answer",
+    next: "Next",
+    submit_quiz: "Submit Quiz",
+    previous: "Previous",
+    submit_quiz_now: "Submit Quiz Now",
+    text_answer_placeholder: "Type your answer...",
+    confirm_unanswered: "You have {{n}} unanswered question{{s}}. Submit the quiz anyway?",
+    total_label: "Total",
+    legend_current: "Current",
+    legend_answered: "Answered",
+    legend_unanswered: "Unanswered",
+    legend_flagged: "Flagged",
+    result_review: "Result Review",
+    quiz_complete: "Quiz Complete",
+    pass: "PASS",
+    fail: "FAIL",
+    result_meta: "{{pct}}% · Negative marking: {{negmark}} · Total time: {{total}} · Avg/question: {{avg}}",
+    negmark_off: "off",
+    negmark_per_wrong: "−{{x}} per wrong answer",
+    result_breakdown: "Correct: {{correct}} · Incorrect: {{incorrect}} · Not Attempted: {{skipped}} · Passing mark: {{passmark}}%",
+    tab_all: "All",
+    tab_correct: "Correct",
+    tab_incorrect: "Incorrect",
+    tab_skipped: "Skipped",
+    tab_flagged: "Flagged",
+    pill_correct: "Correct",
+    pill_incorrect: "Incorrect",
+    pill_not_attempted: "Not Attempted",
+    your_answer: "Your answer:",
+    no_answer: "(no answer)",
+    correct_answer_review: "Correct answer:",
+    time_spent: "Time spent:",
+    retake_quiz: "Retake Quiz",
+    retake_this_quiz: "Retake This Quiz",
+    print_pdf: "Print / Save as PDF",
+    export_result: "Export Result (JSON)",
+    view_all_results: "View All Results",
+    home: "Home",
+    no_category: "No questions in this category.",
+    history_eyebrow: "History",
+    history_subtitle: "Every quiz you complete is saved here so you can review a full, textbook-style answer key anytime.",
+    no_results_yet: "No results yet. Complete a quiz and it will show up here — you can check it again anytime.",
+    history_row_meta: "{{correct}}/{{total}} correct · {{pct}}%",
+    delete: "Delete",
+    clear_all_results: "Clear All Results",
+    confirm_delete_attempt: "Delete this result? This cannot be undone.",
+    confirm_clear_history: "Clear all saved results? This cannot be undone.",
+    no_questions_in_file: "No questions were found in that file.",
+    error_reading_file: "Error reading file: {{msg}}",
+    choose_quiz_title: "Choose a Quiz",
+    quiz_load_error: "Could not load this quiz: {{msg}}",
+    settings_icon_label: "Settings",
+    todays_quiz: "Play Today's Quiz",
+    todays_quiz_error: "Could not load today's quiz. Please check your connection and try again.",
+  },
+  hi: {
+    subtitle: "प्रश्न बैंक लोड करें और तुरंत क्विज़ लें,<br>या अपनी खुद की क्विज़ बनाएं।",
+    load_file: "क्विज़ फ़ाइल लोड करें (JSON / CSV / Excel)",
+    create_quiz: "नई क्विज़ बनाएं",
+    my_results: "मेरे परिणाम",
+    file_format_help: "फ़ाइल फॉर्मेट सहायता",
+    settings: "सेटिंग्स",
+    done: "हो गया",
+    language: "भाषा",
+    instant_feedback: "हर प्रश्न के बाद तुरंत सही/गलत दिखाएं",
+    time_each_question: "प्रत्येक प्रश्न का समय निर्धारित करें",
+    seconds_per_question: "प्रति प्रश्न सेकंड",
+    overall_time_limit: "पूरी क्विज़ के लिए कुल समय सीमा तय करें",
+    minutes_whole_quiz: "पूरी क्विज़ के लिए मिनट",
+    advanced_settings_closed: "एडवांस सेटिंग्स ▸",
+    advanced_settings_open: "एडवांस सेटिंग्स ▾",
+    scoring: "स्कोरिंग",
+    negative_marking: "नेगेटिव मार्किंग (हर गलत उत्तर पर कटौती)",
+    negative_marking_hint: "भिन्न (1/4, 1/2) या दशमलव (0.25) दर्ज करें। डिफ़ॉल्ट 1/4 है। नेगेटिव मार्किंग न रखने के लिए 0 दर्ज करें। बिना उत्तर वाले प्रश्नों पर कभी अंक नहीं कटते।",
+    passing_score: "पासिंग स्कोर (%)",
+    passing_score_hint: "आपके परिणाम पर पास / फेल बैज दिखाने के लिए उपयोग होता है।",
+    randomization: "रैंडमाइज़ेशन",
+    shuffle_questions: "प्रश्नों का क्रम बदलें",
+    shuffle_options: "विकल्पों का क्रम बदलें",
+    navigation: "नेविगेशन",
+    show_navigator: "प्रश्न मानचित्र दिखाएं (किसी भी प्रश्न पर जाएं)",
+    lock_previous: "आगे बढ़ने के बाद प्रश्न लॉक करें (वापस नहीं जा सकते)",
+    appearance_sound: "दिखावट और ध्वनि",
+    dark_mode: "डार्क मोड",
+    sound_effects: "ध्वनि प्रभाव",
+    help_title: "प्रश्न फ़ाइल फॉर्मेट",
+    help_json_title: "JSON (अनुशंसित)",
+    help_json_hint: 'खाली "options": [] टाइप किए गए लघु-उत्तर प्रश्न को बहुविकल्पीय के बजाय बनाता है। MCQ के लिए "answer" को किसी एक विकल्प से बिल्कुल मेल खाना चाहिए। "explanation" वैकल्पिक है और परिणाम स्क्रीन पर दिखाई देता है।',
+    help_bilingual_title: "द्विभाषी JSON (एक फ़ाइल में अंग्रेज़ी + हिन्दी)",
+    help_bilingual_hint: 'हर प्रश्न के लिए दोनों भाषाएं देने के लिए "_en"/"_hi" प्रत्यय वाले फ़ील्ड इस्तेमाल करें। ऐप भाषा टॉगल के अनुसार सही फ़ील्ड दिखाता है। options_en[i] और options_hi[i] एक ही विकल्प होना चाहिए, बस अनुवादित। बिना प्रत्यय वाला सादा "question"/"options"/"answer" अब भी केवल-अंग्रेज़ी के रूप में काम करता है।',
+    registration_title: "शुरू करने से पहले",
+    registration_hint: "अपनी जानकारी दर्ज करें ताकि आपका स्कोर दर्ज किया जा सके।",
+    registration_name: "पूरा नाम",
+    registration_name_placeholder: "जैसे राहुल शर्मा",
+    registration_mobile: "मोबाइल नंबर",
+    registration_mobile_placeholder: "10 अंकों का मोबाइल नंबर",
+    registration_email: "ईमेल (वैकल्पिक)",
+    registration_email_placeholder: "जैसे you@example.com",
+    registration_error: "कृपया अपना नाम और एक मान्य 10 अंकों का मोबाइल नंबर दर्ज करें।",
+    registration_continue: "क्विज़ पर जाएँ",
+    access_denied: "इस मोबाइल नंबर के लिए पहुँच अस्वीकृत है।",
+    help_csv_title: "CSV / Excel (Excel में बनाना आसान)",
+    help_csv_hint: 'टाइप किए गए उत्तर वाले प्रश्न के लिए विकल्प कॉलम खाली छोड़ें। व्याख्या कॉलम वैकल्पिक है। Excel से "CSV UTF-8" के रूप में सेव करें, या .xlsx फ़ाइल सीधे अपलोड करें — दोनों काम करते हैं।',
+    help_history_title: "बाद में परिणाम जांचना",
+    help_history_hint: 'हर पूरी की गई क्विज़ होम स्क्रीन पर "मेरे परिणाम" के अंतर्गत स्वतः सेव हो जाती है, ताकि आप किसी भी पिछले प्रयास की विस्तृत उत्तर कुंजी कभी भी देख सकें — ऐप बंद करने के बाद भी।',
+    close: "बंद करें",
+    build_eyebrow: "निर्माण",
+    quiz_title: "क्विज़ शीर्षक",
+    no_questions_yet: 'अभी तक कोई प्रश्न नहीं है। शुरू करने के लिए "प्रश्न जोड़ें" पर टैप करें।',
+    add_question: "प्रश्न जोड़ें",
+    export_json: "JSON में एक्सपोर्ट करें",
+    start_quiz: "क्विज़ शुरू करें",
+    back: "वापस",
+    remove: "हटाएं",
+    add_question_title: "प्रश्न जोड़ें",
+    question_label: "प्रश्न",
+    question_placeholder: "प्रश्न लिखें...",
+    multiple_choice: "बहुविकल्पीय",
+    short_answer: "लघु उत्तर",
+    options_label: "विकल्प",
+    option_placeholder: "विकल्प {{n}}",
+    correct_answer_label: "सही उत्तर",
+    correct_answer_placeholder: "जैसे पेरिस",
+    correct_answer_hint: "बहुविकल्पीय के लिए, उत्तर को ऊपर दिए गए किसी एक विकल्प के अनुसार बिल्कुल वैसे ही लिखें।",
+    explanation_label: "व्याख्या (वैकल्पिक)",
+    explanation_placeholder: "सही उत्तर समझाने के लिए परिणाम स्क्रीन पर दिखाया जाएगा...",
+    save_question: "प्रश्न सहेजें",
+    cancel: "रद्द करें",
+    alert_fill_question: "कृपया प्रश्न और सही उत्तर भरें।",
+    alert_min_options: "कृपया कम से कम 2 विकल्प दें।",
+    alert_answer_match: "सही उत्तर किसी एक विकल्प से बिल्कुल मेल खाना चाहिए।",
+    alert_add_question_first: "पहले कम से कम एक प्रश्न जोड़ें।",
+    question_of: "प्रश्न {{n}} में से {{total}}",
+    flagged: "🚩 समीक्षा हेतु चिह्नित",
+    flag: "⚑ समीक्षा हेतु चिह्नित करें",
+    question_map: "प्रश्न मानचित्र",
+    correct_feedback: "सही!",
+    incorrect_feedback: "गलत — सही उत्तर: {{answer}}",
+    time_up: "⏱ इस प्रश्न का समय समाप्त — यह शेष परीक्षा के लिए लॉक है।",
+    check_answer: "उत्तर जांचें",
+    next: "अगला",
+    submit_quiz: "क्विज़ सबमिट करें",
+    previous: "पिछला",
+    submit_quiz_now: "अभी क्विज़ सबमिट करें",
+    text_answer_placeholder: "अपना उत्तर लिखें...",
+    confirm_unanswered: "आपके {{n}} प्रश्न अनुत्तरित हैं। फिर भी क्विज़ सबमिट करें?",
+    total_label: "कुल",
+    legend_current: "वर्तमान",
+    legend_answered: "उत्तरित",
+    legend_unanswered: "अनुत्तरित",
+    legend_flagged: "चिह्नित",
+    result_review: "परिणाम समीक्षा",
+    quiz_complete: "क्विज़ पूर्ण",
+    pass: "पास",
+    fail: "फेल",
+    result_meta: "{{pct}}% · नेगेटिव मार्किंग: {{negmark}} · कुल समय: {{total}} · औसत/प्रश्न: {{avg}}",
+    negmark_off: "बंद",
+    negmark_per_wrong: "−{{x}} प्रति गलत उत्तर",
+    result_breakdown: "सही: {{correct}} · गलत: {{incorrect}} · अनुत्तरित: {{skipped}} · पासिंग मार्क: {{passmark}}%",
+    tab_all: "सभी",
+    tab_correct: "सही",
+    tab_incorrect: "गलत",
+    tab_skipped: "छोड़े गए",
+    tab_flagged: "चिह्नित",
+    pill_correct: "सही",
+    pill_incorrect: "गलत",
+    pill_not_attempted: "अनुत्तरित",
+    your_answer: "आपका उत्तर:",
+    no_answer: "(कोई उत्तर नहीं)",
+    correct_answer_review: "सही उत्तर:",
+    time_spent: "लगा समय:",
+    retake_quiz: "क्विज़ फिर से लें",
+    retake_this_quiz: "यह क्विज़ फिर से लें",
+    print_pdf: "प्रिंट / PDF के रूप में सेव करें",
+    export_result: "परिणाम एक्सपोर्ट करें (JSON)",
+    view_all_results: "सभी परिणाम देखें",
+    home: "होम",
+    no_category: "इस श्रेणी में कोई प्रश्न नहीं है।",
+    history_eyebrow: "इतिहास",
+    history_subtitle: "आपकी पूरी की गई हर क्विज़ यहां सेव होती है ताकि आप कभी भी पूरी उत्तर कुंजी देख सकें।",
+    no_results_yet: "अभी तक कोई परिणाम नहीं है। क्विज़ पूरी करें और यह यहां दिखाई देगा — आप इसे बाद में कभी भी देख सकते हैं।",
+    history_row_meta: "{{correct}}/{{total}} सही · {{pct}}%",
+    delete: "हटाएं",
+    clear_all_results: "सभी परिणाम साफ़ करें",
+    confirm_delete_attempt: "यह परिणाम हटाएं? इसे पूर्ववत नहीं किया जा सकता।",
+    confirm_clear_history: "सभी सहेजे गए परिणाम साफ़ करें? इसे पूर्ववत नहीं किया जा सकता।",
+    no_questions_in_file: "उस फ़ाइल में कोई प्रश्न नहीं मिला।",
+    error_reading_file: "फ़ाइल पढ़ने में त्रुटि: {{msg}}",
+    choose_quiz_title: "एक क्विज़ चुनें",
+    quiz_load_error: "यह क्विज़ लोड नहीं हो सकी: {{msg}}",
+    settings_icon_label: "सेटिंग्स",
+    todays_quiz: "आज की क्विज़ खेलें",
+    todays_quiz_error: "आज की क्विज़ लोड नहीं हो सकी। कृपया अपना कनेक्शन जांचें और फिर से प्रयास करें।",
+  }
+};
+function t(key, params){
+  const dict = I18N[state.language] || I18N.en;
+  let str = dict[key] !== undefined ? dict[key] : (I18N.en[key] !== undefined ? I18N.en[key] : key);
+  if (params){
+    Object.keys(params).forEach(k => {
+      str = str.split('{{' + k + '}}').join(params[k]);
+    });
+  }
+  return str;
+}
+let rerender = null;
+
+const SETTINGS_KEY = 'quizmaster_settings_v1';
+const HISTORY_KEY = 'quizmaster_history_v1';
+const ATTENDEE_KEY = 'quizmaster_attendee_v1';
+
+function saveAttendee(){
+  try{ localStorage.setItem(ATTENDEE_KEY, JSON.stringify(state.attendee)); } catch(e){ /* ignore */ }
+}
+function loadAttendee(){
+  try{
+    const raw = localStorage.getItem(ATTENDEE_KEY);
+    if (raw) Object.assign(state.attendee, JSON.parse(raw));
+  } catch(e){ /* ignore */ }
+}
+function validMobile(m){ return /^[0-9]{10}$/.test((m||'').trim()); }
+function validEmail(m){ return !m || /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(m.trim()); }
+
+function saveSettings(){
+  try{
+    const s = {
+      instantFeedback: state.instantFeedback,
+      timerEnabled: state.timerEnabled,
+      timePerQuestion: state.timePerQuestion,
+      overallTimerEnabled: state.overallTimerEnabled,
+      overallTimeMinutes: state.overallTimeMinutes,
+      negativeMarking: state.negativeMarking,
+      negativeMarkingInput: state.negativeMarkingInput,
+      passingPercent: state.passingPercent,
+      shuffleQuestions: state.shuffleQuestions,
+      shuffleOptions: state.shuffleOptions,
+      showNavigator: state.showNavigator,
+      lockPrevious: state.lockPrevious,
+      darkMode: state.darkMode,
+      soundEnabled: state.soundEnabled,
+      language: state.language,
+    };
+    localStorage.setItem(SETTINGS_KEY, JSON.stringify(s));
+  } catch(e){ /* storage unavailable — ignore */ }
+}
+function loadSettings(){
+  try{
+    const raw = localStorage.getItem(SETTINGS_KEY);
+    if (!raw) return;
+    Object.assign(state, JSON.parse(raw));
+  } catch(e){ /* ignore corrupt/blocked storage */ }
+}
+function applyTheme(){
+  if (state.darkMode) document.documentElement.setAttribute('data-theme','dark');
+  else document.documentElement.removeAttribute('data-theme');
+}
+function playSound(kind){
+  if (!state.soundEnabled) return;
+  try{
+    const ctx = playSound._ctx || (playSound._ctx = new (window.AudioContext||window.webkitAudioContext)());
+    const o = ctx.createOscillator(), g = ctx.createGain();
+    o.connect(g); g.connect(ctx.destination);
+    const freqs = { correct:880, wrong:220, timeup:440 };
+    o.frequency.value = freqs[kind] || 440;
+    g.gain.setValueAtTime(0.15, ctx.currentTime);
+    g.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.25);
+    o.start(); o.stop(ctx.currentTime + 0.25);
+  } catch(e){ /* audio not available — ignore */ }
+}
+
+/* ---------------- Attendee registration + gated quiz launch ---------------- */
+let pendingLaunch = null; // holds the startQuiz-triggering function while registration/access modal is open
+
+function renderRegistrationModal(onDone, opts){
+  opts = opts || {};
+  const a = state.attendee;
+  const overlay = document.createElement('div');
+  overlay.className = 'modal-overlay';
+  overlay.setAttribute('data-overlay','registration');
+  overlay.innerHTML = `
+    <div class="modal">
+      <h3>${t('registration_title')}</h3>
+      <p class="hint mt-6" style="margin-bottom:16px;">${t('registration_hint')}</p>
+      <label class="field-label">${t('registration_name')}</label>
+      <input type="text" id="reg-name" value="${escapeAttr(a.name||'')}" placeholder="${escapeAttr(t('registration_name_placeholder'))}">
+      <label class="field-label mt-24">${t('registration_mobile')}</label>
+      <input type="text" id="reg-mobile" inputmode="numeric" maxlength="10" value="${escapeAttr(a.mobile||'')}" placeholder="${escapeAttr(t('registration_mobile_placeholder'))}">
+      <label class="field-label mt-24">${t('registration_email')}</label>
+      <input type="text" id="reg-email" value="${escapeAttr(a.email||'')}" placeholder="${escapeAttr(t('registration_email_placeholder'))}">
+      <p id="reg-error" class="hint" style="color:var(--pen-red);display:none;margin-top:10px;"></p>
+      <button class="btn btn-primary mt-24" style="width:100%;" data-action="submit-registration">${t('registration_continue')}</button>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+  pendingLaunch = onDone;
+}
+
+function handleRegistrationSubmit(){
+  const name = document.getElementById('reg-name').value.trim();
+  const mobile = document.getElementById('reg-mobile').value.trim();
+  const email = document.getElementById('reg-email').value.trim();
+  const errEl = document.getElementById('reg-error');
+  if (!name || !validMobile(mobile) || !validEmail(email)){
+    errEl.textContent = t('registration_error');
+    errEl.style.display = 'block';
+    return;
+  }
+  state.attendee = { name, mobile, email };
+  saveAttendee();
+  closeModal();
+  const launch = pendingLaunch;
+  pendingLaunch = null;
+  if (launch) proceedToAccessCheck(launch);
+}
+
+/* Optional server-side (Apps Script) access check by mobile number.
+   Only runs if APPS_SCRIPT_URL is configured; otherwise access is open. */
+function proceedToAccessCheck(launch){
+  if (!APPS_SCRIPT_URL){ launch(); return; }
+  fetch(APPS_SCRIPT_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+    body: JSON.stringify({ action: 'checkAccess', mobile: state.attendee.mobile, quizTitle: state.title || (dailyQuiz && dailyQuiz.title) || '' })
+  })
+    .then(res => res.json())
+    .then(data => {
+      if (data && data.allowed){ launch(); }
+      else { alert(t('access_denied') + (data && data.reason ? '\n' + data.reason : '')); }
+    })
+    .catch(() => { launch(); /* backend unreachable — fail open so a network hiccup doesn't lock out attendees */ });
+}
+
+/** Wrap any quiz-start action: ensures attendee is registered (once), then starts the quiz. */
+function requireRegistrationThen(launch){
+  if (state.attendee.name && validMobile(state.attendee.mobile)){
+    proceedToAccessCheck(launch);
+  } else {
+    renderRegistrationModal(launch);
+  }
+}
+
+/** Fire-and-forget: sends a completed attempt's score to the Apps Script backend, if configured. */
+function submitResultToBackend(attempt){
+  if (!APPS_SCRIPT_URL) return;
+  const correct = Object.keys(attempt.answers||{}).filter(k => attempt.answers[k] === (attempt.questions[k]||{}).answer).length;
+  fetch(APPS_SCRIPT_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+    body: JSON.stringify({
+      action: 'submitResult',
+      name: state.attendee.name,
+      mobile: state.attendee.mobile,
+      email: state.attendee.email,
+      quizTitle: attempt.title,
+      totalQuestions: attempt.questions.length,
+      correctCount: correct,
+      date: attempt.date,
+    })
+  }).catch(() => { /* best-effort — local history already has the result */ });
+}
+
+
+function getHistory(){
+  try{ return JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]'); } catch(e){ return []; }
+}
+function setHistory(list){
+  try{ localStorage.setItem(HISTORY_KEY, JSON.stringify(list)); }
+  catch(e){ try{ localStorage.setItem(HISTORY_KEY, JSON.stringify(list.slice(0,50))); } catch(e2){ /* ignore */ } }
+}
+function saveAttemptToHistory(attempt){
+  const list = getHistory();
+  list.unshift(attempt);
+  if (list.length > 200) list.length = 200;
+  setHistory(list);
+}
+function deleteAttempt(id){ setHistory(getHistory().filter(a => a.id !== id)); }
+function clearAllHistory(){ setHistory([]); }
+
+function computeSummary(attempt){
+  const total = attempt.questions.length;
+  let rawScore = 0, correctCount = 0, incorrectCount = 0, skippedCount = 0;
+  attempt.questions.forEach((q, i) => {
+    const given = (attempt.answers[i] || '');
+    const attempted = !!given.trim();
+    const correct = attempted && given.trim().toLowerCase() === q.answer.trim().toLowerCase();
+    if (!attempted) skippedCount++;
+    else if (correct){ correctCount++; rawScore += 1; }
+    else { incorrectCount++; rawScore -= attempt.negativeMarking; }
+  });
+  const pct = total ? Math.round((rawScore/total)*100) : 0;
+  const passed = pct >= (attempt.passingPercent ?? 40);
+  return { total, rawScore, correctCount, incorrectCount, skippedCount, pct, passed };
+}
+function buildAttemptFromState(){
+  const totalTime = state.startedAt ? Math.round((Date.now() - state.startedAt) / 1000) : 0;
+  return {
+    id: state.currentAttemptId || ('a_' + Date.now()),
+    title: state.title,
+    date: new Date().toISOString(),
+    attendeeName: state.attendee.name || '',
+    attendeeMobile: state.attendee.mobile || '',
+    attendeeEmail: state.attendee.email || '',
+    questions: state.questions.map(q => ({ question:q.question, options:(q.options||[]).slice(), answer:q.answer, explanation:q.explanation||'' })),
+    answers: Object.assign({}, state.answers),
+    checked: Object.assign({}, state.checked),
+    timedOut: Object.assign({}, state.timedOut),
+    questionTime: Object.assign({}, state.questionTime),
+    flagged: Object.assign({}, state.flagged),
+    negativeMarking: state.negativeMarking,
+    negativeMarkingInput: state.negativeMarkingInput,
+    passingPercent: state.passingPercent,
+    totalTime,
+  };
+}
+
+const app = document.getElementById('app');
+const fileInput = document.getElementById('file-input');
+
+/* ---------------- CSV parsing ---------------- */
+function parseCSV(text){
+  const rows = [];
+  let row = [], field = '', inQuotes = false;
+  for (let i = 0; i < text.length; i++){
+    const c = text[i];
+    if (inQuotes){
+      if (c === '"'){
+        if (text[i+1] === '"'){ field += '"'; i++; } else { inQuotes = false; }
+      } else field += c;
+    } else {
+      if (c === '"') inQuotes = true;
+      else if (c === ','){ row.push(field); field=''; }
+      else if (c === '\n' || c === '\r'){
+        if (c === '\r' && text[i+1] === '\n') i++;
+        row.push(field); field=''; rows.push(row); row=[];
+      } else field += c;
+    }
+  }
+  if (field.length || row.length){ row.push(field); rows.push(row); }
+  return rows.filter(r => !(r.length === 1 && r[0].trim() === ''));
+}
+
+/* Recognizes English and Hindi column headers, e.g. "प्रश्न" for "question" */
+const HEADER_ALIASES = {
+  question: ['question','ques','प्रश्न'],
+  answer: ['answer','ans','उत्तर'],
+  explanation: ['explanation','explain','व्याख्या'],
+  option1: ['option1','opt1','विकल्प1'],
+  option2: ['option2','opt2','विकल्प2'],
+  option3: ['option3','opt3','विकल्प3'],
+  option4: ['option4','opt4','विकल्प4'],
+};
+function findHeaderIndex(headers, key){
+  const aliases = HEADER_ALIASES[key] || [key];
+  for (const alias of aliases){
+    const idx = headers.indexOf(alias);
+    if (idx >= 0) return idx;
+  }
+  return -1;
+}
+function rowsToQuestions(rows){
+  if (!rows || !rows.length) return [];
+  const headers = rows[0].map(h => String(h == null ? '' : h).trim().toLowerCase());
+  const qIdx = findHeaderIndex(headers, 'question');
+  const aIdx = findHeaderIndex(headers, 'answer');
+  const explIdx = findHeaderIndex(headers, 'explanation');
+  const optIdx = [1,2,3,4].map(n => findHeaderIndex(headers, 'option'+n));
+  const out = [];
+  for (let r = 1; r < rows.length; r++){
+    const row = rows[r] || [];
+    const q = String(row[qIdx] == null ? '' : row[qIdx]).trim();
+    if (!q) continue;
+    const options = optIdx.map(idx => idx >= 0 ? String(row[idx] == null ? '' : row[idx]).trim() : '').filter(Boolean);
+    const answer = String(row[aIdx] == null ? '' : row[aIdx]).trim();
+    const explanation = explIdx >= 0 ? String(row[explIdx] == null ? '' : row[explIdx]).trim() : '';
+    out.push({ question: q, options, answer, explanation });
+  }
+  return out;
+}
+function csvToQuestions(text){ return rowsToQuestions(parseCSV(text)); }
+
+/* ---------------- File loading (JSON, CSV, and Excel .xlsx/.xls) ---------------- */
+fileInput.addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const name = file.name.toLowerCase();
+  const isExcel = name.endsWith('.xlsx') || name.endsWith('.xls');
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      let qs, title;
+      if (isExcel){
+        if (typeof XLSX === 'undefined') throw new Error('Excel support could not load. Check your internet connection and try again, or use a CSV/JSON file instead.');
+        const workbook = XLSX.read(new Uint8Array(reader.result), { type: 'array' });
+        const sheet = workbook.Sheets[workbook.SheetNames[0]];
+        const rows = XLSX.utils.sheet_to_json(sheet, { header: 1, raw: false, defval: '' });
+        qs = rowsToQuestions(rows);
+        title = file.name.replace(/\.(xlsx|xls)$/i, '');
+      } else if (name.endsWith('.json')){
+        const data = JSON.parse(reader.result);
+        qs = data.questions; title = data.title || file.name;
+      } else {
+        qs = csvToQuestions(reader.result); title = file.name;
+      }
+      if (!qs || !qs.length){ alert(t('no_questions_in_file')); return; }
+      state.title = title;
+      state.sourceQuestions = qs;
+      requireRegistrationThen(startQuiz);
+    } catch (err){
+      alert(t('error_reading_file', { msg: err.message }));
+    }
+    fileInput.value = '';
+  };
+  if (isExcel) reader.readAsArrayBuffer(file);
+  else reader.readAsText(file);
+});
+
+function gearButtonHTML(){
+  return `<div class="top-bar no-print">
+    <div class="mini-lang-toggle" role="group" aria-label="${t('language')}">
+      <button type="button" class="mini-lang-btn ${state.language==='en' ? 'active' : ''}" data-action="quick-set-language" data-lang="en">EN</button>
+      <button type="button" class="mini-lang-btn ${state.language==='hi' ? 'active' : ''}" data-action="quick-set-language" data-lang="hi">हिं</button>
+    </div>
+    <button type="button" class="gear-btn" data-action="open-settings" aria-label="${t('settings_icon_label')}" title="${t('settings_icon_label')}">⚙️</button>
+  </div>`;
+}
+
+function languageSelectorHTML(){
+  return `
+    <div class="eyebrow">${t('language')}</div>
+    <div class="lang-toggle">
+      <div class="type-pill ${state.language==='en' ? 'active' : ''}" data-action="set-language" data-lang="en" style="flex:1;">English</div>
+      <div class="type-pill ${state.language==='hi' ? 'active' : ''}" data-action="set-language" data-lang="hi" style="flex:1;">हिन्दी</div>
+    </div>
+  `;
+}
+
+function settingsPanelHTML(){
+  return `
+    ${languageSelectorHTML()}
+    <label class="toggle-row">
+      <input type="checkbox" id="instant-feedback-toggle" ${state.instantFeedback ? 'checked' : ''}>
+      ${t('instant_feedback')}
+    </label>
+    <label class="toggle-row mt-tight">
+      <input type="checkbox" id="timer-toggle" ${state.timerEnabled ? 'checked' : ''}>
+      ${t('time_each_question')}
+    </label>
+    <div class="timer-input-row" id="timer-input-row" style="${state.timerEnabled ? '' : 'display:none;'}">
+      <label class="field-label">${t('seconds_per_question')}</label>
+      <input type="text" inputmode="numeric" id="timer-seconds" value="${state.timePerQuestion}">
+    </div>
+    <label class="toggle-row mt-tight">
+      <input type="checkbox" id="overall-timer-toggle" ${state.overallTimerEnabled ? 'checked' : ''}>
+      ${t('overall_time_limit')}
+    </label>
+    <div class="timer-input-row" id="overall-timer-input-row" style="${state.overallTimerEnabled ? '' : 'display:none;'}">
+      <label class="field-label">${t('minutes_whole_quiz')}</label>
+      <input type="text" inputmode="numeric" id="overall-timer-minutes" value="${state.overallTimeMinutes}">
+    </div>
+
+    <div class="advanced-settings">
+      <button type="button" class="advanced-toggle" data-action="toggle-advanced">${t('advanced_settings_closed')}</button>
+      <div class="advanced-panel" id="advanced-panel">
+        <div class="eyebrow">${t('scoring')}</div>
+        <label class="field-label">${t('negative_marking')}</label>
+        <input type="text" id="negative-marking" value="${escapeAttr(state.negativeMarkingInput)}" placeholder="1/4">
+        <p class="hint">${t('negative_marking_hint')}</p>
+
+        <label class="field-label mt-24">${t('passing_score')}</label>
+        <input type="text" inputmode="numeric" id="passing-percent" value="${state.passingPercent}" placeholder="40">
+        <p class="hint">${t('passing_score_hint')}</p>
+
+        <div class="eyebrow mt-24">${t('randomization')}</div>
+        <label class="toggle-row mt-tight">
+          <input type="checkbox" id="shuffle-questions-toggle" ${state.shuffleQuestions ? 'checked' : ''}>
+          ${t('shuffle_questions')}
+        </label>
+        <label class="toggle-row mt-tight">
+          <input type="checkbox" id="shuffle-options-toggle" ${state.shuffleOptions ? 'checked' : ''}>
+          ${t('shuffle_options')}
+        </label>
+
+        <div class="eyebrow mt-24">${t('navigation')}</div>
+        <label class="toggle-row mt-tight">
+          <input type="checkbox" id="show-navigator-toggle" ${state.showNavigator ? 'checked' : ''}>
+          ${t('show_navigator')}
+        </label>
+        <label class="toggle-row mt-tight">
+          <input type="checkbox" id="lock-previous-toggle" ${state.lockPrevious ? 'checked' : ''}>
+          ${t('lock_previous')}
+        </label>
+
+        <div class="eyebrow mt-24">${t('appearance_sound')}</div>
+        <label class="toggle-row mt-tight">
+          <input type="checkbox" id="dark-mode-toggle" ${state.darkMode ? 'checked' : ''}>
+          ${t('dark_mode')}
+        </label>
+        <label class="toggle-row mt-tight">
+          <input type="checkbox" id="sound-toggle" ${state.soundEnabled ? 'checked' : ''}>
+          ${t('sound_effects')}
+        </label>
+      </div>
+    </div>
+  `;
+}
+
+function renderSettingsModal(){
+  const overlay = document.createElement('div');
+  overlay.className = 'modal-overlay';
+  overlay.setAttribute('data-overlay','settings');
+  overlay.innerHTML = `
+    <div class="modal">
+      <h3>${t('settings')}</h3>
+      ${settingsPanelHTML()}
+      <button class="btn btn-primary mt-24" data-action="close-settings" style="width:100%;">${t('done')}</button>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+}
+
+/* ---------------- Screens ---------------- */
+function renderHome(){
+  rerender = renderHome;
+  clearQuestionTimer();
+  clearOverallTimer();
+  const hasList = quizList && quizList.length;
+  const listHTML = hasList ? `
+    <div class="card perforated mt-24">
+      <div class="eyebrow">${t('choose_quiz_title')}</div>
+      <div class="home-buttons" style="margin-top:12px;">
+        ${quizList.map(item => `<button class="btn btn-primary" data-action="start-listed-quiz" data-file="${escapeAttr(item.file)}" data-title="${escapeAttr(item.title || item.file)}">${escapeHtml(item.title || item.file)}</button>`).join('')}
+      </div>
+    </div>
+  ` : '';
+  app.innerHTML = `
+    <div class="content">
+      ${gearButtonHTML()}
+      <div class="home-hero">
+        <span class="stamp">QuizMaster</span>
+        <p class="subtitle">${t('subtitle')}</p>
+      </div>
+      ${listHTML}
+      <div class="home-buttons ${hasList ? 'mt-24' : ''}">
+        ${!hasList && dailyQuiz ? `<button class="btn btn-primary" data-action="start-daily-quiz">${t('todays_quiz')}</button>` : ''}
+        <button class="btn ${(hasList || dailyQuiz) ? 'btn-outline' : 'btn-primary'}" data-action="load-file">${t('load_file')}</button>
+        <button class="btn btn-success" data-action="show-builder">${t('create_quiz')}</button>
+        <button class="btn btn-outline" data-action="show-history">${t('my_results')}</button>
+        <button class="btn btn-outline" data-action="show-help">${t('file_format_help')}</button>
+      </div>
+      ${dailyQuizFailed && !dailyQuiz && !hasList ? `
+      <p class="hint center-text mt-24" style="opacity:.75;">
+        No auto-loaded quiz found (${escapeHtml(dailyQuizError || '')}).<br>
+        Place a <code>questions.json</code> or <code>quizzes.json</code> file in the same folder as this page.
+      </p>` : ''}
+    </div>
+  `;
+}
+
+function renderHelp(){
+  const overlay = document.createElement('div');
+  overlay.className = 'modal-overlay';
+  overlay.setAttribute('data-overlay','help');
+  overlay.innerHTML = `
+    <div class="modal">
+      <h3>${t('help_title')}</h3>
+      <div class="eyebrow">${t('help_json_title')}</div>
+      <div class="help-text">{
+  "title": "Sample Quiz",
+  "questions": [
+    {
+      "question": "Capital of France?",
+      "options": ["Paris","London","Berlin","Madrid"],
+      "answer": "Paris",
+      "explanation": "Paris has been the capital of France since 987 AD."
+    },
+    {
+      "question": "2 + 2 = ?",
+      "options": [],
+      "answer": "4"
+    }
+  ]
+}</div>
+      <p class="hint">${t('help_json_hint')}</p>
+
+      <div class="eyebrow mt-24">${t('help_bilingual_title')}</div>
+      <div class="help-text">{
+  "questions": [
+    {
+      "question_en": "Capital of France?",
+      "question_hi": "फ़्रांस की राजधानी क्या है?",
+      "options_en": ["Paris","London","Berlin","Madrid"],
+      "options_hi": ["पेरिस","लंदन","बर्लिन","मैड्रिड"],
+      "answer_en": "Paris",
+      "answer_hi": "पेरिस",
+      "explanation_en": "Capital since 987 AD.",
+      "explanation_hi": "987 ईस्वी से राजधानी।"
+    }
+  ]
+}</div>
+      <p class="hint">${t('help_bilingual_hint')}</p>
+
+      <div class="eyebrow mt-24">${t('help_csv_title')}</div>
+      <div class="help-text">question,option1,option2,option3,option4,answer,explanation
+"Capital of France?",Paris,London,Berlin,Madrid,Paris,"Capital since 987 AD"
+"2 + 2 = ?",,,,,4,</div>
+      <p class="hint">${t('help_csv_hint')}</p>
+
+      <div class="eyebrow mt-24">${t('help_history_title')}</div>
+      <p class="hint">${t('help_history_hint')}</p>
+
+      <button class="btn btn-outline mt-24" data-action="close-modal" style="width:100%;">${t('close')}</button>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+}
+
+function renderBuilder(){
+  rerender = renderBuilder;
+  clearQuestionTimer();
+  clearOverallTimer();
+  const rows = state.builderQuestions.map((q, i) => `
+    <div class="q-row">
+      <div class="q-row-text">${i+1}. ${escapeHtml(q.question)}</div>
+      <button class="q-row-remove" data-action="remove-question" data-index="${i}">${t('remove')}</button>
+    </div>
+  `).join('') || `<p class="hint">${t('no_questions_yet')}</p>`;
+
+  app.innerHTML = `
+    <div class="content">
+      ${gearButtonHTML()}
+      <div class="eyebrow">${t('build_eyebrow')}</div>
+      <span class="stamp" style="font-size:20px;">${t('create_quiz')}</span>
+
+      <div class="mt-24">
+        <label class="field-label">${t('quiz_title')}</label>
+        <input type="text" id="builder-title" value="${escapeAttr(state.builderTitle)}">
+      </div>
+
+      <div class="mt-24">${rows}</div>
+
+      <div class="home-buttons mt-24">
+        <button class="btn btn-primary" data-action="open-add-question">${t('add_question')}</button>
+        <button class="btn btn-outline" data-action="export-quiz">${t('export_json')}</button>
+        <button class="btn btn-success" data-action="finish-builder">${t('start_quiz')}</button>
+        <button class="btn btn-text" data-action="go-home">${t('back')}</button>
+      </div>
+    </div>
+  `;
+}
+
+let modalType = 'mcq';
+function renderAddQuestionModal(){
+  modalType = 'mcq';
+  const overlay = document.createElement('div');
+  overlay.className = 'modal-overlay';
+  overlay.setAttribute('data-overlay','add-question');
+  overlay.innerHTML = `
+    <div class="modal">
+      <h3>${t('add_question_title')}</h3>
+      <label class="field-label">${t('question_label')}</label>
+      <textarea id="q-text" placeholder="${escapeAttr(t('question_placeholder'))}"></textarea>
+
+      <div class="type-toggle">
+        <div class="type-pill active" data-type-pill="mcq" data-action="set-type" data-type="mcq">${t('multiple_choice')}</div>
+        <div class="type-pill" data-type-pill="text" data-action="set-type" data-type="text">${t('short_answer')}</div>
+      </div>
+
+      <div id="options-block">
+        <label class="field-label">${t('options_label')}</label>
+        ${[0,1,2,3].map(i => `
+          <div class="option-input-row">
+            <span>${String.fromCharCode(65+i)}</span>
+            <input type="text" class="opt-input" data-opt="${i}" placeholder="${escapeAttr(t('option_placeholder', {n: i+1}))}">
+          </div>
+        `).join('')}
+      </div>
+
+      <label class="field-label mt-24">${t('correct_answer_label')}</label>
+      <input type="text" id="q-answer" placeholder="${escapeAttr(t('correct_answer_placeholder'))}">
+      <p class="hint">${t('correct_answer_hint')}</p>
+
+      <label class="field-label mt-24">${t('explanation_label')}</label>
+      <textarea id="q-explanation" placeholder="${escapeAttr(t('explanation_placeholder'))}"></textarea>
+
+      <div class="btn-row mt-24">
+        <button class="btn btn-primary" data-action="save-question">${t('save_question')}</button>
+        <button class="btn btn-outline" data-action="close-modal">${t('cancel')}</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+}
+
+function readSettingsFromDOM(){
+  const toggle = document.getElementById('instant-feedback-toggle');
+  if (toggle) state.instantFeedback = toggle.checked;
+  const timerToggle = document.getElementById('timer-toggle');
+  if (timerToggle) state.timerEnabled = timerToggle.checked;
+  const timerSecondsInput = document.getElementById('timer-seconds');
+  if (timerSecondsInput){
+    const val = parseInt(timerSecondsInput.value, 10);
+    state.timePerQuestion = (Number.isFinite(val) && val > 0) ? val : 30;
+  }
+  const overallToggle = document.getElementById('overall-timer-toggle');
+  if (overallToggle) state.overallTimerEnabled = overallToggle.checked;
+  const overallMinutesInput = document.getElementById('overall-timer-minutes');
+  if (overallMinutesInput){
+    const val = parseInt(overallMinutesInput.value, 10);
+    state.overallTimeMinutes = (Number.isFinite(val) && val > 0) ? val : 30;
+  }
+  const negativeMarkingInput = document.getElementById('negative-marking');
+  if (negativeMarkingInput){
+    const raw = negativeMarkingInput.value.trim();
+    const parsed = parseFraction(raw);
+    if (Number.isFinite(parsed) && parsed >= 0){
+      state.negativeMarking = parsed;
+      state.negativeMarkingInput = raw || '0';
+    } else {
+      state.negativeMarking = 0.25;
+      state.negativeMarkingInput = '1/4';
+    }
+  }
+  const passingInput = document.getElementById('passing-percent');
+  if (passingInput){
+    const val = parseInt(passingInput.value, 10);
+    state.passingPercent = (Number.isFinite(val) && val >= 0 && val <= 100) ? val : 40;
+  }
+  const shuffleQ = document.getElementById('shuffle-questions-toggle');
+  if (shuffleQ) state.shuffleQuestions = shuffleQ.checked;
+  const shuffleO = document.getElementById('shuffle-options-toggle');
+  if (shuffleO) state.shuffleOptions = shuffleO.checked;
+  const showNav = document.getElementById('show-navigator-toggle');
+  if (showNav) state.showNavigator = showNav.checked;
+  const lockPrev = document.getElementById('lock-previous-toggle');
+  if (lockPrev) state.lockPrevious = lockPrev.checked;
+  const darkModeToggle = document.getElementById('dark-mode-toggle');
+  if (darkModeToggle){ state.darkMode = darkModeToggle.checked; applyTheme(); }
+  const soundToggle = document.getElementById('sound-toggle');
+  if (soundToggle) state.soundEnabled = soundToggle.checked;
+  saveSettings();
+}
+
+/* ---------------- Bilingual question resolution ----------------
+   A question can be single-language (question/options/answer/explanation)
+   or bilingual using suffixed fields:
+   question_en/question_hi, options_en/options_hi, answer_en/answer_hi, explanation_en/explanation_hi
+   options_en[i] and options_hi[i] must be the same choice, just translated. */
+function localizeQuestion(q, lang){
+  const pick = (key) => {
+    const suf = lang === 'hi' ? '_hi' : '_en';
+    const otherSuf = lang === 'hi' ? '_en' : '_hi';
+    if (q[key + suf] !== undefined) return q[key + suf];
+    if (q[key + otherSuf] !== undefined) return q[key + otherSuf];
+    return q[key];
+  };
+  return {
+    question: pick('question') || '',
+    options: (pick('options') || []).slice(),
+    answer: pick('answer') || '',
+    explanation: pick('explanation') || ''
+  };
+}
+
+/* Same as localizeQuestion, but reorders options using a fixed permutation of
+   original indices, so switching language mid-quiz never reshuffles options
+   or changes question order — only the displayed text changes. */
+function localizeQuestionOrdered(q, lang, optionOrder){
+  const base = localizeQuestion(q, lang);
+  if (optionOrder && optionOrder.length && base.options.length){
+    base.options = optionOrder.map(i => base.options[i]);
+  }
+  return base;
+}
+
+function startQuiz(){
+  readSettingsFromDOM();
+  clearQuestionTimer();
+  clearOverallTimer();
+  state.index = 0;
+  state.answers = {};
+  state.checked = {};
+  state.timedOut = {};
+  state.questionStart = {};
+  state.questionTime = {};
+  state.flagged = {};
+  state.startedAt = Date.now();
+  state.currentAttemptId = 'a_' + Date.now() + '_' + Math.random().toString(36).slice(2,8);
+
+  // Build a fixed per-quiz meta: which source question in which order, and a
+  // fixed option permutation per question. This stays constant regardless of
+  // language, so switching EN/हिं mid-quiz never reshuffles anything.
+  let srcQuestions = (state.sourceQuestions || []).slice();
+  if (state.shuffleQuestions){
+    for (let i = srcQuestions.length - 1; i > 0; i--){
+      const j = Math.floor(Math.random() * (i+1));
+      [srcQuestions[i], srcQuestions[j]] = [srcQuestions[j], srcQuestions[i]];
+    }
+  }
+  state.questionMeta = srcQuestions.map(q => {
+    const optCount = (q.options_en || q.options_hi || q.options || []).length;
+    let order = Array.from({length: optCount}, (_, i) => i);
+    if (state.shuffleOptions && optCount){
+      for (let i = order.length - 1; i > 0; i--){
+        const j = Math.floor(Math.random() * (i+1));
+        [order[i], order[j]] = [order[j], order[i]];
+      }
+    }
+    return { src: q, optionOrder: order };
+  });
+  state.questions = state.questionMeta.map(m => localizeQuestionOrdered(m.src, state.language, m.optionOrder));
+
+  if (state.overallTimerEnabled) state.overallTimeLeft = state.overallTimeMinutes * 60;
+  renderQuestion();
+  if (state.overallTimerEnabled) startOverallTimer();
+}
+
+/** Finalizes the time spent on the given question (first-visit duration only). */
+function finalizeQuestionTime(i){
+  if (state.questionTime[i] !== undefined) return;
+  const start = state.questionStart[i];
+  state.questionTime[i] = start ? Math.max(0, Math.round((Date.now() - start) / 1000)) : 0;
+}
+
+function renderQuestion(){
+  clearQuestionTimer();
+  const total = state.questions.length;
+  const q = state.questions[state.index];
+  const pct = Math.round(((state.index+1)/total)*100);
+  const savedAnswer = state.answers[state.index];
+  const isChecked = !!state.checked[state.index];
+  const isTimedOut = !!state.timedOut[state.index];
+  const locked = isChecked || isTimedOut;
+  const showTimer = state.timerEnabled && !locked;
+  if (showTimer) state.timeLeft = state.timePerQuestion;
+  if (!locked && state.questionStart[state.index] === undefined){
+    state.questionStart[state.index] = Date.now();
+  }
+
+  let answerBlock;
+  let feedbackBlock = '';
+
+  if (q.options && q.options.length){
+    answerBlock = q.options.map(opt => {
+      let cls = '';
+      let actionAttr = 'data-action="select-option"';
+      if (locked){
+        actionAttr = '';
+        if (isChecked){
+          if (opt === q.answer) cls = 'correct';
+          else if (opt === savedAnswer) cls = 'incorrect';
+        } else if (savedAnswer === opt){
+          cls = 'selected';
+        }
+        cls += ' locked';
+      } else if (savedAnswer === opt){
+        cls = 'selected';
+      }
+      return `
+        <div class="option ${cls}" ${actionAttr} data-value="${escapeAttr(opt)}">
+          <div class="bubble">${escapeHtml(opt.charAt(0))}</div>
+          <div class="option-text">${escapeHtml(opt)}</div>
+        </div>
+      `;
+    }).join('');
+    if (isChecked){
+      const correct = savedAnswer === q.answer;
+      feedbackBlock = `<div class="feedback-msg ${correct ? 'feedback-correct' : 'feedback-wrong'}">${correct ? t('correct_feedback') : t('incorrect_feedback', {answer: escapeHtml(q.answer)})}</div>`;
+    } else if (isTimedOut){
+      feedbackBlock = `<div class="feedback-msg feedback-locked">${t('time_up')}</div>`;
+    }
+  } else {
+    answerBlock = `<input type="text" id="text-answer" ${locked ? 'disabled' : ''} placeholder="${escapeAttr(t('text_answer_placeholder'))}" value="${escapeAttr(savedAnswer || '')}">`;
+    if (isChecked){
+      const correct = (savedAnswer || '').trim().toLowerCase() === q.answer.trim().toLowerCase();
+      feedbackBlock = `<div class="feedback-msg ${correct ? 'feedback-correct' : 'feedback-wrong'}">${correct ? t('correct_feedback') : t('incorrect_feedback', {answer: escapeHtml(q.answer)})}</div>`;
+    } else if (isTimedOut){
+      feedbackBlock = `<div class="feedback-msg feedback-locked">${t('time_up')}</div>`;
+    }
+  }
+
+  const isLast = state.index === total - 1;
+  const showCheckStep = state.instantFeedback && !isChecked && !isTimedOut;
+
+  const navButton = showCheckStep
+    ? `<button class="btn btn-primary" data-action="check-answer" style="flex:1;">${t('check_answer')}</button>`
+    : `<button class="btn ${isLast ? 'btn-success' : 'btn-primary'}" data-action="next-question" style="flex:1;">${isLast ? t('submit_quiz') : t('next')}</button>`;
+
+  const showEarlySubmit = !(isLast && !showCheckStep);
+
+  app.innerHTML = `
+    <div class="content">
+      ${gearButtonHTML()}
+      <div class="eyebrow">${escapeHtml(state.title)}</div>
+      <div class="progress-track"><div class="progress-fill" style="width:${pct}%;"></div></div>
+      <div class="meta-row">
+        <div class="progress-label">${t('question_of', {n: state.index+1, total: total})}</div>
+        <div style="display:flex;align-items:center;gap:8px;">
+          ${showTimer ? `<div class="timer-display" id="timer-display">${formatTime(state.timeLeft)}</div>` : ''}
+          ${state.overallTimerEnabled ? `<div class="timer-display" id="overall-timer-display">${t('total_label')}: ${formatTime(state.overallTimeLeft)}</div>` : ''}
+        </div>
+      </div>
+      <div class="meta-row mt-tight">
+        <button type="button" class="flag-btn ${state.flagged[state.index] ? 'active' : ''}" data-action="toggle-flag">${state.flagged[state.index] ? t('flagged') : t('flag')}</button>
+        ${state.showNavigator ? `<button type="button" class="btn-text" style="padding:6px 4px;" data-action="open-navigator">${t('question_map')}</button>` : ''}
+      </div>
+      <div class="question-text">${escapeHtml(q.question)}</div>
+      <div id="answer-area">${answerBlock}</div>
+      ${feedbackBlock}
+    </div>
+    <div class="bottom-nav">
+      <div class="btn-row">
+        ${(state.index > 0 && !state.lockPrevious) ? `<button class="btn btn-outline" data-action="prev-question">${t('previous')}</button>` : ''}
+        ${navButton}
+      </div>
+      ${showEarlySubmit ? `<button class="btn btn-danger" data-action="submit-quiz">${t('submit_quiz_now')}</button>` : ''}
+    </div>
+  `;
+  rerender = renderQuestion;
+
+  if (showTimer) startQuestionTimer();
+}
+
+function captureAnswer(){
+  const q = state.questions[state.index];
+  if (q.options && q.options.length){
+    const selected = app.querySelector('.option.selected');
+    state.answers[state.index] = selected ? selected.getAttribute('data-value') : (state.answers[state.index] || '');
+  } else {
+    const input = document.getElementById('text-answer');
+    state.answers[state.index] = input ? input.value.trim() : '';
+  }
+}
+
+function countUnanswered(){
+  let count = 0;
+  for (let i = 0; i < state.questions.length; i++){
+    const a = state.answers[i];
+    if (!a || !a.trim()) count++;
+  }
+  return count;
+}
+
+/* ---------------- Per-question timer ---------------- */
+function clearQuestionTimer(){
+  if (state.timerId){
+    clearInterval(state.timerId);
+    state.timerId = null;
+  }
+}
+function formatTime(s){
+  const secs = Math.max(s, 0);
+  const m = Math.floor(secs/60);
+  const sec = secs % 60;
+  return m > 0 ? `${m}:${sec.toString().padStart(2,'0')}` : `${sec}s`;
+}
+function updateTimerDisplay(){
+  const el = document.getElementById('timer-display');
+  if (!el) return;
+  el.textContent = formatTime(state.timeLeft);
+  el.classList.toggle('timer-warning', state.timeLeft <= 10);
+}
+function startQuestionTimer(){
+  updateTimerDisplay();
+  state.timerId = setInterval(() => {
+    state.timeLeft--;
+    updateTimerDisplay();
+    if (state.timeLeft <= 0){
+      clearQuestionTimer();
+      handleTimeUp();
+    }
+  }, 1000);
+}
+function handleTimeUp(){
+  captureAnswer();
+  state.timedOut[state.index] = true;
+  finalizeQuestionTime(state.index);
+  playSound('timeup');
+  if (state.index === state.questions.length - 1){
+    renderResults();
+  } else {
+    state.index++;
+    renderQuestion();
+  }
+}
+
+/* ---------------- Overall quiz timer ---------------- */
+function clearOverallTimer(){
+  if (state.overallTimerId){ clearInterval(state.overallTimerId); state.overallTimerId = null; }
+}
+function updateOverallTimerDisplay(){
+  const el = document.getElementById('overall-timer-display');
+  if (!el) return;
+  el.textContent = 'Total: ' + formatTime(state.overallTimeLeft);
+  el.classList.toggle('timer-warning', state.overallTimeLeft <= 30);
+}
+function startOverallTimer(){
+  updateOverallTimerDisplay();
+  state.overallTimerId = setInterval(() => {
+    state.overallTimeLeft--;
+    updateOverallTimerDisplay();
+    if (state.overallTimeLeft <= 0){
+      clearOverallTimer();
+      handleOverallTimeUp();
+    }
+  }, 1000);
+}
+function handleOverallTimeUp(){
+  if (!state.checked[state.index] && !state.timedOut[state.index]) captureAnswer();
+  finalizeQuestionTime(state.index);
+  playSound('timeup');
+  renderResults();
+}
+
+/* ---------------- Question map / flags ---------------- */
+function renderNavigatorModal(){
+  const cells = state.questions.map((q, i) => {
+    const answered = !!(state.answers[i] && state.answers[i].trim());
+    const isCurrent = i === state.index;
+    const isFlagged = !!state.flagged[i];
+    let cls = 'nav-cell';
+    if (isCurrent) cls += ' current';
+    else if (answered) cls += ' answered';
+    if (isFlagged) cls += ' flagged';
+    const disabled = state.lockPrevious && i < state.index;
+    return `<button type="button" class="${cls}" ${disabled ? 'disabled' : ''} data-action="jump-to-question" data-index="${i}">${i+1}</button>`;
+  }).join('');
+  const overlay = document.createElement('div');
+  overlay.className = 'modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal">
+      <h3>${t('question_map')}</h3>
+      <div class="nav-legend">
+        <span><i class="dot dot-current"></i>${t('legend_current')}</span>
+        <span><i class="dot dot-answered"></i>${t('legend_answered')}</span>
+        <span><i class="dot dot-unanswered"></i>${t('legend_unanswered')}</span>
+        <span><i class="dot dot-flagged"></i>${t('legend_flagged')}</span>
+      </div>
+      <div class="navigator-grid">${cells}</div>
+      <button class="btn btn-outline mt-24" data-action="close-modal" style="width:100%;">${t('close')}</button>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+}
+
+/* Parses "1/4", "0.25", "1", "0" etc into a number. Returns NaN if invalid. */
+function parseFraction(str){
+  if (!str) return NaN;
+  str = str.trim();
+  if (!str) return NaN;
+  if (str.includes('/')){
+    const parts = str.split('/');
+    if (parts.length !== 2) return NaN;
+    const n = parseFloat(parts[0].trim());
+    const d = parseFloat(parts[1].trim());
+    if (!Number.isFinite(n) || !Number.isFinite(d) || d === 0) return NaN;
+    return n / d;
+  }
+  const v = parseFloat(str);
+  return Number.isFinite(v) ? v : NaN;
+}
+/* Rounds to 2 decimals and trims trailing zeros for a clean score display. */
+function formatScore(n){
+  const rounded = Math.round((n + Number.EPSILON) * 100) / 100;
+  let s = rounded.toFixed(2);
+  s = s.replace(/\.?0+$/, '');
+  if (s === '' || s === '-' || s === '-0') s = '0';
+  return s;
+}
+
+function renderResults(){
+  clearQuestionTimer();
+  clearOverallTimer();
+  const attempt = buildAttemptFromState();
+  saveAttemptToHistory(attempt);
+  submitResultToBackend(attempt);
+  renderResultView(attempt, 'all', { fromHistory:false });
+}
+
+function renderResultView(attempt, filter, opts){
+  opts = opts || {};
+  clearQuestionTimer();
+  clearOverallTimer();
+  const summary = computeSummary(attempt);
+  const { total, rawScore, correctCount, incorrectCount, skippedCount, pct, passed } = summary;
+  const negMarkLabel = attempt.negativeMarking > 0 ? t('negmark_per_wrong', { x: attempt.negativeMarkingInput || formatScore(attempt.negativeMarking) }) : t('negmark_off');
+  const times = Object.values(attempt.questionTime || {});
+  const avgTime = times.length ? Math.round(times.reduce((a,b) => a+b, 0) / times.length) : 0;
+  const flaggedCount = Object.keys(attempt.flagged || {}).filter(k => attempt.flagged[k]).length;
+
+  const tabs = [
+    { key:'all', label:t('tab_all'), count: total },
+    { key:'correct', label:t('tab_correct'), count: correctCount },
+    { key:'incorrect', label:t('tab_incorrect'), count: incorrectCount },
+    { key:'skipped', label:t('tab_skipped'), count: skippedCount },
+    { key:'flagged', label:t('tab_flagged'), count: flaggedCount },
+  ];
+  const tabsHtml = tabs.map(t => `<div class="tab-pill ${filter===t.key ? 'active' : ''}" data-action="filter-results" data-filter="${t.key}">${t.label} (${t.count})</div>`).join('');
+
+  const rows = attempt.questions.map((q, i) => {
+    const given = attempt.answers[i] || '';
+    const attempted = !!given.trim();
+    const correct = attempted && given.trim().toLowerCase() === q.answer.trim().toLowerCase();
+    const isFlagged = !!(attempt.flagged && attempt.flagged[i]);
+    const status = !attempted ? 'skipped' : (correct ? 'correct' : 'incorrect');
+
+    if (filter === 'flagged' && !isFlagged) return '';
+    if (filter !== 'all' && filter !== 'flagged' && filter !== status) return '';
+
+    const pillClass = status === 'correct' ? 'pill-correct' : status === 'incorrect' ? 'pill-wrong' : 'pill-skipped';
+    const pillLabel = status === 'correct' ? t('pill_correct') : status === 'incorrect' ? t('pill_incorrect') : t('pill_not_attempted');
+    const marks = status === 'correct' ? 1 : status === 'incorrect' ? -attempt.negativeMarking : 0;
+    const marksLabel = marks > 0 ? `+${formatScore(marks)}` : formatScore(marks);
+    const timeSpent = attempt.questionTime ? attempt.questionTime[i] : undefined;
+    const timeLabel = timeSpent !== undefined ? formatTime(timeSpent) : '—';
+
+    let optionsHtml = '';
+    if (q.options && q.options.length){
+      optionsHtml = `<div class="mt-6">` + q.options.map(opt => {
+        let cls = 'locked';
+        if (opt === q.answer) cls += ' correct';
+        else if (opt === given && opt !== q.answer) cls += ' incorrect';
+        return `<div class="option ${cls}" style="margin-bottom:6px;padding:10px;">
+          <div class="bubble" style="width:26px;height:26px;min-width:26px;font-size:12px;">${escapeHtml(opt.charAt(0))}</div>
+          <div class="option-text" style="font-size:14px;">${escapeHtml(opt)}</div>
+        </div>`;
+      }).join('') + `</div>`;
+    }
+
+    return `
+      <div class="card">
+        <span class="pill ${pillClass}">${pillLabel}</span>
+        ${isFlagged ? '<span class="pill" style="background:#F6E7C6;color:#8A6A0E;margin-left:6px;">🚩 Flagged</span>' : ''}
+        <span class="marks-label">${marksLabel}</span>
+        <div class="question-text" style="font-size:15.5px;margin:10px 0 4px;">${i+1}. ${escapeHtml(q.question)}</div>
+        ${optionsHtml}
+        ${(!q.options || !q.options.length) ? `
+          <div class="review-answer">${t('your_answer')} <b>${escapeHtml(given) || t('no_answer')}</b></div>
+          ${!correct ? `<div class="review-answer">${t('correct_answer_review')} <b>${escapeHtml(q.answer)}</b></div>` : ''}
+        ` : ''}
+        ${q.explanation ? `<div class="explanation-box">${escapeHtml(q.explanation).replace(/\n/g,'<br>')}</div>` : ''}
+        <div class="review-answer">${t('time_spent')} <b>${timeLabel}</b></div>
+      </div>
+    `;
+  }).join('') || `<p class="hint center-text mt-24">${t('no_category')}</p>`;
+
+  app.innerHTML = `
+    <div class="content">
+      ${gearButtonHTML()}
+      <div class="eyebrow center-text">${opts.fromHistory ? t('result_review') : t('quiz_complete')}</div>
+      <div class="eyebrow center-text" style="font-weight:400;text-transform:none;letter-spacing:0;">${escapeHtml(attempt.title)}</div>
+      <div class="score-badge center-text">${formatScore(rawScore)} / ${total}</div>
+      <div class="center-text mt-6"><span class="pill ${passed ? 'pill-pass' : 'pill-fail'}">${passed ? t('pass') : t('fail')}</span></div>
+      <p class="center-text hint" style="font-size:14px;">${t('result_meta', { pct: pct, negmark: negMarkLabel, total: formatTime(attempt.totalTime), avg: formatTime(avgTime) })}</p>
+      <p class="score-breakdown">${t('result_breakdown', { correct: correctCount, incorrect: incorrectCount, skipped: skippedCount, passmark: attempt.passingPercent ?? 40 })}</p>
+      <p class="hint center-text" style="margin-top:2px;">${new Date(attempt.date).toLocaleString(state.language==='hi' ? 'hi-IN' : 'en-US')}</p>
+
+      <div class="tabs mt-24 no-print">${tabsHtml}</div>
+      <div class="mt-24" id="result-rows">${rows}</div>
+
+      <div class="home-buttons mt-24 no-print">
+        ${!opts.fromHistory ? `<button class="btn btn-primary" data-action="retake-quiz">${t('retake_quiz')}</button>` : `<button class="btn btn-primary" data-action="retake-attempt">${t('retake_this_quiz')}</button>`}
+        <button class="btn btn-outline" data-action="print-result">${t('print_pdf')}</button>
+        <button class="btn btn-outline" data-action="export-result-json">${t('export_result')}</button>
+        <button class="btn btn-text" data-action="show-history">${t('view_all_results')}</button>
+        <button class="btn btn-text" data-action="go-home">${t('home')}</button>
+      </div>
+    </div>
+  `;
+  window.__currentResultAttempt = attempt;
+  window.__currentResultFromHistory = !!opts.fromHistory;
+  rerender = () => renderResultView(attempt, filter, opts);
+}
+
+function renderHistoryList(){
+  rerender = renderHistoryList;
+  clearQuestionTimer();
+  clearOverallTimer();
+  const history = getHistory();
+  const rows = history.map(a => {
+    const summary = computeSummary(a);
+    const dateLabel = new Date(a.date).toLocaleString(state.language==='hi' ? 'hi-IN' : 'en-US');
+    return `
+      <div class="history-row" data-action="view-attempt" data-id="${a.id}">
+        <div style="flex:1;">
+          <div class="q-row-text" style="font-weight:600;">${escapeHtml(a.title)}</div>
+          <div class="hint">${dateLabel} · ${t('history_row_meta', { correct: summary.correctCount, total: summary.total, pct: summary.pct })}</div>
+        </div>
+        <span class="pill ${summary.passed ? 'pill-pass' : 'pill-fail'}">${summary.passed ? t('pass') : t('fail')}</span>
+        <button class="q-row-remove" data-action="delete-attempt" data-id="${a.id}" title="${t('delete')}">✕</button>
+      </div>
+    `;
+  }).join('') || `<p class="hint center-text mt-24">${t('no_results_yet')}</p>`;
+
+  app.innerHTML = `
+    <div class="content">
+      ${gearButtonHTML()}
+      <div class="eyebrow">${t('history_eyebrow')}</div>
+      <span class="stamp" style="font-size:20px;">${t('my_results')}</span>
+      <p class="subtitle">${t('history_subtitle')}</p>
+      <div class="mt-24">${rows}</div>
+      <div class="home-buttons mt-24">
+        ${history.length ? `<button class="btn btn-danger" data-action="clear-history">${t('clear_all_results')}</button>` : ''}
+        <button class="btn btn-text" data-action="go-home">${t('back')}</button>
+      </div>
+    </div>
+  `;
+}
+
+/* ---------------- Utilities ---------------- */
+function escapeHtml(str){
+  return String(str).replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+function escapeAttr(str){ return escapeHtml(str); }
+function closeModal(){
+  const overlay = document.querySelector('.modal-overlay');
+  if (overlay) overlay.remove();
+}
+function downloadJSON(filename, data){
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = filename;
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+/* ---------------- Event delegation ---------------- */
+document.addEventListener('click', (e) => {
+  const el = e.target.closest('[data-action]');
+  if (!el) return;
+  const action = el.getAttribute('data-action');
+
+  switch(action){
+    case 'load-file':
+      fileInput.click();
+      break;
+    case 'show-builder':
+      state.builderQuestions = [];
+      state.builderTitle = 'Untitled Quiz';
+      renderBuilder();
+      break;
+    case 'show-help':
+      renderHelp();
+      break;
+    case 'close-modal':
+      closeModal();
+      break;
+    case 'submit-registration':
+      handleRegistrationSubmit();
+      break;
+    case 'go-home':
+      renderHome();
+      break;
+    case 'open-settings':
+      renderSettingsModal();
+      break;
+    case 'close-settings': {
+      readSettingsFromDOM();
+      closeModal();
+      if (rerender) rerender();
+      break;
+    }
+    case 'set-language': {
+      const lang = el.getAttribute('data-lang');
+      if (lang !== state.language){
+        readSettingsFromDOM();
+        state.language = lang;
+        saveSettings();
+        closeModal();
+        if (rerender) rerender();
+        renderSettingsModal();
+      }
+      break;
+    }
+    case 'quick-set-language': {
+      const lang = el.getAttribute('data-lang');
+      if (lang === state.language) break;
+      const oldQuestions = state.questions;
+      state.language = lang;
+      saveSettings();
+      if (state.questionMeta && state.questionMeta.length && oldQuestions && oldQuestions.length === state.questionMeta.length){
+        // Quiz in progress: recompute text only, same question order & same option order.
+        const newQuestions = state.questionMeta.map(m => localizeQuestionOrdered(m.src, lang, m.optionOrder));
+        // Carry forward any already-selected MCQ answers by translating them via option position.
+        Object.keys(state.answers).forEach(key => {
+          const i = Number(key);
+          const oldQ = oldQuestions[i];
+          const newQ = newQuestions[i];
+          if (!oldQ || !newQ) return;
+          const given = state.answers[i];
+          if (!given) return;
+          if (oldQ.options && oldQ.options.length){
+            const k = oldQ.options.indexOf(given);
+            if (k !== -1) state.answers[i] = newQ.options[k];
+          }
+          // short-answer (typed) responses are left as typed — usually numeric/unchanged.
+        });
+        state.questions = newQuestions;
+      }
+      if (rerender) rerender();
+      break;
+    }
+    case 'open-add-question':
+      renderAddQuestionModal();
+      break;
+    case 'set-type': {
+      modalType = el.getAttribute('data-type');
+      document.querySelectorAll('[data-type-pill]').forEach(p => {
+        p.classList.toggle('active', p.getAttribute('data-type-pill') === modalType);
+      });
+      document.getElementById('options-block').style.display = modalType === 'mcq' ? 'block' : 'none';
+      break;
+    }
+    case 'save-question': {
+      const questionText = document.getElementById('q-text').value.trim();
+      const answer = document.getElementById('q-answer').value.trim();
+      const explanation = document.getElementById('q-explanation').value.trim();
+      if (!questionText || !answer){ alert(t('alert_fill_question')); return; }
+      let options = [];
+      if (modalType === 'mcq'){
+        options = Array.from(document.querySelectorAll('.opt-input')).map(i => i.value.trim()).filter(Boolean);
+        if (options.length < 2){ alert(t('alert_min_options')); return; }
+        if (!options.includes(answer)){ alert(t('alert_answer_match')); return; }
+      }
+      state.builderQuestions.push({ question: questionText, options, answer, explanation });
+      closeModal();
+      renderBuilder();
+      break;
+    }
+    case 'remove-question': {
+      const idx = parseInt(el.getAttribute('data-index'), 10);
+      state.builderQuestions.splice(idx, 1);
+      renderBuilder();
+      break;
+    }
+    case 'export-quiz': {
+      if (!state.builderQuestions.length){ alert(t('alert_add_question_first')); return; }
+      const title = document.getElementById('builder-title').value.trim() || 'Untitled Quiz';
+      downloadJSON(title.replace(/\s+/g,'_') + '.json', { title, questions: state.builderQuestions });
+      break;
+    }
+    case 'finish-builder': {
+      if (!state.builderQuestions.length){ alert(t('alert_add_question_first')); return; }
+      state.title = document.getElementById('builder-title').value.trim() || 'Untitled Quiz';
+      state.sourceQuestions = state.builderQuestions.slice();
+      requireRegistrationThen(startQuiz);
+      break;
+    }
+    case 'select-option': {
+      document.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+      el.classList.add('selected');
+      break;
+    }
+    case 'check-answer': {
+      captureAnswer();
+      state.checked[state.index] = true;
+      finalizeQuestionTime(state.index);
+      const q = state.questions[state.index];
+      const given = state.answers[state.index] || '';
+      const isCorrect = given.trim().toLowerCase() === q.answer.trim().toLowerCase();
+      playSound(isCorrect ? 'correct' : 'wrong');
+      renderQuestion();
+      break;
+    }
+    case 'next-question': {
+      if (!state.checked[state.index] && !state.timedOut[state.index]) captureAnswer();
+      finalizeQuestionTime(state.index);
+      if (state.index === state.questions.length - 1){
+        renderResults();
+      } else {
+        state.index++;
+        renderQuestion();
+      }
+      break;
+    }
+    case 'prev-question': {
+      if (!state.checked[state.index] && !state.timedOut[state.index]) captureAnswer();
+      finalizeQuestionTime(state.index);
+      state.index--;
+      renderQuestion();
+      break;
+    }
+    case 'start-daily-quiz': {
+      if (!dailyQuiz){ alert(t('todays_quiz_error')); return; }
+      state.title = dailyQuiz.title || 'Quiz';
+      state.sourceQuestions = dailyQuiz.questions;
+      requireRegistrationThen(startQuiz);
+      break;
+    }
+    case 'start-listed-quiz': {
+      const file = el.getAttribute('data-file');
+      const fallbackTitle = el.getAttribute('data-title') || file;
+      fetch('./' + file + '?t=' + Date.now())
+        .then(res => { if (!res.ok) throw new Error('HTTP ' + res.status); return res.text(); })
+        .then(text => {
+          let data;
+          try { data = JSON.parse(text); }
+          catch(e){ throw new Error('Invalid JSON in ' + file); }
+          if (!data || !Array.isArray(data.questions) || !data.questions.length){
+            throw new Error('No questions found in ' + file);
+          }
+          state.title = data.title || fallbackTitle;
+          state.sourceQuestions = data.questions;
+          requireRegistrationThen(startQuiz);
+        })
+        .catch(err => alert(t('quiz_load_error', { msg: err.message })));
+      break;
+    }
+    case 'retake-quiz':
+      startQuiz();
+      break;
+    case 'submit-quiz': {
+      if (!state.checked[state.index] && !state.timedOut[state.index]) captureAnswer();
+      finalizeQuestionTime(state.index);
+      const unanswered = countUnanswered();
+      if (unanswered > 0){
+        const proceed = confirm(t('confirm_unanswered', { n: unanswered, s: unanswered > 1 ? 's' : '' }));
+        if (!proceed) return;
+      }
+      renderResults();
+      break;
+    }
+    case 'toggle-advanced': {
+      const panel = document.getElementById('advanced-panel');
+      if (panel){
+        const open = panel.classList.toggle('open');
+        el.textContent = open ? t('advanced_settings_open') : t('advanced_settings_closed');
+      }
+      break;
+    }
+    case 'toggle-flag': {
+      state.flagged[state.index] = !state.flagged[state.index];
+      renderQuestion();
+      break;
+    }
+    case 'open-navigator':
+      renderNavigatorModal();
+      break;
+    case 'jump-to-question': {
+      const idx = parseInt(el.getAttribute('data-index'), 10);
+      closeModal();
+      if (Number.isNaN(idx) || idx === state.index) break;
+      if (!state.checked[state.index] && !state.timedOut[state.index]) captureAnswer();
+      finalizeQuestionTime(state.index);
+      state.index = idx;
+      renderQuestion();
+      break;
+    }
+    case 'show-history':
+      renderHistoryList();
+      break;
+    case 'view-attempt': {
+      const id = el.getAttribute('data-id');
+      const attempt = getHistory().find(a => a.id === id);
+      if (attempt) renderResultView(attempt, 'all', { fromHistory:true });
+      break;
+    }
+    case 'delete-attempt': {
+      const id = el.getAttribute('data-id');
+      if (confirm(t('confirm_delete_attempt'))){
+        deleteAttempt(id);
+        renderHistoryList();
+      }
+      break;
+    }
+    case 'clear-history': {
+      if (confirm(t('confirm_clear_history'))){
+        clearAllHistory();
+        renderHistoryList();
+      }
+      break;
+    }
+    case 'filter-results': {
+      const filter = el.getAttribute('data-filter');
+      const attempt = window.__currentResultAttempt;
+      if (attempt) renderResultView(attempt, filter, { fromHistory: !!window.__currentResultFromHistory });
+      break;
+    }
+    case 'retake-attempt': {
+      const attempt = window.__currentResultAttempt;
+      if (!attempt) return;
+      state.title = attempt.title;
+      state.sourceQuestions = attempt.questions.map(q => ({ question:q.question, options:(q.options||[]).slice(), answer:q.answer, explanation:q.explanation||'' }));
+      startQuiz();
+      break;
+    }
+    case 'print-result':
+      window.print();
+      break;
+    case 'export-result-json': {
+      const attempt = window.__currentResultAttempt;
+      if (!attempt) return;
+      downloadJSON((attempt.title || 'result').replace(/\s+/g,'_') + '_result.json', attempt);
+      break;
+    }
+  }
+});
+
+document.addEventListener('change', (e) => {
+  if (e.target && e.target.id === 'timer-toggle'){
+    const row = document.getElementById('timer-input-row');
+    if (row) row.style.display = e.target.checked ? '' : 'none';
+  }
+  if (e.target && e.target.id === 'overall-timer-toggle'){
+    const row = document.getElementById('overall-timer-input-row');
+    if (row) row.style.display = e.target.checked ? '' : 'none';
+  }
+  if (e.target && e.target.id === 'dark-mode-toggle'){
+    state.darkMode = e.target.checked;
+    applyTheme();
+    saveSettings();
+  }
+});
+
+let dailyQuiz = null;
+let dailyQuizFailed = false;
+let dailyQuizError = null;
+function loadDailyQuiz(){
+  fetch('./questions.json?t=' + Date.now())
+    .then(res => {
+      if (!res.ok) throw new Error('HTTP ' + res.status + ' — file not found at this path');
+      return res.text();
+    })
+    .then(text => {
+      let data;
+      try { data = JSON.parse(text); }
+      catch(e){ throw new Error('File found but is not valid JSON (' + e.message + ')'); }
+      if (!data || !Array.isArray(data.questions) || !data.questions.length){
+        throw new Error('File loaded but has no "questions" array with items');
+      }
+      dailyQuiz = data;
+      dailyQuizError = null;
+      if (rerender === renderHome) renderHome();
+    })
+    .catch(err => {
+      dailyQuizFailed = true;
+      dailyQuizError = err.message;
+      if (rerender === renderHome) renderHome();
+    });
+}
+
+/* Multi-quiz mode: looks for a "quizzes.json" manifest listing several
+   question files, e.g. [{"title":"GK Set 1","file":"gk1.json"}, ...].
+   If found, the home screen shows one button per quiz. If not found,
+   falls back to the older single "questions.json" auto-load behavior. */
+let quizList = null;
+function loadQuizManifest(){
+  fetch('./quizzes.json?t=' + Date.now())
+    .then(res => {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.text();
+    })
+    .then(text => {
+      let data;
+      try { data = JSON.parse(text); }
+      catch(e){ throw new Error('quizzes.json is not valid JSON'); }
+      if (!Array.isArray(data) || !data.length || !data.every(d => d && d.file)){
+        throw new Error('quizzes.json must be an array of {"title":..., "file":...}');
+      }
+      quizList = data;
+      if (rerender === renderHome) renderHome();
+    })
+    .catch(() => {
+      // No manifest published — fall back to legacy single-file auto-load.
+      loadDailyQuiz();
+    });
+}
+
+loadSettings();
+loadAttendee();
+applyTheme();
+renderHome();
+loadQuizManifest();
+</script>
+</body>
+</html>
