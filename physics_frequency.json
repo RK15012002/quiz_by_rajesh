@@ -1,0 +1,2105 @@
+{
+  "title": "Physics Quiz – Frequency & Related Topics",
+  "questions": [
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the SI unit of frequency?",
+      "question_hi": "आवृत्ति की SI इकाई क्या है?",
+      "options_en": [
+        "Hertz",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "options_hi": [
+        "हर्ट्ज़",
+        "न्यूटन",
+        "जूल",
+        "पास्कल"
+      ],
+      "answer_en": "Hertz",
+      "answer_hi": "हर्ट्ज़",
+      "explanation_en": "Frequency is measured in Hertz (Hz), where 1 Hz = 1 cycle per second.",
+      "explanation_hi": "आवृत्ति को हर्ट्ज़ (Hz) में मापा जाता है, जहाँ 1 Hz = 1 चक्र प्रति सेकंड।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the relationship between frequency (f) and time period (T)?",
+      "question_hi": "आवृत्ति (f) और आवर्तकाल (T) के बीच क्या संबंध है?",
+      "options_en": [
+        "f = 1/T",
+        "f = T",
+        "f = T²",
+        "f = 2T"
+      ],
+      "options_hi": [
+        "f = 1/T",
+        "f = T",
+        "f = T²",
+        "f = 2T"
+      ],
+      "answer_en": "f = 1/T",
+      "answer_hi": "f = 1/T",
+      "explanation_en": "Frequency is the reciprocal of time period: f = 1/T.",
+      "explanation_hi": "आवृत्ति, आवर्तकाल का व्युत्क्रम होती है: f = 1/T।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What type of wave is sound?",
+      "question_hi": "ध्वनि किस प्रकार की तरंग है?",
+      "options_en": [
+        "Longitudinal",
+        "Transverse",
+        "Electromagnetic",
+        "Surface"
+      ],
+      "options_hi": [
+        "अनुदैर्ध्य",
+        "अनुप्रस्थ",
+        "विद्युत चुंबकीय",
+        "पृष्ठ"
+      ],
+      "answer_en": "Longitudinal",
+      "answer_hi": "अनुदैर्ध्य",
+      "explanation_en": "Sound waves are longitudinal waves where particles vibrate parallel to the direction of wave propagation.",
+      "explanation_hi": "ध्वनि तरंगें अनुदैर्ध्य तरंगें हैं जिनमें कण तरंग की दिशा के समानांतर कंपन करते हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the speed of sound in air at 0°C approximately?",
+      "question_hi": "0°C पर वायु में ध्वनि की गति लगभग कितनी होती है?",
+      "options_en": [
+        "332 m/s",
+        "500 m/s",
+        "3×10⁸ m/s",
+        "1500 m/s"
+      ],
+      "options_hi": [
+        "332 m/s",
+        "500 m/s",
+        "3×10⁸ m/s",
+        "1500 m/s"
+      ],
+      "answer_en": "332 m/s",
+      "answer_hi": "332 m/s",
+      "explanation_en": "Speed of sound in air at 0°C is approximately 332 m/s.",
+      "explanation_hi": "0°C पर वायु में ध्वनि की गति लगभग 332 m/s होती है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the audible frequency range for humans?",
+      "question_hi": "मनुष्यों के लिए श्रव्य आवृत्ति सीमा क्या है?",
+      "options_en": [
+        "20 Hz to 20,000 Hz",
+        "0 Hz to 100 Hz",
+        "1 kHz to 100 kHz",
+        "200 Hz to 2000 Hz"
+      ],
+      "options_hi": [
+        "20 Hz से 20,000 Hz",
+        "0 Hz से 100 Hz",
+        "1 kHz से 100 kHz",
+        "200 Hz से 2000 Hz"
+      ],
+      "answer_en": "20 Hz to 20,000 Hz",
+      "answer_hi": "20 Hz से 20,000 Hz",
+      "explanation_en": "Humans can hear sounds in the frequency range of 20 Hz to 20,000 Hz (20 kHz).",
+      "explanation_hi": "मनुष्य 20 Hz से 20,000 Hz (20 kHz) की आवृत्ति सीमा में ध्वनि सुन सकते हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What are sound waves with frequency above 20,000 Hz called?",
+      "question_hi": "20,000 Hz से अधिक आवृत्ति वाली ध्वनि तरंगें क्या कहलाती हैं?",
+      "options_en": [
+        "Ultrasonic",
+        "Infrasonic",
+        "Subsonic",
+        "Hypersonic"
+      ],
+      "options_hi": [
+        "पराश्रव्य",
+        "अवश्रव्य",
+        "उपध्वनिक",
+        "अतिध्वनिक"
+      ],
+      "answer_en": "Ultrasonic",
+      "answer_hi": "पराश्रव्य",
+      "explanation_en": "Sound waves above 20,000 Hz are called ultrasonic waves; they cannot be heard by humans.",
+      "explanation_hi": "20,000 Hz से ऊपर की ध्वनि तरंगें पराश्रव्य तरंगें कहलाती हैं; इन्हें मनुष्य नहीं सुन सकते।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the frequency of a wave with time period 0.5 s?",
+      "question_hi": "0.5 s आवर्तकाल वाली तरंग की आवृत्ति क्या होगी?",
+      "options_en": [
+        "2 Hz",
+        "0.5 Hz",
+        "5 Hz",
+        "1 Hz"
+      ],
+      "options_hi": [
+        "2 Hz",
+        "0.5 Hz",
+        "5 Hz",
+        "1 Hz"
+      ],
+      "answer_en": "2 Hz",
+      "answer_hi": "2 Hz",
+      "explanation_en": "f = 1/T = 1/0.5 = 2 Hz.",
+      "explanation_hi": "f = 1/T = 1/0.5 = 2 Hz।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Which property of a wave determines its pitch?",
+      "question_hi": "तरंग की कौन सी विशेषता उसकी तारत्व (पिच) निर्धारित करती है?",
+      "options_en": [
+        "Frequency",
+        "Amplitude",
+        "Wavelength",
+        "Speed"
+      ],
+      "options_hi": [
+        "आवृत्ति",
+        "आयाम",
+        "तरंगदैर्ध्य",
+        "चाल"
+      ],
+      "answer_en": "Frequency",
+      "answer_hi": "आवृत्ति",
+      "explanation_en": "The pitch of sound is determined by its frequency. Higher frequency means higher pitch.",
+      "explanation_hi": "ध्वनि की तारत्व उसकी आवृत्ति द्वारा निर्धारित होती है। अधिक आवृत्ति का अर्थ है अधिक तारत्व।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the unit of angular frequency (ω)?",
+      "question_hi": "कोणीय आवृत्ति (ω) की इकाई क्या है?",
+      "options_en": [
+        "rad/s",
+        "Hz",
+        "m/s",
+        "rpm"
+      ],
+      "options_hi": [
+        "rad/s",
+        "Hz",
+        "m/s",
+        "rpm"
+      ],
+      "answer_en": "rad/s",
+      "answer_hi": "rad/s",
+      "explanation_en": "Angular frequency ω is measured in radians per second (rad/s).",
+      "explanation_hi": "कोणीय आवृत्ति ω को रेडियन प्रति सेकंड (rad/s) में मापा जाता है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the relation between angular frequency ω and frequency f?",
+      "question_hi": "कोणीय आवृत्ति ω और आवृत्ति f के बीच क्या संबंध है?",
+      "options_en": [
+        "ω = 2πf",
+        "ω = f/2π",
+        "ω = πf",
+        "ω = f²"
+      ],
+      "options_hi": [
+        "ω = 2πf",
+        "ω = f/2π",
+        "ω = πf",
+        "ω = f²"
+      ],
+      "answer_en": "ω = 2πf",
+      "answer_hi": "ω = 2πf",
+      "explanation_en": "Angular frequency ω = 2πf, where f is the frequency in Hz.",
+      "explanation_hi": "कोणीय आवृत्ति ω = 2πf, जहाँ f हर्ट्ज़ में आवृत्ति है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Sound waves below 20 Hz are called ___.",
+      "question_hi": "20 Hz से नीचे की ध्वनि तरंगें ___ कहलाती हैं।",
+      "options_en": [
+        "Infrasonic",
+        "Ultrasonic",
+        "Supersonic",
+        "Sonic"
+      ],
+      "options_hi": [
+        "अवश्रव्य",
+        "पराश्रव्य",
+        "पराध्वनिक",
+        "ध्वनिक"
+      ],
+      "answer_en": "Infrasonic",
+      "answer_hi": "अवश्रव्य",
+      "explanation_en": "Waves below 20 Hz are infrasonic, used by some animals like elephants for communication.",
+      "explanation_hi": "20 Hz से नीचे की तरंगें अवश्रव्य होती हैं, जिनका उपयोग हाथी जैसे जानवर संचार के लिए करते हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the speed of light in vacuum?",
+      "question_hi": "निर्वात में प्रकाश की गति क्या है?",
+      "options_en": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "options_hi": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "3×10¹⁰ m/s",
+        "3×10⁴ m/s"
+      ],
+      "answer_en": "3×10⁸ m/s",
+      "answer_hi": "3×10⁸ m/s",
+      "explanation_en": "Speed of light in vacuum is approximately 3×10⁸ m/s.",
+      "explanation_hi": "निर्वात में प्रकाश की गति लगभग 3×10⁸ m/s है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "In simple harmonic motion, the restoring force is proportional to ___.",
+      "question_hi": "सरल आवर्त गति में, प्रत्यानयन बल ___ के समानुपाती होता है।",
+      "options_en": [
+        "Displacement",
+        "Velocity",
+        "Acceleration",
+        "Time"
+      ],
+      "options_hi": [
+        "विस्थापन",
+        "वेग",
+        "त्वरण",
+        "समय"
+      ],
+      "answer_en": "Displacement",
+      "answer_hi": "विस्थापन",
+      "explanation_en": "In SHM, restoring force F = -kx, proportional to displacement x.",
+      "explanation_hi": "SHM में, प्रत्यानयन बल F = -kx, विस्थापन x के समानुपाती होता है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is resonance?",
+      "question_hi": "अनुनाद क्या है?",
+      "options_en": [
+        "Vibration at natural frequency due to external force",
+        "Reflection of sound",
+        "Absorption of sound",
+        "Refraction of waves"
+      ],
+      "options_hi": [
+        "बाहरी बल के कारण प्राकृतिक आवृत्ति पर कंपन",
+        "ध्वनि का परावर्तन",
+        "ध्वनि का अवशोषण",
+        "तरंगों का अपवर्तन"
+      ],
+      "answer_en": "Vibration at natural frequency due to external force",
+      "answer_hi": "बाहरी बल के कारण प्राकृतिक आवृत्ति पर कंपन",
+      "explanation_en": "Resonance occurs when an external frequency matches the natural frequency, causing large amplitude oscillations.",
+      "explanation_hi": "अनुनाद तब होता है जब बाहरी आवृत्ति प्राकृतिक आवृत्ति से मेल खाती है, जिससे बड़े आयाम के दोलन होते हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "The wave equation relates speed (v), frequency (f), and wavelength (λ) as ___.",
+      "question_hi": "तरंग समीकरण चाल (v), आवृत्ति (f) और तरंगदैर्ध्य (λ) को ___ रूप में संबंधित करता है।",
+      "options_en": [
+        "v = fλ",
+        "v = f/λ",
+        "v = λ/f",
+        "v = f+λ"
+      ],
+      "options_hi": [
+        "v = fλ",
+        "v = f/λ",
+        "v = λ/f",
+        "v = f+λ"
+      ],
+      "answer_en": "v = fλ",
+      "answer_hi": "v = fλ",
+      "explanation_en": "The wave equation is v = fλ, where v is wave speed, f is frequency, and λ is wavelength.",
+      "explanation_hi": "तरंग समीकरण v = fλ है, जहाँ v तरंग चाल, f आवृत्ति और λ तरंगदैर्ध्य है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the time period of a wave with frequency 50 Hz?",
+      "question_hi": "50 Hz आवृत्ति वाली तरंग का आवर्तकाल क्या होगा?",
+      "options_en": [
+        "0.02 s",
+        "50 s",
+        "0.5 s",
+        "2 s"
+      ],
+      "options_hi": [
+        "0.02 s",
+        "50 s",
+        "0.5 s",
+        "2 s"
+      ],
+      "answer_en": "0.02 s",
+      "answer_hi": "0.02 s",
+      "explanation_en": "T = 1/f = 1/50 = 0.02 s.",
+      "explanation_hi": "T = 1/f = 1/50 = 0.02 s।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Which of these cannot travel through vacuum?",
+      "question_hi": "इनमें से कौन निर्वात में नहीं चल सकता?",
+      "options_en": [
+        "Sound waves",
+        "Light waves",
+        "X-rays",
+        "Radio waves"
+      ],
+      "options_hi": [
+        "ध्वनि तरंगें",
+        "प्रकाश तरंगें",
+        "X-किरणें",
+        "रेडियो तरंगें"
+      ],
+      "answer_en": "Sound waves",
+      "answer_hi": "ध्वनि तरंगें",
+      "explanation_en": "Sound is a mechanical wave and requires a medium to travel; it cannot pass through vacuum.",
+      "explanation_hi": "ध्वनि एक यांत्रिक तरंग है और इसे यात्रा के लिए माध्यम की आवश्यकता होती है; यह निर्वात में नहीं चल सकती।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "The loudness of sound depends on its ___.",
+      "question_hi": "ध्वनि की प्रबलता उसके ___ पर निर्भर करती है।",
+      "options_en": [
+        "Amplitude",
+        "Frequency",
+        "Speed",
+        "Wavelength"
+      ],
+      "options_hi": [
+        "आयाम",
+        "आवृत्ति",
+        "चाल",
+        "तरंगदैर्ध्य"
+      ],
+      "answer_en": "Amplitude",
+      "answer_hi": "आयाम",
+      "explanation_en": "Loudness of sound is determined by amplitude; greater amplitude means louder sound.",
+      "explanation_hi": "ध्वनि की प्रबलता आयाम द्वारा निर्धारित होती है; अधिक आयाम का अर्थ है तेज़ ध्वनि।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the frequency of AC power supply in India?",
+      "question_hi": "भारत में AC विद्युत आपूर्ति की आवृत्ति क्या है?",
+      "options_en": [
+        "50 Hz",
+        "60 Hz",
+        "100 Hz",
+        "25 Hz"
+      ],
+      "options_hi": [
+        "50 Hz",
+        "60 Hz",
+        "100 Hz",
+        "25 Hz"
+      ],
+      "answer_en": "50 Hz",
+      "answer_hi": "50 Hz",
+      "explanation_en": "The AC power supply frequency in India is 50 Hz.",
+      "explanation_hi": "भारत में AC विद्युत आपूर्ति की आवृत्ति 50 Hz है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Which has higher frequency — red light or violet light?",
+      "question_hi": "लाल प्रकाश या बैंगनी प्रकाश में से किसकी आवृत्ति अधिक है?",
+      "options_en": [
+        "Violet light",
+        "Red light",
+        "Both are equal",
+        "Depends on medium"
+      ],
+      "options_hi": [
+        "बैंगनी प्रकाश",
+        "लाल प्रकाश",
+        "दोनों बराबर हैं",
+        "माध्यम पर निर्भर"
+      ],
+      "answer_en": "Violet light",
+      "answer_hi": "बैंगनी प्रकाश",
+      "explanation_en": "Violet light has a higher frequency (~7.5×10¹⁴ Hz) compared to red light (~4.3×10¹⁴ Hz).",
+      "explanation_hi": "बैंगनी प्रकाश की आवृत्ति (~7.5×10¹⁴ Hz) लाल प्रकाश (~4.3×10¹⁴ Hz) से अधिक होती है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "In which medium does sound travel fastest?",
+      "question_hi": "किस माध्यम में ध्वनि सबसे तेज़ चलती है?",
+      "options_en": [
+        "Solids",
+        "Liquids",
+        "Gases",
+        "Vacuum"
+      ],
+      "options_hi": [
+        "ठोस",
+        "द्रव",
+        "गैस",
+        "निर्वात"
+      ],
+      "answer_en": "Solids",
+      "answer_hi": "ठोस",
+      "explanation_en": "Sound travels fastest in solids due to their high elasticity and close molecular packing.",
+      "explanation_hi": "ध्वनि ठोसों में सबसे तेज़ चलती है क्योंकि उनकी प्रत्यास्थता अधिक होती है और अणु पास-पास होते हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "The period of oscillation of a simple pendulum depends on ___.",
+      "question_hi": "सरल लोलक के दोलन का आवर्तकाल ___ पर निर्भर करता है।",
+      "options_en": [
+        "Length and g",
+        "Mass and length",
+        "Mass and g",
+        "Amplitude and mass"
+      ],
+      "options_hi": [
+        "लंबाई और g",
+        "द्रव्यमान और लंबाई",
+        "द्रव्यमान और g",
+        "आयाम और द्रव्यमान"
+      ],
+      "answer_en": "Length and g",
+      "answer_hi": "लंबाई और g",
+      "explanation_en": "T = 2π√(L/g); depends on length L and acceleration due to gravity g, not on mass or amplitude.",
+      "explanation_hi": "T = 2π√(L/g); लंबाई L और गुरुत्वीय त्वरण g पर निर्भर करता है, द्रव्यमान या आयाम पर नहीं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the unit of loudness of sound?",
+      "question_hi": "ध्वनि की प्रबलता की इकाई क्या है?",
+      "options_en": [
+        "Decibel",
+        "Hertz",
+        "Pascal",
+        "Watt"
+      ],
+      "options_hi": [
+        "डेसिबल",
+        "हर्ट्ज़",
+        "पास्कल",
+        "वाट"
+      ],
+      "answer_en": "Decibel",
+      "answer_hi": "डेसिबल",
+      "explanation_en": "Loudness (sound intensity level) is measured in decibels (dB).",
+      "explanation_hi": "ध्वनि की प्रबलता (ध्वनि तीव्रता स्तर) डेसिबल (dB) में मापी जाती है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "A wave transfers ___ from one place to another.",
+      "question_hi": "तरंग एक स्थान से दूसरे स्थान तक ___ का स्थानांतरण करती है।",
+      "options_en": [
+        "Energy",
+        "Matter",
+        "Both energy and matter",
+        "Neither energy nor matter"
+      ],
+      "options_hi": [
+        "ऊर्जा",
+        "पदार्थ",
+        "ऊर्जा और पदार्थ दोनों",
+        "न ऊर्जा न पदार्थ"
+      ],
+      "answer_en": "Energy",
+      "answer_hi": "ऊर्जा",
+      "explanation_en": "A wave transfers energy (not matter) from one place to another.",
+      "explanation_hi": "तरंग एक स्थान से दूसरे स्थान तक ऊर्जा (पदार्थ नहीं) का स्थानांतरण करती है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the wavelength if wave speed is 300 m/s and frequency is 150 Hz?",
+      "question_hi": "यदि तरंग की चाल 300 m/s और आवृत्ति 150 Hz है, तो तरंगदैर्ध्य क्या होगी?",
+      "options_en": [
+        "2 m",
+        "0.5 m",
+        "150 m",
+        "300 m"
+      ],
+      "options_hi": [
+        "2 m",
+        "0.5 m",
+        "150 m",
+        "300 m"
+      ],
+      "answer_en": "2 m",
+      "answer_hi": "2 m",
+      "explanation_en": "λ = v/f = 300/150 = 2 m.",
+      "explanation_hi": "λ = v/f = 300/150 = 2 m।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Light waves are ___.",
+      "question_hi": "प्रकाश तरंगें ___ होती हैं।",
+      "options_en": [
+        "Transverse electromagnetic waves",
+        "Longitudinal mechanical waves",
+        "Longitudinal electromagnetic waves",
+        "Transverse mechanical waves"
+      ],
+      "options_hi": [
+        "अनुप्रस्थ विद्युत चुंबकीय तरंगें",
+        "अनुदैर्ध्य यांत्रिक तरंगें",
+        "अनुदैर्ध्य विद्युत चुंबकीय तरंगें",
+        "अनुप्रस्थ यांत्रिक तरंगें"
+      ],
+      "answer_en": "Transverse electromagnetic waves",
+      "answer_hi": "अनुप्रस्थ विद्युत चुंबकीय तरंगें",
+      "explanation_en": "Light waves are transverse electromagnetic waves that can travel through vacuum.",
+      "explanation_hi": "प्रकाश तरंगें अनुप्रस्थ विद्युत चुंबकीय तरंगें हैं जो निर्वात में यात्रा कर सकती हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Frequency of sound wave determines its ___.",
+      "question_hi": "ध्वनि तरंग की आवृत्ति उसकी ___ निर्धारित करती है।",
+      "options_en": [
+        "Pitch",
+        "Loudness",
+        "Quality",
+        "Speed"
+      ],
+      "options_hi": [
+        "तारत्व",
+        "प्रबलता",
+        "गुणता",
+        "चाल"
+      ],
+      "answer_en": "Pitch",
+      "answer_hi": "तारत्व",
+      "explanation_en": "Pitch of sound is directly related to its frequency; higher frequency means higher pitch.",
+      "explanation_hi": "ध्वनि की तारत्व सीधे उसकी आवृत्ति से संबंधित है; अधिक आवृत्ति का अर्थ है अधिक तारत्व।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "When the bob of a pendulum is displaced and released, it performs ___.",
+      "question_hi": "जब दोलक के गोलक को विस्थापित करके छोड़ा जाता है, तो यह ___ करता है।",
+      "options_en": [
+        "Simple harmonic motion",
+        "Uniform circular motion",
+        "Projectile motion",
+        "Rectilinear motion"
+      ],
+      "options_hi": [
+        "सरल आवर्त गति",
+        "एकसमान वृत्तीय गति",
+        "प्रक्षेप्य गति",
+        "सरल रेखीय गति"
+      ],
+      "answer_en": "Simple harmonic motion",
+      "answer_hi": "सरल आवर्त गति",
+      "explanation_en": "A pendulum (for small angles) performs simple harmonic motion with restoring force proportional to displacement.",
+      "explanation_hi": "एक दोलक (छोटे कोणों के लिए) सरल आवर्त गति करता है जिसमें प्रत्यानयन बल विस्थापन के समानुपाती होता है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Ultrasound is used in medical imaging. The technique is called ___.",
+      "question_hi": "चिकित्सा इमेजिंग में पराश्रव्य ध्वनि का उपयोग किया जाता है। इस तकनीक को ___ कहते हैं।",
+      "options_en": [
+        "Sonography",
+        "X-ray",
+        "CT scan",
+        "MRI"
+      ],
+      "options_hi": [
+        "सोनोग्राफी",
+        "X-रे",
+        "CT स्कैन",
+        "MRI"
+      ],
+      "answer_en": "Sonography",
+      "answer_hi": "सोनोग्राफी",
+      "explanation_en": "Sonography (ultrasound imaging) uses high-frequency sound waves to create images of body structures.",
+      "explanation_hi": "सोनोग्राफी (अल्ट्रासाउंड इमेजिंग) शरीर की संरचनाओं की छवियाँ बनाने के लिए उच्च-आवृत्ति ध्वनि तरंगों का उपयोग करती है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What is the number of oscillations per second called?",
+      "question_hi": "प्रति सेकंड दोलनों की संख्या को क्या कहते हैं?",
+      "options_en": [
+        "Frequency",
+        "Time period",
+        "Amplitude",
+        "Wavelength"
+      ],
+      "options_hi": [
+        "आवृत्ति",
+        "आवर्तकाल",
+        "आयाम",
+        "तरंगदैर्ध्य"
+      ],
+      "answer_en": "Frequency",
+      "answer_hi": "आवृत्ति",
+      "explanation_en": "Frequency is defined as the number of complete oscillations (cycles) per second.",
+      "explanation_hi": "आवृत्ति को प्रति सेकंड पूर्ण दोलनों (चक्रों) की संख्या के रूप में परिभाषित किया जाता है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "The bending of waves around obstacles is called ___.",
+      "question_hi": "बाधाओं के चारों ओर तरंगों का मुड़ना ___ कहलाता है।",
+      "options_en": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Polarization"
+      ],
+      "options_hi": [
+        "विवर्तन",
+        "परावर्तन",
+        "अपवर्तन",
+        "ध्रुवण"
+      ],
+      "answer_en": "Diffraction",
+      "answer_hi": "विवर्तन",
+      "explanation_en": "Diffraction is the phenomenon of bending of waves around corners and obstacles.",
+      "explanation_hi": "विवर्तन तरंगों के कोनों और बाधाओं के चारों ओर मुड़ने की घटना है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "What kind of waves are produced in a slinky pushed back and forth?",
+      "question_hi": "स्लिंकी को आगे-पीछे धकेलने पर किस प्रकार की तरंगें उत्पन्न होती हैं?",
+      "options_en": [
+        "Longitudinal waves",
+        "Transverse waves",
+        "Electromagnetic waves",
+        "Surface waves"
+      ],
+      "options_hi": [
+        "अनुदैर्ध्य तरंगें",
+        "अनुप्रस्थ तरंगें",
+        "विद्युत चुंबकीय तरंगें",
+        "पृष्ठ तरंगें"
+      ],
+      "answer_en": "Longitudinal waves",
+      "answer_hi": "अनुदैर्ध्य तरंगें",
+      "explanation_en": "Pushing a slinky back and forth creates longitudinal (compression and rarefaction) waves.",
+      "explanation_hi": "स्लिंकी को आगे-पीछे धकेलने से अनुदैर्ध्य (संपीड़न और विरलन) तरंगें उत्पन्न होती हैं।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "A complete back-and-forth motion of a vibrating object is called ___.",
+      "question_hi": "एक कंपायमान वस्तु की पूर्ण आगे-पीछे की गति को ___ कहते हैं।",
+      "options_en": [
+        "One oscillation",
+        "Frequency",
+        "Amplitude",
+        "Wavelength"
+      ],
+      "options_hi": [
+        "एक दोलन",
+        "आवृत्ति",
+        "आयाम",
+        "तरंगदैर्ध्य"
+      ],
+      "answer_en": "One oscillation",
+      "answer_hi": "एक दोलन",
+      "explanation_en": "One complete back-and-forth motion constitutes one oscillation (one cycle).",
+      "explanation_hi": "एक पूर्ण आगे-पीछे की गति एक दोलन (एक चक्र) का गठन करती है।"
+    },
+    {
+      "difficulty": "Simple",
+      "question_en": "Which type of wave cannot be polarized?",
+      "question_hi": "किस प्रकार की तरंग को ध्रुवित नहीं किया जा सकता?",
+      "options_en": [
+        "Longitudinal waves",
+        "Transverse electromagnetic waves",
+        "Light waves",
+        "Radio waves"
+      ],
+      "options_hi": [
+        "अनुदैर्ध्य तरंगें",
+        "अनुप्रस्थ विद्युत चुंबकीय तरंगें",
+        "प्रकाश तरंगें",
+        "रेडियो तरंगें"
+      ],
+      "answer_en": "Longitudinal waves",
+      "answer_hi": "अनुदैर्ध्य तरंगें",
+      "explanation_en": "Polarization is only possible for transverse waves; longitudinal waves (like sound) cannot be polarized.",
+      "explanation_hi": "ध्रुवण केवल अनुप्रस्थ तरंगों के लिए संभव है; अनुदैर्ध्य तरंगें (जैसे ध्वनि) ध्रुवित नहीं की जा सकतीं।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "A pendulum of length 1 m has what approximate time period? (g = 10 m/s²)",
+      "question_hi": "1 m लंबाई के दोलक का अनुमानित आवर्तकाल क्या होगा? (g = 10 m/s²)",
+      "options_en": [
+        "2π/√10 s",
+        "2 s",
+        "1 s",
+        "π s"
+      ],
+      "options_hi": [
+        "2π/√10 s",
+        "2 s",
+        "1 s",
+        "π s"
+      ],
+      "answer_en": "2π/√10 s",
+      "answer_hi": "2π/√10 s",
+      "explanation_en": "T = 2π√(L/g) = 2π√(1/10) = 2π/√10 ≈ 1.99 s ≈ 2 s.",
+      "explanation_hi": "T = 2π√(L/g) = 2π√(1/10) = 2π/√10 ≈ 1.99 s ≈ 2 s।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The Doppler effect for sound occurs due to relative motion between ___.",
+      "question_hi": "ध्वनि के लिए डॉप्लर प्रभाव ___ के बीच सापेक्षिक गति के कारण होता है।",
+      "options_en": [
+        "Source and observer",
+        "Source and medium",
+        "Observer and medium",
+        "Two mediums"
+      ],
+      "options_hi": [
+        "स्रोत और प्रेक्षक",
+        "स्रोत और माध्यम",
+        "प्रेक्षक और माध्यम",
+        "दो माध्यम"
+      ],
+      "answer_en": "Source and observer",
+      "answer_hi": "स्रोत और प्रेक्षक",
+      "explanation_en": "The Doppler effect is due to relative motion between source and observer causing apparent change in frequency.",
+      "explanation_hi": "डॉप्लर प्रभाव स्रोत और प्रेक्षक के बीच सापेक्षिक गति के कारण होता है जिससे आवृत्ति में आभासी परिवर्तन होता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "If a source moves toward a stationary observer, the observed frequency is ___.",
+      "question_hi": "यदि स्रोत स्थिर प्रेक्षक की ओर बढ़ता है, तो प्रेक्षित आवृत्ति ___।",
+      "options_en": [
+        "Greater than original",
+        "Less than original",
+        "Equal to original",
+        "Zero"
+      ],
+      "options_hi": [
+        "मूल से अधिक",
+        "मूल से कम",
+        "मूल के बराबर",
+        "शून्य"
+      ],
+      "answer_en": "Greater than original",
+      "answer_hi": "मूल से अधिक",
+      "explanation_en": "When the source approaches, wavelength decreases and observed frequency increases (blue shift in sound).",
+      "explanation_hi": "जब स्रोत निकट आता है, तरंगदैर्ध्य घटती है और प्रेक्षित आवृत्ति बढ़ जाती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "What is the beat frequency when two tuning forks of 256 Hz and 260 Hz sound together?",
+      "question_hi": "256 Hz और 260 Hz की दो स्वरित्र एक साथ बजाने पर विस्पंद आवृत्ति क्या होगी?",
+      "options_en": [
+        "4 Hz",
+        "516 Hz",
+        "258 Hz",
+        "2 Hz"
+      ],
+      "options_hi": [
+        "4 Hz",
+        "516 Hz",
+        "258 Hz",
+        "2 Hz"
+      ],
+      "answer_en": "4 Hz",
+      "answer_hi": "4 Hz",
+      "explanation_en": "Beat frequency = |f₁ - f₂| = |256 - 260| = 4 Hz.",
+      "explanation_hi": "विस्पंद आवृत्ति = |f₁ - f₂| = |256 - 260| = 4 Hz।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "In SHM, maximum velocity occurs at ___.",
+      "question_hi": "SHM में अधिकतम वेग ___ पर होता है।",
+      "options_en": [
+        "Mean position",
+        "Extreme position",
+        "Half amplitude",
+        "Quarter amplitude"
+      ],
+      "options_hi": [
+        "माध्य स्थिति",
+        "अंतिम स्थिति",
+        "आधे आयाम पर",
+        "चौथाई आयाम पर"
+      ],
+      "answer_en": "Mean position",
+      "answer_hi": "माध्य स्थिति",
+      "explanation_en": "At mean position, displacement is zero and KE is maximum, so velocity is maximum in SHM.",
+      "explanation_hi": "माध्य स्थिति पर विस्थापन शून्य होता है और गतिज ऊर्जा अधिकतम होती है, इसलिए SHM में वेग अधिकतम होता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Standing waves are formed by superposition of two waves with same frequency traveling in ___.",
+      "question_hi": "अप्रगामी तरंगें एक ही आवृत्ति की दो तरंगों के अध्यारोपण से बनती हैं जो ___ में चल रही हों।",
+      "options_en": [
+        "Opposite directions",
+        "Same direction",
+        "Perpendicular directions",
+        "Random directions"
+      ],
+      "options_hi": [
+        "विपरीत दिशाओं में",
+        "एक ही दिशा में",
+        "लंबवत दिशाओं में",
+        "यादृच्छिक दिशाओं में"
+      ],
+      "answer_en": "Opposite directions",
+      "answer_hi": "विपरीत दिशाओं में",
+      "explanation_en": "Standing waves form when two identical waves (same frequency and amplitude) travel in opposite directions.",
+      "explanation_hi": "अप्रगामी तरंगें तब बनती हैं जब दो समान तरंगें (समान आवृत्ति और आयाम) विपरीत दिशाओं में चलती हैं।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "What is the fundamental frequency of a string of length L, tension T, and linear mass density μ?",
+      "question_hi": "लंबाई L, तनाव T और रेखीय द्रव्यमान घनत्व μ की डोरी की मूल आवृत्ति क्या है?",
+      "options_en": [
+        "(1/2L)√(T/μ)",
+        "(1/L)√(T/μ)",
+        "(2L)√(T/μ)",
+        "(1/2L)√(μ/T)"
+      ],
+      "options_hi": [
+        "(1/2L)√(T/μ)",
+        "(1/L)√(T/μ)",
+        "(2L)√(T/μ)",
+        "(1/2L)√(μ/T)"
+      ],
+      "answer_en": "(1/2L)√(T/μ)",
+      "answer_hi": "(1/2L)√(T/μ)",
+      "explanation_en": "The fundamental frequency f₁ = (1/2L)√(T/μ), which is the first harmonic of a vibrating string.",
+      "explanation_hi": "मूल आवृत्ति f₁ = (1/2L)√(T/μ), जो कंपायमान डोरी का प्रथम संनादी है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Which phenomenon explains why we hear a higher pitch when an ambulance approaches us?",
+      "question_hi": "कौन सी घटना बताती है कि एम्बुलेंस हमारे पास आने पर हमें ऊँचे स्वर की ध्वनि सुनाई देती है?",
+      "options_en": [
+        "Doppler Effect",
+        "Resonance",
+        "Interference",
+        "Diffraction"
+      ],
+      "options_hi": [
+        "डॉप्लर प्रभाव",
+        "अनुनाद",
+        "व्यतिकरण",
+        "विवर्तन"
+      ],
+      "answer_en": "Doppler Effect",
+      "answer_hi": "डॉप्लर प्रभाव",
+      "explanation_en": "The Doppler Effect causes apparent increase in frequency (higher pitch) when the source moves toward the observer.",
+      "explanation_hi": "डॉप्लर प्रभाव के कारण जब स्रोत प्रेक्षक की ओर बढ़ता है तो आभासी आवृत्ति (ऊँचा स्वर) बढ़ जाती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Nodes in a standing wave are points of ___.",
+      "question_hi": "अप्रगामी तरंग में निस्पंद ___ के बिंदु होते हैं।",
+      "options_en": [
+        "Zero displacement",
+        "Maximum displacement",
+        "Maximum velocity",
+        "Maximum energy"
+      ],
+      "options_hi": [
+        "शून्य विस्थापन",
+        "अधिकतम विस्थापन",
+        "अधिकतम वेग",
+        "अधिकतम ऊर्जा"
+      ],
+      "answer_en": "Zero displacement",
+      "answer_hi": "शून्य विस्थापन",
+      "explanation_en": "Nodes are points of zero displacement (and zero velocity) in a standing wave.",
+      "explanation_hi": "निस्पंद अप्रगामी तरंग में शून्य विस्थापन (और शून्य वेग) के बिंदु होते हैं।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "When a wave moves from air into water, which quantity remains unchanged?",
+      "question_hi": "जब तरंग वायु से जल में जाती है, तो कौन सी राशि अपरिवर्तित रहती है?",
+      "options_en": [
+        "Frequency",
+        "Wavelength",
+        "Speed",
+        "Amplitude"
+      ],
+      "options_hi": [
+        "आवृत्ति",
+        "तरंगदैर्ध्य",
+        "चाल",
+        "आयाम"
+      ],
+      "answer_en": "Frequency",
+      "answer_hi": "आवृत्ति",
+      "explanation_en": "When a wave changes medium, its frequency remains unchanged while speed and wavelength change.",
+      "explanation_hi": "जब तरंग माध्यम बदलती है, तो उसकी आवृत्ति अपरिवर्तित रहती है जबकि चाल और तरंगदैर्ध्य बदलते हैं।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The quality or timbre of sound is determined by ___.",
+      "question_hi": "ध्वनि की गुणता या स्वर-विशेषता ___ द्वारा निर्धारित होती है।",
+      "options_en": [
+        "Overtones and harmonics",
+        "Amplitude only",
+        "Frequency only",
+        "Speed of sound"
+      ],
+      "options_hi": [
+        "अधिस्वर और संनादी",
+        "केवल आयाम",
+        "केवल आवृत्ति",
+        "ध्वनि की चाल"
+      ],
+      "answer_en": "Overtones and harmonics",
+      "answer_hi": "अधिस्वर और संनादी",
+      "explanation_en": "Timbre depends on the number and intensity of harmonics and overtones present in the sound.",
+      "explanation_hi": "स्वर-विशेषता ध्वनि में उपस्थित संनादियों और अधिस्वरों की संख्या और तीव्रता पर निर्भर करती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "In SHM, the total energy is proportional to ___.",
+      "question_hi": "SHM में कुल ऊर्जा ___ के समानुपाती होती है।",
+      "options_en": [
+        "Square of amplitude",
+        "Amplitude",
+        "Square root of amplitude",
+        "Cube of amplitude"
+      ],
+      "options_hi": [
+        "आयाम के वर्ग",
+        "आयाम",
+        "आयाम के वर्गमूल",
+        "आयाम के घन"
+      ],
+      "answer_en": "Square of amplitude",
+      "answer_hi": "आयाम के वर्ग",
+      "explanation_en": "Total energy E = ½mω²A², which is proportional to the square of amplitude A.",
+      "explanation_hi": "कुल ऊर्जा E = ½mω²A², जो आयाम A के वर्ग के समानुपाती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "A closed organ pipe produces which harmonics?",
+      "question_hi": "बंद ऑर्गन पाइप कौन से संनादी उत्पन्न करता है?",
+      "options_en": [
+        "Odd harmonics only",
+        "Even harmonics only",
+        "All harmonics",
+        "No harmonics"
+      ],
+      "options_hi": [
+        "केवल विषम संनादी",
+        "केवल सम संनादी",
+        "सभी संनादी",
+        "कोई संनादी नहीं"
+      ],
+      "answer_en": "Odd harmonics only",
+      "answer_hi": "केवल विषम संनादी",
+      "explanation_en": "A closed organ pipe (closed at one end) produces only odd harmonics: 1st, 3rd, 5th, etc.",
+      "explanation_hi": "बंद ऑर्गन पाइप (एक छोर से बंद) केवल विषम संनादी उत्पन्न करता है: 1st, 3rd, 5th आदि।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The speed of sound increases with increase in ___.",
+      "question_hi": "ध्वनि की चाल ___ बढ़ने के साथ बढ़ती है।",
+      "options_en": [
+        "Temperature",
+        "Pressure",
+        "Density",
+        "Humidity decreasing"
+      ],
+      "options_hi": [
+        "तापमान",
+        "दाब",
+        "घनत्व",
+        "आर्द्रता कम होने पर"
+      ],
+      "answer_en": "Temperature",
+      "answer_hi": "तापमान",
+      "explanation_en": "Speed of sound v ∝ √T; as temperature increases, speed of sound increases.",
+      "explanation_hi": "ध्वनि की चाल v ∝ √T; तापमान बढ़ने के साथ ध्वनि की चाल बढ़ती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "If the length of a vibrating string is doubled, its fundamental frequency ___.",
+      "question_hi": "यदि कंपायमान डोरी की लंबाई दोगुनी कर दी जाए, तो उसकी मूल आवृत्ति ___।",
+      "options_en": [
+        "Halves",
+        "Doubles",
+        "Remains same",
+        "Quadruples"
+      ],
+      "options_hi": [
+        "आधी हो जाती है",
+        "दोगुनी हो जाती है",
+        "समान रहती है",
+        "चार गुनी हो जाती है"
+      ],
+      "answer_en": "Halves",
+      "answer_hi": "आधी हो जाती है",
+      "explanation_en": "f = (1/2L)√(T/μ); when L doubles, f becomes half.",
+      "explanation_hi": "f = (1/2L)√(T/μ); जब L दोगुनी होती है, f आधी हो जाती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Which of the following waves has the highest frequency in the electromagnetic spectrum?",
+      "question_hi": "विद्युत चुंबकीय स्पेक्ट्रम में निम्नलिखित में से किस तरंग की आवृत्ति सर्वाधिक है?",
+      "options_en": [
+        "Gamma rays",
+        "X-rays",
+        "UV rays",
+        "Microwaves"
+      ],
+      "options_hi": [
+        "गामा किरणें",
+        "X-किरणें",
+        "पराबैंगनी किरणें",
+        "सूक्ष्म तरंगें"
+      ],
+      "answer_en": "Gamma rays",
+      "answer_hi": "गामा किरणें",
+      "explanation_en": "Gamma rays have the highest frequency (>10¹⁹ Hz) in the electromagnetic spectrum.",
+      "explanation_hi": "गामा किरणों की विद्युत चुंबकीय स्पेक्ट्रम में सर्वाधिक आवृत्ति (>10¹⁹ Hz) होती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Echo is heard when the minimum distance from reflecting surface is ___.",
+      "question_hi": "प्रतिध्वनि तब सुनाई देती है जब परावर्तक सतह से न्यूनतम दूरी ___ हो।",
+      "options_en": [
+        "17 m",
+        "10 m",
+        "34 m",
+        "5 m"
+      ],
+      "options_hi": [
+        "17 m",
+        "10 m",
+        "34 m",
+        "5 m"
+      ],
+      "answer_en": "17 m",
+      "answer_hi": "17 m",
+      "explanation_en": "For echo, minimum distance = (speed × time)/2 = (340 × 0.1)/2 = 17 m (as ear retention is 0.1 s).",
+      "explanation_hi": "प्रतिध्वनि के लिए, न्यूनतम दूरी = (चाल × समय)/2 = (340 × 0.1)/2 = 17 m (कान की प्रतिधारण 0.1 s है)।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "What happens to the frequency of a spring-mass system if the mass is increased?",
+      "question_hi": "यदि स्प्रिंग-द्रव्यमान निकाय में द्रव्यमान बढ़ाया जाए तो आवृत्ति पर क्या प्रभाव पड़ता है?",
+      "options_en": [
+        "Decreases",
+        "Increases",
+        "Remains same",
+        "First increases then decreases"
+      ],
+      "options_hi": [
+        "घटती है",
+        "बढ़ती है",
+        "समान रहती है",
+        "पहले बढ़ती है फिर घटती है"
+      ],
+      "answer_en": "Decreases",
+      "answer_hi": "घटती है",
+      "explanation_en": "f = (1/2π)√(k/m); as mass m increases, frequency f decreases.",
+      "explanation_hi": "f = (1/2π)√(k/m); जैसे-जैसे द्रव्यमान m बढ़ता है, आवृत्ति f घटती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The phenomenon of beats is used to ___.",
+      "question_hi": "विस्पंद की घटना का उपयोग ___ के लिए किया जाता है।",
+      "options_en": [
+        "Tune musical instruments",
+        "Measure speed of light",
+        "Create ultrasound",
+        "Detect earthquakes"
+      ],
+      "options_hi": [
+        "संगीत वाद्ययंत्रों को ट्यून करने",
+        "प्रकाश की गति मापने",
+        "अल्ट्रासाउंड बनाने",
+        "भूकंप का पता लगाने"
+      ],
+      "answer_en": "Tune musical instruments",
+      "answer_hi": "संगीत वाद्ययंत्रों को ट्यून करने",
+      "explanation_en": "Beats are used to tune musical instruments by adjusting until beats disappear (zero beat frequency).",
+      "explanation_hi": "संगीत वाद्ययंत्रों को ट्यून करने के लिए विस्पंद का उपयोग किया जाता है, जब तक विस्पंद गायब न हो जाएं।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Reverberation in a hall is due to ___.",
+      "question_hi": "हॉल में प्रतिध्वनि-वृद्धि (reverberation) ___ के कारण होती है।",
+      "options_en": [
+        "Multiple reflections of sound",
+        "Absorption of sound",
+        "Diffraction of sound",
+        "Resonance"
+      ],
+      "options_hi": [
+        "ध्वनि के अनेक परावर्तन",
+        "ध्वनि का अवशोषण",
+        "ध्वनि का विवर्तन",
+        "अनुनाद"
+      ],
+      "answer_en": "Multiple reflections of sound",
+      "answer_hi": "ध्वनि के अनेक परावर्तन",
+      "explanation_en": "Reverberation occurs due to repeated reflections of sound from walls, ceiling, and floor.",
+      "explanation_hi": "प्रतिध्वनि-वृद्धि दीवारों, छत और फर्श से ध्वनि के बार-बार परावर्तन के कारण होती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Which instrument measures frequency of sound waves?",
+      "question_hi": "कौन सा यंत्र ध्वनि तरंगों की आवृत्ति मापता है?",
+      "options_en": [
+        "Sonometer",
+        "Barometer",
+        "Voltmeter",
+        "Hygrometer"
+      ],
+      "options_hi": [
+        "सोनोमीटर",
+        "बैरोमीटर",
+        "वोल्टमीटर",
+        "आर्द्रतामापी"
+      ],
+      "answer_en": "Sonometer",
+      "answer_hi": "सोनोमीटर",
+      "explanation_en": "A sonometer is used to study frequency of vibrations of a string and verify laws of vibrations.",
+      "explanation_hi": "सोनोमीटर का उपयोग डोरी के कंपन की आवृत्ति का अध्ययन करने और कंपन के नियमों की पुष्टि करने के लिए किया जाता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The frequency of a tuning fork depends on ___.",
+      "question_hi": "स्वरित्र (tuning fork) की आवृत्ति ___ पर निर्भर करती है।",
+      "options_en": [
+        "Dimensions and material",
+        "Surrounding air temperature only",
+        "Pressure",
+        "Humidity"
+      ],
+      "options_hi": [
+        "विमाओं और सामग्री पर",
+        "केवल आसपास के वायु के तापमान पर",
+        "दाब पर",
+        "आर्द्रता पर"
+      ],
+      "answer_en": "Dimensions and material",
+      "answer_hi": "विमाओं और सामग्री पर",
+      "explanation_en": "The frequency of a tuning fork depends on its dimensions (length, thickness) and material (density, elasticity).",
+      "explanation_hi": "स्वरित्र की आवृत्ति उसकी विमाओं (लंबाई, मोटाई) और सामग्री (घनत्व, प्रत्यास्थता) पर निर्भर करती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "What is the phase difference between displacement and velocity in SHM?",
+      "question_hi": "SHM में विस्थापन और वेग के बीच कलांतर क्या है?",
+      "options_en": [
+        "π/2",
+        "π",
+        "0",
+        "2π"
+      ],
+      "options_hi": [
+        "π/2",
+        "π",
+        "0",
+        "2π"
+      ],
+      "answer_en": "π/2",
+      "answer_hi": "π/2",
+      "explanation_en": "In SHM, velocity leads displacement by π/2 (90°): x = A sin(ωt), v = Aω cos(ωt).",
+      "explanation_hi": "SHM में, वेग विस्थापन से π/2 (90°) आगे होता है: x = A sin(ωt), v = Aω cos(ωt)।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Ultrasound is used in SONAR. What does SONAR stand for?",
+      "question_hi": "SONAR में पराश्रव्य ध्वनि का उपयोग होता है। SONAR का पूर्ण रूप क्या है?",
+      "options_en": [
+        "Sound Navigation And Ranging",
+        "Sound and Navigation Array",
+        "Sonic Navigation and Radar",
+        "Sound of Noise And Range"
+      ],
+      "options_hi": [
+        "साउंड नेविगेशन एंड रेंजिंग",
+        "साउंड एंड नेविगेशन ऐरे",
+        "सोनिक नेविगेशन एंड रडार",
+        "साउंड ऑफ नॉइज़ एंड रेंज"
+      ],
+      "answer_en": "Sound Navigation And Ranging",
+      "answer_hi": "साउंड नेविगेशन एंड रेंजिंग",
+      "explanation_en": "SONAR = Sound Navigation And Ranging. It uses ultrasound to detect underwater objects.",
+      "explanation_hi": "SONAR = Sound Navigation And Ranging (ध्वनि नौपरिवहन और परास)। यह पानी के नीचे की वस्तुओं का पता लगाने के लिए पराश्रव्य ध्वनि का उपयोग करता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Natural frequency of a system is also called its ___.",
+      "question_hi": "किसी निकाय की प्राकृतिक आवृत्ति को उसकी ___ भी कहते हैं।",
+      "options_en": [
+        "Resonant frequency",
+        "Beat frequency",
+        "Threshold frequency",
+        "Cutoff frequency"
+      ],
+      "options_hi": [
+        "अनुनाद आवृत्ति",
+        "विस्पंद आवृत्ति",
+        "देहली आवृत्ति",
+        "कटऑफ आवृत्ति"
+      ],
+      "answer_en": "Resonant frequency",
+      "answer_hi": "अनुनाद आवृत्ति",
+      "explanation_en": "The natural frequency at which maximum energy transfer occurs is the resonant frequency.",
+      "explanation_hi": "वह प्राकृतिक आवृत्ति जिस पर अधिकतम ऊर्जा स्थानांतरण होता है, अनुनाद आवृत्ति कहलाती है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "For a string fixed at both ends, the second harmonic frequency equals ___ times the fundamental.",
+      "question_hi": "दोनों सिरों पर बंधी डोरी के लिए, द्वितीय संनादी आवृत्ति, मूल आवृत्ति की ___ गुनी होती है।",
+      "options_en": [
+        "2",
+        "3",
+        "4",
+        "1.5"
+      ],
+      "options_hi": [
+        "2",
+        "3",
+        "4",
+        "1.5"
+      ],
+      "answer_en": "2",
+      "answer_hi": "2",
+      "explanation_en": "For a string fixed at both ends, nth harmonic = n × fundamental. So 2nd harmonic = 2f₁.",
+      "explanation_hi": "दोनों सिरों पर बंधी डोरी के लिए, nवाँ संनादी = n × मूल आवृत्ति। तो द्वितीय संनादी = 2f₁।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "For superposition principle to apply, the waves must be in the same ___.",
+      "question_hi": "अध्यारोपण सिद्धांत लागू होने के लिए तरंगें एक ही ___ में होनी चाहिए।",
+      "options_en": [
+        "Medium",
+        "Direction",
+        "Phase",
+        "Frequency only"
+      ],
+      "options_hi": [
+        "माध्यम",
+        "दिशा",
+        "कला",
+        "केवल आवृत्ति"
+      ],
+      "answer_en": "Medium",
+      "answer_hi": "माध्यम",
+      "explanation_en": "The superposition principle states that when two or more waves meet, the net displacement is the algebraic sum, applicable when they travel in the same medium.",
+      "explanation_hi": "अध्यारोपण सिद्धांत कहता है कि जब दो या अधिक तरंगें मिलती हैं, तो परिणामी विस्थापन बीजगणितीय योग होता है, यह एक ही माध्यम में लागू होता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "If the speed of sound is 340 m/s and the wavelength is 0.85 m, the frequency is ___.",
+      "question_hi": "यदि ध्वनि की चाल 340 m/s है और तरंगदैर्ध्य 0.85 m है, तो आवृत्ति ___ है।",
+      "options_en": [
+        "400 Hz",
+        "289 Hz",
+        "340 Hz",
+        "200 Hz"
+      ],
+      "options_hi": [
+        "400 Hz",
+        "289 Hz",
+        "340 Hz",
+        "200 Hz"
+      ],
+      "answer_en": "400 Hz",
+      "answer_hi": "400 Hz",
+      "explanation_en": "f = v/λ = 340/0.85 = 400 Hz.",
+      "explanation_hi": "f = v/λ = 340/0.85 = 400 Hz।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Infrasonic waves are used to predict ___.",
+      "question_hi": "अवश्रव्य तरंगों का उपयोग ___ की भविष्यवाणी के लिए किया जाता है।",
+      "options_en": [
+        "Natural disasters like earthquakes",
+        "Rainfall",
+        "Thunderstorms",
+        "Cyclones only"
+      ],
+      "options_hi": [
+        "भूकंप जैसी प्राकृतिक आपदाएँ",
+        "वर्षा",
+        "आँधी-तूफान",
+        "केवल चक्रवात"
+      ],
+      "answer_en": "Natural disasters like earthquakes",
+      "answer_hi": "भूकंप जैसी प्राकृतिक आपदाएँ",
+      "explanation_en": "Infrasonic waves produced before earthquakes and volcanic eruptions can be used for early warning systems.",
+      "explanation_hi": "भूकंप और ज्वालामुखी विस्फोट से पहले उत्पन्न अवश्रव्य तरंगों का उपयोग प्रारंभिक चेतावनी प्रणालियों के लिए किया जा सकता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The phenomenon of sustained forced vibrations at natural frequency is called ___.",
+      "question_hi": "प्राकृतिक आवृत्ति पर निरंतर प्रणोदित कंपन की घटना ___ कहलाती है।",
+      "options_en": [
+        "Resonance",
+        "Beats",
+        "Interference",
+        "Diffraction"
+      ],
+      "options_hi": [
+        "अनुनाद",
+        "विस्पंद",
+        "व्यतिकरण",
+        "विवर्तन"
+      ],
+      "answer_en": "Resonance",
+      "answer_hi": "अनुनाद",
+      "explanation_en": "When forcing frequency equals natural frequency, resonance occurs with maximum amplitude vibrations.",
+      "explanation_hi": "जब प्रणोदित आवृत्ति प्राकृतिक आवृत्ति के बराबर होती है, तो अनुनाद अधिकतम आयाम कंपनों के साथ होता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The wavelength range of visible light is approximately ___.",
+      "question_hi": "दृश्य प्रकाश की तरंगदैर्ध्य सीमा लगभग ___ है।",
+      "options_en": [
+        "400-700 nm",
+        "100-300 nm",
+        "700-1000 nm",
+        "1-100 nm"
+      ],
+      "options_hi": [
+        "400-700 nm",
+        "100-300 nm",
+        "700-1000 nm",
+        "1-100 nm"
+      ],
+      "answer_en": "400-700 nm",
+      "answer_hi": "400-700 nm",
+      "explanation_en": "The visible light spectrum ranges from about 400 nm (violet) to 700 nm (red).",
+      "explanation_hi": "दृश्य प्रकाश स्पेक्ट्रम लगभग 400 nm (बैंगनी) से 700 nm (लाल) तक होता है।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "Sound waves exhibit which wave property when they bend around corners?",
+      "question_hi": "जब ध्वनि तरंगें कोनों के चारों ओर मुड़ती हैं, तो वे कौन सी तरंग विशेषता प्रदर्शित करती हैं?",
+      "options_en": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Interference"
+      ],
+      "options_hi": [
+        "विवर्तन",
+        "परावर्तन",
+        "अपवर्तन",
+        "व्यतिकरण"
+      ],
+      "answer_en": "Diffraction",
+      "answer_hi": "विवर्तन",
+      "explanation_en": "Diffraction is the bending of waves around obstacles or corners, significant when wavelength ≈ obstacle size.",
+      "explanation_hi": "विवर्तन बाधाओं या कोनों के चारों ओर तरंगों का मुड़ना है, यह महत्वपूर्ण होता है जब तरंगदैर्ध्य ≈ बाधा का आकार।"
+    },
+    {
+      "difficulty": "Medium",
+      "question_en": "The ratio of intensities of two sounds having loudness 40 dB and 20 dB is ___.",
+      "question_hi": "40 dB और 20 dB प्रबलता वाली दो ध्वनियों की तीव्रताओं का अनुपात ___ है।",
+      "options_en": [
+        "100",
+        "10",
+        "1000",
+        "2"
+      ],
+      "options_hi": [
+        "100",
+        "10",
+        "1000",
+        "2"
+      ],
+      "answer_en": "100",
+      "answer_hi": "100",
+      "explanation_en": "Each 10 dB increase means 10 times more intensity. 40-20=20 dB → 10² = 100 times.",
+      "explanation_hi": "प्रत्येक 10 dB वृद्धि का अर्थ 10 गुना अधिक तीव्रता है। 40-20=20 dB → 10² = 100 गुना।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A source of sound with frequency 256 Hz is moving with velocity 40 m/s toward a wall. Speed of sound = 320 m/s. What is the frequency of the echo heard by the source?",
+      "question_hi": "256 Hz आवृत्ति का ध्वनि स्रोत 40 m/s की चाल से दीवार की ओर जा रहा है। ध्वनि की चाल = 320 m/s। स्रोत को सुनाई देने वाली प्रतिध्वनि की आवृत्ति क्या है?",
+      "options_en": [
+        "320 Hz",
+        "295 Hz",
+        "256 Hz",
+        "300 Hz"
+      ],
+      "options_hi": [
+        "320 Hz",
+        "295 Hz",
+        "256 Hz",
+        "300 Hz"
+      ],
+      "answer_en": "320 Hz",
+      "answer_hi": "320 Hz",
+      "explanation_en": "f' = f × (v + v_s)/(v - v_s) = 256 × (320+40)/(320-40) = 256 × 360/280 = 320 Hz.",
+      "explanation_hi": "f' = f × (v + v_s)/(v - v_s) = 256 × (320+40)/(320-40) = 256 × 360/280 = 320 Hz।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "Two waves y₁ = A sin(ωt) and y₂ = A sin(ωt + π) interfere. The resultant amplitude is ___.",
+      "question_hi": "दो तरंगें y₁ = A sin(ωt) और y₂ = A sin(ωt + π) व्यतिकरण करती हैं। परिणामी आयाम ___ है।",
+      "options_en": [
+        "0",
+        "2A",
+        "A",
+        "A√2"
+      ],
+      "options_hi": [
+        "0",
+        "2A",
+        "A",
+        "A√2"
+      ],
+      "answer_en": "0",
+      "answer_hi": "0",
+      "explanation_en": "When two waves with equal amplitude and phase difference π (180°) interfere, they completely cancel (destructive interference), giving zero amplitude.",
+      "explanation_hi": "जब समान आयाम और π (180°) कलांतर वाली दो तरंगें व्यतिकरण करती हैं, तो वे पूरी तरह रद्द हो जाती हैं (विनाशी व्यतिकरण), जिससे शून्य आयाम मिलता है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The displacement equation of SHM is x = 5 sin(4πt + π/6) cm. What is the frequency?",
+      "question_hi": "SHM का विस्थापन समीकरण x = 5 sin(4πt + π/6) cm है। आवृत्ति क्या है?",
+      "options_en": [
+        "2 Hz",
+        "4 Hz",
+        "4π Hz",
+        "0.5 Hz"
+      ],
+      "options_hi": [
+        "2 Hz",
+        "4 Hz",
+        "4π Hz",
+        "0.5 Hz"
+      ],
+      "answer_en": "2 Hz",
+      "answer_hi": "2 Hz",
+      "explanation_en": "ω = 4π rad/s; f = ω/2π = 4π/2π = 2 Hz.",
+      "explanation_hi": "ω = 4π rad/s; f = ω/2π = 4π/2π = 2 Hz।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "An open organ pipe has fundamental frequency 300 Hz. If one end is closed, its fundamental frequency becomes ___.",
+      "question_hi": "एक खुले ऑर्गन पाइप की मूल आवृत्ति 300 Hz है। यदि एक सिरा बंद कर दिया जाए, तो उसकी मूल आवृत्ति ___ हो जाएगी।",
+      "options_en": [
+        "150 Hz",
+        "600 Hz",
+        "300 Hz",
+        "75 Hz"
+      ],
+      "options_hi": [
+        "150 Hz",
+        "600 Hz",
+        "300 Hz",
+        "75 Hz"
+      ],
+      "answer_en": "150 Hz",
+      "answer_hi": "150 Hz",
+      "explanation_en": "Open pipe: f = v/2L = 300 Hz → L = v/600. Closed pipe: f = v/4L = v×600/4v = 150 Hz.",
+      "explanation_hi": "खुला पाइप: f = v/2L = 300 Hz → L = v/600। बंद पाइप: f = v/4L = v×600/4v = 150 Hz।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "In Melde's experiment, if tension is quadrupled keeping other factors constant, the frequency of transverse vibrations ___.",
+      "question_hi": "मेल्डे के प्रयोग में, यदि अन्य कारक स्थिर रखते हुए तनाव को चार गुना किया जाए, तो अनुप्रस्थ कंपनों की आवृत्ति ___।",
+      "options_en": [
+        "Doubles",
+        "Halves",
+        "Quadruples",
+        "Remains same"
+      ],
+      "options_hi": [
+        "दोगुनी हो जाती है",
+        "आधी हो जाती है",
+        "चार गुनी हो जाती है",
+        "समान रहती है"
+      ],
+      "answer_en": "Doubles",
+      "answer_hi": "दोगुनी हो जाती है",
+      "explanation_en": "f ∝ √T; if T becomes 4T, frequency becomes √4 = 2 times the original.",
+      "explanation_hi": "f ∝ √T; यदि T = 4T हो, तो आवृत्ति √4 = 2 गुनी हो जाती है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A bat emits ultrasound of frequency 100 kHz. The minimum wavelength it can detect in air (v = 340 m/s) is ___.",
+      "question_hi": "एक चमगादड़ 100 kHz आवृत्ति की पराश्रव्य ध्वनि उत्सर्जित करता है। वायु में वह न्यूनतम तरंगदैर्ध्य जो यह पहचान सकता है (v = 340 m/s) है ___।",
+      "options_en": [
+        "3.4 mm",
+        "34 mm",
+        "0.34 mm",
+        "340 mm"
+      ],
+      "options_hi": [
+        "3.4 mm",
+        "34 mm",
+        "0.34 mm",
+        "340 mm"
+      ],
+      "answer_en": "3.4 mm",
+      "answer_hi": "3.4 mm",
+      "explanation_en": "λ = v/f = 340/(100×10³) = 340/100000 = 0.0034 m = 3.4 mm.",
+      "explanation_hi": "λ = v/f = 340/(100×10³) = 340/100000 = 0.0034 m = 3.4 mm।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "Two tuning forks of 512 Hz and 516 Hz are struck simultaneously. How many beats are heard in 10 seconds?",
+      "question_hi": "512 Hz और 516 Hz की दो स्वरित्र एक साथ बजाई जाती हैं। 10 सेकंड में कितने विस्पंद सुनाई देंगे?",
+      "options_en": [
+        "40",
+        "4",
+        "20",
+        "100"
+      ],
+      "options_hi": [
+        "40",
+        "4",
+        "20",
+        "100"
+      ],
+      "answer_en": "40",
+      "answer_hi": "40",
+      "explanation_en": "Beat frequency = |516 - 512| = 4 Hz. Beats in 10 s = 4 × 10 = 40.",
+      "explanation_hi": "विस्पंद आवृत्ति = |516 - 512| = 4 Hz। 10 s में विस्पंद = 4 × 10 = 40।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The velocity of a particle in SHM is v = ω√(A² - x²). At x = A/2, the velocity is ___.",
+      "question_hi": "SHM में कण का वेग v = ω√(A² - x²) है। x = A/2 पर वेग ___ है।",
+      "options_en": [
+        "ω(√3/2)A",
+        "ωA/2",
+        "ωA",
+        "ωA√2"
+      ],
+      "options_hi": [
+        "ω(√3/2)A",
+        "ωA/2",
+        "ωA",
+        "ωA√2"
+      ],
+      "answer_en": "ω(√3/2)A",
+      "answer_hi": "ω(√3/2)A",
+      "explanation_en": "v = ω√(A² - (A/2)²) = ω√(A² - A²/4) = ω√(3A²/4) = ωA(√3/2).",
+      "explanation_hi": "v = ω√(A² - (A/2)²) = ω√(A² - A²/4) = ω√(3A²/4) = ωA(√3/2)।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A string vibrates in 5 loops when frequency is 100 Hz. What frequency will make it vibrate in 10 loops?",
+      "question_hi": "एक डोरी 100 Hz पर 5 कुंडलियों में कंपन करती है। किस आवृत्ति पर यह 10 कुंडलियों में कंपन करेगी?",
+      "options_en": [
+        "200 Hz",
+        "50 Hz",
+        "500 Hz",
+        "100 Hz"
+      ],
+      "options_hi": [
+        "200 Hz",
+        "50 Hz",
+        "500 Hz",
+        "100 Hz"
+      ],
+      "answer_en": "200 Hz",
+      "answer_hi": "200 Hz",
+      "explanation_en": "Number of loops ∝ frequency. 5 loops at 100 Hz → 10 loops at 200 Hz.",
+      "explanation_hi": "कुंडलियों की संख्या ∝ आवृत्ति। 100 Hz पर 5 कुंडलियाँ → 200 Hz पर 10 कुंडलियाँ।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A sound wave travels from air (v = 340 m/s) into water (v = 1360 m/s). Its frequency is 1 kHz. What is its wavelength in water?",
+      "question_hi": "एक ध्वनि तरंग वायु (v = 340 m/s) से जल (v = 1360 m/s) में प्रवेश करती है। इसकी आवृत्ति 1 kHz है। जल में इसकी तरंगदैर्ध्य क्या होगी?",
+      "options_en": [
+        "1.36 m",
+        "0.34 m",
+        "0.68 m",
+        "2.72 m"
+      ],
+      "options_hi": [
+        "1.36 m",
+        "0.34 m",
+        "0.68 m",
+        "2.72 m"
+      ],
+      "answer_en": "1.36 m",
+      "answer_hi": "1.36 m",
+      "explanation_en": "Frequency unchanged: 1 kHz. λ_water = v_water/f = 1360/1000 = 1.36 m.",
+      "explanation_hi": "आवृत्ति अपरिवर्तित: 1 kHz। λ_water = v_water/f = 1360/1000 = 1.36 m।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The ratio of frequencies of the 3rd overtone of an open pipe to the 2nd overtone of a closed pipe is ___.",
+      "question_hi": "खुले पाइप के तृतीय अधिस्वर और बंद पाइप के द्वितीय अधिस्वर की आवृत्तियों का अनुपात ___ है।",
+      "options_en": [
+        "8/5",
+        "4/5",
+        "5/4",
+        "3/5"
+      ],
+      "options_hi": [
+        "8/5",
+        "4/5",
+        "5/4",
+        "3/5"
+      ],
+      "answer_en": "8/5",
+      "answer_hi": "8/5",
+      "explanation_en": "Open pipe 3rd overtone = 4th harmonic = 4f. Closed pipe 2nd overtone = 5th harmonic = 5f/2. Ratio = 4/(5/2) = 8/5.",
+      "explanation_hi": "खुले पाइप का तृतीय अधिस्वर = चतुर्थ संनादी = 4f। बंद पाइप का द्वितीय अधिस्वर = पंचम संनादी = 5f/2। अनुपात = 4/(5/2) = 8/5।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "In the Doppler formula for light, the red shift corresponds to ___.",
+      "question_hi": "प्रकाश के डॉप्लर सूत्र में, रेड शिफ्ट किसके संगत होती है?",
+      "options_en": [
+        "Source moving away from observer",
+        "Source approaching observer",
+        "Observer moving toward source",
+        "Source at rest"
+      ],
+      "options_hi": [
+        "स्रोत का प्रेक्षक से दूर जाना",
+        "स्रोत का प्रेक्षक के निकट आना",
+        "प्रेक्षक का स्रोत की ओर जाना",
+        "स्रोत का स्थिर होना"
+      ],
+      "answer_en": "Source moving away from observer",
+      "answer_hi": "स्रोत का प्रेक्षक से दूर जाना",
+      "explanation_en": "Red shift (increase in wavelength, decrease in frequency) occurs when the source moves away from the observer.",
+      "explanation_hi": "रेड शिफ्ट (तरंगदैर्ध्य बढ़ना, आवृत्ति घटना) तब होती है जब स्रोत प्रेक्षक से दूर जाता है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A mass m on a spring (spring constant k) oscillates. If k is doubled and m is halved, the new frequency is ___ times the original.",
+      "question_hi": "एक स्प्रिंग (स्प्रिंग स्थिरांक k) पर द्रव्यमान m दोलन करता है। यदि k दोगुना और m आधा किया जाए, तो नई आवृत्ति मूल आवृत्ति की ___ गुनी होगी।",
+      "options_en": [
+        "2",
+        "√2",
+        "4",
+        "1/2"
+      ],
+      "options_hi": [
+        "2",
+        "√2",
+        "4",
+        "1/2"
+      ],
+      "answer_en": "2",
+      "answer_hi": "2",
+      "explanation_en": "f ∝ √(k/m). New f/old f = √((2k)/(m/2)) / √(k/m) = √4 = 2.",
+      "explanation_hi": "f ∝ √(k/m)। नई f/पुरानी f = √((2k)/(m/2)) / √(k/m) = √4 = 2।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The equation of a standing wave is y = 2A cos(kx) sin(ωt). The distance between consecutive nodes is ___.",
+      "question_hi": "अप्रगामी तरंग का समीकरण y = 2A cos(kx) sin(ωt) है। क्रमागत निस्पंदों के बीच दूरी ___ है।",
+      "options_en": [
+        "λ/2",
+        "λ",
+        "λ/4",
+        "2λ"
+      ],
+      "options_hi": [
+        "λ/2",
+        "λ",
+        "λ/4",
+        "2λ"
+      ],
+      "answer_en": "λ/2",
+      "answer_hi": "λ/2",
+      "explanation_en": "Nodes occur where cos(kx) = 0, i.e., kx = π/2, 3π/2… So spacing = π/k = λ/2.",
+      "explanation_hi": "निस्पंद वहाँ होते हैं जहाँ cos(kx) = 0, अर्थात् kx = π/2, 3π/2... इसलिए दूरी = π/k = λ/2।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "What is the phase velocity of a wave given by y = 3 sin(2x - 6t)?",
+      "question_hi": "y = 3 sin(2x - 6t) से दी गई तरंग की कला वेग (phase velocity) क्या है?",
+      "options_en": [
+        "3 m/s",
+        "6 m/s",
+        "2 m/s",
+        "12 m/s"
+      ],
+      "options_hi": [
+        "3 m/s",
+        "6 m/s",
+        "2 m/s",
+        "12 m/s"
+      ],
+      "answer_en": "3 m/s",
+      "answer_hi": "3 m/s",
+      "explanation_en": "Phase velocity v = ω/k = 6/2 = 3 m/s.",
+      "explanation_hi": "कला वेग v = ω/k = 6/2 = 3 m/s।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A pipe of length 1 m closed at one end resonates with a tuning fork. Speed of sound = 340 m/s. The frequency of tuning fork for 3rd mode of vibration is ___.",
+      "question_hi": "1 m लंबा एक सिरे से बंद पाइप एक स्वरित्र के साथ अनुनाद करता है। ध्वनि की चाल = 340 m/s। तृतीय विधा के लिए स्वरित्र की आवृत्ति ___ है।",
+      "options_en": [
+        "425 Hz",
+        "340 Hz",
+        "255 Hz",
+        "510 Hz"
+      ],
+      "options_hi": [
+        "425 Hz",
+        "340 Hz",
+        "255 Hz",
+        "510 Hz"
+      ],
+      "answer_en": "425 Hz",
+      "answer_hi": "425 Hz",
+      "explanation_en": "Closed pipe: f_n = (2n-1)v/4L. 3rd mode (n=3): f = 5×340/(4×1) = 1700/4 = 425 Hz.",
+      "explanation_hi": "बंद पाइप: f_n = (2n-1)v/4L। तृतीय विधा (n=3): f = 5×340/(4×1) = 1700/4 = 425 Hz।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The intensity of sound at a distance r from a point source is proportional to ___.",
+      "question_hi": "बिंदु स्रोत से r दूरी पर ध्वनि की तीव्रता ___ के समानुपाती है।",
+      "options_en": [
+        "1/r²",
+        "1/r",
+        "r²",
+        "r"
+      ],
+      "options_hi": [
+        "1/r²",
+        "1/r",
+        "r²",
+        "r"
+      ],
+      "answer_en": "1/r²",
+      "answer_hi": "1/r²",
+      "explanation_en": "Intensity I = P/(4πr²) ∝ 1/r² (inverse square law).",
+      "explanation_hi": "तीव्रता I = P/(4πr²) ∝ 1/r² (व्युत्क्रम वर्ग नियम)।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "In a sonometer, if the length is kept constant and tension is increased 4 times, the frequency ___.",
+      "question_hi": "सोनोमीटर में, यदि लंबाई स्थिर रखें और तनाव 4 गुना बढ़ाएँ, तो आवृत्ति ___।",
+      "options_en": [
+        "Doubles",
+        "Quadruples",
+        "Halves",
+        "Remains same"
+      ],
+      "options_hi": [
+        "दोगुनी होती है",
+        "चार गुनी होती है",
+        "आधी होती है",
+        "समान रहती है"
+      ],
+      "answer_en": "Doubles",
+      "answer_hi": "दोगुनी होती है",
+      "explanation_en": "f ∝ √T; if T → 4T, then f → 2f (doubles).",
+      "explanation_hi": "f ∝ √T; यदि T → 4T, तो f → 2f (दोगुनी हो जाती है)।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "Two coherent sources emit waves y₁ = A sin(ωt) and y₂ = A sin(ωt + π/3). The resultant amplitude is ___.",
+      "question_hi": "दो कला-संबद्ध स्रोत y₁ = A sin(ωt) और y₂ = A sin(ωt + π/3) तरंगें उत्सर्जित करते हैं। परिणामी आयाम ___ है।",
+      "options_en": [
+        "A√3",
+        "A",
+        "2A",
+        "A/√3"
+      ],
+      "options_hi": [
+        "A√3",
+        "A",
+        "2A",
+        "A/√3"
+      ],
+      "answer_en": "A√3",
+      "answer_hi": "A√3",
+      "explanation_en": "R = √(A₁² + A₂² + 2A₁A₂cosφ) = √(A²+A²+2A²cos60°) = √(2A²+A²) = A√3.",
+      "explanation_hi": "R = √(A₁² + A₂² + 2A₁A₂cosφ) = √(A²+A²+2A²cos60°) = √(2A²+A²) = A√3।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The frequency of the nth harmonic of an open organ pipe of length L is ___.",
+      "question_hi": "लंबाई L के खुले ऑर्गन पाइप के nवें संनादी की आवृत्ति ___ है।",
+      "options_en": [
+        "nv/2L",
+        "nv/4L",
+        "(2n-1)v/4L",
+        "nv/L"
+      ],
+      "options_hi": [
+        "nv/2L",
+        "nv/4L",
+        "(2n-1)v/4L",
+        "nv/L"
+      ],
+      "answer_en": "nv/2L",
+      "answer_hi": "nv/2L",
+      "explanation_en": "For an open organ pipe, all harmonics are present and f_n = nv/2L.",
+      "explanation_hi": "खुले ऑर्गन पाइप के लिए, सभी संनादी उपस्थित होते हैं और f_n = nv/2L।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A train moving at 20 m/s emits a whistle at 640 Hz. Speed of sound = 340 m/s. Frequency heard by stationary observer behind the train is ___.",
+      "question_hi": "20 m/s की चाल से चलती ट्रेन 640 Hz की सीटी बजाती है। ध्वनि की चाल = 340 m/s। ट्रेन के पीछे स्थिर प्रेक्षक द्वारा सुनाई देने वाली आवृत्ति ___ है।",
+      "options_en": [
+        "602 Hz",
+        "680 Hz",
+        "640 Hz",
+        "576 Hz"
+      ],
+      "options_hi": [
+        "602 Hz",
+        "680 Hz",
+        "640 Hz",
+        "576 Hz"
+      ],
+      "answer_en": "602 Hz",
+      "answer_hi": "602 Hz",
+      "explanation_en": "Source moving away: f' = f(v/(v+vs)) = 640×(340/360) = 640×17/18 ≈ 602 Hz.",
+      "explanation_hi": "स्रोत दूर जा रहा है: f' = f(v/(v+vs)) = 640×(340/360) = 640×17/18 ≈ 602 Hz।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The displacement in SHM is x = A cos(ωt + φ). The acceleration is ___.",
+      "question_hi": "SHM में विस्थापन x = A cos(ωt + φ) है। त्वरण ___ है।",
+      "options_en": [
+        "-ω²A cos(ωt+φ)",
+        "ωA sin(ωt+φ)",
+        "ω²A cos(ωt+φ)",
+        "-ωA sin(ωt+φ)"
+      ],
+      "options_hi": [
+        "-ω²A cos(ωt+φ)",
+        "ωA sin(ωt+φ)",
+        "ω²A cos(ωt+φ)",
+        "-ωA sin(ωt+φ)"
+      ],
+      "answer_en": "-ω²A cos(ωt+φ)",
+      "answer_hi": "-ω²A cos(ωt+φ)",
+      "explanation_en": "a = d²x/dt² = -ω²A cos(ωt+φ) = -ω²x, showing acceleration is opposite to displacement.",
+      "explanation_hi": "a = d²x/dt² = -ω²A cos(ωt+φ) = -ω²x, जो दर्शाता है कि त्वरण विस्थापन के विपरीत है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "Which of the following correctly represents damped oscillations?",
+      "question_hi": "निम्नलिखित में से कौन अवमंदित दोलनों को सही रूप से दर्शाता है?",
+      "options_en": [
+        "x = Ae⁻ᵝᵗ cos(ωt + φ)",
+        "x = A cos(ωt)",
+        "x = A sin(ωt + φ)",
+        "x = A e^βt"
+      ],
+      "options_hi": [
+        "x = Ae⁻ᵝᵗ cos(ωt + φ)",
+        "x = A cos(ωt)",
+        "x = A sin(ωt + φ)",
+        "x = A e^βt"
+      ],
+      "answer_en": "x = Ae⁻ᵝᵗ cos(ωt + φ)",
+      "answer_hi": "x = Ae⁻ᵝᵗ cos(ωt + φ)",
+      "explanation_en": "Damped oscillations have exponentially decreasing amplitude: x = Ae⁻ᵝᵗ cos(ωt + φ), where β is damping coefficient.",
+      "explanation_hi": "अवमंदित दोलनों में आयाम चरघातांकीय रूप से घटता है: x = Ae⁻ᵝᵗ cos(ωt + φ), जहाँ β अवमंदन गुणांक है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A particle in SHM has time period 2 s and amplitude 5 cm. Its maximum speed is ___.",
+      "question_hi": "SHM में एक कण का आवर्तकाल 2 s और आयाम 5 cm है। इसकी अधिकतम चाल ___ है।",
+      "options_en": [
+        "5π cm/s",
+        "10π cm/s",
+        "π cm/s",
+        "2π cm/s"
+      ],
+      "options_hi": [
+        "5π cm/s",
+        "10π cm/s",
+        "π cm/s",
+        "2π cm/s"
+      ],
+      "answer_en": "5π cm/s",
+      "answer_hi": "5π cm/s",
+      "explanation_en": "v_max = Aω = A(2π/T) = 5×(2π/2) = 5π cm/s.",
+      "explanation_hi": "v_max = Aω = A(2π/T) = 5×(2π/2) = 5π cm/s।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "In Kundt's tube experiment, dust forms heaps at ___.",
+      "question_hi": "कुंडट नलिका प्रयोग में, धूल ___ पर ढेर बनाती है।",
+      "options_en": [
+        "Nodes of standing wave",
+        "Antinodes of standing wave",
+        "Points of maximum amplitude",
+        "Random positions"
+      ],
+      "options_hi": [
+        "अप्रगामी तरंग के निस्पंद पर",
+        "अप्रगामी तरंग के प्रस्पंद पर",
+        "अधिकतम आयाम के बिंदुओं पर",
+        "यादृच्छिक स्थितियों पर"
+      ],
+      "answer_en": "Nodes of standing wave",
+      "answer_hi": "अप्रगामी तरंग के निस्पंद पर",
+      "explanation_en": "In Kundt's tube, lycopodium powder (dust) collects at nodes (zero displacement) of standing waves.",
+      "explanation_hi": "कुंडट नलिका में, लाइकोपोडियम पाउडर (धूल) अप्रगामी तरंगों के निस्पंद (शून्य विस्थापन) पर एकत्रित होती है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The resonant frequency of a series LCR circuit is 1000 Hz. If capacitance is made 4 times, the new resonant frequency is ___.",
+      "question_hi": "एक श्रेणी LCR परिपथ की अनुनाद आवृत्ति 1000 Hz है। यदि धारिता 4 गुनी कर दी जाए, तो नई अनुनाद आवृत्ति ___ होगी।",
+      "options_en": [
+        "500 Hz",
+        "250 Hz",
+        "2000 Hz",
+        "4000 Hz"
+      ],
+      "options_hi": [
+        "500 Hz",
+        "250 Hz",
+        "2000 Hz",
+        "4000 Hz"
+      ],
+      "answer_en": "500 Hz",
+      "answer_hi": "500 Hz",
+      "explanation_en": "f₀ = 1/(2π√LC) ∝ 1/√C. If C → 4C, f₀ → f₀/√4 = 1000/2 = 500 Hz.",
+      "explanation_hi": "f₀ = 1/(2π√LC) ∝ 1/√C। यदि C → 4C, f₀ → f₀/√4 = 1000/2 = 500 Hz।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The ratio of maximum to minimum intensity when two coherent waves of amplitudes A₁ = 3 and A₂ = 1 interfere is ___.",
+      "question_hi": "जब A₁ = 3 और A₂ = 1 आयाम की दो कला-संबद्ध तरंगें व्यतिकरण करती हैं, तो अधिकतम और न्यूनतम तीव्रता का अनुपात ___ है।",
+      "options_en": [
+        "4:1",
+        "9:1",
+        "3:1",
+        "16:1"
+      ],
+      "options_hi": [
+        "4:1",
+        "9:1",
+        "3:1",
+        "16:1"
+      ],
+      "answer_en": "4:1",
+      "answer_hi": "4:1",
+      "explanation_en": "I_max/I_min = [(A₁+A₂)/(A₁-A₂)]² = [(3+1)/(3-1)]² = [4/2]² = 4.",
+      "explanation_hi": "I_max/I_min = [(A₁+A₂)/(A₁-A₂)]² = [(3+1)/(3-1)]² = [4/2]² = 4।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "What is the change in length of a closed pipe (end correction e) to get the first resonance at frequency f? (Speed of sound = v)",
+      "question_hi": "आवृत्ति f पर प्रथम अनुनाद के लिए बंद पाइप की प्रभावी लंबाई (अंत सुधार e के साथ) क्या होगी?",
+      "options_en": [
+        "v/4f – e",
+        "v/4f + e",
+        "v/2f – e",
+        "v/2f"
+      ],
+      "options_hi": [
+        "v/4f – e",
+        "v/4f + e",
+        "v/2f – e",
+        "v/2f"
+      ],
+      "answer_en": "v/4f – e",
+      "answer_hi": "v/4f – e",
+      "explanation_en": "For first resonance: L + e = v/4f → L = v/4f – e, where e is the end correction.",
+      "explanation_hi": "प्रथम अनुनाद के लिए: L + e = v/4f → L = v/4f – e, जहाँ e अंत सुधार है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The quality factor Q of a resonant system is defined as ___.",
+      "question_hi": "एक अनुनादी निकाय का गुणता कारक Q किस रूप में परिभाषित है?",
+      "options_en": [
+        "Resonant frequency / Bandwidth",
+        "Bandwidth / Resonant frequency",
+        "Amplitude / Frequency",
+        "Frequency × Amplitude"
+      ],
+      "options_hi": [
+        "अनुनाद आवृत्ति / बैंडविड्थ",
+        "बैंडविड्थ / अनुनाद आवृत्ति",
+        "आयाम / आवृत्ति",
+        "आवृत्ति × आयाम"
+      ],
+      "answer_en": "Resonant frequency / Bandwidth",
+      "answer_hi": "अनुनाद आवृत्ति / बैंडविड्थ",
+      "explanation_en": "Q = f₀/Δf (resonant frequency divided by bandwidth). Higher Q means sharper resonance.",
+      "explanation_hi": "Q = f₀/Δf (अनुनाद आवृत्ति को बैंडविड्थ से भाग)। उच्च Q का अर्थ है तीक्ष्ण अनुनाद।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "A wire of density ρ and cross-sectional area A is under tension T. Its speed of transverse wave is ___.",
+      "question_hi": "घनत्व ρ और अनुप्रस्थ काट क्षेत्रफल A की एक तार तनाव T में है। इसमें अनुप्रस्थ तरंग की चाल ___ है।",
+      "options_en": [
+        "√(T/ρA)",
+        "√(ρA/T)",
+        "√(T/ρ)",
+        "T/√(ρA)"
+      ],
+      "options_hi": [
+        "√(T/ρA)",
+        "√(ρA/T)",
+        "√(T/ρ)",
+        "T/√(ρA)"
+      ],
+      "answer_en": "√(T/ρA)",
+      "answer_hi": "√(T/ρA)",
+      "explanation_en": "Linear mass density μ = ρA, so v = √(T/μ) = √(T/ρA).",
+      "explanation_hi": "रेखीय द्रव्यमान घनत्व μ = ρA, इसलिए v = √(T/μ) = √(T/ρA)।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "In forced oscillations, resonance occurs when the driving frequency equals ___ frequency.",
+      "question_hi": "प्रणोदित दोलनों में, अनुनाद तब होता है जब प्रणोदित आवृत्ति ___ आवृत्ति के बराबर होती है।",
+      "options_en": [
+        "Natural",
+        "Double the natural",
+        "Half the natural",
+        "Angular"
+      ],
+      "options_hi": [
+        "प्राकृतिक",
+        "प्राकृतिक की दोगुनी",
+        "प्राकृतिक की आधी",
+        "कोणीय"
+      ],
+      "answer_en": "Natural",
+      "answer_hi": "प्राकृतिक",
+      "explanation_en": "Resonance in forced oscillations occurs when the forcing frequency equals the natural frequency of the system.",
+      "explanation_hi": "प्रणोदित दोलनों में अनुनाद तब होता है जब प्रणोदित आवृत्ति निकाय की प्राकृतिक आवृत्ति के बराबर होती है।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "For a closed pipe, the ratio of frequencies of 1st, 2nd, 3rd overtone is ___.",
+      "question_hi": "बंद पाइप के लिए, प्रथम, द्वितीय, तृतीय अधिस्वर की आवृत्तियों का अनुपात ___ है।",
+      "options_en": [
+        "3:5:7",
+        "1:2:3",
+        "2:4:6",
+        "1:3:5"
+      ],
+      "options_hi": [
+        "3:5:7",
+        "1:2:3",
+        "2:4:6",
+        "1:3:5"
+      ],
+      "answer_en": "3:5:7",
+      "answer_hi": "3:5:7",
+      "explanation_en": "Closed pipe harmonics: fundamental=f, 1st overtone=3f, 2nd=5f, 3rd=7f. Ratio = 3:5:7.",
+      "explanation_hi": "बंद पाइप संनादी: मूल=f, 1st अधिस्वर=3f, 2nd=5f, 3rd=7f। अनुपात = 3:5:7।"
+    },
+    {
+      "difficulty": "Hard",
+      "question_en": "The frequency of the sound heard by a person in a car moving at 36 km/h toward a stationary source of 600 Hz. Speed of sound = 340 m/s.",
+      "question_hi": "स्थिर 600 Hz स्रोत की ओर 36 km/h की चाल से जा रही कार में बैठे व्यक्ति को सुनाई देने वाली ध्वनि की आवृत्ति क्या होगी? ध्वनि की चाल = 340 m/s।",
+      "options_en": [
+        "620 Hz",
+        "580 Hz",
+        "600 Hz",
+        "640 Hz"
+      ],
+      "options_hi": [
+        "620 Hz",
+        "580 Hz",
+        "600 Hz",
+        "640 Hz"
+      ],
+      "answer_en": "620 Hz",
+      "answer_hi": "620 Hz",
+      "explanation_en": "v_observer = 36 km/h = 10 m/s. f' = f(v+v_o)/v = 600×(340+10)/340 = 600×350/340 ≈ 617.6 ≈ 618 Hz ≈ 620 Hz.",
+      "explanation_hi": "v_observer = 36 km/h = 10 m/s. f' = f(v+v_o)/v = 600×(340+10)/340 = 600×350/340 ≈ 617.6 ≈ 618 Hz ≈ 620 Hz।"
+    }
+  ]
+}
