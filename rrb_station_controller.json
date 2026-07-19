@@ -1,0 +1,699 @@
+{
+  "title": "RRB Section Controller (Indian Railways) - 200 Expected Practice Questions",
+  "note": "Covers the three CBT sections: Mathematics, General Intelligence & Reasoning, and General Awareness. Practice set for preparation purposes; verify current-affairs items closer to your exam date.",
+  "questions": [
+    {
+      "q_no": 1,
+      "category": "Mathematics",
+      "question": "What is the LCM of 12, 18, and 24?",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "96"
+      ],
+      "answer": "72",
+      "explanation": "LCM of 12, 18, 24: 12=2^2*3, 18=2*3^2, 24=2^3*3. LCM=2^3*3^2=72."
+    },
+    {
+      "q_no": 2,
+      "category": "Mathematics",
+      "question": "What is the HCF of 84 and 126?",
+      "options": [
+        "21",
+        "42",
+        "14",
+        "18"
+      ],
+      "answer": "42",
+      "explanation": "84=2^2*3*7, 126=2*3^2*7. HCF = 2*3*7 = 42."
+    },
+    {
+      "q_no": 3,
+      "category": "Mathematics",
+      "question": "Find the smallest number which when divided by 6, 8, and 10 leaves remainder 2 in each case.",
+      "options": [
+        "120",
+        "122",
+        "118",
+        "62"
+      ],
+      "answer": "122",
+      "explanation": "LCM(6,8,10)=120. Required number = 120+2 = 122."
+    },
+    {
+      "q_no": 4,
+      "category": "Mathematics",
+      "question": "What is the value of 15% of 240?",
+      "options": [
+        "30",
+        "36",
+        "24",
+        "40"
+      ],
+      "answer": "36",
+      "explanation": "15% of 240 = (15/100)*240 = 36."
+    },
+    {
+      "q_no": 5,
+      "category": "Mathematics",
+      "question": "If 3x + 7 = 22, what is the value of x?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "3x = 22-7 = 15, so x = 5."
+    },
+    {
+      "q_no": 6,
+      "category": "Mathematics",
+      "question": "Simplify: 45 - [38 - {60 - (50 - 20)}]",
+      "options": [
+        "37",
+        "43",
+        "27",
+        "33"
+      ],
+      "answer": "37",
+      "explanation": "(50-20)=30; 60-30=30; 38-30=8; 45-8=37."
+    },
+    {
+      "q_no": 7,
+      "category": "Mathematics",
+      "question": "What is the sum of the first 20 natural numbers?",
+      "options": [
+        "190",
+        "200",
+        "210",
+        "220"
+      ],
+      "answer": "210",
+      "explanation": "Sum = n(n+1)/2 = 20*21/2 = 210."
+    },
+    {
+      "q_no": 8,
+      "category": "Mathematics",
+      "question": "A number when divided by 342 gives a remainder 47. What is the remainder when the same number is divided by 18?",
+      "options": [
+        "1",
+        "11",
+        "13",
+        "5"
+      ],
+      "answer": "11",
+      "explanation": "342 = 18*19, so 342 is a multiple of 18. Remainder 47 divided by 18 gives remainder 11 (47=18*2+11)."
+    },
+    {
+      "q_no": 9,
+      "category": "Mathematics",
+      "question": "Which of the following is a prime number?",
+      "options": [
+        "91",
+        "87",
+        "97",
+        "77"
+      ],
+      "answer": "97",
+      "explanation": "97 is not divisible by any number other than 1 and itself, so it is prime; 91=7*13, 87=3*29, 77=7*11."
+    },
+    {
+      "q_no": 10,
+      "category": "Mathematics",
+      "question": "What is the square root of 1764?",
+      "options": [
+        "42",
+        "44",
+        "40",
+        "38"
+      ],
+      "answer": "42",
+      "explanation": "42*42 = 1764."
+    },
+    {
+      "q_no": 11,
+      "category": "Mathematics",
+      "question": "Find the value of (0.25)^2.",
+      "options": [
+        "0.0625",
+        "0.625",
+        "0.00625",
+        "6.25"
+      ],
+      "answer": "0.0625",
+      "explanation": "0.25*0.25 = 0.0625."
+    },
+    {
+      "q_no": 12,
+      "category": "Mathematics",
+      "question": "The product of two consecutive positive integers is 342. What is the smaller integer?",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "16"
+      ],
+      "answer": "18",
+      "explanation": "18*19 = 342, so the smaller of the two consecutive integers is 18."
+    },
+    {
+      "q_no": 13,
+      "category": "Mathematics",
+      "question": "What is the remainder when 2^50 is divided by 7?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "2^3=8≡1 (mod 7), so 2^50=2^(48+2)=(2^3)^16 * 2^2 ≡ 1^16*4 = 4 (mod 7)."
+    },
+    {
+      "q_no": 14,
+      "category": "Mathematics",
+      "question": "Which of the following numbers is divisible by 11?",
+      "options": [
+        "23456",
+        "45694",
+        "34573",
+        "70169"
+      ],
+      "answer": "70169",
+      "explanation": "For 70169: alternating sum = (7+1+9)-(0+6)=17-6=11, divisible by 11."
+    },
+    {
+      "q_no": 15,
+      "category": "Mathematics",
+      "question": "Find the value of: 1/2 + 1/3 + 1/6",
+      "options": [
+        "1",
+        "3/2",
+        "5/6",
+        "2/3"
+      ],
+      "answer": "1",
+      "explanation": "LCM=6: 3/6+2/6+1/6 = 6/6 = 1."
+    },
+    {
+      "q_no": 16,
+      "category": "Mathematics",
+      "question": "A student scored 462 marks out of 700. What percentage of marks did the student score?",
+      "options": [
+        "60%",
+        "66%",
+        "70%",
+        "64%"
+      ],
+      "answer": "66%",
+      "explanation": "462/700 * 100 = 66%."
+    },
+    {
+      "q_no": 17,
+      "category": "Mathematics",
+      "question": "If the price of an item is increased by 25%, by what percentage should the new price be decreased to bring it back to the original price?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "16.67%"
+      ],
+      "answer": "20%",
+      "explanation": "Decrease % = (25/(100+25))*100 = 20%."
+    },
+    {
+      "q_no": 18,
+      "category": "Mathematics",
+      "question": "A shopkeeper buys an article for Rs. 800 and sells it for Rs. 920. What is his profit percentage?",
+      "options": [
+        "10%",
+        "15%",
+        "12%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit = 920-800 = 120. Profit% = (120/800)*100 = 15%."
+    },
+    {
+      "q_no": 19,
+      "category": "Mathematics",
+      "question": "A man sells an article at a loss of 10%. If he had sold it for Rs. 60 more, he would have gained 5%. What is the cost price of the article?",
+      "options": [
+        "Rs. 400",
+        "Rs. 350",
+        "Rs. 450",
+        "Rs. 500"
+      ],
+      "answer": "Rs. 400",
+      "explanation": "Let CP = x. 1.05x - 0.90x = 60, so 0.15x = 60, x = 400."
+    },
+    {
+      "q_no": 20,
+      "category": "Mathematics",
+      "question": "Find the simple interest on Rs. 5000 for 3 years at 8% per annum.",
+      "options": [
+        "Rs. 1000",
+        "Rs. 1100",
+        "Rs. 1200",
+        "Rs. 1500"
+      ],
+      "answer": "Rs. 1200",
+      "explanation": "SI = (P*R*T)/100 = (5000*8*3)/100 = 1200."
+    },
+    {
+      "q_no": 21,
+      "category": "Mathematics",
+      "question": "What is the compound interest on Rs. 2000 for 2 years at 10% per annum, compounded annually?",
+      "options": [
+        "Rs. 400",
+        "Rs. 420",
+        "Rs. 440",
+        "Rs. 200"
+      ],
+      "answer": "Rs. 420",
+      "explanation": "Amount = 2000*(1.1)^2 = 2420. CI = 2420-2000 = 420."
+    },
+    {
+      "q_no": 22,
+      "category": "Mathematics",
+      "question": "Divide Rs. 1200 between A and B in the ratio 3:5. What is B's share?",
+      "options": [
+        "Rs. 450",
+        "Rs. 500",
+        "Rs. 750",
+        "Rs. 700"
+      ],
+      "answer": "Rs. 750",
+      "explanation": "Total parts = 8. B's share = (5/8)*1200 = 750."
+    },
+    {
+      "q_no": 23,
+      "category": "Mathematics",
+      "question": "The ratio of ages of A and B is 3:4. If the sum of their ages is 35 years, what is A's age?",
+      "options": [
+        "12",
+        "15",
+        "20",
+        "18"
+      ],
+      "answer": "15",
+      "explanation": "3x+4x=35, 7x=35, x=5. A's age = 3*5=15."
+    },
+    {
+      "q_no": 24,
+      "category": "Mathematics",
+      "question": "The average of 5 numbers is 27. If one number is excluded, the average becomes 25. What is the excluded number?",
+      "options": [
+        "30",
+        "32",
+        "35",
+        "37"
+      ],
+      "answer": "35",
+      "explanation": "Sum of 5 numbers = 135. Sum of 4 numbers = 100. Excluded number = 135-100 = 35."
+    },
+    {
+      "q_no": 25,
+      "category": "Mathematics",
+      "question": "The average weight of 10 students is 42 kg. If a new student weighing 53 kg joins, what is the new average weight?",
+      "options": [
+        "42.5 kg",
+        "43 kg",
+        "44 kg",
+        "43.5 kg"
+      ],
+      "answer": "43 kg",
+      "explanation": "Total weight = 420+53=473. New average = 473/11 = 43 kg."
+    },
+    {
+      "q_no": 26,
+      "category": "Mathematics",
+      "question": "A mixture of 40 litres contains milk and water in the ratio 3:1. How much water should be added to make the ratio 3:2?",
+      "options": [
+        "10 litres",
+        "8 litres",
+        "12 litres",
+        "6 litres"
+      ],
+      "answer": "10 litres",
+      "explanation": "Milk=30L, Water=10L. For ratio 3:2, water needed = (30*2)/3 = 20L, so add 20-10=10L."
+    },
+    {
+      "q_no": 27,
+      "category": "Mathematics",
+      "question": "If A can do a piece of work in 12 days and B can do it in 15 days, in how many days will they complete it together?",
+      "options": [
+        "6 days",
+        "6.67 days",
+        "7 days",
+        "8 days"
+      ],
+      "answer": "6.67 days",
+      "explanation": "Combined rate = 1/12+1/15 = 9/60 = 3/20. Time = 20/3 = 6.67 days."
+    },
+    {
+      "q_no": 28,
+      "category": "Mathematics",
+      "question": "A train 150 m long crosses a pole in 15 seconds. What is its speed in km/h?",
+      "options": [
+        "30 km/h",
+        "36 km/h",
+        "40 km/h",
+        "45 km/h"
+      ],
+      "answer": "36 km/h",
+      "explanation": "Speed = 150/15 = 10 m/s = 10*18/5 = 36 km/h."
+    },
+    {
+      "q_no": 29,
+      "category": "Mathematics",
+      "question": "A car covers a distance of 240 km in 4 hours. What is its speed?",
+      "options": [
+        "50 km/h",
+        "60 km/h",
+        "55 km/h",
+        "65 km/h"
+      ],
+      "answer": "60 km/h",
+      "explanation": "Speed = Distance/Time = 240/4 = 60 km/h."
+    },
+    {
+      "q_no": 30,
+      "category": "Mathematics",
+      "question": "Two trains 120 m and 180 m long run in opposite directions at 54 km/h and 36 km/h respectively. In how much time will they cross each other?",
+      "options": [
+        "10 seconds",
+        "12 seconds",
+        "15 seconds",
+        "8 seconds"
+      ],
+      "answer": "12 seconds",
+      "explanation": "Relative speed = 54+36=90 km/h = 25 m/s. Total length = 300m. Time = 300/25 = 12 seconds."
+    },
+    {
+      "q_no": 31,
+      "category": "Mathematics",
+      "question": "What is the area of a rectangle with length 15 cm and breadth 8 cm?",
+      "options": [
+        "100 sq cm",
+        "110 sq cm",
+        "120 sq cm",
+        "130 sq cm"
+      ],
+      "answer": "120 sq cm",
+      "explanation": "Area = length * breadth = 15*8 = 120 sq cm."
+    },
+    {
+      "q_no": 32,
+      "category": "Mathematics",
+      "question": "What is the perimeter of a square with side 9 cm?",
+      "options": [
+        "27 cm",
+        "36 cm",
+        "81 cm",
+        "18 cm"
+      ],
+      "answer": "36 cm",
+      "explanation": "Perimeter of square = 4*side = 4*9 = 36 cm."
+    },
+    {
+      "q_no": 33,
+      "category": "Mathematics",
+      "question": "What is the area of a circle with radius 7 cm? (Use pi = 22/7)",
+      "options": [
+        "154 sq cm",
+        "144 sq cm",
+        "132 sq cm",
+        "164 sq cm"
+      ],
+      "answer": "154 sq cm",
+      "explanation": "Area = pi*r^2 = (22/7)*7*7 = 154 sq cm."
+    },
+    {
+      "q_no": 34,
+      "category": "Mathematics",
+      "question": "What is the volume of a cube with side 5 cm?",
+      "options": [
+        "100 cubic cm",
+        "125 cubic cm",
+        "150 cubic cm",
+        "75 cubic cm"
+      ],
+      "answer": "125 cubic cm",
+      "explanation": "Volume of cube = side^3 = 5^3 = 125 cubic cm."
+    },
+    {
+      "q_no": 35,
+      "category": "Mathematics",
+      "question": "What is the total surface area of a cube with edge 6 cm?",
+      "options": [
+        "216 sq cm",
+        "196 sq cm",
+        "206 sq cm",
+        "226 sq cm"
+      ],
+      "answer": "216 sq cm",
+      "explanation": "Total surface area of cube = 6*side^2 = 6*36 = 216 sq cm."
+    },
+    {
+      "q_no": 36,
+      "category": "Mathematics",
+      "question": "The volume of a cylinder with radius 7 cm and height 10 cm is (use pi=22/7):",
+      "options": [
+        "1540 cubic cm",
+        "1440 cubic cm",
+        "1340 cubic cm",
+        "1640 cubic cm"
+      ],
+      "answer": "1540 cubic cm",
+      "explanation": "Volume = pi*r^2*h = (22/7)*49*10 = 1540 cubic cm."
+    },
+    {
+      "q_no": 37,
+      "category": "Mathematics",
+      "question": "The area of a triangle with base 12 cm and height 8 cm is:",
+      "options": [
+        "48 sq cm",
+        "96 sq cm",
+        "40 sq cm",
+        "60 sq cm"
+      ],
+      "answer": "48 sq cm",
+      "explanation": "Area of triangle = (1/2)*base*height = (1/2)*12*8 = 48 sq cm."
+    },
+    {
+      "q_no": 38,
+      "category": "Mathematics",
+      "question": "If x + y = 10 and x - y = 4, what is the value of x?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "Adding both equations: 2x=14, x=7."
+    },
+    {
+      "q_no": 39,
+      "category": "Mathematics",
+      "question": "If x^2 - 5x + 6 = 0, what are the roots of the equation?",
+      "options": [
+        "2 and 3",
+        "1 and 6",
+        "-2 and -3",
+        "2 and -3"
+      ],
+      "answer": "2 and 3",
+      "explanation": "x^2-5x+6=(x-2)(x-3)=0, so x=2 or x=3."
+    },
+    {
+      "q_no": 40,
+      "category": "Mathematics",
+      "question": "What is the value of a^2 - b^2 if a+b=12 and a-b=4?",
+      "options": [
+        "48",
+        "36",
+        "40",
+        "44"
+      ],
+      "answer": "48",
+      "explanation": "a^2-b^2 = (a+b)(a-b) = 12*4 = 48."
+    },
+    {
+      "q_no": 41,
+      "category": "Mathematics",
+      "question": "A sum of Rs. 6000 becomes Rs. 7200 in 2 years at simple interest. What is the rate of interest per annum?",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "6%"
+      ],
+      "answer": "10%",
+      "explanation": "SI = 7200-6000 = 1200. Rate = (SI*100)/(P*T) = (1200*100)/(6000*2) = 10%."
+    },
+    {
+      "q_no": 42,
+      "category": "Mathematics",
+      "question": "The ages of A and B are in the ratio 5:7. After 4 years, the ratio will be 3:4. What is A's present age?",
+      "options": [
+        "15 years",
+        "18 years",
+        "20 years",
+        "16 years"
+      ],
+      "answer": "20 years",
+      "explanation": "Let ages be 5x and 7x. (5x+4)/(7x+4)=3/4. 20x+16=21x+12, x=4. A's age = 5*4=20 years."
+    },
+    {
+      "q_no": 43,
+      "category": "Mathematics",
+      "question": "In a class of 60 students, 40% are girls. How many boys are there in the class?",
+      "options": [
+        "24",
+        "36",
+        "40",
+        "20"
+      ],
+      "answer": "36",
+      "explanation": "Girls = 40% of 60 = 24. Boys = 60-24 = 36."
+    },
+    {
+      "q_no": 44,
+      "category": "Mathematics",
+      "question": "A bag contains coins of Re. 1, 50-paise, and 25-paise in the ratio 3:4:12, with a total value of Rs. 600. How many 25-paise coins are there?",
+      "options": [
+        "900",
+        "480",
+        "240",
+        "600"
+      ],
+      "answer": "900",
+      "explanation": "Let coins be 3x, 4x, 12x. Value = 3x(1) + 4x(0.5) + 12x(0.25) = 3x+2x+3x = 8x = 600, so x=75. 25-paise coins = 12*75 = 900."
+    },
+    {
+      "q_no": 45,
+      "category": "Mathematics",
+      "question": "The following table shows marks scored by a student in 5 subjects: Maths-85, Science-78, English-72, Hindi-80, Social Science-75. What is the average marks scored?",
+      "options": [
+        "76",
+        "78",
+        "80",
+        "82"
+      ],
+      "answer": "78",
+      "explanation": "Sum = 85+78+72+80+75 = 390. Average = 390/5 = 78."
+    },
+    {
+      "q_no": 46,
+      "category": "Mathematics",
+      "question": "A pie chart shows a company's expenses: Salaries 40%, Rent 20%, Marketing 15%, Utilities 10%, Others 15%. If total expense is Rs. 10,00,000, what is the amount spent on Marketing?",
+      "options": [
+        "Rs. 1,00,000",
+        "Rs. 1,50,000",
+        "Rs. 2,00,000",
+        "Rs. 2,50,000"
+      ],
+      "answer": "Rs. 1,50,000",
+      "explanation": "Marketing = 15% of 10,00,000 = 1,50,000."
+    },
+    {
+      "q_no": 47,
+      "category": "Mathematics",
+      "question": "If the numerator of a fraction is increased by 20% and the denominator is decreased by 10%, the fraction becomes 4/5. What was the original fraction?",
+      "options": [
+        "3/5",
+        "1/2",
+        "2/3",
+        "3/4"
+      ],
+      "answer": "3/5",
+      "explanation": "Let fraction = x/y. (1.2x)/(0.9y) = 4/5, so x/y = (4*0.9)/(5*1.2) = 3.6/6 = 0.6 = 3/5."
+    },
+    {
+      "q_no": 48,
+      "category": "Mathematics",
+      "question": "The compound interest on a sum for 2 years at 5% per annum is Rs. 41. What is the simple interest on the same sum for the same time and rate?",
+      "options": [
+        "Rs. 40",
+        "Rs. 38",
+        "Rs. 42",
+        "Rs. 45"
+      ],
+      "answer": "Rs. 40",
+      "explanation": "This is a classic CI-SI relation problem where SI is slightly less than CI; with these standard values SI = Rs. 40."
+    },
+    {
+      "q_no": 49,
+      "category": "Mathematics",
+      "question": "A can complete a work in 20 days and B in 30 days. They work together for 5 days, after which A leaves. In how many more days will B finish the remaining work?",
+      "options": [
+        "12.5 days",
+        "15 days",
+        "10 days",
+        "17.5 days"
+      ],
+      "answer": "15 days",
+      "explanation": "Combined rate for 5 days = 5*(1/20+1/30) = 5*(5/60) = 25/60 = 5/12 of work done. Remaining = 7/12. B alone finishes remaining in (7/12)*30 = 17.5 days."
+    },
+    {
+      "q_no": 50,
+      "category": "Mathematics",
+      "question": "What is the value of 7! (7 factorial)?",
+      "options": [
+        "720",
+        "5040",
+        "40320",
+        "504"
+      ],
+      "answer": "5040",
+      "explanation": "7! = 7*6*5*4*3*2*1 = 5040."
+    },
+    {
+      "q_no": 51,
+      "category": "Mathematics",
+      "question": "In how many ways can the letters of the word 'RAIL' be arranged?",
+      "options": [
+        "12",
+        "24",
+        "6",
+        "48"
+      ],
+      "answer": "24",
+      "explanation": "'RAIL' has 4 distinct letters, so arrangements = 4! = 24."
+    },
+    {
+      "q_no": 52,
+      "category": "Mathematics",
+      "question": "A boat goes 30 km downstream in 2 hours and returns upstream in 3 hours. What is the speed of the boat in still water?",
+      "options": [
+        "10 km/h",
+        "12.5 km/h",
+        "15 km/h",
+        "9 km/h"
+      ],
+      "answer": "12.5 km/h",
+      "explanation": "Downstream speed=15 km/h, Upstream speed=10 km/h. Speed in still water = (15+10)/2 = 12.5 km/h."
+    },
+    {
+      "q_no": 53,
+      "category": "Mathematics",
+      "question": "The probability of getting a head when a fair coin is tossed once is:",
+      "options": [
+        "1/4",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": "1/2",
+      "explanation": "A fair coin has two equally likely outcomes, so the probability of heads is 1/2."
+    },
+    {
+      "q_no": 54,
+      "category": "Mathematics",
+      "question": "What is the probability of getting a sum of 7 when two dice are rolled?",
+      "options": [
+        "1/6
