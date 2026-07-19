@@ -1,0 +1,2005 @@
+{
+  "title": "All About Stars: Formation, Brightness, Size and Death (Bilingual)",
+  "questions": [
+    {
+      "question_en": "Stars are born from giant clouds of gas and dust known as a _____.",
+      "question_hi": "तारे गैस और धूल के विशाल बादलों से जन्म लेते हैं, जिन्हें _____ कहा जाता है।",
+      "options_en": [
+        "Galaxy",
+        "Nebula",
+        "Asteroid belt",
+        "Black hole"
+      ],
+      "options_hi": [
+        "आकाशगंगा",
+        "निहारिका",
+        "क्षुद्रग्रह पट्टी",
+        "ब्लैक होल"
+      ],
+      "answer_en": "Nebula",
+      "answer_hi": "निहारिका",
+      "explanation_en": "Stars form inside nebulae — huge clouds of hydrogen gas and dust that collapse under gravity.",
+      "explanation_hi": "तारे निहारिकाओं के अंदर बनते हैं — हाइड्रोजन गैस और धूल के विशाल बादल जो गुरुत्वाकर्षण के कारण सिकुड़ते हैं।"
+    },
+    {
+      "question_en": "Which force causes a gas cloud to collapse and eventually form a star?",
+      "question_hi": "कौन सा बल गैस के बादल को सिकोड़कर अंततः एक तारा बनाता है?",
+      "options_en": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Air pressure"
+      ],
+      "options_hi": [
+        "चुंबकत्व",
+        "घर्षण",
+        "गुरुत्वाकर्षण",
+        "वायु दाब"
+      ],
+      "answer_en": "Gravity",
+      "answer_hi": "गुरुत्वाकर्षण",
+      "explanation_en": "Gravity pulls the gas and dust particles inward, causing the cloud to contract and heat up.",
+      "explanation_hi": "गुरुत्वाकर्षण गैस और धूल के कणों को अंदर की ओर खींचता है, जिससे बादल सिकुड़ता और गर्म होता है।"
+    },
+    {
+      "question_en": "The dense, hot ball of collapsing gas before nuclear fusion begins is called a _____.",
+      "question_hi": "नाभिकीय संलयन शुरू होने से पहले सिकुड़ती हुई गैस की घनी, गर्म गेंद को _____ कहा जाता है।",
+      "options_en": [
+        "White dwarf",
+        "Protostar",
+        "Pulsar",
+        "Red giant"
+      ],
+      "options_hi": [
+        "श्वेत वामन तारा",
+        "प्रोटोतारा",
+        "पल्सर",
+        "लाल दानव तारा"
+      ],
+      "answer_en": "Protostar",
+      "answer_hi": "प्रोटोतारा",
+      "explanation_en": "A protostar is the early stage of a forming star, before hydrogen fusion has started in its core.",
+      "explanation_hi": "प्रोटोतारा एक बनते हुए तारे की प्रारंभिक अवस्था है, इससे पहले कि इसके केंद्र में हाइड्रोजन संलयन शुरू हो।"
+    },
+    {
+      "question_en": "What officially turns a protostar into a true star?",
+      "question_hi": "एक प्रोटोतारे को वास्तविक तारे में क्या बदल देता है?",
+      "options_en": [
+        "It starts spinning",
+        "Nuclear fusion begins in its core",
+        "It cools down completely",
+        "It gets a planet"
+      ],
+      "options_hi": [
+        "यह घूमना शुरू करता है",
+        "इसके केंद्र में नाभिकीय संलयन शुरू होता है",
+        "यह पूरी तरह ठंडा हो जाता है",
+        "इसे एक ग्रह मिल जाता है"
+      ],
+      "answer_en": "Nuclear fusion begins in its core",
+      "answer_hi": "इसके केंद्र में नाभिकीय संलयन शुरू होता है",
+      "explanation_en": "A star is officially 'born' when core temperature and pressure become high enough to ignite hydrogen fusion.",
+      "explanation_hi": "एक तारा तब आधिकारिक रूप से 'जन्म' लेता है जब केंद्र का तापमान और दबाव हाइड्रोजन संलयन प्रज्वलित करने के लिए पर्याप्त हो जाता है।"
+    },
+    {
+      "question_en": "Which two elements make up almost all of a newly forming star's mass?",
+      "question_hi": "किन दो तत्वों से नए बनते तारे का लगभग पूरा द्रव्यमान बनता है?",
+      "options_en": [
+        "Carbon and Oxygen",
+        "Hydrogen and Helium",
+        "Iron and Nickel",
+        "Nitrogen and Neon"
+      ],
+      "options_hi": [
+        "कार्बन और ऑक्सीजन",
+        "हाइड्रोजन और हीलियम",
+        "लोहा और निकल",
+        "नाइट्रोजन और नियॉन"
+      ],
+      "answer_en": "Hydrogen and Helium",
+      "answer_hi": "हाइड्रोजन और हीलियम",
+      "explanation_en": "Stars form mainly from hydrogen with some helium, the two lightest and most abundant elements in the universe.",
+      "explanation_hi": "तारे मुख्यतः हाइड्रोजन से बनते हैं जिसमें कुछ हीलियम भी होती है, ये ब्रह्मांड के सबसे हल्के और प्रचुर तत्व हैं।"
+    },
+    {
+      "question_en": "During star formation, nuclear fusion converts hydrogen into _____.",
+      "question_hi": "तारे के निर्माण के दौरान, नाभिकीय संलयन हाइड्रोजन को _____ में बदल देता है।",
+      "options_en": [
+        "Helium",
+        "Carbon",
+        "Iron",
+        "Oxygen"
+      ],
+      "options_hi": [
+        "हीलियम",
+        "कार्बन",
+        "लोहा",
+        "ऑक्सीजन"
+      ],
+      "answer_en": "Helium",
+      "answer_hi": "हीलियम",
+      "explanation_en": "In a star's core, hydrogen nuclei fuse together to form helium, releasing enormous energy.",
+      "explanation_hi": "तारे के केंद्र में, हाइड्रोजन नाभिक आपस में जुड़कर हीलियम बनाते हैं, जिससे भारी मात्रा में ऊर्जा निकलती है।"
+    },
+    {
+      "question_en": "Roughly what core temperature is needed to trigger hydrogen fusion in a forming star?",
+      "question_hi": "एक बनते हुए तारे में हाइड्रोजन संलयन शुरू करने के लिए लगभग कितना केंद्रीय तापमान आवश्यक है?",
+      "options_en": [
+        "About 100°C",
+        "About 10,000°C",
+        "About 10 million °C",
+        "About 1,000°C"
+      ],
+      "options_hi": [
+        "लगभग 100°C",
+        "लगभग 10,000°C",
+        "लगभग 1 करोड़ °C",
+        "लगभग 1,000°C"
+      ],
+      "answer_en": "About 10 million °C",
+      "answer_hi": "लगभग 1 करोड़ °C",
+      "explanation_en": "Hydrogen fusion ignites when the core reaches roughly 10 million degrees Celsius under immense pressure.",
+      "explanation_hi": "जब केंद्र भारी दबाव के साथ लगभग 1 करोड़ डिग्री सेल्सियस तक पहुंचता है, तब हाइड्रोजन संलयन प्रज्वलित होता है।"
+    },
+    {
+      "question_en": "Regions in space where large numbers of new stars form are often nicknamed _____.",
+      "question_hi": "अंतरिक्ष के जिन क्षेत्रों में बड़ी संख्या में नए तारे बनते हैं, उन्हें अक्सर _____ कहा जाता है।",
+      "options_en": [
+        "Black holes",
+        "Star nurseries",
+        "Supernova remnants",
+        "Asteroid fields"
+      ],
+      "options_hi": [
+        "ब्लैक होल",
+        "तारा नर्सरी",
+        "सुपरनोवा अवशेष",
+        "क्षुद्रग्रह क्षेत्र"
+      ],
+      "answer_en": "Star nurseries",
+      "answer_hi": "तारा नर्सरी",
+      "explanation_en": "Dense nebulae like the Orion Nebula are called 'star nurseries' because many stars form there together.",
+      "explanation_hi": "ओरायन निहारिका जैसी घनी निहारिकाओं को 'तारा नर्सरी' कहा जाता है क्योंकि वहाँ एक साथ कई तारे बनते हैं।"
+    },
+    {
+      "question_en": "What eventually stops a forming star's gravitational collapse?",
+      "question_hi": "एक बनते हुए तारे के गुरुत्वीय पतन को अंततः क्या रोकता है?",
+      "options_en": [
+        "Outward pressure from nuclear fusion",
+        "The star runs out of space",
+        "Magnetic repulsion",
+        "Cooling of the gas"
+      ],
+      "options_hi": [
+        "नाभिकीय संलयन से उत्पन्न बाहरी दबाव",
+        "तारे के पास जगह की कमी हो जाती है",
+        "चुंबकीय प्रतिकर्षण",
+        "गैस का ठंडा होना"
+      ],
+      "answer_en": "Outward pressure from nuclear fusion",
+      "answer_hi": "नाभिकीय संलयन से उत्पन्न बाहरी दबाव",
+      "explanation_en": "Once fusion begins, the outward radiation pressure balances inward gravity, stabilizing the star.",
+      "explanation_hi": "एक बार संलयन शुरू होने पर, बाहरी विकिरण दबाव आंतरिक गुरुत्वाकर्षण को संतुलित करता है, जिससे तारा स्थिर हो जाता है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "Stars usually form alone, one at a time, far from other stars.",
+        "Stars often form in groups or clusters within the same nebula.",
+        "Stars form only inside other stars.",
+        "Stars form instantly with no collapse stage."
+      ],
+      "options_hi": [
+        "तारे आमतौर पर अकेले, एक-एक करके, अन्य तारों से दूर बनते हैं।",
+        "तारे प्रायः एक ही निहारिका के अंदर समूहों या समूहों में बनते हैं।",
+        "तारे केवल अन्य तारों के अंदर बनते हैं।",
+        "तारे बिना किसी पतन चरण के तुरंत बन जाते हैं।"
+      ],
+      "answer_en": "Stars often form in groups or clusters within the same nebula.",
+      "answer_hi": "तारे प्रायः एक ही निहारिका के अंदर समूहों या समूहों में बनते हैं।",
+      "explanation_en": "A single nebula usually fragments into many clumps, so stars are commonly born in clusters.",
+      "explanation_hi": "एक ही निहारिका सामान्यतः कई टुकड़ों में विभाजित हो जाती है, इसलिए तारे प्रायः समूहों में जन्म लेते हैं।"
+    },
+    {
+      "question_en": "The stage of a star's life when it steadily fuses hydrogen into helium in its core is called the _____.",
+      "question_hi": "एक तारे के जीवन की वह अवस्था जिसमें वह अपने केंद्र में स्थिर रूप से हाइड्रोजन को हीलियम में बदलता है, उसे _____ कहा जाता है।",
+      "options_en": [
+        "Red giant phase",
+        "Main sequence",
+        "Supernova phase",
+        "White dwarf phase"
+      ],
+      "options_hi": [
+        "लाल दानव अवस्था",
+        "मुख्य अनुक्रम",
+        "सुपरनोवा अवस्था",
+        "श्वेत वामन अवस्था"
+      ],
+      "answer_en": "Main sequence",
+      "answer_hi": "मुख्य अनुक्रम",
+      "explanation_en": "Most of a star's life — including our Sun's current phase — is spent on the stable main sequence.",
+      "explanation_hi": "एक तारे के जीवन का अधिकांश हिस्सा — जिसमें हमारे सूर्य की वर्तमान अवस्था भी शामिल है — स्थिर मुख्य अनुक्रम में बीतता है।"
+    },
+    {
+      "question_en": "Roughly what percentage of stars in the universe are currently in the main sequence stage?",
+      "question_hi": "ब्रह्मांड में लगभग कितने प्रतिशत तारे वर्तमान में मुख्य अनुक्रम अवस्था में हैं?",
+      "options_en": [
+        "About 10%",
+        "About 50%",
+        "About 90%",
+        "About 1%"
+      ],
+      "options_hi": [
+        "लगभग 10%",
+        "लगभग 50%",
+        "लगभग 90%",
+        "लगभग 1%"
+      ],
+      "answer_en": "About 90%",
+      "answer_hi": "लगभग 90%",
+      "explanation_en": "Since the main-sequence stage lasts the longest part of a star's life, about 90% of stars are in it at any time.",
+      "explanation_hi": "चूंकि मुख्य अनुक्रम अवस्था एक तारे के जीवन का सबसे लंबा भाग होती है, इसलिए किसी भी समय लगभग 90% तारे इसी अवस्था में होते हैं।"
+    },
+    {
+      "question_en": "Why do stars shine and give off light?",
+      "question_hi": "तारे चमकते हैं और प्रकाश क्यों देते हैं?",
+      "options_en": [
+        "They reflect sunlight",
+        "Nuclear fusion in their core releases energy",
+        "They burn like wood fires",
+        "They are heated by nearby planets"
+      ],
+      "options_hi": [
+        "वे सूर्य के प्रकाश को परावर्तित करते हैं",
+        "उनके केंद्र में नाभिकीय संलयन ऊर्जा छोड़ता है",
+        "वे लकड़ी की आग की तरह जलते हैं",
+        "उन्हें पास के ग्रहों द्वारा गर्म किया जाता है"
+      ],
+      "answer_en": "Nuclear fusion in their core releases energy",
+      "answer_hi": "उनके केंद्र में नाभिकीय संलयन ऊर्जा छोड़ता है",
+      "explanation_en": "Stars shine because nuclear fusion in their core converts hydrogen to helium, releasing light and heat energy.",
+      "explanation_hi": "तारे इसलिए चमकते हैं क्योंकि उनके केंद्र में नाभिकीय संलयन हाइड्रोजन को हीलियम में बदलता है, जिससे प्रकाश और ऊष्मा ऊर्जा निकलती है।"
+    },
+    {
+      "question_en": "The total amount of energy a star radiates per second is called its _____.",
+      "question_hi": "एक तारा प्रति सेकंड जितनी कुल ऊर्जा विकीर्ण करता है, उसे उसकी _____ कहा जाता है।",
+      "options_en": [
+        "Magnitude",
+        "Luminosity",
+        "Velocity",
+        "Density"
+      ],
+      "options_hi": [
+        "कांतिमान",
+        "ज्योति तीव्रता (ल्यूमिनोसिटी)",
+        "वेग",
+        "घनत्व"
+      ],
+      "answer_en": "Luminosity",
+      "answer_hi": "ज्योति तीव्रता (ल्यूमिनोसिटी)",
+      "explanation_en": "Luminosity is the true, intrinsic brightness of a star — the total energy it emits every second.",
+      "explanation_hi": "ल्यूमिनोसिटी एक तारे की वास्तविक, आंतरिक चमक है — वह कुल ऊर्जा जो वह प्रति सेकंड उत्सर्जित करता है।"
+    },
+    {
+      "question_en": "How bright a star looks from Earth is called its _____.",
+      "question_hi": "पृथ्वी से एक तारा कितना चमकीला दिखाई देता है, उसे उसका _____ कहा जाता है।",
+      "options_en": [
+        "Apparent magnitude",
+        "Absolute mass",
+        "Spectral type",
+        "Escape velocity"
+      ],
+      "options_hi": [
+        "आभासी कांतिमान (एपेरेंट मैग्निट्यूड)",
+        "परम द्रव्यमान",
+        "वर्णक्रमीय प्रकार",
+        "पलायन वेग"
+      ],
+      "answer_en": "Apparent magnitude",
+      "answer_hi": "आभासी कांतिमान (एपेरेंट मैग्निट्यूड)",
+      "explanation_en": "Apparent magnitude measures how bright a star appears from Earth, which depends on both luminosity and distance.",
+      "explanation_hi": "आभासी कांतिमान यह मापता है कि पृथ्वी से एक तारा कितना चमकीला दिखता है, जो ल्यूमिनोसिटी और दूरी दोनों पर निर्भर करता है।"
+    },
+    {
+      "question_en": "On the magnitude scale used for star brightness, a lower number means the star is _____.",
+      "question_hi": "तारों की चमक के लिए प्रयुक्त कांतिमान पैमाने पर, कम संख्या का अर्थ है कि तारा _____ है।",
+      "options_en": [
+        "Brighter",
+        "Dimmer",
+        "Farther away",
+        "Cooler"
+      ],
+      "options_hi": [
+        "अधिक चमकीला",
+        "कम चमकीला",
+        "अधिक दूर",
+        "अधिक ठंडा"
+      ],
+      "answer_en": "Brighter",
+      "answer_hi": "अधिक चमकीला",
+      "explanation_en": "The magnitude scale is reversed: smaller (or more negative) numbers indicate brighter stars.",
+      "explanation_hi": "कांतिमान पैमाना उलटा होता है: छोटी (या अधिक ऋणात्मक) संख्या अधिक चमकीले तारे को दर्शाती है।"
+    },
+    {
+      "question_en": "A star's color mainly depends on its _____.",
+      "question_hi": "एक तारे का रंग मुख्यतः उसके _____ पर निर्भर करता है।",
+      "options_en": [
+        "Age only",
+        "Surface temperature",
+        "Distance from Earth",
+        "Number of planets"
+      ],
+      "options_hi": [
+        "केवल आयु पर",
+        "सतह के तापमान पर",
+        "पृथ्वी से दूरी पर",
+        "ग्रहों की संख्या पर"
+      ],
+      "answer_en": "Surface temperature",
+      "answer_hi": "सतह के तापमान पर",
+      "explanation_en": "A star's surface temperature determines its color: hotter stars appear blue-white, cooler stars appear red.",
+      "explanation_hi": "एक तारे की सतह का तापमान उसका रंग निर्धारित करता है: गर्म तारे नीले-सफेद दिखते हैं, ठंडे तारे लाल दिखते हैं।"
+    },
+    {
+      "question_en": "Which color of star has the hottest surface temperature?",
+      "question_hi": "किस रंग के तारे की सतह का तापमान सबसे अधिक होता है?",
+      "options_en": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "Blue"
+      ],
+      "options_hi": [
+        "लाल",
+        "पीला",
+        "नारंगी",
+        "नीला"
+      ],
+      "answer_en": "Blue",
+      "answer_hi": "नीला",
+      "explanation_en": "Blue stars are the hottest, often exceeding 10,000 Kelvin at their surface.",
+      "explanation_hi": "नीले तारे सबसे गर्म होते हैं, जिनकी सतह का तापमान अक्सर 10,000 केल्विन से अधिक होता है।"
+    },
+    {
+      "question_en": "Which color of star has the coolest surface temperature?",
+      "question_hi": "किस रंग के तारे की सतह का तापमान सबसे कम होता है?",
+      "options_en": [
+        "Blue",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "options_hi": [
+        "नीला",
+        "सफेद",
+        "लाल",
+        "पीला"
+      ],
+      "answer_en": "Red",
+      "answer_hi": "लाल",
+      "explanation_en": "Red stars are the coolest, with surface temperatures often below 3,500 Kelvin.",
+      "explanation_hi": "लाल तारे सबसे ठंडे होते हैं, जिनकी सतह का तापमान अक्सर 3,500 केल्विन से कम होता है।"
+    },
+    {
+      "question_en": "What is the correct order of main stellar spectral classes from hottest to coolest?",
+      "question_hi": "सबसे गर्म से सबसे ठंडे तक मुख्य तारकीय वर्णक्रमीय प्रकारों का सही क्रम क्या है?",
+      "options_en": [
+        "M K G F A B O",
+        "O B A F G K M",
+        "A B C D E F G",
+        "G F E D C B A"
+      ],
+      "options_hi": [
+        "M K G F A B O",
+        "O B A F G K M",
+        "A B C D E F G",
+        "G F E D C B A"
+      ],
+      "answer_en": "O B A F G K M",
+      "answer_hi": "O B A F G K M",
+      "explanation_en": "The standard spectral sequence from hottest to coolest is O, B, A, F, G, K, M.",
+      "explanation_hi": "सबसे गर्म से सबसे ठंडे तक मानक वर्णक्रमीय क्रम O, B, A, F, G, K, M है।"
+    },
+    {
+      "question_en": "What is the spectral class of our Sun?",
+      "question_hi": "हमारे सूर्य का वर्णक्रमीय प्रकार क्या है?",
+      "options_en": [
+        "O-type",
+        "M-type",
+        "G-type",
+        "B-type"
+      ],
+      "options_hi": [
+        "O-प्रकार",
+        "M-प्रकार",
+        "G-प्रकार",
+        "B-प्रकार"
+      ],
+      "answer_en": "G-type",
+      "answer_hi": "G-प्रकार",
+      "explanation_en": "The Sun is a G-type main-sequence star, often called a 'yellow dwarf'.",
+      "explanation_hi": "सूर्य एक G-प्रकार का मुख्य अनुक्रम तारा है, जिसे अक्सर 'पीला वामन तारा' कहा जाता है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "A star's luminosity depends only on its distance from Earth.",
+        "Two stars with the same luminosity can have very different apparent brightness if they are at different distances.",
+        "Apparent magnitude and luminosity are always exactly equal.",
+        "A star's color has nothing to do with its temperature."
+      ],
+      "options_hi": [
+        "एक तारे की ल्यूमिनोसिटी केवल पृथ्वी से उसकी दूरी पर निर्भर करती है।",
+        "समान ल्यूमिनोसिटी वाले दो तारे अलग-अलग दूरी पर होने पर बहुत भिन्न आभासी चमक दिखा सकते हैं।",
+        "आभासी कांतिमान और ल्यूमिनोसिटी हमेशा बिल्कुल बराबर होते हैं।",
+        "एक तारे के रंग का उसके तापमान से कोई संबंध नहीं होता।"
+      ],
+      "answer_en": "Two stars with the same luminosity can have very different apparent brightness if they are at different distances.",
+      "answer_hi": "समान ल्यूमिनोसिटी वाले दो तारे अलग-अलग दूरी पर होने पर बहुत भिन्न आभासी चमक दिखा सकते हैं।",
+      "explanation_en": "A very luminous star that is far away can look dimmer than a less luminous star that is close to Earth.",
+      "explanation_hi": "एक बहुत ल्यूमिनस तारा जो दूर है, वह पृथ्वी के पास स्थित कम ल्यूमिनस तारे से मंद दिख सकता है।"
+    },
+    {
+      "question_en": "Which star (other than the Sun) appears brightest in Earth's night sky?",
+      "question_hi": "पृथ्वी के रात्रि आकाश में (सूर्य के अलावा) कौन सा तारा सबसे चमकीला दिखाई देता है?",
+      "options_en": [
+        "Betelgeuse",
+        "Proxima Centauri",
+        "Sirius",
+        "Polaris"
+      ],
+      "options_hi": [
+        "बेटलज्यूज़",
+        "प्रॉक्सिमा सेंटॉरी",
+        "सीरियस",
+        "ध्रुव तारा"
+      ],
+      "answer_en": "Sirius",
+      "answer_hi": "सीरियस",
+      "explanation_en": "Sirius, in the constellation Canis Major, is the brightest star in Earth's night sky.",
+      "explanation_hi": "सीरियस, कैनिस मेजर तारामंडल में, पृथ्वी के रात्रि आकाश का सबसे चमकीला तारा है।"
+    },
+    {
+      "question_en": "A star that varies in brightness over time is called a _____.",
+      "question_hi": "एक तारा जिसकी चमक समय के साथ बदलती रहती है, उसे _____ कहा जाता है।",
+      "options_en": [
+        "Binary star",
+        "Variable star",
+        "Protostar",
+        "Brown dwarf"
+      ],
+      "options_hi": [
+        "द्वितारा",
+        "परिवर्ती तारा",
+        "प्रोटोतारा",
+        "भूरा वामन तारा"
+      ],
+      "answer_en": "Variable star",
+      "answer_hi": "परिवर्ती तारा",
+      "explanation_en": "Variable stars change brightness due to pulsation, eclipses by a companion, or other physical changes.",
+      "explanation_hi": "परिवर्ती तारे स्पंदन, किसी साथी तारे द्वारा ग्रहण, या अन्य भौतिक परिवर्तनों के कारण चमक बदलते हैं।"
+    },
+    {
+      "question_en": "Cepheid variable stars are especially useful to astronomers because they help to _____.",
+      "question_hi": "सेफिड परिवर्ती तारे खगोलविदों के लिए विशेष रूप से उपयोगी हैं क्योंकि वे _____ में मदद करते हैं।",
+      "options_en": [
+        "Measure distances in space",
+        "Predict earthquakes",
+        "Detect black holes directly",
+        "Measure Earth's rotation"
+      ],
+      "options_hi": [
+        "अंतरिक्ष में दूरियां मापने में",
+        "भूकंप की भविष्यवाणी करने में",
+        "सीधे ब्लैक होल का पता लगाने में",
+        "पृथ्वी के घूर्णन को मापने में"
+      ],
+      "answer_en": "Measure distances in space",
+      "answer_hi": "अंतरिक्ष में दूरियां मापने में",
+      "explanation_en": "Because their pulsation period relates to their true luminosity, Cepheids act as 'standard candles' for measuring cosmic distances.",
+      "explanation_hi": "क्योंकि उनकी स्पंदन अवधि उनकी वास्तविक ल्यूमिनोसिटी से संबंधित होती है, सेफिड तारे ब्रह्मांडीय दूरियां मापने के लिए 'मानक मोमबत्ती' का काम करते हैं।"
+    },
+    {
+      "question_en": "Which category of stars are generally the largest in size?",
+      "question_hi": "आकार में तारों की कौन सी श्रेणी सामान्यतः सबसे बड़ी होती है?",
+      "options_en": [
+        "Red dwarfs",
+        "White dwarfs",
+        "Supergiants",
+        "Neutron stars"
+      ],
+      "options_hi": [
+        "लाल वामन तारे",
+        "श्वेत वामन तारे",
+        "महादानव तारे",
+        "न्यूट्रॉन तारे"
+      ],
+      "answer_en": "Supergiants",
+      "answer_hi": "महादानव तारे",
+      "explanation_en": "Supergiants and hypergiants are the largest stars known, some over a thousand times the Sun's diameter.",
+      "explanation_hi": "महादानव और अति-महादानव तारे ज्ञात सबसे बड़े तारे हैं, जिनमें से कुछ सूर्य के व्यास से हजार गुना अधिक हैं।"
+    },
+    {
+      "question_en": "Which category of true stars are generally the smallest and most common?",
+      "question_hi": "वास्तविक तारों की कौन सी श्रेणी सामान्यतः सबसे छोटी और सबसे सामान्य होती है?",
+      "options_en": [
+        "Blue giants",
+        "Red dwarfs",
+        "Supergiants",
+        "Neutron stars"
+      ],
+      "options_hi": [
+        "नीले दानव तारे",
+        "लाल वामन तारे",
+        "महादानव तारे",
+        "न्यूट्रॉन तारे"
+      ],
+      "answer_en": "Red dwarfs",
+      "answer_hi": "लाल वामन तारे",
+      "explanation_en": "Red dwarfs are small, cool, low-mass stars, and they are the most common type of star in the galaxy.",
+      "explanation_hi": "लाल वामन तारे छोटे, ठंडे, कम द्रव्यमान वाले तारे होते हैं, और ये आकाशगंगा में तारों का सबसे सामान्य प्रकार हैं।"
+    },
+    {
+      "question_en": "Which is generally bigger: a red giant or a main-sequence star like the Sun?",
+      "question_hi": "सामान्यतः कौन बड़ा होता है: एक लाल दानव तारा या सूर्य जैसा मुख्य अनुक्रम तारा?",
+      "options_en": [
+        "Main-sequence star",
+        "Red giant",
+        "They are always the same size",
+        "Neither has a defined size"
+      ],
+      "options_hi": [
+        "मुख्य अनुक्रम तारा",
+        "लाल दानव तारा",
+        "वे हमेशा समान आकार के होते हैं",
+        "किसी का भी निश्चित आकार नहीं होता"
+      ],
+      "answer_en": "Red giant",
+      "answer_hi": "लाल दानव तारा",
+      "explanation_en": "When a star becomes a red giant, its outer layers expand dramatically, making it far larger than its main-sequence size.",
+      "explanation_hi": "जब एक तारा लाल दानव बनता है, तो उसकी बाहरी परतें बहुत अधिक फैल जाती हैं, जिससे यह अपने मुख्य अनुक्रम आकार से कहीं अधिक बड़ा हो जाता है।"
+    },
+    {
+      "question_en": "A white dwarf star is roughly similar in size to which object?",
+      "question_hi": "एक श्वेत वामन तारा आकार में लगभग किस वस्तु के समान होता है?",
+      "options_en": [
+        "The Sun",
+        "Jupiter",
+        "The Earth",
+        "The Milky Way"
+      ],
+      "options_hi": [
+        "सूर्य",
+        "बृहस्पति",
+        "पृथ्वी",
+        "आकाशगंगा"
+      ],
+      "answer_en": "The Earth",
+      "answer_hi": "पृथ्वी",
+      "explanation_en": "A white dwarf packs roughly a Sun's worth of mass into a volume about the size of Earth.",
+      "explanation_hi": "एक श्वेत वामन तारा लगभग सूर्य जितने द्रव्यमान को पृथ्वी के आकार जितने आयतन में समेट लेता है।"
+    },
+    {
+      "question_en": "Which is smaller in diameter: a white dwarf or a neutron star?",
+      "question_hi": "व्यास में कौन छोटा होता है: एक श्वेत वामन तारा या एक न्यूट्रॉन तारा?",
+      "options_en": [
+        "White dwarf",
+        "Neutron star",
+        "Both are the same size",
+        "Neither has a diameter"
+      ],
+      "options_hi": [
+        "श्वेत वामन तारा",
+        "न्यूट्रॉन तारा",
+        "दोनों समान आकार के हैं",
+        "किसी का भी व्यास नहीं होता"
+      ],
+      "answer_en": "Neutron star",
+      "answer_hi": "न्यूट्रॉन तारा",
+      "explanation_en": "A neutron star is far more compact, typically only about 20 km across despite having more mass than the Sun.",
+      "explanation_hi": "एक न्यूट्रॉन तारा कहीं अधिक सघन होता है, जिसका व्यास सूर्य से अधिक द्रव्यमान होने के बावजूद सामान्यतः केवल लगभग 20 किमी होता है।"
+    },
+    {
+      "question_en": "Approximately what is the typical diameter of a neutron star?",
+      "question_hi": "एक न्यूट्रॉन तारे का सामान्य व्यास लगभग कितना होता है?",
+      "options_en": [
+        "About 20 kilometers",
+        "About 2,000 kilometers",
+        "About the size of the Sun",
+        "About the size of Earth"
+      ],
+      "options_hi": [
+        "लगभग 20 किलोमीटर",
+        "लगभग 2,000 किलोमीटर",
+        "लगभग सूर्य के आकार जितना",
+        "लगभग पृथ्वी के आकार जितना"
+      ],
+      "answer_en": "About 20 kilometers",
+      "answer_hi": "लगभग 20 किलोमीटर",
+      "explanation_en": "Despite containing more mass than the Sun, a neutron star is typically only about 20 km in diameter — roughly city-sized.",
+      "explanation_hi": "सूर्य से अधिक द्रव्यमान होने के बावजूद, एक न्यूट्रॉन तारे का व्यास सामान्यतः केवल लगभग 20 किमी होता है — लगभग एक शहर जितना।"
+    },
+    {
+      "question_en": "Betelgeuse, a famous star in the constellation Orion, is classified as a _____.",
+      "question_hi": "ओरायन तारामंडल का प्रसिद्ध तारा बेटलज्यूज़ किस श्रेणी में वर्गीकृत है?",
+      "options_en": [
+        "Red dwarf",
+        "White dwarf",
+        "Red supergiant",
+        "Neutron star"
+      ],
+      "options_hi": [
+        "लाल वामन तारा",
+        "श्वेत वामन तारा",
+        "लाल महादानव तारा",
+        "न्यूट्रॉन तारा"
+      ],
+      "answer_en": "Red supergiant",
+      "answer_hi": "लाल महादानव तारा",
+      "explanation_en": "Betelgeuse is a red supergiant, hundreds of times larger in diameter than the Sun.",
+      "explanation_hi": "बेटलज्यूज़ एक लाल महादानव तारा है, जिसका व्यास सूर्य से सैकड़ों गुना बड़ा है।"
+    },
+    {
+      "question_en": "Some of the largest known stars, such as Stephenson 2-18, are classified as _____.",
+      "question_hi": "स्टीफेंसन 2-18 जैसे कुछ सबसे बड़े ज्ञात तारे किस श्रेणी में वर्गीकृत हैं?",
+      "options_en": [
+        "Red dwarfs",
+        "White dwarfs",
+        "Red hypergiants/supergiants",
+        "Neutron stars"
+      ],
+      "options_hi": [
+        "लाल वामन तारे",
+        "श्वेत वामन तारे",
+        "लाल अति-महादानव/महादानव तारे",
+        "न्यूट्रॉन तारे"
+      ],
+      "answer_en": "Red hypergiants/supergiants",
+      "answer_hi": "लाल अति-महादानव/महादानव तारे",
+      "explanation_en": "The largest known stars are red supergiants or hypergiants, with diameters over a thousand times that of the Sun.",
+      "explanation_hi": "ज्ञात सबसे बड़े तारे लाल महादानव या अति-महादानव होते हैं, जिनका व्यास सूर्य से हजार गुना से भी अधिक होता है।"
+    },
+    {
+      "question_en": "Proxima Centauri, the nearest star to our Sun, is classified as a _____.",
+      "question_hi": "हमारे सूर्य के सबसे निकट स्थित तारा प्रॉक्सिमा सेंटॉरी किस श्रेणी में वर्गीकृत है?",
+      "options_en": [
+        "Blue giant",
+        "Red dwarf",
+        "White dwarf",
+        "Red supergiant"
+      ],
+      "options_hi": [
+        "नीला दानव तारा",
+        "लाल वामन तारा",
+        "श्वेत वामन तारा",
+        "लाल महादानव तारा"
+      ],
+      "answer_en": "Red dwarf",
+      "answer_hi": "लाल वामन तारा",
+      "explanation_en": "Proxima Centauri is a small, cool red dwarf star located about 4.2 light-years from Earth.",
+      "explanation_hi": "प्रॉक्सिमा सेंटॉरी एक छोटा, ठंडा लाल वामन तारा है जो पृथ्वी से लगभग 4.2 प्रकाश-वर्ष दूर स्थित है।"
+    },
+    {
+      "question_en": "Which of the following statements about red dwarf stars is correct?",
+      "question_hi": "लाल वामन तारों के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "They are the hottest and largest stars.",
+        "They are small, cool, low-mass stars and are the most common type in the galaxy.",
+        "They always end their lives as black holes.",
+        "They cannot sustain nuclear fusion at all."
+      ],
+      "options_hi": [
+        "वे सबसे गर्म और सबसे बड़े तारे हैं।",
+        "वे छोटे, ठंडे, कम द्रव्यमान वाले तारे हैं और आकाशगंगा में सबसे सामान्य प्रकार हैं।",
+        "वे हमेशा अपने जीवन का अंत ब्लैक होल के रूप में करते हैं।",
+        "वे नाभिकीय संलयन को बिल्कुल भी बनाए नहीं रख सकते।"
+      ],
+      "answer_en": "They are small, cool, low-mass stars and are the most common type in the galaxy.",
+      "answer_hi": "वे छोटे, ठंडे, कम द्रव्यमान वाले तारे हैं और आकाशगंगा में सबसे सामान्य प्रकार हैं।",
+      "explanation_en": "Red dwarfs are small, cool, and burn fuel very slowly, making them both common and extremely long-lived.",
+      "explanation_hi": "लाल वामन तारे छोटे, ठंडे होते हैं और ईंधन को बहुत धीरे-धीरे जलाते हैं, जिससे वे सामान्य और अत्यंत दीर्घजीवी दोनों होते हैं।"
+    },
+    {
+      "question_en": "Which type of star is the most common in the Milky Way galaxy?",
+      "question_hi": "मिल्की वे आकाशगंगा में तारों का कौन सा प्रकार सबसे सामान्य है?",
+      "options_en": [
+        "Blue supergiants",
+        "Red dwarfs",
+        "White dwarfs",
+        "Neutron stars"
+      ],
+      "options_hi": [
+        "नीले महादानव तारे",
+        "लाल वामन तारे",
+        "श्वेत वामन तारे",
+        "न्यूट्रॉन तारे"
+      ],
+      "answer_en": "Red dwarfs",
+      "answer_hi": "लाल वामन तारे",
+      "explanation_en": "Small, faint red dwarfs make up the vast majority — around 70-80% — of all stars in the Milky Way.",
+      "explanation_hi": "छोटे, धुंधले लाल वामन तारे मिल्की वे के सभी तारों का बड़ा बहुमत — लगभग 70-80% — बनाते हैं।"
+    },
+    {
+      "question_en": "Which of these is generally true when comparing a typical star to a typical planet?",
+      "question_hi": "एक सामान्य तारे की तुलना एक सामान्य ग्रह से करने पर निम्नलिखित में से कौन सा सामान्यतः सत्य है?",
+      "options_en": [
+        "Stars are usually much larger and more massive than planets.",
+        "Planets are usually much larger than stars.",
+        "Stars and planets are always the same size.",
+        "Planets undergo nuclear fusion like stars."
+      ],
+      "options_hi": [
+        "तारे सामान्यतः ग्रहों से कहीं अधिक बड़े और अधिक द्रव्यमान वाले होते हैं।",
+        "ग्रह सामान्यतः तारों से कहीं अधिक बड़े होते हैं।",
+        "तारे और ग्रह हमेशा समान आकार के होते हैं।",
+        "ग्रहों में भी तारों की तरह नाभिकीय संलयन होता है।"
+      ],
+      "answer_en": "Stars are usually much larger and more massive than planets.",
+      "answer_hi": "तारे सामान्यतः ग्रहों से कहीं अधिक बड़े और अधिक द्रव्यमान वाले होते हैं।",
+      "explanation_en": "Stars are massive enough to sustain nuclear fusion, which makes them far larger and more massive than planets.",
+      "explanation_hi": "तारे इतने अधिक द्रव्यमान वाले होते हैं कि वे नाभिकीय संलयन को बनाए रख सकें, जिससे वे ग्रहों से कहीं अधिक बड़े और भारी होते हैं।"
+    },
+    {
+      "question_en": "Which of the following statements about white dwarf density is correct?",
+      "question_hi": "श्वेत वामन तारे के घनत्व के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "White dwarfs are extremely dense; a teaspoon of their matter would weigh tons.",
+        "White dwarfs have the same density as ordinary air.",
+        "White dwarfs are less dense than the Sun.",
+        "White dwarfs have no measurable density."
+      ],
+      "options_hi": [
+        "श्वेत वामन तारे अत्यंत घने होते हैं; उनके पदार्थ का एक चम्मच कई टन वजनी होगा।",
+        "श्वेत वामन तारों का घनत्व सामान्य वायु के समान होता है।",
+        "श्वेत वामन तारे सूर्य से कम घने होते हैं।",
+        "श्वेत वामन तारों का कोई मापनीय घनत्व नहीं होता।"
+      ],
+      "answer_en": "White dwarfs are extremely dense; a teaspoon of their matter would weigh tons.",
+      "answer_hi": "श्वेत वामन तारे अत्यंत घने होते हैं; उनके पदार्थ का एक चम्मच कई टन वजनी होगा।",
+      "explanation_en": "White dwarfs pack roughly a solar mass into an Earth-sized volume, making them incredibly dense.",
+      "explanation_hi": "श्वेत वामन तारे लगभग सौर द्रव्यमान को पृथ्वी के आकार जितने आयतन में समेट लेते हैं, जिससे वे अत्यंत घने हो जाते हैं।"
+    },
+    {
+      "question_en": "Compared to the Sun, a red giant star is _____.",
+      "question_hi": "सूर्य की तुलना में, एक लाल दानव तारा _____ होता है।",
+      "options_en": [
+        "Much smaller",
+        "Roughly the same size",
+        "Much larger",
+        "Nonexistent"
+      ],
+      "options_hi": [
+        "कहीं अधिक छोटा",
+        "लगभग समान आकार का",
+        "कहीं अधिक बड़ा",
+        "अस्तित्वहीन"
+      ],
+      "answer_en": "Much larger",
+      "answer_hi": "कहीं अधिक बड़ा",
+      "explanation_en": "When a Sun-like star becomes a red giant, it can expand to dozens or even hundreds of times its original size.",
+      "explanation_hi": "जब सूर्य जैसा तारा लाल दानव बनता है, तो यह अपने मूल आकार से दर्जनों या सैकड़ों गुना तक फैल सकता है।"
+    },
+    {
+      "question_en": "Which of the following correctly ranks star sizes from smallest to largest?",
+      "question_hi": "निम्नलिखित में से कौन सा विकल्प तारों के आकार को सबसे छोटे से सबसे बड़े तक सही ढंग से क्रमबद्ध करता है?",
+      "options_en": [
+        "Neutron star, White dwarf, Sun-like star, Red supergiant",
+        "Red supergiant, Sun-like star, White dwarf, Neutron star",
+        "White dwarf, Neutron star, Red supergiant, Sun-like star",
+        "Sun-like star, Neutron star, White dwarf, Red supergiant"
+      ],
+      "options_hi": [
+        "न्यूट्रॉन तारा, श्वेत वामन तारा, सूर्य जैसा तारा, लाल महादानव तारा",
+        "लाल महादानव तारा, सूर्य जैसा तारा, श्वेत वामन तारा, न्यूट्रॉन तारा",
+        "श्वेत वामन तारा, न्यूट्रॉन तारा, लाल महादानव तारा, सूर्य जैसा तारा",
+        "सूर्य जैसा तारा, न्यूट्रॉन तारा, श्वेत वामन तारा, लाल महादानव तारा"
+      ],
+      "answer_en": "Neutron star, White dwarf, Sun-like star, Red supergiant",
+      "answer_hi": "न्यूट्रॉन तारा, श्वेत वामन तारा, सूर्य जैसा तारा, लाल महादानव तारा",
+      "explanation_en": "From smallest to largest: neutron star (~20 km), white dwarf (~Earth-sized), Sun-like star, then huge red supergiants.",
+      "explanation_hi": "सबसे छोटे से सबसे बड़े तक: न्यूट्रॉन तारा (~20 किमी), श्वेत वामन तारा (~पृथ्वी के आकार का), सूर्य जैसा तारा, फिर विशाल लाल महादानव तारे।"
+    },
+    {
+      "question_en": "What term describes extremely massive, extremely large stars even bigger than typical supergiants?",
+      "question_hi": "सामान्य महादानव तारों से भी बड़े, अत्यंत विशाल तारों के लिए कौन सा शब्द प्रयोग होता है?",
+      "options_en": [
+        "Hypergiants",
+        "Micro dwarfs",
+        "Protostars",
+        "Pulsars"
+      ],
+      "options_hi": [
+        "अति-महादानव (हाइपरजायंट)",
+        "सूक्ष्म वामन तारे",
+        "प्रोटोतारे",
+        "पल्सर"
+      ],
+      "answer_en": "Hypergiants",
+      "answer_hi": "अति-महादानव (हाइपरजायंट)",
+      "explanation_en": "Hypergiants are among the most massive and luminous stars known, exceeding even typical supergiants in size.",
+      "explanation_hi": "अति-महादानव तारे ज्ञात सबसे अधिक द्रव्यमान और चमकदार तारों में से हैं, जो आकार में सामान्य महादानव तारों से भी बड़े होते हैं।"
+    },
+    {
+      "question_en": "What happens to a Sun-like star after it exhausts the hydrogen fuel in its core?",
+      "question_hi": "सूर्य जैसा तारा अपने केंद्र का हाइड्रोजन ईंधन समाप्त करने के बाद क्या बन जाता है?",
+      "options_en": [
+        "It immediately becomes a black hole",
+        "It expands into a red giant",
+        "It disappears instantly",
+        "It becomes a neutron star"
+      ],
+      "options_hi": [
+        "यह तुरंत ब्लैक होल बन जाता है",
+        "यह फैलकर लाल दानव तारा बन जाता है",
+        "यह तुरंत गायब हो जाता है",
+        "यह न्यूट्रॉन तारा बन जाता है"
+      ],
+      "answer_en": "It expands into a red giant",
+      "answer_hi": "यह फैलकर लाल दानव तारा बन जाता है",
+      "explanation_en": "Once core hydrogen runs out, the core contracts and outer layers expand and cool, turning the star into a red giant.",
+      "explanation_hi": "जब केंद्र का हाइड्रोजन समाप्त हो जाता है, तो केंद्र सिकुड़ता है और बाहरी परतें फैलकर ठंडी होती हैं, जिससे तारा लाल दानव बन जाता है।"
+    },
+    {
+      "question_en": "After its red giant phase, a Sun-like star sheds its outer layers, forming a glowing shell called a _____.",
+      "question_hi": "अपनी लाल दानव अवस्था के बाद, सूर्य जैसा तारा अपनी बाहरी परतें त्याग देता है, जिससे एक चमकता हुआ खोल बनता है जिसे _____ कहा जाता है।",
+      "options_en": [
+        "Supernova remnant",
+        "Planetary nebula",
+        "Black hole",
+        "Asteroid belt"
+      ],
+      "options_hi": [
+        "सुपरनोवा अवशेष",
+        "ग्रहीय निहारिका",
+        "ब्लैक होल",
+        "क्षुद्रग्रह पट्टी"
+      ],
+      "answer_en": "Planetary nebula",
+      "answer_hi": "ग्रहीय निहारिका",
+      "explanation_en": "A planetary nebula is the glowing shell of gas ejected by a dying Sun-like star, despite the name having nothing to do with planets.",
+      "explanation_hi": "ग्रहीय निहारिका एक मरते हुए सूर्य जैसे तारे द्वारा त्यागी गई गैस का चमकता हुआ खोल है, हालांकि इस नाम का ग्रहों से कोई संबंध नहीं है।"
+    },
+    {
+      "question_en": "What is the small, hot core left behind after a Sun-like star sheds its outer layers?",
+      "question_hi": "सूर्य जैसे तारे की बाहरी परतें त्यागने के बाद बचा हुआ छोटा, गर्म केंद्र क्या कहलाता है?",
+      "options_en": [
+        "Neutron star",
+        "White dwarf",
+        "Black hole",
+        "Red supergiant"
+      ],
+      "options_hi": [
+        "न्यूट्रॉन तारा",
+        "श्वेत वामन तारा",
+        "ब्लैक होल",
+        "लाल महादानव तारा"
+      ],
+      "answer_en": "White dwarf",
+      "answer_hi": "श्वेत वामन तारा",
+      "explanation_en": "The remaining hot, dense core becomes a white dwarf, which will slowly cool over billions of years.",
+      "explanation_hi": "बचा हुआ गर्म, घना केंद्र एक श्वेत वामन तारा बन जाता है, जो अरबों वर्षों में धीरे-धीरे ठंडा होगा।"
+    },
+    {
+      "question_en": "Which of the following statements about a white dwarf's ultimate fate is correct?",
+      "question_hi": "श्वेत वामन तारे के अंतिम भाग्य के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "It explodes immediately after forming.",
+        "It slowly cools and dims over an extremely long time.",
+        "It instantly turns into a black hole.",
+        "It grows larger and becomes a supergiant again."
+      ],
+      "options_hi": [
+        "यह बनने के तुरंत बाद फट जाता है।",
+        "यह अत्यंत लंबे समय में धीरे-धीरे ठंडा और मंद होता जाता है।",
+        "यह तुरंत ब्लैक होल में बदल जाता है।",
+        "यह बड़ा होकर फिर से महादानव तारा बन जाता है।"
+      ],
+      "answer_en": "It slowly cools and dims over an extremely long time.",
+      "answer_hi": "यह अत्यंत लंबे समय में धीरे-धीरे ठंडा और मंद होता जाता है।",
+      "explanation_en": "A white dwarf has no fuel left to fuse, so it simply radiates away its heat and cools very slowly over billions of years.",
+      "explanation_hi": "एक श्वेत वामन तारे के पास संलयन के लिए कोई ईंधन नहीं बचता, इसलिए यह केवल अपनी ऊष्मा विकीर्ण करता है और अरबों वर्षों में बहुत धीरे-धीरे ठंडा होता है।"
+    },
+    {
+      "question_en": "Very massive stars end their lives in a colossal explosion called a _____.",
+      "question_hi": "अत्यंत विशाल तारे अपने जीवन का अंत एक विशाल विस्फोट में करते हैं जिसे _____ कहा जाता है।",
+      "options_en": [
+        "Nova",
+        "Supernova",
+        "Eclipse",
+        "Meteor shower"
+      ],
+      "options_hi": [
+        "नोवा",
+        "सुपरनोवा",
+        "ग्रहण",
+        "उल्का वर्षा"
+      ],
+      "answer_en": "Supernova",
+      "answer_hi": "सुपरनोवा",
+      "explanation_en": "A supernova is an extremely powerful explosion marking the violent death of a massive star.",
+      "explanation_hi": "सुपरनोवा एक अत्यंत शक्तिशाली विस्फोट है जो एक विशाल तारे की हिंसक मृत्यु को दर्शाता है।"
+    },
+    {
+      "question_en": "What typically remains after the supernova of a massive star (roughly 8-20 solar masses)?",
+      "question_hi": "एक विशाल तारे (लगभग 8-20 सौर द्रव्यमान) के सुपरनोवा के बाद सामान्यतः क्या शेष रहता है?",
+      "options_en": [
+        "A white dwarf",
+        "A neutron star",
+        "A new nebula only, nothing else",
+        "A red giant"
+      ],
+      "options_hi": [
+        "एक श्वेत वामन तारा",
+        "एक न्यूट्रॉन तारा",
+        "केवल एक नई निहारिका, और कुछ नहीं",
+        "एक लाल दानव तारा"
+      ],
+      "answer_en": "A neutron star",
+      "answer_hi": "एक न्यूट्रॉन तारा",
+      "explanation_en": "After such a supernova, the collapsed core often survives as an ultra-dense neutron star.",
+      "explanation_hi": "ऐसे सुपरनोवा के बाद, ढहा हुआ केंद्र अक्सर एक अत्यंत घने न्यूट्रॉन तारे के रूप में बच जाता है।"
+    },
+    {
+      "question_en": "What typically remains after the supernova of an extremely massive star (more than about 20-25 solar masses)?",
+      "question_hi": "एक अत्यंत विशाल तारे (लगभग 20-25 सौर द्रव्यमान से अधिक) के सुपरनोवा के बाद सामान्यतः क्या शेष रहता है?",
+      "options_en": [
+        "A white dwarf",
+        "A red dwarf",
+        "A black hole",
+        "A planetary nebula only"
+      ],
+      "options_hi": [
+        "एक श्वेत वामन तारा",
+        "एक लाल वामन तारा",
+        "एक ब्लैक होल",
+        "केवल एक ग्रहीय निहारिका"
+      ],
+      "answer_en": "A black hole",
+      "answer_hi": "एक ब्लैक होल",
+      "explanation_en": "If the collapsing core is massive enough, gravity overwhelms all other forces and it collapses into a black hole.",
+      "explanation_hi": "यदि ढहता हुआ केंद्र पर्याप्त रूप से विशाल हो, तो गुरुत्वाकर्षण अन्य सभी बलों पर हावी हो जाता है और यह ब्लैक होल में ढह जाता है।"
+    },
+    {
+      "question_en": "What is the name of the mass limit above which a white dwarf cannot remain stable and instead collapses further?",
+      "question_hi": "उस द्रव्यमान सीमा का नाम क्या है जिसके ऊपर एक श्वेत वामन तारा स्थिर नहीं रह सकता और आगे ढह जाता है?",
+      "options_en": [
+        "Chandrasekhar limit",
+        "Hubble limit",
+        "Kepler limit",
+        "Newton limit"
+      ],
+      "options_hi": [
+        "चंद्रशेखर सीमा",
+        "हबल सीमा",
+        "केप्लर सीमा",
+        "न्यूटन सीमा"
+      ],
+      "answer_en": "Chandrasekhar limit",
+      "answer_hi": "चंद्रशेखर सीमा",
+      "explanation_en": "The Chandrasekhar limit, about 1.4 solar masses, is the maximum mass a white dwarf can have before collapsing further.",
+      "explanation_hi": "चंद्रशेखर सीमा, लगभग 1.4 सौर द्रव्यमान, वह अधिकतम द्रव्यमान है जो एक श्वेत वामन तारा आगे ढहने से पहले रख सकता है।"
+    },
+    {
+      "question_en": "What is the name of the mass limit above which a neutron star collapses into a black hole?",
+      "question_hi": "उस द्रव्यमान सीमा का नाम क्या है जिसके ऊपर एक न्यूट्रॉन तारा ब्लैक होल में ढह जाता है?",
+      "options_en": [
+        "Chandrasekhar limit",
+        "Tolman-Oppenheimer-Volkoff limit",
+        "Schwarzschild constant",
+        "Hertzsprung limit"
+      ],
+      "options_hi": [
+        "चंद्रशेखर सीमा",
+        "टॉलमन-ओपेनहाइमर-वोल्कोफ सीमा",
+        "श्वार्ज़्सचाइल्ड स्थिरांक",
+        "हर्ट्ज़्स्प्रुंग सीमा"
+      ],
+      "answer_en": "Tolman-Oppenheimer-Volkoff limit",
+      "answer_hi": "टॉलमन-ओपेनहाइमर-वोल्कोफ सीमा",
+      "explanation_en": "The Tolman-Oppenheimer-Volkoff (TOV) limit marks the maximum mass a neutron star can hold before collapsing into a black hole.",
+      "explanation_hi": "टॉलमन-ओपेनहाइमर-वोल्कोफ (TOV) सीमा वह अधिकतम द्रव्यमान दर्शाती है जिसे एक न्यूट्रॉन तारा ब्लैक होल में ढहने से पहले संभाल सकता है।"
+    },
+    {
+      "question_en": "What is the eventual fate of our Sun after it exhausts its fuel?",
+      "question_hi": "अपना ईंधन समाप्त करने के बाद हमारे सूर्य का अंतिम भाग्य क्या होगा?",
+      "options_en": [
+        "It will become a black hole",
+        "It will become a white dwarf",
+        "It will become a neutron star",
+        "It will explode as a supernova"
+      ],
+      "options_hi": [
+        "यह एक ब्लैक होल बन जाएगा",
+        "यह एक श्वेत वामन तारा बन जाएगा",
+        "यह एक न्यूट्रॉन तारा बन जाएगा",
+        "यह सुपरनोवा के रूप में फट जाएगा"
+      ],
+      "answer_en": "It will become a white dwarf",
+      "answer_hi": "यह एक श्वेत वामन तारा बन जाएगा",
+      "explanation_en": "The Sun is not massive enough for a supernova; after its red giant phase, it will end up as a slowly cooling white dwarf.",
+      "explanation_hi": "सूर्य सुपरनोवा के लिए पर्याप्त विशाल नहीं है; अपनी लाल दानव अवस्था के बाद, यह धीरे-धीरे ठंडा होते श्वेत वामन तारे के रूप में समाप्त होगा।"
+    },
+    {
+      "question_en": "Which factor most determines how a star will eventually die?",
+      "question_hi": "एक तारा अंततः किस प्रकार मरेगा, यह मुख्यतः किस कारक पर निर्भर करता है?",
+      "options_en": [
+        "Its distance from Earth",
+        "Its mass",
+        "Its color when it was born",
+        "Its number of moons"
+      ],
+      "options_hi": [
+        "पृथ्वी से इसकी दूरी",
+        "इसका द्रव्यमान",
+        "जन्म के समय इसका रंग",
+        "इसके चंद्रमाओं की संख्या"
+      ],
+      "answer_en": "Its mass",
+      "answer_hi": "इसका द्रव्यमान",
+      "explanation_en": "A star's mass determines its core temperature, fusion rate, and ultimate fate — white dwarf, neutron star, or black hole.",
+      "explanation_hi": "एक तारे का द्रव्यमान उसके केंद्र के तापमान, संलयन दर और अंतिम भाग्य — श्वेत वामन तारा, न्यूट्रॉन तारा या ब्लैक होल — को निर्धारित करता है।"
+    },
+    {
+      "question_en": "Which stars generally have the longest lifespans?",
+      "question_hi": "सामान्यतः किन तारों का जीवनकाल सबसे लंबा होता है?",
+      "options_en": [
+        "Massive blue giants",
+        "Low-mass red dwarfs",
+        "Red supergiants",
+        "Neutron stars"
+      ],
+      "options_hi": [
+        "विशाल नीले दानव तारे",
+        "कम द्रव्यमान वाले लाल वामन तारे",
+        "लाल महादानव तारे",
+        "न्यूट्रॉन तारे"
+      ],
+      "answer_en": "Low-mass red dwarfs",
+      "answer_hi": "कम द्रव्यमान वाले लाल वामन तारे",
+      "explanation_en": "Red dwarfs burn their fuel extremely slowly, giving them lifespans that can exceed the current age of the universe.",
+      "explanation_hi": "लाल वामन तारे अपना ईंधन अत्यंत धीरे-धीरे जलाते हैं, जिससे उनका जीवनकाल ब्रह्मांड की वर्तमान आयु से भी अधिक हो सकता है।"
+    },
+    {
+      "question_en": "Which stars generally have the shortest lifespans?",
+      "question_hi": "सामान्यतः किन तारों का जीवनकाल सबसे छोटा होता है?",
+      "options_en": [
+        "Low-mass red dwarfs",
+        "Very massive blue giant stars",
+        "White dwarfs only",
+        "Brown dwarfs"
+      ],
+      "options_hi": [
+        "कम द्रव्यमान वाले लाल वामन तारे",
+        "अत्यंत विशाल नीले दानव तारे",
+        "केवल श्वेत वामन तारे",
+        "भूरे वामन तारे"
+      ],
+      "answer_en": "Very massive blue giant stars",
+      "answer_hi": "अत्यंत विशाल नीले दानव तारे",
+      "explanation_en": "The most massive stars burn through their fuel very quickly and may live only a few million years.",
+      "explanation_hi": "सबसे विशाल तारे अपने ईंधन को बहुत तेज़ी से जलाते हैं और शायद केवल कुछ लाख वर्ष ही जीवित रहते हैं।"
+    },
+    {
+      "question_en": "What is a 'core-collapse supernova'?",
+      "question_hi": "'कोर-कोलैप्स सुपरनोवा' क्या है?",
+      "options_en": [
+        "The explosion caused when a massive star's core suddenly collapses under gravity",
+        "A slow dimming of a star over billions of years",
+        "A star simply cooling into a white dwarf",
+        "Two stars colliding head-on"
+      ],
+      "options_hi": [
+        "वह विस्फोट जो तब होता है जब एक विशाल तारे का केंद्र गुरुत्वाकर्षण के कारण अचानक ढह जाता है",
+        "अरबों वर्षों में एक तारे का धीरे-धीरे मंद होना",
+        "एक तारे का साधारण रूप से श्वेत वामन तारे में ठंडा होना",
+        "दो तारों का सीधे टकराना"
+      ],
+      "answer_en": "The explosion caused when a massive star's core suddenly collapses under gravity",
+      "answer_hi": "वह विस्फोट जो तब होता है जब एक विशाल तारे का केंद्र गुरुत्वाकर्षण के कारण अचानक ढह जाता है",
+      "explanation_en": "In a core-collapse supernova, a massive star's core suddenly implodes once fusion can no longer support it, triggering a huge explosion.",
+      "explanation_hi": "कोर-कोलैप्स सुपरनोवा में, एक विशाल तारे का केंद्र अचानक अंदर की ओर ढह जाता है जब संलयन इसे और सहारा नहीं दे पाता, जिससे एक विशाल विस्फोट होता है।"
+    },
+    {
+      "question_en": "What typically causes a Type Ia supernova?",
+      "question_hi": "टाइप Ia सुपरनोवा सामान्यतः किस कारण होता है?",
+      "options_en": [
+        "A red dwarf running out of hydrogen",
+        "A white dwarf gaining mass from a companion star and exceeding the Chandrasekhar limit",
+        "A neutron star cooling down",
+        "A planet falling into its star"
+      ],
+      "options_hi": [
+        "एक लाल वामन तारे में हाइड्रोजन समाप्त हो जाना",
+        "एक श्वेत वामन तारे का किसी साथी तारे से द्रव्यमान प्राप्त कर चंद्रशेखर सीमा को पार करना",
+        "एक न्यूट्रॉन तारे का ठंडा होना",
+        "एक ग्रह का अपने तारे में गिरना"
+      ],
+      "answer_en": "A white dwarf gaining mass from a companion star and exceeding the Chandrasekhar limit",
+      "answer_hi": "एक श्वेत वामन तारे का किसी साथी तारे से द्रव्यमान प्राप्त कर चंद्रशेखर सीमा को पार करना",
+      "explanation_en": "A Type Ia supernova occurs when a white dwarf in a binary system accretes enough mass to exceed the Chandrasekhar limit, triggering a runaway explosion.",
+      "explanation_hi": "टाइप Ia सुपरनोवा तब होता है जब एक द्विआधारी तंत्र में श्वेत वामन तारा इतना द्रव्यमान प्राप्त कर लेता है कि वह चंद्रशेखर सीमा को पार कर जाता है, जिससे एक विस्फोट होता है।"
+    },
+    {
+      "question_en": "What is a 'nova' (as opposed to a supernova)?",
+      "question_hi": "'नोवा' (सुपरनोवा के विपरीत) क्या है?",
+      "options_en": [
+        "The complete destruction of a massive star",
+        "A sudden brightening of a white dwarf caused by material pulled from a companion star, without destroying the star",
+        "The birth of a brand-new star",
+        "The formation of a black hole"
+      ],
+      "options_hi": [
+        "एक विशाल तारे का पूर्ण विनाश",
+        "किसी साथी तारे से खींचे गए पदार्थ के कारण एक श्वेत वामन तारे का अचानक चमकना, बिना तारे को नष्ट किए",
+        "एक बिल्कुल नए तारे का जन्म",
+        "एक ब्लैक होल का निर्माण"
+      ],
+      "answer_en": "A sudden brightening of a white dwarf caused by material pulled from a companion star, without destroying the star",
+      "answer_hi": "किसी साथी तारे से खींचे गए पदार्थ के कारण एक श्वेत वामन तारे का अचानक चमकना, बिना तारे को नष्ट किए",
+      "explanation_en": "A nova is a temporary, sudden brightening caused by explosive surface burning on a white dwarf, unlike a supernova which destroys the star.",
+      "explanation_hi": "नोवा एक अस्थायी, अचानक चमक है जो श्वेत वामन तारे की सतह पर विस्फोटक दहन के कारण होती है, सुपरनोवा के विपरीत जो तारे को नष्ट कर देता है।"
+    },
+    {
+      "question_en": "What is a neutron star mostly made of?",
+      "question_hi": "एक न्यूट्रॉन तारा मुख्यतः किससे बना होता है?",
+      "options_en": [
+        "Liquid hydrogen",
+        "Tightly packed neutrons",
+        "Solid iron only",
+        "Ordinary rock"
+      ],
+      "options_hi": [
+        "तरल हाइड्रोजन",
+        "सघन रूप से भरे न्यूट्रॉन",
+        "केवल ठोस लोहा",
+        "सामान्य चट्टान"
+      ],
+      "answer_en": "Tightly packed neutrons",
+      "answer_hi": "सघन रूप से भरे न्यूट्रॉन",
+      "explanation_en": "After core collapse, protons and electrons are crushed together into neutrons, forming an extremely dense neutron star.",
+      "explanation_hi": "केंद्र के ढहने के बाद, प्रोटॉन और इलेक्ट्रॉन आपस में दबकर न्यूट्रॉन बनाते हैं, जिससे एक अत्यंत घना न्यूट्रॉन तारा बनता है।"
+    },
+    {
+      "question_en": "What is a pulsar?",
+      "question_hi": "पल्सर क्या है?",
+      "options_en": [
+        "A star that has just formed",
+        "A rapidly spinning neutron star that emits regular beams of radiation",
+        "A type of black hole",
+        "A cluster of red dwarfs"
+      ],
+      "options_hi": [
+        "एक तारा जो अभी-अभी बना है",
+        "एक तेज़ी से घूमने वाला न्यूट्रॉन तारा जो नियमित विकिरण किरणें उत्सर्जित करता है",
+        "एक प्रकार का ब्लैक होल",
+        "लाल वामन तारों का एक समूह"
+      ],
+      "answer_en": "A rapidly spinning neutron star that emits regular beams of radiation",
+      "answer_hi": "एक तेज़ी से घूमने वाला न्यूट्रॉन तारा जो नियमित विकिरण किरणें उत्सर्जित करता है",
+      "explanation_en": "A pulsar is a rotating neutron star whose beamed radiation sweeps past Earth like a lighthouse, appearing to 'pulse'.",
+      "explanation_hi": "पल्सर एक घूमता हुआ न्यूट्रॉन तारा है जिसकी किरण-रूपी विकिरण एक प्रकाशस्तंभ की तरह पृथ्वी के पास से गुजरती है, जिससे यह 'स्पंदित' प्रतीत होता है।"
+    },
+    {
+      "question_en": "Why do pulsars appear to 'pulse' or blink regularly?",
+      "question_hi": "पल्सर नियमित रूप से 'स्पंदित' या टिमटिमाते हुए क्यों दिखाई देते हैं?",
+      "options_en": [
+        "They physically switch on and off",
+        "Their beamed radiation sweeps past Earth as the star rotates",
+        "They are orbited by many planets",
+        "They constantly change color"
+      ],
+      "options_hi": [
+        "वे भौतिक रूप से चालू और बंद होते हैं",
+        "जैसे-जैसे तारा घूमता है, उसकी किरण-रूपी विकिरण पृथ्वी के पास से गुजरती है",
+        "उनकी परिक्रमा कई ग्रह करते हैं",
+        "वे लगातार रंग बदलते रहते हैं"
+      ],
+      "answer_en": "Their beamed radiation sweeps past Earth as the star rotates",
+      "answer_hi": "जैसे-जैसे तारा घूमता है, उसकी किरण-रूपी विकिरण पृथ्वी के पास से गुजरती है",
+      "explanation_en": "Like a lighthouse beam, a pulsar's radiation beam only appears to blink because it periodically points toward Earth as the star spins.",
+      "explanation_hi": "एक प्रकाशस्तंभ की किरण की तरह, पल्सर की विकिरण किरण केवल इसलिए झपकती हुई दिखती है क्योंकि तारे के घूमने पर यह समय-समय पर पृथ्वी की ओर इशारा करती है।"
+    },
+    {
+      "question_en": "What condition is generally required for a black hole to form from a dying star?",
+      "question_hi": "एक मरते हुए तारे से ब्लैक होल बनने के लिए सामान्यतः क्या स्थिति आवश्यक होती है?",
+      "options_en": [
+        "The star's core mass after collapse must exceed the neutron star mass limit (TOV limit)",
+        "The star must have exactly one planet orbiting it",
+        "The star must be a red dwarf",
+        "The star must be part of a binary system"
+      ],
+      "options_hi": [
+        "ढहने के बाद तारे के केंद्र का द्रव्यमान न्यूट्रॉन तारे की द्रव्यमान सीमा (TOV सीमा) से अधिक होना चाहिए",
+        "तारे की परिक्रमा करने वाला ठीक एक ग्रह होना चाहिए",
+        "तारा एक लाल वामन तारा होना चाहिए",
+        "तारे को एक द्विआधारी तंत्र का हिस्सा होना चाहिए"
+      ],
+      "answer_en": "The star's core mass after collapse must exceed the neutron star mass limit (TOV limit)",
+      "answer_hi": "ढहने के बाद तारे के केंद्र का द्रव्यमान न्यूट्रॉन तारे की द्रव्यमान सीमा (TOV सीमा) से अधिक होना चाहिए",
+      "explanation_en": "If the collapsing core's mass is too great for even neutron degeneracy pressure to resist, gravity wins completely and a black hole forms.",
+      "explanation_hi": "यदि ढहते हुए केंद्र का द्रव्यमान इतना अधिक हो कि न्यूट्रॉन अपघटन दबाव भी इसका विरोध न कर सके, तो गुरुत्वाकर्षण पूरी तरह से जीत जाता है और एक ब्लैक होल बनता है।"
+    },
+    {
+      "question_en": "What is the boundary around a black hole, beyond which nothing can escape, called?",
+      "question_hi": "एक ब्लैक होल के चारों ओर की वह सीमा जिसके आगे से कुछ भी नहीं निकल सकता, उसे क्या कहा जाता है?",
+      "options_en": [
+        "Photon sphere only",
+        "Event horizon",
+        "Accretion disk",
+        "Magnetosphere"
+      ],
+      "options_hi": [
+        "केवल फोटॉन क्षेत्र",
+        "घटना क्षितिज (इवेंट होराइज़न)",
+        "अभिवृद्धि चक्र",
+        "चुंबकमंडल"
+      ],
+      "answer_en": "Event horizon",
+      "answer_hi": "घटना क्षितिज (इवेंट होराइज़न)",
+      "explanation_en": "The event horizon is the point of no return around a black hole — once crossed, nothing, not even light, can escape.",
+      "explanation_hi": "घटना क्षितिज एक ब्लैक होल के चारों ओर वह बिंदु है जहां से वापसी संभव नहीं है — एक बार पार करने के बाद, प्रकाश भी नहीं निकल सकता।"
+    },
+    {
+      "question_en": "What is the theoretical point of infinite density at the very center of a black hole called?",
+      "question_hi": "एक ब्लैक होल के ठीक केंद्र में अनंत घनत्व वाले सैद्धांतिक बिंदु को क्या कहा जाता है?",
+      "options_en": [
+        "Nucleus",
+        "Singularity",
+        "Corona",
+        "Photosphere"
+      ],
+      "options_hi": [
+        "नाभिक",
+        "विलक्षणता (सिंगुलैरिटी)",
+        "किरीट (कोरोना)",
+        "प्रकाशमंडल"
+      ],
+      "answer_en": "Singularity",
+      "answer_hi": "विलक्षणता (सिंगुलैरिटी)",
+      "explanation_en": "According to general relativity, all the mass of a black hole is theoretically crushed into an infinitely dense point called a singularity.",
+      "explanation_hi": "सामान्य सापेक्षता के अनुसार, एक ब्लैक होल का सारा द्रव्यमान सैद्धांतिक रूप से एक अनंत घनत्व वाले बिंदु में सिमट जाता है, जिसे विलक्षणता कहा जाता है।"
+    },
+    {
+      "question_en": "Can light escape from inside a black hole's event horizon?",
+      "question_hi": "क्या प्रकाश एक ब्लैक होल के घटना क्षितिज के अंदर से निकल सकता है?",
+      "options_en": [
+        "Yes, always",
+        "No, not even light can escape",
+        "Only red light can escape",
+        "Only during a supernova"
+      ],
+      "options_hi": [
+        "हां, हमेशा",
+        "नहीं, प्रकाश भी नहीं निकल सकता",
+        "केवल लाल प्रकाश निकल सकता है",
+        "केवल सुपरनोवा के दौरान"
+      ],
+      "answer_en": "No, not even light can escape",
+      "answer_hi": "नहीं, प्रकाश भी नहीं निकल सकता",
+      "explanation_en": "Inside the event horizon, gravity is so strong that the escape velocity exceeds the speed of light, so nothing, including light, can get out.",
+      "explanation_hi": "घटना क्षितिज के अंदर, गुरुत्वाकर्षण इतना प्रबल होता है कि पलायन वेग प्रकाश की गति से भी अधिक हो जाता है, इसलिए प्रकाश सहित कुछ भी बाहर नहीं आ सकता।"
+    },
+    {
+      "question_en": "At the event horizon of a black hole, the escape velocity equals _____.",
+      "question_hi": "एक ब्लैक होल के घटना क्षितिज पर, पलायन वेग _____ के बराबर होता है।",
+      "options_en": [
+        "The speed of sound",
+        "The speed of light",
+        "Earth's orbital speed",
+        "Zero"
+      ],
+      "options_hi": [
+        "ध्वनि की गति के",
+        "प्रकाश की गति के",
+        "पृथ्वी की कक्षीय गति के",
+        "शून्य के"
+      ],
+      "answer_en": "The speed of light",
+      "answer_hi": "प्रकाश की गति के",
+      "explanation_en": "The event horizon is defined as the boundary where the escape velocity exactly equals the speed of light.",
+      "explanation_hi": "घटना क्षितिज को उस सीमा के रूप में परिभाषित किया जाता है जहां पलायन वेग ठीक प्रकाश की गति के बराबर होता है।"
+    },
+    {
+      "question_en": "Which force ultimately dominates and causes a massive star's core to collapse into a black hole?",
+      "question_hi": "कौन सा बल अंततः हावी होकर एक विशाल तारे के केंद्र को ब्लैक होल में ढहने का कारण बनता है?",
+      "options_en": [
+        "Magnetism",
+        "Gravity",
+        "Air resistance",
+        "Electric charge"
+      ],
+      "options_hi": [
+        "चुंबकत्व",
+        "गुरुत्वाकर्षण",
+        "वायु प्रतिरोध",
+        "विद्युत आवेश"
+      ],
+      "answer_en": "Gravity",
+      "answer_hi": "गुरुत्वाकर्षण",
+      "explanation_en": "Once nuclear fusion stops producing outward pressure, gravity completely dominates and crushes the core inward.",
+      "explanation_hi": "जब नाभिकीय संलयन बाहरी दबाव उत्पन्न करना बंद कर देता है, तो गुरुत्वाकर्षण पूरी तरह हावी हो जाता है और केंद्र को अंदर की ओर कुचल देता है।"
+    },
+    {
+      "question_en": "Roughly how massive must a star be (in solar masses) to potentially collapse directly into a black hole after its supernova?",
+      "question_hi": "एक तारे का द्रव्यमान (सौर द्रव्यमान में) लगभग कितना होना चाहिए ताकि वह अपने सुपरनोवा के बाद सीधे ब्लैक होल में ढह सके?",
+      "options_en": [
+        "About 1 solar mass",
+        "About 20-25 solar masses or more",
+        "About 0.1 solar masses",
+        "Exactly 2 solar masses"
+      ],
+      "options_hi": [
+        "लगभग 1 सौर द्रव्यमान",
+        "लगभग 20-25 सौर द्रव्यमान या अधिक",
+        "लगभग 0.1 सौर द्रव्यमान",
+        "ठीक 2 सौर द्रव्यमान"
+      ],
+      "answer_en": "About 20-25 solar masses or more",
+      "answer_hi": "लगभग 20-25 सौर द्रव्यमान या अधिक",
+      "explanation_en": "Stars with initial masses of roughly 20-25 solar masses or greater are the most likely candidates to leave black holes behind.",
+      "explanation_hi": "लगभग 20-25 सौर द्रव्यमान या उससे अधिक के प्रारंभिक द्रव्यमान वाले तारे ब्लैक होल छोड़ने की सबसे अधिक संभावना रखते हैं।"
+    },
+    {
+      "question_en": "What is 'hydrostatic equilibrium' in a star?",
+      "question_hi": "एक तारे में 'जलस्थैतिक साम्य (हाइड्रोस्टैटिक इक्विलिब्रियम)' क्या है?",
+      "options_en": [
+        "A balance between inward gravity and outward pressure from fusion",
+        "The moment a star explodes",
+        "A star's orbit around a black hole",
+        "The process of forming planets"
+      ],
+      "options_hi": [
+        "आंतरिक गुरुत्वाकर्षण और संलयन से उत्पन्न बाहरी दबाव के बीच संतुलन",
+        "एक तारे के फटने का क्षण",
+        "एक ब्लैक होल के चारों ओर तारे की कक्षा",
+        "ग्रहों के बनने की प्रक्रिया"
+      ],
+      "answer_en": "A balance between inward gravity and outward pressure from fusion",
+      "answer_hi": "आंतरिक गुरुत्वाकर्षण और संलयन से उत्पन्न बाहरी दबाव के बीच संतुलन",
+      "explanation_en": "A stable star is held up by hydrostatic equilibrium — the outward push of fusion energy balancing the inward pull of gravity.",
+      "explanation_hi": "एक स्थिर तारा जलस्थैतिक साम्य द्वारा टिका रहता है — संलयन ऊर्जा का बाहरी धक्का आंतरिक गुरुत्वाकर्षण खिंचाव को संतुलित करता है।"
+    },
+    {
+      "question_en": "What happens once a star's core runs out of hydrogen fuel to fuse?",
+      "question_hi": "जब एक तारे के केंद्र में संलयन के लिए हाइड्रोजन ईंधन समाप्त हो जाता है, तो क्या होता है?",
+      "options_en": [
+        "The core immediately vanishes",
+        "The core contracts and heats up, while outer layers expand and the star becomes a giant",
+        "The star instantly becomes a black hole",
+        "Nothing changes at all"
+      ],
+      "options_hi": [
+        "केंद्र तुरंत गायब हो जाता है",
+        "केंद्र सिकुड़ता और गर्म होता है, जबकि बाहरी परतें फैल जाती हैं और तारा एक दानव तारा बन जाता है",
+        "तारा तुरंत ब्लैक होल बन जाता है",
+        "कुछ भी नहीं बदलता"
+      ],
+      "answer_en": "The core contracts and heats up, while outer layers expand and the star becomes a giant",
+      "answer_hi": "केंद्र सिकुड़ता और गर्म होता है, जबकि बाहरी परतें फैल जाती हैं और तारा एक दानव तारा बन जाता है",
+      "explanation_en": "As hydrogen runs out, gravity contracts the core while the outer layers expand and cool, turning the star into a giant.",
+      "explanation_hi": "जब हाइड्रोजन समाप्त हो जाता है, तो गुरुत्वाकर्षण केंद्र को सिकोड़ता है जबकि बाहरी परतें फैलती और ठंडी होती हैं, जिससे तारा एक दानव तारा बन जाता है।"
+    },
+    {
+      "question_en": "What is the fusion process that converts helium into carbon in a star's core called?",
+      "question_hi": "एक तारे के केंद्र में हीलियम को कार्बन में बदलने वाली संलयन प्रक्रिया को क्या कहा जाता है?",
+      "options_en": [
+        "Proton-proton chain",
+        "Triple-alpha process",
+        "CNO cycle",
+        "Beta decay"
+      ],
+      "options_hi": [
+        "प्रोटॉन-प्रोटॉन श्रृंखला",
+        "ट्रिपल-अल्फा प्रक्रम",
+        "CNO चक्र",
+        "बीटा क्षय"
+      ],
+      "answer_en": "Triple-alpha process",
+      "answer_hi": "ट्रिपल-अल्फा प्रक्रम",
+      "explanation_en": "The triple-alpha process fuses three helium nuclei together to form carbon, occurring in the hot cores of giant stars.",
+      "explanation_hi": "ट्रिपल-अल्फा प्रक्रम तीन हीलियम नाभिकों को जोड़कर कार्बन बनाता है, जो दानव तारों के गर्म केंद्रों में होता है।"
+    },
+    {
+      "question_en": "Up to which element can the cores of very massive stars fuse before core collapse occurs?",
+      "question_hi": "केंद्र के ढहने से पहले अत्यंत विशाल तारों के केंद्र किस तत्व तक संलयन कर सकते हैं?",
+      "options_en": [
+        "Hydrogen only",
+        "Carbon only",
+        "Iron",
+        "Uranium"
+      ],
+      "options_hi": [
+        "केवल हाइड्रोजन",
+        "केवल कार्बन",
+        "लोहा",
+        "यूरेनियम"
+      ],
+      "answer_en": "Iron",
+      "answer_hi": "लोहा",
+      "explanation_en": "Massive stars fuse progressively heavier elements up to iron; fusing iron further would consume energy rather than release it.",
+      "explanation_hi": "विशाल तारे क्रमशः भारी तत्वों का संलयन लोहे तक करते हैं; इसके आगे लोहे का संलयन ऊर्जा छोड़ने के बजाय उसे खपत करेगा।"
+    },
+    {
+      "question_en": "Why does the formation of an iron core trigger the collapse of a massive star?",
+      "question_hi": "लोहे के केंद्र का बनना एक विशाल तारे के पतन को क्यों प्रेरित करता है?",
+      "options_en": [
+        "Iron fusion releases too much energy, blowing the star apart",
+        "Iron fusion absorbs energy instead of releasing it, so the core can no longer resist gravity",
+        "Iron is radioactive and decays instantly",
+        "Iron cores automatically turn into planets"
+      ],
+      "options_hi": [
+        "लोहे का संलयन बहुत अधिक ऊर्जा छोड़ता है, जिससे तारा फट जाता है",
+        "लोहे का संलयन ऊर्जा छोड़ने के बजाय उसे अवशोषित करता है, इसलिए केंद्र अब गुरुत्वाकर्षण का विरोध नहीं कर पाता",
+        "लोहा रेडियोधर्मी है और तुरंत क्षय हो जाता है",
+        "लोहे के केंद्र स्वतः ग्रहों में बदल जाते हैं"
+      ],
+      "answer_en": "Iron fusion absorbs energy instead of releasing it, so the core can no longer resist gravity",
+      "answer_hi": "लोहे का संलयन ऊर्जा छोड़ने के बजाय उसे अवशोषित करता है, इसलिए केंद्र अब गुरुत्वाकर्षण का विरोध नहीं कर पाता",
+      "explanation_en": "Unlike lighter elements, fusing iron requires energy rather than releasing it, so the core loses its outward pressure and collapses under gravity.",
+      "explanation_hi": "हल्के तत्वों के विपरीत, लोहे के संलयन के लिए ऊर्जा चाहिए, न कि यह ऊर्जा छोड़ता है, इसलिए केंद्र अपना बाहरी दबाव खो देता है और गुरुत्वाकर्षण के कारण ढह जाता है।"
+    },
+    {
+      "question_en": "What is the 'red giant branch' phase in a star's life?",
+      "question_hi": "एक तारे के जीवन में 'रेड जायंट ब्रांच' अवस्था क्या है?",
+      "options_en": [
+        "The very first stage when a star is born",
+        "The phase after the main sequence when a star expands and cools, becoming a red giant",
+        "The final flash of a black hole",
+        "A phase only neutron stars go through"
+      ],
+      "options_hi": [
+        "वह पहली अवस्था जब एक तारा जन्म लेता है",
+        "मुख्य अनुक्रम के बाद की अवस्था जब एक तारा फैलता और ठंडा होता है, और लाल दानव तारा बन जाता है",
+        "एक ब्लैक होल की अंतिम चमक",
+        "केवल न्यूट्रॉन तारे इस अवस्था से गुजरते हैं"
+      ],
+      "answer_en": "The phase after the main sequence when a star expands and cools, becoming a red giant",
+      "answer_hi": "मुख्य अनुक्रम के बाद की अवस्था जब एक तारा फैलता और ठंडा होता है, और लाल दानव तारा बन जाता है",
+      "explanation_en": "After leaving the main sequence, a star moves onto the red giant branch, expanding and cooling as its core contracts.",
+      "explanation_hi": "मुख्य अनुक्रम छोड़ने के बाद, एक तारा रेड जायंट ब्रांच में प्रवेश करता है, फैलता और ठंडा होता है जबकि इसका केंद्र सिकुड़ता है।"
+    },
+    {
+      "question_en": "What is a 'helium flash'?",
+      "question_hi": "'हीलियम फ्लैश' क्या है?",
+      "options_en": [
+        "A sudden, explosive ignition of helium fusion in the core of a low-mass giant star",
+        "The moment a black hole forms",
+        "A meteor burning up in Earth's atmosphere",
+        "The first light emitted by a newborn star"
+      ],
+      "options_hi": [
+        "एक कम द्रव्यमान वाले दानव तारे के केंद्र में हीलियम संलयन का अचानक, विस्फोटक प्रज्वलन",
+        "जिस क्षण एक ब्लैक होल बनता है",
+        "पृथ्वी के वायुमंडल में जलती हुई उल्का",
+        "एक नवजात तारे द्वारा उत्सर्जित पहला प्रकाश"
+      ],
+      "answer_en": "A sudden, explosive ignition of helium fusion in the core of a low-mass giant star",
+      "answer_hi": "एक कम द्रव्यमान वाले दानव तारे के केंद्र में हीलियम संलयन का अचानक, विस्फोटक प्रज्वलन",
+      "explanation_en": "In lower-mass stars, helium ignition in the degenerate core happens almost explosively, an event called the helium flash.",
+      "explanation_hi": "कम द्रव्यमान वाले तारों में, अपघटित केंद्र में हीलियम का प्रज्वलन लगभग विस्फोटक रूप से होता है, इस घटना को हीलियम फ्लैश कहा जाता है।"
+    },
+    {
+      "question_en": "Which of the following statements about planetary nebulae is correct?",
+      "question_hi": "ग्रहीय निहारिकाओं के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "They are made of actual planets that exploded.",
+        "Despite the name, they have nothing to do with planets — they are shells of gas ejected by dying stars.",
+        "They only form around black holes.",
+        "They are the birthplace of brand-new stars."
+      ],
+      "options_hi": [
+        "वे वास्तविक ग्रहों से बनी होती हैं जो फट गए।",
+        "नाम के बावजूद, उनका ग्रहों से कोई संबंध नहीं है — वे मरते हुए तारों द्वारा त्यागी गई गैस के खोल हैं।",
+        "वे केवल ब्लैक होल के चारों ओर बनती हैं।",
+        "वे बिल्कुल नए तारों का जन्मस्थान हैं।"
+      ],
+      "answer_en": "Despite the name, they have nothing to do with planets — they are shells of gas ejected by dying stars.",
+      "answer_hi": "नाम के बावजूद, उनका ग्रहों से कोई संबंध नहीं है — वे मरते हुए तारों द्वारा त्यागी गई गैस के खोल हैं।",
+      "explanation_en": "Planetary nebulae were named for their round, planet-like appearance in early telescopes, but they are actually gas shells shed by dying stars.",
+      "explanation_hi": "ग्रहीय निहारिकाओं का नाम उनके प्रारंभिक दूरबीनों में गोल, ग्रह जैसे रूप के कारण रखा गया था, लेकिन वे वास्तव में मरते हुए तारों द्वारा त्यागी गई गैस के खोल हैं।"
+    },
+    {
+      "question_en": "Which of the following best summarizes why massive stars die more violently than low-mass stars?",
+      "question_hi": "निम्नलिखित में से कौन सा विकल्प सबसे अच्छी तरह बताता है कि विशाल तारे कम द्रव्यमान वाले तारों की तुलना में अधिक हिंसक तरीके से क्यों मरते हैं?",
+      "options_en": [
+        "Massive stars have weaker gravity",
+        "Massive stars fuse heavier elements up to iron and their core collapse releases far more energy, causing a supernova",
+        "Massive stars never run out of fuel",
+        "Massive stars are always closer to Earth"
+      ],
+      "options_hi": [
+        "विशाल तारों का गुरुत्वाकर्षण कमजोर होता है",
+        "विशाल तारे लोहे तक भारी तत्वों का संलयन करते हैं और उनके केंद्र के ढहने से कहीं अधिक ऊर्जा निकलती है, जिससे सुपरनोवा होता है",
+        "विशाल तारों का ईंधन कभी समाप्त नहीं होता",
+        "विशाल तारे हमेशा पृथ्वी के करीब होते हैं"
+      ],
+      "answer_en": "Massive stars fuse heavier elements up to iron and their core collapse releases far more energy, causing a supernova",
+      "answer_hi": "विशाल तारे लोहे तक भारी तत्वों का संलयन करते हैं और उनके केंद्र के ढहने से कहीं अधिक ऊर्जा निकलती है, जिससे सुपरनोवा होता है",
+      "explanation_en": "Massive stars have much stronger gravity and build iron cores that collapse catastrophically, unleashing a supernova far more violent than a low-mass star's gentle fade into a white dwarf.",
+      "explanation_hi": "विशाल तारों का गुरुत्वाकर्षण कहीं अधिक प्रबल होता है और वे लोहे के केंद्र बनाते हैं जो विनाशकारी रूप से ढह जाते हैं, जिससे एक सुपरनोवा उत्पन्न होता है जो कम द्रव्यमान वाले तारे के श्वेत वामन तारे में धीरे-धीरे बदलने से कहीं अधिक हिंसक होता है।"
+    },
+    {
+      "question_en": "Stars are primarily composed of which two elements?",
+      "question_hi": "तारे मुख्यतः किन दो तत्वों से बने होते हैं?",
+      "options_en": [
+        "Carbon and Nitrogen",
+        "Hydrogen and Helium",
+        "Iron and Silicon",
+        "Oxygen and Neon"
+      ],
+      "options_hi": [
+        "कार्बन और नाइट्रोजन",
+        "हाइड्रोजन और हीलियम",
+        "लोहा और सिलिकॉन",
+        "ऑक्सीजन और नियॉन"
+      ],
+      "answer_en": "Hydrogen and Helium",
+      "answer_hi": "हाइड्रोजन और हीलियम",
+      "explanation_en": "Stars are made mostly of hydrogen (~70%) and helium (~28%), with only trace amounts of heavier elements.",
+      "explanation_hi": "तारे मुख्यतः हाइड्रोजन (~70%) और हीलियम (~28%) से बने होते हैं, जिनमें भारी तत्वों की केवल थोड़ी मात्रा होती है।"
+    },
+    {
+      "question_en": "What is the most abundant element in the universe?",
+      "question_hi": "ब्रह्मांड में सबसे प्रचुर तत्व कौन सा है?",
+      "options_en": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon",
+        "Iron"
+      ],
+      "options_hi": [
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "कार्बन",
+        "लोहा"
+      ],
+      "answer_en": "Hydrogen",
+      "answer_hi": "हाइड्रोजन",
+      "explanation_en": "Hydrogen is by far the most abundant element in the universe, forming the raw material for most stars.",
+      "explanation_hi": "हाइड्रोजन ब्रह्मांड में अब तक का सबसे प्रचुर तत्व है, जो अधिकांश तारों के लिए कच्चा माल बनता है।"
+    },
+    {
+      "question_en": "Two or more stars that orbit a common center of mass are called a _____.",
+      "question_hi": "दो या दो से अधिक तारे जो एक साझा द्रव्यमान केंद्र की परिक्रमा करते हैं, उन्हें _____ कहा जाता है।",
+      "options_en": [
+        "Binary or multiple star system",
+        "Nebula",
+        "Black hole",
+        "Galaxy cluster"
+      ],
+      "options_hi": [
+        "द्वितारा या बहु-तारा तंत्र",
+        "निहारिका",
+        "ब्लैक होल",
+        "आकाशगंगा समूह"
+      ],
+      "answer_en": "Binary or multiple star system",
+      "answer_hi": "द्वितारा या बहु-तारा तंत्र",
+      "explanation_en": "A binary star system consists of two stars gravitationally bound and orbiting their common center of mass.",
+      "explanation_hi": "एक द्वितारा तंत्र में दो तारे गुरुत्वाकर्षण से बंधे होते हैं और अपने साझा द्रव्यमान केंद्र की परिक्रमा करते हैं।"
+    },
+    {
+      "question_en": "What is a group of stars that are gravitationally bound together, born from the same nebula, called?",
+      "question_hi": "एक ही निहारिका से जन्मे और गुरुत्वाकर्षण से एक-दूसरे से बंधे तारों के समूह को क्या कहा जाता है?",
+      "options_en": [
+        "A galaxy",
+        "A star cluster",
+        "A black hole",
+        "A supernova"
+      ],
+      "options_hi": [
+        "एक आकाशगंगा",
+        "एक तारा समूह",
+        "एक ब्लैक होल",
+        "एक सुपरनोवा"
+      ],
+      "answer_en": "A star cluster",
+      "answer_hi": "एक तारा समूह",
+      "explanation_en": "A star cluster is a group of stars held together by mutual gravity, often born from the same nebula.",
+      "explanation_hi": "एक तारा समूह वह तारों का समूह है जो परस्पर गुरुत्वाकर्षण से बंधे होते हैं, और प्रायः एक ही निहारिका से जन्म लेते हैं।"
+    },
+    {
+      "question_en": "Which of the following statements correctly distinguishes globular clusters from open clusters?",
+      "question_hi": "निम्नलिखित में से कौन सा कथन गोलाकार समूहों को खुले समूहों से सही ढंग से अलग करता है?",
+      "options_en": [
+        "Globular clusters are loose and young, open clusters are dense and old.",
+        "Globular clusters are dense, spherical, and old; open clusters are loosely bound and younger.",
+        "Globular clusters contain no stars at all.",
+        "Open clusters are always larger than entire galaxies."
+      ],
+      "options_hi": [
+        "गोलाकार समूह ढीले और युवा होते हैं, खुले समूह घने और पुराने होते हैं।",
+        "गोलाकार समूह घने, गोलाकार और पुराने होते हैं; खुले समूह ढीले ढंग से बंधे और युवा होते हैं।",
+        "गोलाकार समूहों में बिल्कुल भी तारे नहीं होते।",
+        "खुले समूह हमेशा पूरी आकाशगंगाओं से बड़े होते हैं।"
+      ],
+      "answer_en": "Globular clusters are dense, spherical, and old; open clusters are loosely bound and younger.",
+      "answer_hi": "गोलाकार समूह घने, गोलाकार और पुराने होते हैं; खुले समूह ढीले ढंग से बंधे और युवा होते हैं।",
+      "explanation_en": "Globular clusters are tightly packed, roughly spherical, and very old, while open clusters are looser and younger.",
+      "explanation_hi": "गोलाकार समूह सघन रूप से भरे, लगभग गोलाकार, और बहुत पुराने होते हैं, जबकि खुले समूह ढीले और युवा होते हैं।"
+    },
+    {
+      "question_en": "What determines a star's spectral class (its O, B, A, F, G, K, M type)?",
+      "question_hi": "एक तारे का वर्णक्रमीय प्रकार (O, B, A, F, G, K, M) किस पर निर्भर करता है?",
+      "options_en": [
+        "Its distance from Earth",
+        "Its surface temperature",
+        "Its number of planets",
+        "Its magnetic field only"
+      ],
+      "options_hi": [
+        "पृथ्वी से इसकी दूरी",
+        "इसकी सतह का तापमान",
+        "इसके ग्रहों की संख्या",
+        "केवल इसका चुंबकीय क्षेत्र"
+      ],
+      "answer_en": "Its surface temperature",
+      "answer_hi": "इसकी सतह का तापमान",
+      "explanation_en": "A star's spectral class is determined primarily by its surface temperature, which also affects its color.",
+      "explanation_hi": "एक तारे का वर्णक्रमीय प्रकार मुख्यतः उसकी सतह के तापमान से निर्धारित होता है, जो उसके रंग को भी प्रभावित करता है।"
+    },
+    {
+      "question_en": "What is a brown dwarf?",
+      "question_hi": "एक भूरा वामन तारा (ब्राउन ड्वार्फ) क्या है?",
+      "options_en": [
+        "A fully fused, very bright star",
+        "An object too small to sustain steady hydrogen fusion, sometimes called a 'failed star'",
+        "The core left after a supernova",
+        "A type of black hole"
+      ],
+      "options_hi": [
+        "एक पूर्ण रूप से संलयित, बहुत चमकीला तारा",
+        "एक ऐसी वस्तु जो स्थिर हाइड्रोजन संलयन बनाए रखने के लिए बहुत छोटी है, जिसे कभी-कभी 'असफल तारा' कहा जाता है",
+        "सुपरनोवा के बाद बचा हुआ केंद्र",
+        "एक प्रकार का ब्लैक होल"
+      ],
+      "answer_en": "An object too small to sustain steady hydrogen fusion, sometimes called a 'failed star'",
+      "answer_hi": "एक ऐसी वस्तु जो स्थिर हाइड्रोजन संलयन बनाए रखने के लिए बहुत छोटी है, जिसे कभी-कभी 'असफल तारा' कहा जाता है",
+      "explanation_en": "Brown dwarfs form like stars but lack enough mass to sustain full hydrogen fusion, so they are often called 'failed stars'.",
+      "explanation_hi": "भूरे वामन तारे तारों की तरह बनते हैं लेकिन उनमें पूर्ण हाइड्रोजन संलयन बनाए रखने के लिए पर्याप्त द्रव्यमान नहीं होता, इसलिए उन्हें अक्सर 'असफल तारे' कहा जाता है।"
+    },
+    {
+      "question_en": "Roughly what minimum mass (in solar masses) does an object need to become a true hydrogen-fusing star, rather than a brown dwarf?",
+      "question_hi": "एक वास्तविक हाइड्रोजन-संलयन करने वाला तारा बनने के लिए, न कि भूरा वामन तारा, एक वस्तु को लगभग कितना न्यूनतम द्रव्यमान (सौर द्रव्यमान में) चाहिए?",
+      "options_en": [
+        "About 0.08 solar masses",
+        "About 10 solar masses",
+        "About 50 solar masses",
+        "About 0.001 solar masses"
+      ],
+      "options_hi": [
+        "लगभग 0.08 सौर द्रव्यमान",
+        "लगभग 10 सौर द्रव्यमान",
+        "लगभग 50 सौर द्रव्यमान",
+        "लगभग 0.001 सौर द्रव्यमान"
+      ],
+      "answer_en": "About 0.08 solar masses",
+      "answer_hi": "लगभग 0.08 सौर द्रव्यमान",
+      "explanation_en": "An object needs roughly 0.08 solar masses (about 80 Jupiter masses) to sustain hydrogen fusion and become a true star.",
+      "explanation_hi": "एक वस्तु को हाइड्रोजन संलयन बनाए रखने और एक वास्तविक तारा बनने के लिए लगभग 0.08 सौर द्रव्यमान (लगभग 80 बृहस्पति द्रव्यमान) चाहिए।"
+    },
+    {
+      "question_en": "Which of the following statements about brown dwarfs is correct?",
+      "question_hi": "भूरे वामन तारों के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "They shine brightly through sustained hydrogen fusion just like the Sun.",
+        "They lack enough mass for sustained hydrogen fusion, so they glow faintly and cool over time.",
+        "They are the largest objects in the universe.",
+        "They are always found at the centers of galaxies."
+      ],
+      "options_hi": [
+        "वे सूर्य की तरह स्थिर हाइड्रोजन संलयन के माध्यम से चमकीले चमकते हैं।",
+        "उनमें स्थिर हाइड्रोजन संलयन के लिए पर्याप्त द्रव्यमान नहीं होता, इसलिए वे धीमे चमकते हैं और समय के साथ ठंडे होते जाते हैं।",
+        "वे ब्रह्मांड की सबसे बड़ी वस्तुएं हैं।",
+        "वे हमेशा आकाशगंगाओं के केंद्रों में पाए जाते हैं।"
+      ],
+      "answer_en": "They lack enough mass for sustained hydrogen fusion, so they glow faintly and cool over time.",
+      "answer_hi": "उनमें स्थिर हाइड्रोजन संलयन के लिए पर्याप्त द्रव्यमान नहीं होता, इसलिए वे धीमे चमकते हैं और समय के साथ ठंडे होते जाते हैं।",
+      "explanation_en": "Brown dwarfs glow faintly from residual heat and limited fusion of deuterium, but cannot sustain hydrogen fusion like real stars.",
+      "explanation_hi": "भूरे वामन तारे अवशिष्ट ऊष्मा और ड्यूटेरियम के सीमित संलयन से धीमे चमकते हैं, लेकिन वास्तविक तारों की तरह हाइड्रोजन संलयन बनाए नहीं रख सकते।"
+    },
+    {
+      "question_en": "What is the 'main sequence' in a star's life?",
+      "question_hi": "एक तारे के जीवन में 'मुख्य अनुक्रम' क्या है?",
+      "options_en": [
+        "The final explosive stage of a star's life",
+        "The long, stable stage where a star steadily fuses hydrogen into helium in its core",
+        "The stage right before a nebula forms",
+        "A stage only black holes go through"
+      ],
+      "options_hi": [
+        "एक तारे के जीवन की अंतिम विस्फोटक अवस्था",
+        "वह लंबी, स्थिर अवस्था जिसमें एक तारा अपने केंद्र में स्थिर रूप से हाइड्रोजन को हीलियम में बदलता है",
+        "निहारिका बनने से ठीक पहले की अवस्था",
+        "एक अवस्था जिससे केवल ब्लैक होल गुजरते हैं"
+      ],
+      "answer_en": "The long, stable stage where a star steadily fuses hydrogen into helium in its core",
+      "answer_hi": "वह लंबी, स्थिर अवस्था जिसमें एक तारा अपने केंद्र में स्थिर रूप से हाइड्रोजन को हीलियम में बदलता है",
+      "explanation_en": "The main sequence is the long, stable middle-age of a star's life, defined by steady core hydrogen fusion.",
+      "explanation_hi": "मुख्य अनुक्रम एक तारे के जीवन की लंबी, स्थिर मध्य-आयु है, जो केंद्र में स्थिर हाइड्रोजन संलयन द्वारा परिभाषित होती है।"
+    },
+    {
+      "question_en": "Where do stars spend most of their total lifetime?",
+      "question_hi": "तारे अपने कुल जीवनकाल का अधिकांश समय कहां बिताते हैं?",
+      "options_en": [
+        "In the protostar stage",
+        "On the main sequence",
+        "As a supernova",
+        "As a black hole"
+      ],
+      "options_hi": [
+        "प्रोटोतारा अवस्था में",
+        "मुख्य अनुक्रम में",
+        "सुपरनोवा के रूप में",
+        "ब्लैक होल के रूप में"
+      ],
+      "answer_en": "On the main sequence",
+      "answer_hi": "मुख्य अनुक्रम में",
+      "explanation_en": "Stars spend the vast majority of their lives on the main sequence, steadily fusing hydrogen into helium.",
+      "explanation_hi": "तारे अपने जीवन का बड़ा बहुमत मुख्य अनुक्रम में बिताते हैं, स्थिर रूप से हाइड्रोजन को हीलियम में बदलते हुए।"
+    },
+    {
+      "question_en": "Which term describes a system where more than two stars orbit a common center of mass?",
+      "question_hi": "उस तंत्र के लिए कौन सा शब्द प्रयोग होता है जिसमें दो से अधिक तारे एक साझा द्रव्यमान केंद्र की परिक्रमा करते हैं?",
+      "options_en": [
+        "Binary star system",
+        "Multiple star system",
+        "Nebula system",
+        "Supernova system"
+      ],
+      "options_hi": [
+        "द्वितारा तंत्र",
+        "बहु-तारा तंत्र",
+        "निहारिका तंत्र",
+        "सुपरनोवा तंत्र"
+      ],
+      "answer_en": "Multiple star system",
+      "answer_hi": "बहु-तारा तंत्र",
+      "explanation_en": "When three or more stars are gravitationally bound together, it is called a multiple star system.",
+      "explanation_hi": "जब तीन या अधिक तारे गुरुत्वाकर्षण से एक साथ बंधे होते हैं, तो इसे बहु-तारा तंत्र कहा जाता है।"
+    },
+    {
+      "question_en": "Which of the following statements is correct about a star's fusion fuel over its lifetime?",
+      "question_hi": "एक तारे के जीवनकाल में उसके संलयन ईंधन के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "A star fuses only hydrogen throughout its entire life.",
+        "As a star ages, it can fuse progressively heavier elements, from hydrogen up toward iron in massive stars.",
+        "Stars never run out of fuel.",
+        "Stars fuse iron before hydrogen."
+      ],
+      "options_hi": [
+        "एक तारा अपने पूरे जीवन में केवल हाइड्रोजन का संलयन करता है।",
+        "जैसे-जैसे एक तारा वृद्ध होता है, वह क्रमशः भारी तत्वों का संलयन कर सकता है, हाइड्रोजन से लेकर विशाल तारों में लोहे तक।",
+        "तारों का ईंधन कभी समाप्त नहीं होता।",
+        "तारे हाइड्रोजन से पहले लोहे का संलयन करते हैं।"
+      ],
+      "answer_en": "As a star ages, it can fuse progressively heavier elements, from hydrogen up toward iron in massive stars.",
+      "answer_hi": "जैसे-जैसे एक तारा वृद्ध होता है, वह क्रमशः भारी तत्वों का संलयन कर सकता है, हाइड्रोजन से लेकर विशाल तारों में लोहे तक।",
+      "explanation_en": "As lighter fuel is exhausted, massive stars can fuse successively heavier elements in shells, up to iron.",
+      "explanation_hi": "जैसे-जैसे हल्का ईंधन समाप्त होता है, विशाल तारे परतों में क्रमशः भारी तत्वों का संलयन कर सकते हैं, लोहे तक।"
+    },
+    {
+      "question_en": "What is the main difference between a star and a planet?",
+      "question_hi": "एक तारे और एक ग्रह के बीच मुख्य अंतर क्या है?",
+      "options_en": [
+        "Stars sustain nuclear fusion and produce their own light; planets do not.",
+        "Planets are always bigger than stars.",
+        "Stars orbit planets.",
+        "There is no real difference."
+      ],
+      "options_hi": [
+        "तारे नाभिकीय संलयन बनाए रखते हैं और अपना प्रकाश स्वयं उत्पन्न करते हैं; ग्रह ऐसा नहीं करते।",
+        "ग्रह हमेशा तारों से बड़े होते हैं।",
+        "तारे ग्रहों की परिक्रमा करते हैं।",
+        "इनमें कोई वास्तविक अंतर नहीं है।"
+      ],
+      "answer_en": "Stars sustain nuclear fusion and produce their own light; planets do not.",
+      "answer_hi": "तारे नाभिकीय संलयन बनाए रखते हैं और अपना प्रकाश स्वयं उत्पन्न करते हैं; ग्रह ऐसा नहीं करते।",
+      "explanation_en": "The defining feature of a star is that it is massive enough to sustain nuclear fusion, generating its own light and heat.",
+      "explanation_hi": "एक तारे की परिभाषित विशेषता यह है कि वह नाभिकीय संलयन बनाए रखने के लिए पर्याप्त विशाल है, जो अपना प्रकाश और ऊष्मा उत्पन्न करता है।"
+    },
+    {
+      "question_en": "Which of the following statements about our Sun's composition is correct?",
+      "question_hi": "हमारे सूर्य की संरचना के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options_en": [
+        "The Sun is made almost entirely of solid rock.",
+        "The Sun is made mostly of hydrogen and helium gas/plasma.",
+        "The Sun is made mostly of iron.",
+        "The Sun has no hydrogen at all."
+      ],
+      "options_hi": [
+        "सूर्य लगभग पूरी तरह ठोस चट्टान से बना है।",
+        "सूर्य मुख्यतः हाइड्रोजन और हीलियम गैस/प्लाज्मा से बना है।",
+        "सूर्य मुख्यतः लोहे से बना है।",
+        "सूर्य में बिल्कुल भी हाइड्रोजन नहीं है।"
+      ],
+      "answer_en": "The Sun is made mostly of hydrogen and helium gas/plasma.",
+      "answer_hi": "सूर्य मुख्यतः हाइड्रोजन और हीलियम गैस/प्लाज्मा से बना है।",
+      "explanation_en": "Like most stars, the Sun is composed mainly of hydrogen (~73%) and helium (~25%) in a plasma state.",
+      "explanation_hi": "अधिकांश तारों की तरह, सूर्य मुख्यतः हाइड्रोजन (~73%) और हीलियम (~25%) से प्लाज्मा अवस्था में बना है।"
+    },
+    {
+      "question_en": "What powers most of the light and heat given off by a typical star?",
+      "question_hi": "एक सामान्य तारे द्वारा दिए जाने वाले अधिकांश प्रकाश और ऊष्मा को क्या शक्ति प्रदान करता है?",
+      "options_en": [
+        "Chemical burning like a fire",
+        "Nuclear fusion of hydrogen into helium",
+        "Friction between gas particles",
+        "Reflected starlight from other stars"
+      ],
+      "options_hi": [
+        "आग की तरह रासायनिक जलना",
+        "हाइड्रोजन का हीलियम में नाभिकीय संलयन",
+        "गैस कणों के बीच घर्षण",
+        "अन्य तारों से परावर्तित तारों का प्रकाश"
+      ],
+      "answer_en": "Nuclear fusion of hydrogen into helium",
+      "answer_hi": "हाइड्रोजन का हीलियम में नाभिकीय संलयन",
+      "explanation_en": "The energy that makes stars shine comes from nuclear fusion, not chemical burning — hydrogen nuclei fuse to form helium.",
+      "explanation_hi": "तारों को चमकाने वाली ऊर्जा रासायनिक जलन से नहीं बल्कि नाभिकीय संलयन से आती है — हाइड्रोजन नाभिक जुड़कर हीलियम बनाते हैं।"
+    },
+    {
+      "question_en": "What type of star is our Sun?",
+      "question_hi": "हमारा सूर्य किस प्रकार का तारा है?",
+      "options_en": [
+        "A red supergiant",
+        "A G-type main-sequence star (yellow dwarf)",
+        "A neutron star",
+        "A brown dwarf"
+      ],
+      "options_hi": [
+        "एक लाल महादानव तारा",
+        "एक G-प्रकार का मुख्य अनुक्रम तारा (पीला वामन तारा)",
+        "एक न्यूट्रॉन तारा",
+        "एक भूरा वामन तारा"
+      ],
+      "answer_en": "A G-type main-sequence star (yellow dwarf)",
+      "answer_hi": "एक G-प्रकार का मुख्य अनुक्रम तारा (पीला वामन तारा)",
+      "explanation_en": "The Sun is an ordinary G-type main-sequence star, often nicknamed a 'yellow dwarf'.",
+      "explanation_hi": "सूर्य एक सामान्य G-प्रकार का मुख्य अनुक्रम तारा है, जिसे अक्सर 'पीला वामन तारा' कहा जाता है।"
+    },
+    {
+      "question_en": "Approximately what is the surface temperature of the Sun?",
+      "question_hi": "सूर्य की सतह का तापमान लगभग कितना है?",
+      "options_en": [
+        "About 100°C",
+        "About 1,500°C",
+        "About 5,500°C",
+        "About 50,000°C"
+      ],
+      "options_hi": [
+        "लगभग 100°C",
+        "लगभग 1,500°C",
+        "लगभग 5,500°C",
+        "लगभग 50,000°C"
+      ],
+      "answer_en": "About 5,500°C",
+      "answer_hi": "लगभग 5,500°C",
+      "explanation_en": "The Sun's visible surface, the photosphere, has a temperature of roughly 5,500°C (about 5,778 Kelvin).",
+      "explanation_hi": "सूर्य की दृश्य सतह, प्रकाशमंडल, का तापमान लगभग 5,500°C (लगभग 5,778 केल्विन) होता है।"
+    },
+    {
+      "question_en": "Which star (other than the Sun) is the nearest star to Earth?",
+      "question_hi": "(सूर्य के अलावा) पृथ्वी के सबसे निकट कौन सा तारा है?",
+      "options_en": [
+        "Sirius",
+        "Betelgeuse",
+        "Proxima Centauri",
+        "Polaris"
+      ],
+      "options_hi": [
+        "सीरियस",
+        "बेटलज्यूज़",
+        "प्रॉक्सिमा सेंटॉरी",
+        "ध्रुव तारा"
+      ],
+      "answer_en": "Proxima Centauri",
+      "answer_hi": "प्रॉक्सिमा सेंटॉरी",
+      "explanation_en": "Proxima Centauri, a red dwarf, is the closest known star to our Sun, about 4.2 light-years away.",
+      "explanation_hi": "प्रॉक्सिमा सेंटॉरी, एक लाल वामन तारा, हमारे सूर्य के सबसे निकट ज्ञात तारा है, जो लगभग 4.2 प्रकाश-वर्ष दूर है।"
+    },
+    {
+      "question_en": "Which bright star is commonly known as the 'Dog Star'?",
+      "question_hi": "किस चमकीले तारे को सामान्यतः 'डॉग स्टार' के नाम से जाना जाता है?",
+      "options_en": [
+        "Betelgeuse",
+        "Sirius",
+        "Rigel",
+        "Polaris"
+      ],
+      "options_hi": [
+        "बेटलज्यूज़",
+        "सीरियस",
+        "रिजेल",
+        "ध्रुव तारा"
+      ],
+      "answer_en": "Sirius",
+      "answer_hi": "सीरियस",
+      "explanation_en": "Sirius is nicknamed the 'Dog Star' because it is the brightest star in the constellation Canis Major (the Great Dog).",
+      "explanation_hi": "सीरियस को 'डॉग स्टार' कहा जाता है क्योंकि यह कैनिस मेजर (बड़ा कुत्ता) तारामंडल का सबसे चमकीला तारा है।"
+    },
+    {
+      "question_en": "Which famous red supergiant star in the constellation Orion is expected to eventually explode as a supernova?",
+      "question_hi": "ओरायन तारामंडल का कौन सा प्रसिद्ध लाल महादानव तारा अंततः सुपरनोवा के रूप में फटने की उम्मीद है?",
+      "options_en": [
+        "Sirius",
+        "Proxima Centauri",
+        "Betelgeuse",
+        "Polaris"
+      ],
+      "options_hi": [
+        "सीरियस",
+        "प्रॉक्सिमा सेंटॉरी",
+        "बेटलज्यूज़",
+        "ध्रुव तारा"
+      ],
+      "answer_en": "Betelgeuse",
+      "answer_hi": "बेटलज्यूज़",
+      "explanation_en": "Betelgeuse is a massive red supergiant nearing the end of its life and is expected to go supernova, astronomically speaking, 'soon'.",
+      "explanation_hi": "बेटलज्यूज़ एक विशाल लाल महादानव तारा है जो अपने जीवन के अंत के करीब है और खगोलीय दृष्टि से 'जल्द ही' सुपरनोवा बनने की उम्मीद है।"
+    },
+    {
+      "question_en": "Approximately what is the temperature at the Sun's core?",
+      "question_hi": "सूर्य के केंद्र का तापमान लगभग कितना है?",
+      "options_en": [
+        "About 5,500°C",
+        "About 1 million °C",
+        "About 15 million °C",
+        "About 100°C"
+      ],
+      "options_hi": [
+        "लगभग 5,500°C",
+        "लगभग 10 लाख °C",
+        "लगभग 1.5 करोड़ °C",
+        "लगभग 100°C"
+      ],
+      "answer_en": "About 15 million °C",
+      "answer_hi": "लगभग 1.5 करोड़ °C",
+      "explanation_en": "The Sun's core reaches roughly 15 million degrees Celsius, hot enough to sustain hydrogen fusion.",
+      "explanation_hi": "सूर्य का केंद्र लगभग 1.5 करोड़ डिग्री सेल्सियस तक पहुंचता है, जो हाइड्रोजन संलयन बनाए रखने के लिए पर्याप्त गर्म है।"
+    },
+    {
+      "question_en": "Roughly how much longer will the Sun remain on the main sequence before becoming a red giant?",
+      "question_hi": "लाल दानव तारा बनने से पहले सूर्य लगभग और कितने समय तक मुख्य अनुक्रम में रहेगा?",
+      "options_en": [
+        "About 5 billion more years",
+        "About 5,000 more years",
+        "About 500 more years",
+        "About 5 million more years"
+      ],
+      "options_hi": [
+        "लगभग 5 अरब और वर्ष",
+        "लगभग 5,000 और वर्ष",
+        "लगभग 500 और वर्ष",
+        "लगभग 50 लाख और वर्ष"
+      ],
+      "answer_en": "About 5 billion more years",
+      "answer_hi": "लगभग 5 अरब और वर्ष",
+      "explanation_en": "The Sun is roughly halfway through its main-sequence life and is expected to remain stable for about another 5 billion years.",
+      "explanation_hi": "सूर्य अपने मुख्य अनुक्रम जीवन के लगभग आधे रास्ते पर है और अनुमानतः और लगभग 5 अरब वर्षों तक स्थिर रहेगा।"
+    },
+    {
+      "question_en": "What is expected to happen to the inner planets when the Sun eventually becomes a red giant?",
+      "question_hi": "जब सूर्य अंततः लाल दानव तारा बनेगा, तब आंतरिक ग्रहों के साथ क्या होने की उम्मीद है?",
+      "options_en": [
+        "They will move much farther from the Sun and cool down",
+        "The Sun may expand enough to engulf or scorch the inner planets, possibly including Earth",
+        "Nothing will change for the inner planets",
+        "The inner planets will turn into new stars"
+      ],
+      "options_hi": [
+        "वे सूर्य से कहीं अधिक दूर चले जाएंगे और ठंडे हो जाएंगे",
+        "सूर्य इतना फैल सकता है कि वह आंतरिक ग्रहों को निगल ले या झुलसा दे, संभवतः पृथ्वी सहित",
+        "आंतरिक ग्रहों के लिए कुछ भी नहीं बदलेगा",
+        "आंतरिक ग्रह नए तारों में बदल जाएंगे"
+      ],
+      "answer_en": "The Sun may expand enough to engulf or scorch the inner planets, possibly including Earth",
+      "answer_hi": "सूर्य इतना फैल सकता है कि वह आंतरिक ग्रहों को निगल ले या झुलसा दे, संभवतः पृथ्वी सहित",
+      "explanation_en": "As the Sun expands into a red giant, its outer layers may swell out to engulf Mercury, Venus, and possibly Earth.",
+      "explanation_hi": "जैसे-जैसे सूर्य लाल दानव तारे में फैलेगा, इसकी बाहरी परतें बुध, शुक्र और संभवतः पृथ्वी को निगलने के लिए फैल सकती हैं।"
+    }
+  ]
+}
