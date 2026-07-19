@@ -1,15 +1,15 @@
 {
-  "title": "RRB Section Controller (Indian Railways) - 200 Expected Practice Questions",
-  "title_hi": "आरआरबी सेक्शन कंट्रोलर (भारतीय रेलवे) - 200 अपेक्षित अभ्यास प्रश्न",
-  "note": "Covers the three CBT sections: Mathematics, General Intelligence & Reasoning, and General Awareness. Practice set for preparation purposes; verify current-affairs items closer to your exam date.",
-  "note_hi": "तीन सीबीटी खंडों को कवर करता है: गणित, सामान्य बुद्धि एवं तर्कशक्ति, और सामान्य जागरूकता। तैयारी के उद्देश्य से अभ्यास सेट; अपनी परीक्षा तिथि के निकट सामयिकी (करेंट अफेयर्स) से जुड़े प्रश्नों को सत्यापित करें।",
+  "title_en": "RRB Section Controller (Indian Railways) - 200 Expected Practice Questions (Bilingual)",
+  "title_hi": "\u0906\u0930\u0906\u0930\u092c\u0940 \u0938\u0947\u0915\u094d\u0936\u0928 \u0915\u0902\u091f\u094d\u0930\u094b\u0932\u0930 (\u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0947\u0932\u0935\u0947) - 200 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u0905\u092d\u094d\u092f\u093e\u0938 \u092a\u094d\u0930\u0936\u094d\u0928 (\u0926\u094d\u0935\u093f\u092d\u093e\u0937\u0940)",
+  "note_en": "Covers the three CBT sections: Mathematics, General Intelligence & Reasoning, and General Awareness. Practice set for preparation purposes; verify current-affairs items closer to your exam date.",
+  "note_hi": "\u0924\u0940\u0928 CBT \u0905\u0928\u0941\u092d\u093e\u0917\u094b\u0902 \u0915\u094b \u0915\u0935\u0930 \u0915\u0930\u0924\u093e \u0939\u0948: \u0917\u0923\u093f\u0924, \u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f, \u0914\u0930 \u0938\u093e\u092e\u093e\u0928\u094d\u092f \u091c\u093e\u0917\u0930\u0942\u0915\u0924\u093e\u0964 \u0924\u0948\u092f\u093e\u0930\u0940 \u0915\u0947 \u0909\u0926\u094d\u0926\u0947\u0936\u094d\u092f \u0938\u0947 \u0905\u092d\u094d\u092f\u093e\u0938 \u0938\u0947\u091f; \u0905\u092a\u0928\u0940 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0924\u093f\u0925\u093f \u0915\u0947 \u0915\u0930\u0940\u092c \u0938\u092e\u0938\u093e\u092e\u092f\u093f\u0915 \u092e\u093e\u092e\u0932\u094b\u0902 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0930\u0947\u0902\u0964",
   "questions": [
     {
       "q_no": 1,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the LCM of 12, 18, and 24?",
-      "question_hi": "12, 18 और 24 का LCM (लघुत्तम समापवर्त्य) क्या है?",
+      "question_hi": "12, 18 \u0914\u0930 24 \u0915\u093e LCM (\u0932\u0918\u0941\u0924\u094d\u0924\u092e \u0938\u092e\u093e\u092a\u0935\u0930\u094d\u0924\u094d\u092f) \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "36",
         "48",
@@ -25,14 +25,14 @@
       "answer_en": "72",
       "answer_hi": "72",
       "explanation_en": "LCM of 12, 18, 24: 12=2^2*3, 18=2*3^2, 24=2^3*3. LCM=2^3*3^2=72.",
-      "explanation_hi": "12, 18, 24 का LCM: 12=2^2*3, 18=2*3^2, 24=2^3*3. LCM=2^3*3^2=72."
+      "explanation_hi": "12, 18, 24 \u0915\u093e LCM: 12=2^2*3, 18=2*3^2, 24=2^3*3. LCM=2^3*3^2=72."
     },
     {
       "q_no": 2,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the HCF of 84 and 126?",
-      "question_hi": "84 और 126 का HCF (महत्तम समापवर्तक) क्या है?",
+      "question_hi": "84 \u0914\u0930 126 \u0915\u093e HCF (\u092e\u0939\u0924\u094d\u0924\u092e \u0938\u092e\u093e\u092a\u0935\u0930\u094d\u0924\u0915) \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "21",
         "42",
@@ -53,9 +53,9 @@
     {
       "q_no": 3,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Find the smallest number which when divided by 6, 8, and 10 leaves remainder 2 in each case.",
-      "question_hi": "सबसे छोटी संख्या ज्ञात करें जिसे 6, 8 और 10 से भाग देने पर हर बार शेषफल 2 बचे।",
+      "question_hi": "\u0935\u0939 \u0938\u092c\u0938\u0947 \u091b\u094b\u091f\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u091c\u094d\u091e\u093e\u0924 \u0915\u0930\u0947\u0902 \u091c\u093f\u0938\u0947 6, 8 \u0914\u0930 10 \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u093f\u0924 \u0915\u0930\u0928\u0947 \u092a\u0930 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u092c\u093e\u0930 \u0936\u0947\u0937\u092b\u0932 2 \u092c\u091a\u0924\u093e \u0939\u0948\u0964",
       "options_en": [
         "120",
         "122",
@@ -71,14 +71,14 @@
       "answer_en": "122",
       "answer_hi": "122",
       "explanation_en": "LCM(6,8,10)=120. Required number = 120+2 = 122.",
-      "explanation_hi": "LCM(6,8,10)=120. अभीष्ट संख्या = 120+2 = 122."
+      "explanation_hi": "LCM(6,8,10)=120. \u0905\u092d\u0940\u0937\u094d\u091f \u0938\u0902\u0916\u094d\u092f\u093e = 120+2 = 122."
     },
     {
       "q_no": 4,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the value of 15% of 240?",
-      "question_hi": "240 का 15% क्या है?",
+      "question_hi": "240 \u0915\u093e 15% \u0915\u093f\u0924\u0928\u093e \u0939\u094b\u0917\u093e?",
       "options_en": [
         "30",
         "36",
@@ -94,14 +94,14 @@
       "answer_en": "36",
       "answer_hi": "36",
       "explanation_en": "15% of 240 = (15/100)*240 = 36.",
-      "explanation_hi": "240 का 15% = (15/100)*240 = 36."
+      "explanation_hi": "240 \u0915\u093e 15% = (15/100)*240 = 36."
     },
     {
       "q_no": 5,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If 3x + 7 = 22, what is the value of x?",
-      "question_hi": "यदि 3x + 7 = 22 है, तो x का मान क्या है?",
+      "question_hi": "\u092f\u0926\u093f 3x + 7 = 22 \u0939\u0948, \u0924\u094b x \u0915\u093e \u092e\u093e\u0928 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "4",
         "5",
@@ -117,14 +117,14 @@
       "answer_en": "5",
       "answer_hi": "5",
       "explanation_en": "3x = 22-7 = 15, so x = 5.",
-      "explanation_hi": "3x = 22-7 = 15, अतः x = 5."
+      "explanation_hi": "3x = 22-7 = 15, \u0905\u0924\u0903 x = 5."
     },
     {
       "q_no": 6,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Simplify: 45 - [38 - {60 - (50 - 20)}]",
-      "question_hi": "सरल करें: 45 - [38 - {60 - (50 - 20)}]",
+      "question_hi": "\u0938\u0930\u0932 \u0915\u0940\u091c\u093f\u090f: 45 - [38 - {60 - (50 - 20)}]",
       "options_en": [
         "37",
         "43",
@@ -145,9 +145,9 @@
     {
       "q_no": 7,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the sum of the first 20 natural numbers?",
-      "question_hi": "प्रथम 20 प्राकृत संख्याओं का योग क्या है?",
+      "question_hi": "\u092a\u0939\u0932\u0940 20 \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0938\u0902\u0916\u094d\u092f\u093e\u0913\u0902 \u0915\u093e \u092f\u094b\u0917 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "190",
         "200",
@@ -163,14 +163,14 @@
       "answer_en": "210",
       "answer_hi": "210",
       "explanation_en": "Sum = n(n+1)/2 = 20*21/2 = 210.",
-      "explanation_hi": "योग = n(n+1)/2 = 20*21/2 = 210."
+      "explanation_hi": "\u092f\u094b\u0917 = n(n+1)/2 = 20*21/2 = 210."
     },
     {
       "q_no": 8,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A number when divided by 342 gives a remainder 47. What is the remainder when the same number is divided by 18?",
-      "question_hi": "एक संख्या को 342 से भाग देने पर शेषफल 47 बचता है। उसी संख्या को 18 से भाग देने पर शेषफल क्या होगा?",
+      "question_hi": "\u090f\u0915 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094b 342 \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u093f\u0924 \u0915\u0930\u0928\u0947 \u092a\u0930 \u0936\u0947\u0937\u092b\u0932 47 \u0906\u0924\u093e \u0939\u0948\u0964 \u0909\u0938\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094b 18 \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u093f\u0924 \u0915\u0930\u0928\u0947 \u092a\u0930 \u0936\u0947\u0937\u092b\u0932 \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e?",
       "options_en": [
         "1",
         "11",
@@ -186,14 +186,14 @@
       "answer_en": "11",
       "answer_hi": "11",
       "explanation_en": "342 = 18*19, so 342 is a multiple of 18. Remainder 47 divided by 18 gives remainder 11 (47=18*2+11).",
-      "explanation_hi": "342 = 18*19, अर्थात् 342, 18 का गुणज है। शेषफल 47 को 18 से भाग देने पर शेषफल 11 मिलता है (47=18*2+11)."
+      "explanation_hi": "342 = 18*19, \u0905\u0924\u0903 342, 18 \u0915\u093e \u0917\u0941\u0923\u091c \u0939\u0948\u0964 47 \u0915\u094b 18 \u0938\u0947 \u092d\u093e\u0917 \u0926\u0947\u0928\u0947 \u092a\u0930 \u0936\u0947\u0937\u092b\u0932 11 \u0906\u0924\u093e \u0939\u0948 (47=18*2+11)\u0964"
     },
     {
       "q_no": 9,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Which of the following is a prime number?",
-      "question_hi": "निम्नलिखित में से कौन-सी अभाज्य संख्या है?",
+      "question_hi": "\u0928\u093f\u092e\u094d\u0928\u0932\u093f\u0916\u093f\u0924 \u092e\u0947\u0902 \u0938\u0947 \u0915\u094c\u0928 \u0938\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0905\u092d\u093e\u091c\u094d\u092f (\u092a\u094d\u0930\u093e\u0907\u092e) \u0939\u0948?",
       "options_en": [
         "91",
         "87",
@@ -209,14 +209,14 @@
       "answer_en": "97",
       "answer_hi": "97",
       "explanation_en": "97 is not divisible by any number other than 1 and itself, so it is prime; 91=7*13, 87=3*29, 77=7*11.",
-      "explanation_hi": "97, 1 और स्वयं के अलावा किसी और संख्या से विभाज्य नहीं है, अतः यह अभाज्य है; 91=7*13, 87=3*29, 77=7*11."
+      "explanation_hi": "97, 1 \u0914\u0930 \u0938\u094d\u0935\u092f\u0902 \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u0915\u093f\u0938\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u094d\u092f \u0928\u0939\u0940\u0902 \u0939\u0948, \u0907\u0938\u0932\u093f\u090f \u092f\u0939 \u0905\u092d\u093e\u091c\u094d\u092f \u0939\u0948; 91=7*13, 87=3*29, 77=7*11\u0964"
     },
     {
       "q_no": 10,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the square root of 1764?",
-      "question_hi": "1764 का वर्गमूल क्या है?",
+      "question_hi": "1764 \u0915\u093e \u0935\u0930\u094d\u0917\u092e\u0942\u0932 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "42",
         "44",
@@ -237,9 +237,9 @@
     {
       "q_no": 11,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Find the value of (0.25)^2.",
-      "question_hi": "(0.25)^2 का मान ज्ञात करें।",
+      "question_hi": "(0.25)^2 \u0915\u093e \u092e\u093e\u0928 \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f\u0964",
       "options_en": [
         "0.0625",
         "0.625",
@@ -260,9 +260,9 @@
     {
       "q_no": 12,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The product of two consecutive positive integers is 342. What is the smaller integer?",
-      "question_hi": "दो क्रमागत धनात्मक पूर्णांकों का गुणनफल 342 है। छोटा पूर्णांक क्या है?",
+      "question_hi": "\u0926\u094b \u0915\u094d\u0930\u092e\u093e\u0917\u0924 \u0927\u0928\u093e\u0924\u094d\u092e\u0915 \u092a\u0942\u0930\u094d\u0923\u093e\u0902\u0915\u094b\u0902 \u0915\u093e \u0917\u0941\u0923\u0928\u092b\u0932 342 \u0939\u0948\u0964 \u091b\u094b\u091f\u093e \u092a\u0942\u0930\u094d\u0923\u093e\u0902\u0915 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "17",
         "18",
@@ -278,14 +278,14 @@
       "answer_en": "18",
       "answer_hi": "18",
       "explanation_en": "18*19 = 342, so the smaller of the two consecutive integers is 18.",
-      "explanation_hi": "18*19 = 342, अतः दोनों क्रमागत पूर्णांकों में से छोटा 18 है."
+      "explanation_hi": "18*19 = 342, \u0905\u0924\u0903 \u0926\u094b\u0928\u094b\u0902 \u0915\u094d\u0930\u092e\u093e\u0917\u0924 \u092a\u0942\u0930\u094d\u0923\u093e\u0902\u0915\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u091b\u094b\u091f\u093e \u092a\u0942\u0930\u094d\u0923\u093e\u0902\u0915 18 \u0939\u0948\u0964"
     },
     {
       "q_no": 13,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the remainder when 2^50 is divided by 7?",
-      "question_hi": "2^50 को 7 से भाग देने पर शेषफल क्या है?",
+      "question_hi": "2^50 \u0915\u094b 7 \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u093f\u0924 \u0915\u0930\u0928\u0947 \u092a\u0930 \u0936\u0947\u0937\u092b\u0932 \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e?",
       "options_en": [
         "1",
         "2",
@@ -300,15 +300,15 @@
       ],
       "answer_en": "4",
       "answer_hi": "4",
-      "explanation_en": "2^3=8 is congruent to 1 (mod 7), so 2^50=2^(48+2)=(2^3)^16 * 2^2  is congruent to  1^16*4 = 4 (mod 7).",
-      "explanation_hi": "2^3=8, 7 से भाग देने पर शेषफल 1 देता है, अतः 2^50=2^(48+2)=(2^3)^16 * 2^2, शेषफल 1^16*4 = 4 (mod 7)."
+      "explanation_en": "2^3=8 is congruent to 1 (mod 7), so 2^50=2^(48+2)=(2^3)^16 * 2^2 is congruent to 1^16*4 = 4 (mod 7).",
+      "explanation_hi": "2^3=8, 7 \u0938\u0947 \u092d\u093e\u0917 \u0926\u0947\u0928\u0947 \u092a\u0930 \u0936\u0947\u0937\u092b\u0932 1 \u0926\u0947\u0924\u093e \u0939\u0948, \u0905\u0924\u0903 2^50=(2^3)^16 * 2^2 \u0915\u093e \u0936\u0947\u0937\u092b\u0932 4 \u0939\u094b\u0917\u093e (mod 7)\u0964"
     },
     {
       "q_no": 14,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Which of the following numbers is divisible by 11?",
-      "question_hi": "निम्नलिखित में से कौन-सी संख्या 11 से विभाज्य है?",
+      "question_hi": "\u0928\u093f\u092e\u094d\u0928\u0932\u093f\u0916\u093f\u0924 \u092e\u0947\u0902 \u0938\u0947 \u0915\u094c\u0928 \u0938\u0940 \u0938\u0902\u0916\u094d\u092f\u093e 11 \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u094d\u092f \u0939\u0948?",
       "options_en": [
         "23456",
         "45694",
@@ -324,14 +324,14 @@
       "answer_en": "70169",
       "answer_hi": "70169",
       "explanation_en": "For 70169: alternating sum = (7+1+9)-(0+6)=17-6=11, divisible by 11.",
-      "explanation_hi": "70169 के लिए: एकांतर योग = (7+1+9)-(0+6)=17-6=11, जो 11 से विभाज्य है."
+      "explanation_hi": "70169 \u0915\u0947 \u0932\u093f\u090f: \u090f\u0915\u093e\u0902\u0924\u0930 \u092f\u094b\u0917 = (7+1+9)-(0+6)=17-6=11, \u091c\u094b 11 \u0938\u0947 \u0935\u093f\u092d\u093e\u091c\u094d\u092f \u0939\u0948\u0964"
     },
     {
       "q_no": 15,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Find the value of: 1/2 + 1/3 + 1/6",
-      "question_hi": "मान ज्ञात करें: 1/2 + 1/3 + 1/6",
+      "question_hi": "\u092e\u093e\u0928 \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: 1/2 + 1/3 + 1/6",
       "options_en": [
         "1",
         "3/2",
@@ -352,9 +352,9 @@
     {
       "q_no": 16,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A student scored 462 marks out of 700. What percentage of marks did the student score?",
-      "question_hi": "एक छात्र ने 700 में से 462 अंक प्राप्त किए। छात्र ने कितने प्रतिशत अंक प्राप्त किए?",
+      "question_hi": "\u090f\u0915 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0928\u0947 700 \u092e\u0947\u0902 \u0938\u0947 462 \u0905\u0902\u0915 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u093f\u090f\u0964 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0928\u0947 \u0915\u093f\u0924\u0928\u0947 \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0905\u0902\u0915 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u093f\u090f?",
       "options_en": [
         "60%",
         "66%",
@@ -375,9 +375,9 @@
     {
       "q_no": 17,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If the price of an item is increased by 25%, by what percentage should the new price be decreased to bring it back to the original price?",
-      "question_hi": "यदि किसी वस्तु की कीमत में 25% की वृद्धि की जाती है, तो नई कीमत को मूल कीमत पर वापस लाने के लिए इसे कितने प्रतिशत घटाया जाना चाहिए?",
+      "question_hi": "\u092f\u0926\u093f \u0915\u093f\u0938\u0940 \u0935\u0938\u094d\u0924\u0941 \u0915\u0940 \u0915\u0940\u092e\u0924 25% \u092c\u0922\u093c\u093e \u0926\u0940 \u091c\u093e\u090f, \u0924\u094b \u092e\u0942\u0932 \u0915\u0940\u092e\u0924 \u092a\u0930 \u0935\u093e\u092a\u0938 \u0932\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0928\u0908 \u0915\u0940\u092e\u0924 \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0947 \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0915\u0940 \u0915\u092e\u0940 \u0915\u0930\u0928\u0940 \u0939\u094b\u0917\u0940?",
       "options_en": [
         "20%",
         "25%",
@@ -393,14 +393,14 @@
       "answer_en": "20%",
       "answer_hi": "20%",
       "explanation_en": "Decrease % = (25/(100+25))*100 = 20%.",
-      "explanation_hi": "कमी % = (25/(100+25))*100 = 20%."
+      "explanation_hi": "\u0915\u092e\u0940 % = (25/(100+25))*100 = 20%."
     },
     {
       "q_no": 18,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A shopkeeper buys an article for Rs. 800 and sells it for Rs. 920. What is his profit percentage?",
-      "question_hi": "एक दुकानदार 800 रुपये में एक वस्तु खरीदता है और उसे 920 रुपये में बेचता है। उसका लाभ प्रतिशत क्या है?",
+      "question_hi": "\u090f\u0915 \u0926\u0941\u0915\u093e\u0928\u0926\u093e\u0930 \u090f\u0915 \u0935\u0938\u094d\u0924\u0941 800 \u0930\u0941\u092a\u092f\u0947 \u092e\u0947\u0902 \u0916\u0930\u0940\u0926\u0924\u093e \u0939\u0948 \u0914\u0930 920 \u0930\u0941\u092a\u092f\u0947 \u092e\u0947\u0902 \u092c\u0947\u091a\u0924\u093e \u0939\u0948\u0964 \u0909\u0938\u0915\u093e \u0932\u093e\u092d \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "10%",
         "15%",
@@ -416,14 +416,14 @@
       "answer_en": "15%",
       "answer_hi": "15%",
       "explanation_en": "Profit = 920-800 = 120. Profit% = (120/800)*100 = 15%.",
-      "explanation_hi": "लाभ = 920-800 = 120. लाभ% = (120/800)*100 = 15%."
+      "explanation_hi": "\u0932\u093e\u092d = 920-800 = 120. \u0932\u093e\u092d% = (120/800)*100 = 15%."
     },
     {
       "q_no": 19,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A man sells an article at a loss of 10%. If he had sold it for Rs. 60 more, he would have gained 5%. What is the cost price of the article?",
-      "question_hi": "एक व्यक्ति किसी वस्तु को 10% हानि पर बेचता है। यदि वह इसे 60 रुपये अधिक में बेचता, तो उसे 5% लाभ होता। वस्तु का क्रय मूल्य क्या है?",
+      "question_hi": "\u090f\u0915 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u090f\u0915 \u0935\u0938\u094d\u0924\u0941 \u0915\u094b 10% \u0939\u093e\u0928\u093f \u092a\u0930 \u092c\u0947\u091a\u0924\u093e \u0939\u0948\u0964 \u092f\u0926\u093f \u0935\u0939 \u0907\u0938\u0947 60 \u0930\u0941\u092a\u092f\u0947 \u0905\u0927\u093f\u0915 \u092e\u0947\u0902 \u092c\u0947\u091a\u0924\u093e, \u0924\u094b \u0909\u0938\u0947 5% \u0932\u093e\u092d \u0939\u094b\u0924\u093e\u0964 \u0935\u0938\u094d\u0924\u0941 \u0915\u093e \u0915\u094d\u0930\u092f \u092e\u0942\u0932\u094d\u092f \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "Rs. 400",
         "Rs. 350",
@@ -431,22 +431,22 @@
         "Rs. 500"
       ],
       "options_hi": [
-        "Rs. 400",
-        "Rs. 350",
-        "Rs. 450",
-        "Rs. 500"
+        "\u20b9400",
+        "\u20b9350",
+        "\u20b9450",
+        "\u20b9500"
       ],
       "answer_en": "Rs. 400",
-      "answer_hi": "Rs. 400",
+      "answer_hi": "\u20b9400",
       "explanation_en": "Let CP = x. 1.05x - 0.90x = 60, so 0.15x = 60, x = 400.",
-      "explanation_hi": "मान लीजिए क्रय मूल्य = x. 1.05x - 0.90x = 60, अतः 0.15x = 60, x = 400."
+      "explanation_hi": "\u092e\u093e\u0928 \u0932\u0940\u091c\u093f\u090f CP = x. 1.05x - 0.90x = 60, \u0905\u0924\u0903 0.15x = 60, x = 400."
     },
     {
       "q_no": 20,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Find the simple interest on Rs. 5000 for 3 years at 8% per annum.",
-      "question_hi": "5000 रुपये पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात करें।",
+      "question_hi": "5000 \u0930\u0941\u092a\u092f\u0947 \u092a\u0930 3 \u0935\u0930\u094d\u0937\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f 8% \u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u0926\u0930 \u0938\u0947 \u0938\u093e\u0927\u093e\u0930\u0923 \u092c\u094d\u092f\u093e\u091c \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f\u0964",
       "options_en": [
         "Rs. 1000",
         "Rs. 1100",
@@ -454,22 +454,22 @@
         "Rs. 1500"
       ],
       "options_hi": [
-        "Rs. 1000",
-        "Rs. 1100",
-        "Rs. 1200",
-        "Rs. 1500"
+        "\u20b91000",
+        "\u20b91100",
+        "\u20b91200",
+        "\u20b91500"
       ],
       "answer_en": "Rs. 1200",
-      "answer_hi": "Rs. 1200",
+      "answer_hi": "\u20b91200",
       "explanation_en": "SI = (P*R*T)/100 = (5000*8*3)/100 = 1200.",
       "explanation_hi": "SI = (P*R*T)/100 = (5000*8*3)/100 = 1200."
     },
     {
       "q_no": 21,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the compound interest on Rs. 2000 for 2 years at 10% per annum, compounded annually?",
-      "question_hi": "2000 रुपये पर 2 वर्षों के लिए 10% वार्षिक दर से, वार्षिक चक्रवृद्धि के साथ चक्रवृद्धि ब्याज क्या है?",
+      "question_hi": "2000 \u0930\u0941\u092a\u092f\u0947 \u092a\u0930 2 \u0935\u0930\u094d\u0937\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f 10% \u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u0926\u0930 \u0938\u0947 \u091a\u0915\u094d\u0930\u0935\u0943\u0926\u094d\u0927\u093f \u092c\u094d\u092f\u093e\u091c (\u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u0938\u0902\u092f\u094b\u091c\u093f\u0924) \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e?",
       "options_en": [
         "Rs. 400",
         "Rs. 420",
@@ -477,22 +477,22 @@
         "Rs. 200"
       ],
       "options_hi": [
-        "Rs. 400",
-        "Rs. 420",
-        "Rs. 440",
-        "Rs. 200"
+        "\u20b9400",
+        "\u20b9420",
+        "\u20b9440",
+        "\u20b9200"
       ],
       "answer_en": "Rs. 420",
-      "answer_hi": "Rs. 420",
+      "answer_hi": "\u20b9420",
       "explanation_en": "Amount = 2000*(1.1)^2 = 2420. CI = 2420-2000 = 420.",
-      "explanation_hi": "राशि = 2000*(1.1)^2 = 2420. CI = 2420-2000 = 420."
+      "explanation_hi": "\u092e\u093f\u0936\u094d\u0930\u0927\u0928 = 2000*(1.1)^2 = 2420. CI = 2420-2000 = 420."
     },
     {
       "q_no": 22,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Divide Rs. 1200 between A and B in the ratio 3:5. What is B's share?",
-      "question_hi": "1200 रुपये को A और B के बीच 3:5 के अनुपात में बांटें। B का हिस्सा क्या है?",
+      "question_hi": "1200 \u0930\u0941\u092a\u092f\u0947 \u0915\u094b A \u0914\u0930 B \u0915\u0947 \u092c\u0940\u091a 3:5 \u0915\u0947 \u0905\u0928\u0941\u092a\u093e\u0924 \u092e\u0947\u0902 \u092c\u093e\u0902\u091f\u0947\u0902\u0964 B \u0915\u093e \u0939\u093f\u0938\u094d\u0938\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "Rs. 450",
         "Rs. 500",
@@ -500,22 +500,22 @@
         "Rs. 700"
       ],
       "options_hi": [
-        "Rs. 450",
-        "Rs. 500",
-        "Rs. 750",
-        "Rs. 700"
+        "\u20b9450",
+        "\u20b9500",
+        "\u20b9750",
+        "\u20b9700"
       ],
       "answer_en": "Rs. 750",
-      "answer_hi": "Rs. 750",
+      "answer_hi": "\u20b9750",
       "explanation_en": "Total parts = 8. B's share = (5/8)*1200 = 750.",
-      "explanation_hi": "कुल भाग = 8. B का हिस्सा = (5/8)*1200 = 750."
+      "explanation_hi": "\u0915\u0941\u0932 \u092d\u093e\u0917 = 8. B \u0915\u093e \u0939\u093f\u0938\u094d\u0938\u093e = (5/8)*1200 = 750."
     },
     {
       "q_no": 23,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The ratio of ages of A and B is 3:4. If the sum of their ages is 35 years, what is A's age?",
-      "question_hi": "A और B की आयु का अनुपात 3:4 है। यदि उनकी आयु का योग 35 वर्ष है, तो A की आयु क्या है?",
+      "question_hi": "A \u0914\u0930 B \u0915\u0940 \u0906\u092f\u0941 \u0915\u093e \u0905\u0928\u0941\u092a\u093e\u0924 3:4 \u0939\u0948\u0964 \u092f\u0926\u093f \u0909\u0928\u0915\u0940 \u0906\u092f\u0941 \u0915\u093e \u092f\u094b\u0917 35 \u0935\u0930\u094d\u0937 \u0939\u0948, \u0924\u094b A \u0915\u0940 \u0906\u092f\u0941 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "12",
         "15",
@@ -531,14 +531,14 @@
       "answer_en": "15",
       "answer_hi": "15",
       "explanation_en": "3x+4x=35, 7x=35, x=5. A's age = 3*5=15.",
-      "explanation_hi": "3x+4x=35, 7x=35, x=5. A की आयु = 3*5=15."
+      "explanation_hi": "3x+4x=35, 7x=35, x=5. A \u0915\u0940 \u0906\u092f\u0941 = 3*5=15."
     },
     {
       "q_no": 24,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The average of 5 numbers is 27. If one number is excluded, the average becomes 25. What is the excluded number?",
-      "question_hi": "5 संख्याओं का औसत 27 है। यदि एक संख्या को छोड़ दिया जाए, तो औसत 25 हो जाता है। छोड़ी गई संख्या क्या है?",
+      "question_hi": "5 \u0938\u0902\u0916\u094d\u092f\u093e\u0913\u0902 \u0915\u093e \u0914\u0938\u0924 27 \u0939\u0948\u0964 \u092f\u0926\u093f \u090f\u0915 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094b \u0939\u091f\u093e \u0926\u093f\u092f\u093e \u091c\u093e\u090f, \u0924\u094b \u0914\u0938\u0924 25 \u0939\u094b \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0939\u091f\u093e\u0908 \u0917\u0908 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "30",
         "32",
@@ -554,14 +554,14 @@
       "answer_en": "35",
       "answer_hi": "35",
       "explanation_en": "Sum of 5 numbers = 135. Sum of 4 numbers = 100. Excluded number = 135-100 = 35.",
-      "explanation_hi": "5 संख्याओं का योग = 135. 4 संख्याओं का योग = 100. छोड़ी गई संख्या = 135-100 = 35."
+      "explanation_hi": "5 \u0938\u0902\u0916\u094d\u092f\u093e\u0913\u0902 \u0915\u093e \u092f\u094b\u0917 = 135. 4 \u0938\u0902\u0916\u094d\u092f\u093e\u0913\u0902 \u0915\u093e \u092f\u094b\u0917 = 100. \u0939\u091f\u093e\u0908 \u0917\u0908 \u0938\u0902\u0916\u094d\u092f\u093e = 135-100 = 35."
     },
     {
       "q_no": 25,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The average weight of 10 students is 42 kg. If a new student weighing 53 kg joins, what is the new average weight?",
-      "question_hi": "10 छात्रों का औसत वजन 42 किग्रा है। यदि 53 किग्रा वजन वाला एक नया छात्र शामिल होता है, तो नया औसत वजन क्या है?",
+      "question_hi": "10 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u093e \u0914\u0938\u0924 \u0935\u091c\u0928 42 \u0915\u093f\u0917\u094d\u0930\u093e \u0939\u0948\u0964 \u092f\u0926\u093f 53 \u0915\u093f\u0917\u094d\u0930\u093e \u0935\u091c\u0928 \u0935\u093e\u0932\u093e \u090f\u0915 \u0928\u092f\u093e \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0936\u093e\u092e\u093f\u0932 \u0939\u094b\u0924\u093e \u0939\u0948, \u0924\u094b \u0928\u092f\u093e \u0914\u0938\u0924 \u0935\u091c\u0928 \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e?",
       "options_en": [
         "42.5 kg",
         "43 kg",
@@ -569,22 +569,22 @@
         "43.5 kg"
       ],
       "options_hi": [
-        "42.5 kg",
-        "43 kg",
-        "44 kg",
-        "43.5 kg"
+        "42.5 \u0915\u093f\u0917\u094d\u0930\u093e",
+        "43 \u0915\u093f\u0917\u094d\u0930\u093e",
+        "44 \u0915\u093f\u0917\u094d\u0930\u093e",
+        "43.5 \u0915\u093f\u0917\u094d\u0930\u093e"
       ],
       "answer_en": "43 kg",
-      "answer_hi": "43 kg",
+      "answer_hi": "43 \u0915\u093f\u0917\u094d\u0930\u093e",
       "explanation_en": "Total weight = 420+53=473. New average = 473/11 = 43 kg.",
-      "explanation_hi": "कुल वजन = 420+53=473. नया औसत = 473/11 = 43 किग्रा."
+      "explanation_hi": "\u0915\u0941\u0932 \u0935\u091c\u0928 = 420+53=473. \u0928\u092f\u093e \u0914\u0938\u0924 = 473/11 = 43 \u0915\u093f\u0917\u094d\u0930\u093e\u0964"
     },
     {
       "q_no": 26,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A mixture of 40 litres contains milk and water in the ratio 3:1. How much water should be added to make the ratio 3:2?",
-      "question_hi": "40 लीटर के मिश्रण में दूध और पानी 3:1 के अनुपात में हैं। अनुपात को 3:2 बनाने के लिए कितना पानी मिलाया जाना चाहिए?",
+      "question_hi": "40 \u0932\u0940\u091f\u0930 \u0915\u0947 \u092e\u093f\u0936\u094d\u0930\u0923 \u092e\u0947\u0902 \u0926\u0942\u0927 \u0914\u0930 \u092a\u093e\u0928\u0940 \u0915\u093e \u0905\u0928\u0941\u092a\u093e\u0924 3:1 \u0939\u0948\u0964 \u0905\u0928\u0941\u092a\u093e\u0924 \u0915\u094b 3:2 \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u093f\u0924\u0928\u093e \u092a\u093e\u0928\u0940 \u092e\u093f\u0932\u093e\u0928\u093e \u091a\u093e\u0939\u093f\u090f?",
       "options_en": [
         "10 litres",
         "8 litres",
@@ -592,22 +592,22 @@
         "6 litres"
       ],
       "options_hi": [
-        "10 litres",
-        "8 litres",
-        "12 litres",
-        "6 litres"
+        "10 \u0932\u0940\u091f\u0930",
+        "8 \u0932\u0940\u091f\u0930",
+        "12 \u0932\u0940\u091f\u0930",
+        "6 \u0932\u0940\u091f\u0930"
       ],
       "answer_en": "10 litres",
-      "answer_hi": "10 litres",
+      "answer_hi": "10 \u0932\u0940\u091f\u0930",
       "explanation_en": "Milk=30L, Water=10L. For ratio 3:2, water needed = (30*2)/3 = 20L, so add 20-10=10L.",
-      "explanation_hi": "दूध=30L, पानी=10L. अनुपात 3:2 के लिए आवश्यक पानी = (30*2)/3 = 20L, अतः मिलाना होगा 20-10=10L."
+      "explanation_hi": "\u0926\u0942\u0927=30L, \u092a\u093e\u0928\u0940=10L. \u0905\u0928\u0941\u092a\u093e\u0924 3:2 \u0915\u0947 \u0932\u093f\u090f \u0906\u0935\u0936\u094d\u092f\u0915 \u092a\u093e\u0928\u0940 = (30*2)/3 = 20L, \u0905\u0924\u0903 20-10=10L \u092a\u093e\u0928\u0940 \u092e\u093f\u0932\u093e\u090f\u0902\u0964"
     },
     {
       "q_no": 27,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If A can do a piece of work in 12 days and B can do it in 15 days, in how many days will they complete it together?",
-      "question_hi": "यदि A किसी कार्य को 12 दिनों में और B उसे 15 दिनों में कर सकता है, तो वे मिलकर इसे कितने दिनों में पूरा करेंगे?",
+      "question_hi": "\u092f\u0926\u093f A \u090f\u0915 \u0915\u093e\u0930\u094d\u092f \u0915\u094b 12 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u0914\u0930 B \u0909\u0938\u0947 15 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948, \u0924\u094b \u0935\u0947 \u0926\u094b\u0928\u094b\u0902 \u092e\u093f\u0932\u0915\u0930 \u0907\u0938\u0947 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u0930\u0947\u0902\u0917\u0947?",
       "options_en": [
         "6 days",
         "6.67 days",
@@ -615,22 +615,22 @@
         "8 days"
       ],
       "options_hi": [
-        "6 days",
-        "6.67 days",
-        "7 days",
-        "8 days"
+        "6 \u0926\u093f\u0928",
+        "6.67 \u0926\u093f\u0928",
+        "7 \u0926\u093f\u0928",
+        "8 \u0926\u093f\u0928"
       ],
       "answer_en": "6.67 days",
-      "answer_hi": "6.67 days",
+      "answer_hi": "6.67 \u0926\u093f\u0928",
       "explanation_en": "Combined rate = 1/12+1/15 = 9/60 = 3/20. Time = 20/3 = 6.67 days.",
-      "explanation_hi": "संयुक्त दर = 1/12+1/15 = 9/60 = 3/20. समय = 20/3 = 6.67 दिन."
+      "explanation_hi": "\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0926\u0930 = 1/12+1/15 = 9/60 = 3/20. \u0938\u092e\u092f = 20/3 = 6.67 \u0926\u093f\u0928\u0964"
     },
     {
       "q_no": 28,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A train 150 m long crosses a pole in 15 seconds. What is its speed in km/h?",
-      "question_hi": "150 मीटर लंबी एक ट्रेन एक खंभे को 15 सेकंड में पार करती है। किमी/घंटा में इसकी गति क्या है?",
+      "question_hi": "150 \u092e\u0940\u091f\u0930 \u0932\u0902\u092c\u0940 \u090f\u0915 \u091f\u094d\u0930\u0947\u0928 \u090f\u0915 \u0916\u0902\u092d\u0947 \u0915\u094b 15 \u0938\u0947\u0915\u0902\u0921 \u092e\u0947\u0902 \u092a\u093e\u0930 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964 \u0907\u0938\u0915\u0940 \u0917\u0924\u093f \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "30 km/h",
         "36 km/h",
@@ -638,22 +638,22 @@
         "45 km/h"
       ],
       "options_hi": [
-        "30 km/h",
-        "36 km/h",
-        "40 km/h",
-        "45 km/h"
+        "30 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "36 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "40 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "45 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e"
       ],
       "answer_en": "36 km/h",
-      "answer_hi": "36 km/h",
+      "answer_hi": "36 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
       "explanation_en": "Speed = 150/15 = 10 m/s = 10*18/5 = 36 km/h.",
-      "explanation_hi": "गति = 150/15 = 10 मी/से = 10*18/5 = 36 किमी/घंटा."
+      "explanation_hi": "\u0917\u0924\u093f = 150/15 = 10 \u092e\u0940/\u0938\u0947 = 10*18/5 = 36 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e\u0964"
     },
     {
       "q_no": 29,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A car covers a distance of 240 km in 4 hours. What is its speed?",
-      "question_hi": "एक कार 4 घंटे में 240 किमी की दूरी तय करती है। इसकी गति क्या है?",
+      "question_hi": "\u090f\u0915 \u0915\u093e\u0930 4 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902 240 \u0915\u093f\u092e\u0940 \u0915\u0940 \u0926\u0942\u0930\u0940 \u0924\u092f \u0915\u0930\u0924\u0940 \u0939\u0948\u0964 \u0907\u0938\u0915\u0940 \u0917\u0924\u093f \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "50 km/h",
         "60 km/h",
@@ -661,22 +661,22 @@
         "65 km/h"
       ],
       "options_hi": [
-        "50 km/h",
-        "60 km/h",
-        "55 km/h",
-        "65 km/h"
+        "50 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "60 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "55 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "65 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e"
       ],
       "answer_en": "60 km/h",
-      "answer_hi": "60 km/h",
+      "answer_hi": "60 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
       "explanation_en": "Speed = Distance/Time = 240/4 = 60 km/h.",
-      "explanation_hi": "गति = दूरी/समय = 240/4 = 60 किमी/घंटा."
+      "explanation_hi": "\u0917\u0924\u093f = \u0926\u0942\u0930\u0940/\u0938\u092e\u092f = 240/4 = 60 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e\u0964"
     },
     {
       "q_no": 30,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "Two trains 120 m and 180 m long run in opposite directions at 54 km/h and 36 km/h respectively. In how much time will they cross each other?",
-      "question_hi": "120 मीटर और 180 मीटर लंबी दो ट्रेनें विपरीत दिशाओं में क्रमशः 54 किमी/घंटा और 36 किमी/घंटा की गति से चलती हैं। वे एक-दूसरे को कितने समय में पार करेंगी?",
+      "question_hi": "120 \u092e\u0940\u091f\u0930 \u0914\u0930 180 \u092e\u0940\u091f\u0930 \u0932\u0902\u092c\u0940 \u0926\u094b \u091f\u094d\u0930\u0947\u0928\u0947\u0902 \u0915\u094d\u0930\u092e\u0936\u0903 54 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e \u0914\u0930 36 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e \u0915\u0940 \u0917\u0924\u093f \u0938\u0947 \u0935\u093f\u092a\u0930\u0940\u0924 \u0926\u093f\u0936\u093e\u0913\u0902 \u092e\u0947\u0902 \u091a\u0932\u0924\u0940 \u0939\u0948\u0902\u0964 \u0935\u0947 \u090f\u0915-\u0926\u0942\u0938\u0930\u0947 \u0915\u094b \u0915\u093f\u0924\u0928\u0947 \u0938\u092e\u092f \u092e\u0947\u0902 \u092a\u093e\u0930 \u0915\u0930\u0947\u0902\u0917\u0940?",
       "options_en": [
         "10 seconds",
         "12 seconds",
@@ -684,22 +684,22 @@
         "8 seconds"
       ],
       "options_hi": [
-        "10 seconds",
-        "12 seconds",
-        "15 seconds",
-        "8 seconds"
+        "10 \u0938\u0947\u0915\u0902\u0921",
+        "12 \u0938\u0947\u0915\u0902\u0921",
+        "15 \u0938\u0947\u0915\u0902\u0921",
+        "8 \u0938\u0947\u0915\u0902\u0921"
       ],
       "answer_en": "12 seconds",
-      "answer_hi": "12 seconds",
+      "answer_hi": "12 \u0938\u0947\u0915\u0902\u0921",
       "explanation_en": "Relative speed = 54+36=90 km/h = 25 m/s. Total length = 300m. Time = 300/25 = 12 seconds.",
-      "explanation_hi": "सापेक्ष गति = 54+36=90 किमी/घंटा = 25 मी/से. कुल लंबाई = 300मी. समय = 300/25 = 12 सेकंड."
+      "explanation_hi": "\u0938\u093e\u092a\u0947\u0915\u094d\u0937 \u0917\u0924\u093f = 54+36=90 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e = 25 \u092e\u0940/\u0938\u0947. \u0915\u0941\u0932 \u0932\u0902\u092c\u093e\u0908 = 300\u092e\u0940. \u0938\u092e\u092f = 300/25 = 12 \u0938\u0947\u0915\u0902\u0921\u0964"
     },
     {
       "q_no": 31,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the area of a rectangle with length 15 cm and breadth 8 cm?",
-      "question_hi": "15 सेमी लंबाई और 8 सेमी चौड़ाई वाले एक आयत का क्षेत्रफल क्या है?",
+      "question_hi": "15 \u0938\u0947\u092e\u0940 \u0932\u0902\u092c\u093e\u0908 \u0914\u0930 8 \u0938\u0947\u092e\u0940 \u091a\u094c\u0921\u093c\u093e\u0908 \u0935\u093e\u0932\u0947 \u0906\u092f\u0924 \u0915\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "100 sq cm",
         "110 sq cm",
@@ -707,22 +707,22 @@
         "130 sq cm"
       ],
       "options_hi": [
-        "100 sq cm",
-        "110 sq cm",
-        "120 sq cm",
-        "130 sq cm"
+        "100 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "110 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "120 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "130 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "120 sq cm",
-      "answer_hi": "120 sq cm",
+      "answer_hi": "120 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
       "explanation_en": "Area = length * breadth = 15*8 = 120 sq cm.",
-      "explanation_hi": "क्षेत्रफल = लंबाई * चौड़ाई = 15*8 = 120 वर्ग सेमी."
+      "explanation_hi": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 = \u0932\u0902\u092c\u093e\u0908 * \u091a\u094c\u0921\u093c\u093e\u0908 = 15*8 = 120 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 32,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the perimeter of a square with side 9 cm?",
-      "question_hi": "9 सेमी भुजा वाले एक वर्ग का परिमाप क्या है?",
+      "question_hi": "9 \u0938\u0947\u092e\u0940 \u092d\u0941\u091c\u093e \u0935\u093e\u0932\u0947 \u0935\u0930\u094d\u0917 \u0915\u093e \u092a\u0930\u093f\u092e\u093e\u092a \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "27 cm",
         "36 cm",
@@ -730,22 +730,22 @@
         "18 cm"
       ],
       "options_hi": [
-        "27 cm",
-        "36 cm",
-        "81 cm",
-        "18 cm"
+        "27 \u0938\u0947\u092e\u0940",
+        "36 \u0938\u0947\u092e\u0940",
+        "81 \u0938\u0947\u092e\u0940",
+        "18 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "36 cm",
-      "answer_hi": "36 cm",
+      "answer_hi": "36 \u0938\u0947\u092e\u0940",
       "explanation_en": "Perimeter of square = 4*side = 4*9 = 36 cm.",
-      "explanation_hi": "वर्ग का परिमाप = 4*भुजा = 4*9 = 36 सेमी."
+      "explanation_hi": "\u0935\u0930\u094d\u0917 \u0915\u093e \u092a\u0930\u093f\u092e\u093e\u092a = 4*\u092d\u0941\u091c\u093e = 4*9 = 36 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 33,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the area of a circle with radius 7 cm? (Use pi = 22/7)",
-      "question_hi": "7 सेमी त्रिज्या वाले एक वृत्त का क्षेत्रफल क्या है? (pi = 22/7 का उपयोग करें)",
+      "question_hi": "7 \u0938\u0947\u092e\u0940 \u0924\u094d\u0930\u093f\u091c\u094d\u092f\u093e \u0935\u093e\u0932\u0947 \u0935\u0943\u0924\u094d\u0924 \u0915\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 \u0915\u094d\u092f\u093e \u0939\u0948? (pi = 22/7 \u0915\u093e \u0909\u092a\u092f\u094b\u0917 \u0915\u0930\u0947\u0902)",
       "options_en": [
         "154 sq cm",
         "144 sq cm",
@@ -753,22 +753,22 @@
         "164 sq cm"
       ],
       "options_hi": [
-        "154 sq cm",
-        "144 sq cm",
-        "132 sq cm",
-        "164 sq cm"
+        "154 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "144 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "132 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "164 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "154 sq cm",
-      "answer_hi": "154 sq cm",
+      "answer_hi": "154 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
       "explanation_en": "Area = pi*r^2 = (22/7)*7*7 = 154 sq cm.",
-      "explanation_hi": "क्षेत्रफल = pi*r^2 = (22/7)*7*7 = 154 वर्ग सेमी."
+      "explanation_hi": "\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 = pi*r^2 = (22/7)*7*7 = 154 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 34,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the volume of a cube with side 5 cm?",
-      "question_hi": "5 सेमी भुजा वाले एक घन का आयतन क्या है?",
+      "question_hi": "5 \u0938\u0947\u092e\u0940 \u092d\u0941\u091c\u093e \u0935\u093e\u0932\u0947 \u0918\u0928 \u0915\u093e \u0906\u092f\u0924\u0928 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "100 cubic cm",
         "125 cubic cm",
@@ -776,22 +776,22 @@
         "75 cubic cm"
       ],
       "options_hi": [
-        "100 cubic cm",
-        "125 cubic cm",
-        "150 cubic cm",
-        "75 cubic cm"
+        "100 \u0918\u0928 \u0938\u0947\u092e\u0940",
+        "125 \u0918\u0928 \u0938\u0947\u092e\u0940",
+        "150 \u0918\u0928 \u0938\u0947\u092e\u0940",
+        "75 \u0918\u0928 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "125 cubic cm",
-      "answer_hi": "125 cubic cm",
+      "answer_hi": "125 \u0918\u0928 \u0938\u0947\u092e\u0940",
       "explanation_en": "Volume of cube = side^3 = 5^3 = 125 cubic cm.",
-      "explanation_hi": "घन का आयतन = भुजा^3 = 5^3 = 125 घन सेमी."
+      "explanation_hi": "\u0918\u0928 \u0915\u093e \u0906\u092f\u0924\u0928 = \u092d\u0941\u091c\u093e^3 = 5^3 = 125 \u0918\u0928 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 35,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the total surface area of a cube with edge 6 cm?",
-      "question_hi": "6 सेमी किनारे वाले एक घन का कुल पृष्ठीय क्षेत्रफल क्या है?",
+      "question_hi": "6 \u0938\u0947\u092e\u0940 \u0915\u093f\u0928\u093e\u0930\u0947 \u0935\u093e\u0932\u0947 \u0918\u0928 \u0915\u093e \u0915\u0941\u0932 \u092a\u0943\u0937\u094d\u0920\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "216 sq cm",
         "196 sq cm",
@@ -799,22 +799,22 @@
         "226 sq cm"
       ],
       "options_hi": [
-        "216 sq cm",
-        "196 sq cm",
-        "206 sq cm",
-        "226 sq cm"
+        "216 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "196 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "206 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "226 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "216 sq cm",
-      "answer_hi": "216 sq cm",
+      "answer_hi": "216 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
       "explanation_en": "Total surface area of cube = 6*side^2 = 6*36 = 216 sq cm.",
-      "explanation_hi": "घन का कुल पृष्ठीय क्षेत्रफल = 6*भुजा^2 = 6*36 = 216 वर्ग सेमी."
+      "explanation_hi": "\u0918\u0928 \u0915\u093e \u0915\u0941\u0932 \u092a\u0943\u0937\u094d\u0920\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 = 6*\u092d\u0941\u091c\u093e^2 = 6*36 = 216 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 36,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The volume of a cylinder with radius 7 cm and height 10 cm is (use pi=22/7):",
-      "question_hi": "7 सेमी त्रिज्या और 10 सेमी ऊंचाई वाले एक बेलन का आयतन है (pi=22/7 का उपयोग करें):",
+      "question_hi": "7 \u0938\u0947\u092e\u0940 \u0924\u094d\u0930\u093f\u091c\u094d\u092f\u093e \u0914\u0930 10 \u0938\u0947\u092e\u0940 \u090a\u0902\u091a\u093e\u0908 \u0935\u093e\u0932\u0947 \u092c\u0947\u0932\u0928 \u0915\u093e \u0906\u092f\u0924\u0928 \u0939\u0948 (pi=22/7 \u0915\u093e \u0909\u092a\u092f\u094b\u0917 \u0915\u0930\u0947\u0902):",
       "options_en": [
         "1540 cubic cm",
         "1440 cubic cm",
@@ -822,22 +822,22 @@
         "1640 cubic cm"
       ],
       "options_hi": [
-        "1540 cubic cm",
-        "1440 cubic cm",
-        "1340 cubic cm",
-        "1640 cubic cm"
+        "1540 \u0918\u0928 \u0938\u0947\u092e\u0940",
+        "1440 \u0918\u0928 \u0938\u0947\u092e\u0940",
+        "1340 \u0918\u0928 \u0938\u0947\u092e\u0940",
+        "1640 \u0918\u0928 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "1540 cubic cm",
-      "answer_hi": "1540 cubic cm",
+      "answer_hi": "1540 \u0918\u0928 \u0938\u0947\u092e\u0940",
       "explanation_en": "Volume = pi*r^2*h = (22/7)*49*10 = 1540 cubic cm.",
-      "explanation_hi": "आयतन = pi*r^2*h = (22/7)*49*10 = 1540 घन सेमी."
+      "explanation_hi": "\u0906\u092f\u0924\u0928 = pi*r^2*h = (22/7)*49*10 = 1540 \u0918\u0928 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 37,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The area of a triangle with base 12 cm and height 8 cm is:",
-      "question_hi": "12 सेमी आधार और 8 सेमी ऊंचाई वाले एक त्रिभुज का क्षेत्रफल है:",
+      "question_hi": "12 \u0938\u0947\u092e\u0940 \u0906\u0927\u093e\u0930 \u0914\u0930 8 \u0938\u0947\u092e\u0940 \u090a\u0902\u091a\u093e\u0908 \u0935\u093e\u0932\u0947 \u0924\u094d\u0930\u093f\u092d\u0941\u091c \u0915\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 \u0939\u0948:",
       "options_en": [
         "48 sq cm",
         "96 sq cm",
@@ -845,22 +845,22 @@
         "60 sq cm"
       ],
       "options_hi": [
-        "48 sq cm",
-        "96 sq cm",
-        "40 sq cm",
-        "60 sq cm"
+        "48 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "96 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "40 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "60 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "48 sq cm",
-      "answer_hi": "48 sq cm",
+      "answer_hi": "48 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
       "explanation_en": "Area of triangle = (1/2)*base*height = (1/2)*12*8 = 48 sq cm.",
-      "explanation_hi": "त्रिभुज का क्षेत्रफल = (1/2)*आधार*ऊंचाई = (1/2)*12*8 = 48 वर्ग सेमी."
+      "explanation_hi": "\u0924\u094d\u0930\u093f\u092d\u0941\u091c \u0915\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 = (1/2)*\u0906\u0927\u093e\u0930*\u090a\u0902\u091a\u093e\u0908 = (1/2)*12*8 = 48 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 38,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If x + y = 10 and x - y = 4, what is the value of x?",
-      "question_hi": "यदि x + y = 10 और x - y = 4 है, तो x का मान क्या है?",
+      "question_hi": "\u092f\u0926\u093f x + y = 10 \u0914\u0930 x - y = 4 \u0939\u0948, \u0924\u094b x \u0915\u093e \u092e\u093e\u0928 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "6",
         "7",
@@ -876,14 +876,14 @@
       "answer_en": "7",
       "answer_hi": "7",
       "explanation_en": "Adding both equations: 2x=14, x=7.",
-      "explanation_hi": "दोनों समीकरणों को जोड़ने पर: 2x=14, x=7."
+      "explanation_hi": "\u0926\u094b\u0928\u094b\u0902 \u0938\u092e\u0940\u0915\u0930\u0923\u094b\u0902 \u0915\u094b \u091c\u094b\u0921\u093c\u0928\u0947 \u092a\u0930: 2x=14, x=7."
     },
     {
       "q_no": 39,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If x^2 - 5x + 6 = 0, what are the roots of the equation?",
-      "question_hi": "यदि x^2 - 5x + 6 = 0 है, तो समीकरण के मूल क्या हैं?",
+      "question_hi": "\u092f\u0926\u093f x^2 - 5x + 6 = 0 \u0939\u0948, \u0924\u094b \u0938\u092e\u0940\u0915\u0930\u0923 \u0915\u0947 \u092e\u0942\u0932 \u0915\u094d\u092f\u093e \u0939\u0948\u0902?",
       "options_en": [
         "2 and 3",
         "1 and 6",
@@ -891,22 +891,22 @@
         "2 and -3"
       ],
       "options_hi": [
-        "2 and 3",
-        "1 and 6",
-        "-2 and -3",
-        "2 and -3"
+        "2 \u0914\u0930 3",
+        "1 \u0914\u0930 6",
+        "-2 \u0914\u0930 -3",
+        "2 \u0914\u0930 -3"
       ],
       "answer_en": "2 and 3",
-      "answer_hi": "2 and 3",
+      "answer_hi": "2 \u0914\u0930 3",
       "explanation_en": "x^2-5x+6=(x-2)(x-3)=0, so x=2 or x=3.",
-      "explanation_hi": "x^2-5x+6=(x-2)(x-3)=0, अतः x=2 या x=3."
+      "explanation_hi": "x^2-5x+6=(x-2)(x-3)=0, \u0905\u0924\u0903 x=2 \u092f\u093e x=3."
     },
     {
       "q_no": 40,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the value of a^2 - b^2 if a+b=12 and a-b=4?",
-      "question_hi": "यदि a+b=12 और a-b=4 है, तो a^2 - b^2 का मान क्या है?",
+      "question_hi": "\u092f\u0926\u093f a+b=12 \u0914\u0930 a-b=4 \u0939\u0948, \u0924\u094b a^2 - b^2 \u0915\u093e \u092e\u093e\u0928 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "48",
         "36",
@@ -927,9 +927,9 @@
     {
       "q_no": 41,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A sum of Rs. 6000 becomes Rs. 7200 in 2 years at simple interest. What is the rate of interest per annum?",
-      "question_hi": "6000 रुपये की एक राशि साधारण ब्याज पर 2 वर्षों में 7200 रुपये हो जाती है। वार्षिक ब्याज दर क्या है?",
+      "question_hi": "6000 \u0930\u0941\u092a\u092f\u0947 \u0915\u0940 \u0930\u093e\u0936\u093f \u0938\u093e\u0927\u093e\u0930\u0923 \u092c\u094d\u092f\u093e\u091c \u092a\u0930 2 \u0935\u0930\u094d\u0937\u094b\u0902 \u092e\u0947\u0902 7200 \u0930\u0941\u092a\u092f\u0947 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u092c\u094d\u092f\u093e\u091c \u0926\u0930 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "8%",
         "10%",
@@ -945,14 +945,14 @@
       "answer_en": "10%",
       "answer_hi": "10%",
       "explanation_en": "SI = 7200-6000 = 1200. Rate = (SI*100)/(P*T) = (1200*100)/(6000*2) = 10%.",
-      "explanation_hi": "SI = 7200-6000 = 1200. दर = (SI*100)/(P*T) = (1200*100)/(6000*2) = 10%."
+      "explanation_hi": "SI = 7200-6000 = 1200. \u0926\u0930 = (SI*100)/(P*T) = (1200*100)/(6000*2) = 10%."
     },
     {
       "q_no": 42,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The ages of A and B are in the ratio 5:7. After 4 years, the ratio will be 3:4. What is A's present age?",
-      "question_hi": "A और B की आयु का अनुपात 5:7 है। 4 वर्ष बाद यह अनुपात 3:4 हो जाएगा। A की वर्तमान आयु क्या है?",
+      "question_hi": "A \u0914\u0930 B \u0915\u0940 \u0906\u092f\u0941 \u0915\u093e \u0905\u0928\u0941\u092a\u093e\u0924 5:7 \u0939\u0948\u0964 4 \u0935\u0930\u094d\u0937 \u092c\u093e\u0926 \u092f\u0939 \u0905\u0928\u0941\u092a\u093e\u0924 3:4 \u0939\u094b \u091c\u093e\u090f\u0917\u093e\u0964 A \u0915\u0940 \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u0906\u092f\u0941 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "15 years",
         "18 years",
@@ -960,22 +960,22 @@
         "16 years"
       ],
       "options_hi": [
-        "15 years",
-        "18 years",
-        "20 years",
-        "16 years"
+        "15 \u0935\u0930\u094d\u0937",
+        "18 \u0935\u0930\u094d\u0937",
+        "20 \u0935\u0930\u094d\u0937",
+        "16 \u0935\u0930\u094d\u0937"
       ],
       "answer_en": "20 years",
-      "answer_hi": "20 years",
+      "answer_hi": "20 \u0935\u0930\u094d\u0937",
       "explanation_en": "Let ages be 5x and 7x. (5x+4)/(7x+4)=3/4. 20x+16=21x+12, x=4. A's age = 5*4=20 years.",
-      "explanation_hi": "मान लीजिए आयु 5x और 7x है। (5x+4)/(7x+4)=3/4. 20x+16=21x+12, x=4. A की आयु = 5*4=20 वर्ष."
+      "explanation_hi": "\u092e\u093e\u0928 \u0932\u0940\u091c\u093f\u090f \u0906\u092f\u0941 5x \u0914\u0930 7x \u0939\u0948\u0964 (5x+4)/(7x+4)=3/4. 20x+16=21x+12, x=4. A \u0915\u0940 \u0906\u092f\u0941 = 5*4=20 \u0935\u0930\u094d\u0937\u0964"
     },
     {
       "q_no": 43,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "In a class of 60 students, 40% are girls. How many boys are there in the class?",
-      "question_hi": "60 छात्रों की एक कक्षा में 40% लड़कियां हैं। कक्षा में कितने लड़के हैं?",
+      "question_hi": "60 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0940 \u090f\u0915 \u0915\u0915\u094d\u0937\u093e \u092e\u0947\u0902 40% \u0932\u0921\u093c\u0915\u093f\u092f\u093e\u0902 \u0939\u0948\u0902\u0964 \u0915\u0915\u094d\u0937\u093e \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0947 \u0932\u0921\u093c\u0915\u0947 \u0939\u0948\u0902?",
       "options_en": [
         "24",
         "36",
@@ -991,14 +991,14 @@
       "answer_en": "36",
       "answer_hi": "36",
       "explanation_en": "Girls = 40% of 60 = 24. Boys = 60-24 = 36.",
-      "explanation_hi": "लड़कियां = 60 का 40% = 24. लड़के = 60-24 = 36."
+      "explanation_hi": "\u0932\u0921\u093c\u0915\u093f\u092f\u093e\u0902 = 60 \u0915\u093e 40% = 24. \u0932\u0921\u093c\u0915\u0947 = 60-24 = 36."
     },
     {
       "q_no": 44,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A bag contains coins of Re. 1, 50-paise, and 25-paise in the ratio 3:4:12, with a total value of Rs. 600. How many 25-paise coins are there?",
-      "question_hi": "एक थैले में 1 रुपये, 50-पैसे, और 25-पैसे के सिक्के 3:4:12 के अनुपात में हैं, जिनका कुल मूल्य 600 रुपये है। 25-पैसे के कितने सिक्के हैं?",
+      "question_hi": "\u090f\u0915 \u0925\u0948\u0932\u0947 \u092e\u0947\u0902 1 \u0930\u0941\u092a\u092f\u0947, 50-\u092a\u0948\u0938\u0947 \u0914\u0930 25-\u092a\u0948\u0938\u0947 \u0915\u0947 \u0938\u093f\u0915\u094d\u0915\u0947 3:4:12 \u0915\u0947 \u0905\u0928\u0941\u092a\u093e\u0924 \u092e\u0947\u0902 \u0939\u0948\u0902, \u091c\u093f\u0928\u0915\u093e \u0915\u0941\u0932 \u092e\u0942\u0932\u094d\u092f 600 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948\u0964 25-\u092a\u0948\u0938\u0947 \u0915\u0947 \u0915\u093f\u0924\u0928\u0947 \u0938\u093f\u0915\u094d\u0915\u0947 \u0939\u0948\u0902?",
       "options_en": [
         "900",
         "480",
@@ -1014,14 +1014,14 @@
       "answer_en": "900",
       "answer_hi": "900",
       "explanation_en": "Let coins be 3x, 4x, 12x. Value = 3x(1) + 4x(0.5) + 12x(0.25) = 3x+2x+3x = 8x = 600, so x=75. 25-paise coins = 12*75 = 900.",
-      "explanation_hi": "मान लीजिए सिक्के 3x, 4x, 12x हैं। मूल्य = 3x(1) + 4x(0.5) + 12x(0.25) = 3x+2x+3x = 8x = 600, अतः x=75. 25-पैसे के सिक्के = 12*75 = 900."
+      "explanation_hi": "\u092e\u093e\u0928 \u0932\u0940\u091c\u093f\u090f \u0938\u093f\u0915\u094d\u0915\u0947 3x, 4x, 12x \u0939\u0948\u0902\u0964 \u092e\u0942\u0932\u094d\u092f = 3x(1) + 4x(0.5) + 12x(0.25) = 8x = 600, \u0905\u0924\u0903 x=75. 25-\u092a\u0948\u0938\u0947 \u0915\u0947 \u0938\u093f\u0915\u094d\u0915\u0947 = 12*75 = 900."
     },
     {
       "q_no": 45,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The following table shows marks scored by a student in 5 subjects: Maths-85, Science-78, English-72, Hindi-80, Social Science-75. What is the average marks scored?",
-      "question_hi": "निम्न तालिका एक छात्र द्वारा 5 विषयों में प्राप्त अंक दर्शाती है: गणित-85, विज्ञान-78, अंग्रेजी-72, हिंदी-80, सामाजिक विज्ञान-75. प्राप्त औसत अंक क्या हैं?",
+      "question_hi": "\u0928\u093f\u092e\u094d\u0928\u0932\u093f\u0916\u093f\u0924 \u0924\u093e\u0932\u093f\u0915\u093e \u090f\u0915 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940 \u0926\u094d\u0935\u093e\u0930\u093e 5 \u0935\u093f\u0937\u092f\u094b\u0902 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0905\u0902\u0915 \u0926\u0930\u094d\u0936\u093e\u0924\u0940 \u0939\u0948: \u0917\u0923\u093f\u0924-85, \u0935\u093f\u091c\u094d\u091e\u093e\u0928-78, \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940-72, \u0939\u093f\u0902\u0926\u0940-80, \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928-75\u0964 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0905\u0902\u0915\u094b\u0902 \u0915\u093e \u0914\u0938\u0924 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "76",
         "78",
@@ -1037,14 +1037,14 @@
       "answer_en": "78",
       "answer_hi": "78",
       "explanation_en": "Sum = 85+78+72+80+75 = 390. Average = 390/5 = 78.",
-      "explanation_hi": "योग = 85+78+72+80+75 = 390. औसत = 390/5 = 78."
+      "explanation_hi": "\u092f\u094b\u0917 = 85+78+72+80+75 = 390. \u0914\u0938\u0924 = 390/5 = 78."
     },
     {
       "q_no": 46,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A pie chart shows a company's expenses: Salaries 40%, Rent 20%, Marketing 15%, Utilities 10%, Others 15%. If total expense is Rs. 10,00,000, what is the amount spent on Marketing?",
-      "question_hi": "एक पाई चार्ट किसी कंपनी के खर्चों को दर्शाता है: वेतन 40%, किराया 20%, मार्केटिंग 15%, उपयोगिताएं 10%, अन्य 15%. यदि कुल खर्च 10,00,000 रुपये है, तो मार्केटिंग पर खर्च की गई राशि क्या है?",
+      "question_hi": "\u090f\u0915 \u092a\u093e\u0908 \u091a\u093e\u0930\u094d\u091f \u0915\u093f\u0938\u0940 \u0915\u0902\u092a\u0928\u0940 \u0915\u0947 \u0916\u0930\u094d\u091a\u094b\u0902 \u0915\u094b \u0926\u0930\u094d\u0936\u093e\u0924\u093e \u0939\u0948: \u0935\u0947\u0924\u0928 40%, \u0915\u093f\u0930\u093e\u092f\u093e 20%, \u092e\u093e\u0930\u094d\u0915\u0947\u091f\u093f\u0902\u0917 15%, \u0909\u092a\u092f\u094b\u0917\u093f\u0924\u093e\u090f\u0902 10%, \u0905\u0928\u094d\u092f 15%\u0964 \u092f\u0926\u093f \u0915\u0941\u0932 \u0916\u0930\u094d\u091a 10,00,000 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948, \u0924\u094b \u092e\u093e\u0930\u094d\u0915\u0947\u091f\u093f\u0902\u0917 \u092a\u0930 \u0916\u0930\u094d\u091a \u0915\u0940 \u0917\u0908 \u0930\u093e\u0936\u093f \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "Rs. 1,00,000",
         "Rs. 1,50,000",
@@ -1052,22 +1052,22 @@
         "Rs. 2,50,000"
       ],
       "options_hi": [
-        "Rs. 1,00,000",
-        "Rs. 1,50,000",
-        "Rs. 2,00,000",
-        "Rs. 2,50,000"
+        "\u20b91,00,000",
+        "\u20b91,50,000",
+        "\u20b92,00,000",
+        "\u20b92,50,000"
       ],
       "answer_en": "Rs. 1,50,000",
-      "answer_hi": "Rs. 1,50,000",
+      "answer_hi": "\u20b91,50,000",
       "explanation_en": "Marketing = 15% of 10,00,000 = 1,50,000.",
-      "explanation_hi": "मार्केटिंग = 10,00,000 का 15% = 1,50,000."
+      "explanation_hi": "\u092e\u093e\u0930\u094d\u0915\u0947\u091f\u093f\u0902\u0917 = 10,00,000 \u0915\u093e 15% = 1,50,000."
     },
     {
       "q_no": 47,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If the numerator of a fraction is increased by 20% and the denominator is decreased by 10%, the fraction becomes 4/5. What was the original fraction?",
-      "question_hi": "यदि किसी भिन्न के अंश में 20% की वृद्धि की जाती है और हर में 10% की कमी की जाती है, तो भिन्न 4/5 हो जाती है। मूल भिन्न क्या थी?",
+      "question_hi": "\u092f\u0926\u093f \u0915\u093f\u0938\u0940 \u092d\u093f\u0928\u094d\u0928 \u0915\u0947 \u0905\u0902\u0936 \u092e\u0947\u0902 20% \u0915\u0940 \u0935\u0943\u0926\u094d\u0927\u093f \u0914\u0930 \u0939\u0930 \u092e\u0947\u0902 10% \u0915\u0940 \u0915\u092e\u0940 \u0915\u0940 \u091c\u093e\u090f, \u0924\u094b \u092d\u093f\u0928\u094d\u0928 4/5 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u092e\u0942\u0932 \u092d\u093f\u0928\u094d\u0928 \u0915\u094d\u092f\u093e \u0925\u0940?",
       "options_en": [
         "3/5",
         "1/2",
@@ -1083,14 +1083,14 @@
       "answer_en": "3/5",
       "answer_hi": "3/5",
       "explanation_en": "Let fraction = x/y. (1.2x)/(0.9y) = 4/5, so x/y = (4*0.9)/(5*1.2) = 3.6/6 = 0.6 = 3/5.",
-      "explanation_hi": "मान लीजिए भिन्न = x/y. (1.2x)/(0.9y) = 4/5, अतः x/y = (4*0.9)/(5*1.2) = 3.6/6 = 0.6 = 3/5."
+      "explanation_hi": "\u092e\u093e\u0928 \u0932\u0940\u091c\u093f\u090f \u092d\u093f\u0928\u094d\u0928 = x/y. (1.2x)/(0.9y) = 4/5, \u0905\u0924\u0903 x/y = (4*0.9)/(5*1.2) = 0.6 = 3/5."
     },
     {
       "q_no": 48,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The compound interest on a sum for 2 years at 5% per annum is Rs. 41. What is the simple interest on the same sum for the same time and rate?",
-      "question_hi": "किसी राशि पर 2 वर्षों के लिए 5% वार्षिक दर से चक्रवृद्धि ब्याज 41 रुपये है। समान राशि, समय और दर पर साधारण ब्याज क्या है?",
+      "question_hi": "5% \u0935\u093e\u0930\u094d\u0937\u093f\u0915 \u0926\u0930 \u092a\u0930 2 \u0935\u0930\u094d\u0937\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u090f\u0915 \u0930\u093e\u0936\u093f \u092a\u0930 \u091a\u0915\u094d\u0930\u0935\u0943\u0926\u094d\u0927\u093f \u092c\u094d\u092f\u093e\u091c 41 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948\u0964 \u0938\u092e\u093e\u0928 \u0930\u093e\u0936\u093f, \u0938\u092e\u092f \u0914\u0930 \u0926\u0930 \u092a\u0930 \u0938\u093e\u0927\u093e\u0930\u0923 \u092c\u094d\u092f\u093e\u091c \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e?",
       "options_en": [
         "Rs. 40",
         "Rs. 38",
@@ -1098,22 +1098,22 @@
         "Rs. 45"
       ],
       "options_hi": [
-        "Rs. 40",
-        "Rs. 38",
-        "Rs. 42",
-        "Rs. 45"
+        "\u20b940",
+        "\u20b938",
+        "\u20b942",
+        "\u20b945"
       ],
       "answer_en": "Rs. 40",
-      "answer_hi": "Rs. 40",
+      "answer_hi": "\u20b940",
       "explanation_en": "This is a classic CI-SI relation problem where SI is slightly less than CI; with these standard values SI = Rs. 40.",
-      "explanation_hi": "यह एक विशिष्ट CI-SI संबंध वाली समस्या है जहां SI, CI से थोड़ा कम होता है; इन मानक मानों के साथ SI = 40 रुपये है."
+      "explanation_hi": "\u092f\u0939 CI-SI \u0938\u0902\u092c\u0902\u0927 \u0915\u0940 \u090f\u0915 \u0938\u093e\u092e\u093e\u0928\u094d\u092f \u0938\u092e\u0938\u094d\u092f\u093e \u0939\u0948 \u091c\u0939\u093e\u0902 SI, CI \u0938\u0947 \u0925\u094b\u0921\u093c\u093e \u0915\u092e \u0939\u094b\u0924\u093e \u0939\u0948; \u0907\u0928 \u092e\u093e\u0928\u0915 \u092e\u0942\u0932\u094d\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 SI = 40 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948\u0964"
     },
     {
       "q_no": 49,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A can complete a work in 20 days and B in 30 days. They work together for 5 days, after which A leaves. In how many more days will B finish the remaining work?",
-      "question_hi": "A किसी कार्य को 20 दिनों में और B उसे 30 दिनों में पूरा कर सकता है। वे 5 दिनों तक साथ काम करते हैं, जिसके बाद A काम छोड़ देता है। B शेष कार्य को कितने और दिनों में पूरा करेगा?",
+      "question_hi": "A \u090f\u0915 \u0915\u093e\u0930\u094d\u092f \u0915\u094b 20 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u0914\u0930 B \u0909\u0938\u0947 30 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948\u0964 \u0935\u0947 5 \u0926\u093f\u0928\u094b\u0902 \u0924\u0915 \u0938\u093e\u0925 \u0915\u093e\u092e \u0915\u0930\u0924\u0947 \u0939\u0948\u0902, \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0926 A \u091a\u0932\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0936\u0947\u0937 \u0915\u093e\u0930\u094d\u092f \u0915\u094b \u092a\u0942\u0930\u093e \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 B \u0915\u094b \u0914\u0930 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928 \u0932\u0917\u0947\u0902\u0917\u0947?",
       "options_en": [
         "12.5 days",
         "15 days",
@@ -1121,22 +1121,22 @@
         "17.5 days"
       ],
       "options_hi": [
-        "12.5 days",
-        "15 days",
-        "10 days",
-        "17.5 days"
+        "12.5 \u0926\u093f\u0928",
+        "15 \u0926\u093f\u0928",
+        "10 \u0926\u093f\u0928",
+        "17.5 \u0926\u093f\u0928"
       ],
       "answer_en": "15 days",
-      "answer_hi": "15 days",
+      "answer_hi": "15 \u0926\u093f\u0928",
       "explanation_en": "Combined rate for 5 days = 5*(1/20+1/30) = 5*(5/60) = 25/60 = 5/12 of work done. Remaining = 7/12. B alone finishes remaining in (7/12)*30 = 17.5 days.",
-      "explanation_hi": "5 दिनों की संयुक्त दर = 5*(1/20+1/30) = 5*(5/60) = 25/60 = कार्य का 5/12 भाग पूरा हुआ। शेष = 7/12. B अकेले शेष कार्य (7/12)*30 = 17.5 दिनों में पूरा करेगा."
+      "explanation_hi": "5 \u0926\u093f\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0926\u0930 = 5*(1/20+1/30) = 5/12 \u0915\u093e\u0930\u094d\u092f \u092a\u0942\u0930\u093e\u0964 \u0936\u0947\u0937 = 7/12. B \u0905\u0915\u0947\u0932\u0947 \u0936\u0947\u0937 \u0915\u093e\u0930\u094d\u092f (7/12)*30 = 17.5 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u0930\u0947\u0917\u093e\u0964"
     },
     {
       "q_no": 50,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the value of 7! (7 factorial)?",
-      "question_hi": "7! (7 का फैक्टोरियल) का मान क्या है?",
+      "question_hi": "7! (7 \u092b\u0948\u0915\u094d\u091f\u094b\u0930\u093f\u092f\u0932) \u0915\u093e \u092e\u093e\u0928 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "720",
         "5040",
@@ -1157,9 +1157,9 @@
     {
       "q_no": 51,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "In how many ways can the letters of the word 'RAIL' be arranged?",
-      "question_hi": "'RAIL' शब्द के अक्षरों को कितने तरीकों से व्यवस्थित किया जा सकता है?",
+      "question_hi": "\u0936\u092c\u094d\u0926 'RAIL' \u0915\u0947 \u0905\u0915\u094d\u0937\u0930\u094b\u0902 \u0915\u094b \u0915\u093f\u0924\u0928\u0947 \u0924\u0930\u0940\u0915\u094b\u0902 \u0938\u0947 \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948?",
       "options_en": [
         "12",
         "24",
@@ -1175,14 +1175,14 @@
       "answer_en": "24",
       "answer_hi": "24",
       "explanation_en": "'RAIL' has 4 distinct letters, so arrangements = 4! = 24.",
-      "explanation_hi": "'RAIL' में 4 भिन्न अक्षर हैं, अतः व्यवस्थाएं = 4! = 24."
+      "explanation_hi": "'RAIL' \u092e\u0947\u0902 4 \u0905\u0932\u0917-\u0905\u0932\u0917 \u0905\u0915\u094d\u0937\u0930 \u0939\u0948\u0902, \u0905\u0924\u0903 \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e\u090f\u0902 = 4! = 24."
     },
     {
       "q_no": 52,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A boat goes 30 km downstream in 2 hours and returns upstream in 3 hours. What is the speed of the boat in still water?",
-      "question_hi": "एक नाव धारा के अनुकूल 30 किमी 2 घंटे में जाती है और धारा के प्रतिकूल 3 घंटे में वापस आती है। शांत जल में नाव की गति क्या है?",
+      "question_hi": "\u090f\u0915 \u0928\u093e\u0935 \u0927\u093e\u0930\u093e \u0915\u0947 \u0905\u0928\u0941\u0915\u0942\u0932 30 \u0915\u093f\u092e\u0940 2 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902 \u091c\u093e\u0924\u0940 \u0939\u0948 \u0914\u0930 \u0927\u093e\u0930\u093e \u0915\u0947 \u092a\u094d\u0930\u0924\u093f\u0915\u0942\u0932 3 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902 \u0932\u094c\u091f\u0924\u0940 \u0939\u0948\u0964 \u0936\u093e\u0902\u0924 \u091c\u0932 \u092e\u0947\u0902 \u0928\u093e\u0935 \u0915\u0940 \u0917\u0924\u093f \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "10 km/h",
         "12.5 km/h",
@@ -1190,22 +1190,22 @@
         "9 km/h"
       ],
       "options_hi": [
-        "10 km/h",
-        "12.5 km/h",
-        "15 km/h",
-        "9 km/h"
+        "10 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "12.5 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "15 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
+        "9 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e"
       ],
       "answer_en": "12.5 km/h",
-      "answer_hi": "12.5 km/h",
+      "answer_hi": "12.5 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e",
       "explanation_en": "Downstream speed=15 km/h, Upstream speed=10 km/h. Speed in still water = (15+10)/2 = 12.5 km/h.",
-      "explanation_hi": "धारा के अनुकूल गति=15 किमी/घंटा, धारा के प्रतिकूल गति=10 किमी/घंटा. शांत जल में गति = (15+10)/2 = 12.5 किमी/घंटा."
+      "explanation_hi": "\u0927\u093e\u0930\u093e \u0905\u0928\u0941\u0915\u0942\u0932 \u0917\u0924\u093f=15 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e, \u0927\u093e\u0930\u093e \u092a\u094d\u0930\u0924\u093f\u0915\u0942\u0932 \u0917\u0924\u093f=10 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e. \u0936\u093e\u0902\u0924 \u091c\u0932 \u092e\u0947\u0902 \u0917\u0924\u093f = (15+10)/2 = 12.5 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e\u0964"
     },
     {
       "q_no": 53,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "The probability of getting a head when a fair coin is tossed once is:",
-      "question_hi": "एक निष्पक्ष सिक्के को एक बार उछालने पर चित (head) आने की प्रायिकता क्या है?",
+      "question_hi": "\u090f\u0915 \u0928\u093f\u0937\u094d\u092a\u0915\u094d\u0937 \u0938\u093f\u0915\u094d\u0915\u0947 \u0915\u094b \u090f\u0915 \u092c\u093e\u0930 \u0909\u091b\u093e\u0932\u0928\u0947 \u092a\u0930 \u091a\u093f\u0924 (\u0939\u0947\u0921) \u0906\u0928\u0947 \u0915\u0940 \u092a\u094d\u0930\u093e\u092f\u093f\u0915\u0924\u093e \u0939\u0948:",
       "options_en": [
         "1/4",
         "1/2",
@@ -1221,14 +1221,14 @@
       "answer_en": "1/2",
       "answer_hi": "1/2",
       "explanation_en": "A fair coin has two equally likely outcomes, so the probability of heads is 1/2.",
-      "explanation_hi": "एक निष्पक्ष सिक्के के दो समान रूप से संभावित परिणाम होते हैं, अतः चित आने की प्रायिकता 1/2 है."
+      "explanation_hi": "\u090f\u0915 \u0928\u093f\u0937\u094d\u092a\u0915\u094d\u0937 \u0938\u093f\u0915\u094d\u0915\u0947 \u0915\u0947 \u0926\u094b \u0938\u092e\u093e\u0928 \u0930\u0942\u092a \u0938\u0947 \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u092a\u0930\u093f\u0923\u093e\u092e \u0939\u094b\u0924\u0947 \u0939\u0948\u0902, \u0905\u0924\u0903 \u091a\u093f\u0924 \u0906\u0928\u0947 \u0915\u0940 \u092a\u094d\u0930\u093e\u092f\u093f\u0915\u0924\u093e 1/2 \u0939\u0948\u0964"
     },
     {
       "q_no": 54,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the probability of getting a sum of 7 when two dice are rolled?",
-      "question_hi": "दो पासे फेंकने पर योग 7 आने की प्रायिकता क्या है?",
+      "question_hi": "\u0926\u094b \u092a\u093e\u0938\u0947 \u092b\u0947\u0902\u0915\u0928\u0947 \u092a\u0930 \u092f\u094b\u0917 7 \u0906\u0928\u0947 \u0915\u0940 \u092a\u094d\u0930\u093e\u092f\u093f\u0915\u0924\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "1/6",
         "1/12",
@@ -1244,14 +1244,14 @@
       "answer_en": "1/6",
       "answer_hi": "1/6",
       "explanation_en": "There are 6 favourable outcomes (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) out of 36 total, giving 6/36=1/6.",
-      "explanation_hi": "कुल 36 में से 6 अनुकूल परिणाम हैं (1,6),(2,5),(3,4),(4,3),(5,2),(6,1), जिससे 6/36=1/6 मिलता है."
+      "explanation_hi": "\u0915\u0941\u0932 36 \u092e\u0947\u0902 \u0938\u0947 6 \u0905\u0928\u0941\u0915\u0942\u0932 \u092a\u0930\u093f\u0923\u093e\u092e (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) \u0939\u0948\u0902, \u0905\u0924\u0903 6/36=1/6."
     },
     {
       "q_no": 55,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "If the perimeter of a rectangle is 60 cm and its length is 18 cm, what is its area?",
-      "question_hi": "यदि एक आयत का परिमाप 60 सेमी है और उसकी लंबाई 18 सेमी है, तो उसका क्षेत्रफल क्या है?",
+      "question_hi": "\u092f\u0926\u093f \u090f\u0915 \u0906\u092f\u0924 \u0915\u093e \u092a\u0930\u093f\u092e\u093e\u092a 60 \u0938\u0947\u092e\u0940 \u0914\u0930 \u0932\u0902\u092c\u093e\u0908 18 \u0938\u0947\u092e\u0940 \u0939\u0948, \u0924\u094b \u0907\u0938\u0915\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "216 sq cm",
         "196 sq cm",
@@ -1259,22 +1259,22 @@
         "226 sq cm"
       ],
       "options_hi": [
-        "216 sq cm",
-        "196 sq cm",
-        "206 sq cm",
-        "226 sq cm"
+        "216 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "196 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "206 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
+        "226 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940"
       ],
       "answer_en": "216 sq cm",
-      "answer_hi": "216 sq cm",
+      "answer_hi": "216 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940",
       "explanation_en": "Perimeter=2(l+b)=60, so l+b=30, b=30-18=12. Area=l*b=18*12=216 sq cm.",
-      "explanation_hi": "परिमाप=2(l+b)=60, अतः l+b=30, b=30-18=12. क्षेत्रफल=l*b=18*12=216 वर्ग सेमी."
+      "explanation_hi": "\u092a\u0930\u093f\u092e\u093e\u092a=2(l+b)=60, \u0905\u0924\u0903 l+b=30, b=30-18=12. \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u092b\u0932=l*b=18*12=216 \u0935\u0930\u094d\u0917 \u0938\u0947\u092e\u0940\u0964"
     },
     {
       "q_no": 56,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the next number in the series: 2, 6, 12, 20, 30, ?",
-      "question_hi": "श्रृंखला में अगली संख्या क्या है: 2, 6, 12, 20, 30, ?",
+      "question_hi": "\u0936\u094d\u0930\u0943\u0902\u0916\u0932\u093e \u092e\u0947\u0902 \u0905\u0917\u0932\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094d\u092f\u093e \u0939\u0948: 2, 6, 12, 20, 30, ?",
       "options_en": [
         "40",
         "42",
@@ -1290,14 +1290,14 @@
       "answer_en": "42",
       "answer_hi": "42",
       "explanation_en": "Differences are 4,6,8,10,12 - each term is n(n+1): 42=6*7.",
-      "explanation_hi": "अंतर 4,6,8,10,12 हैं - प्रत्येक पद n(n+1) है: 42=6*7."
+      "explanation_hi": "\u0905\u0902\u0924\u0930 4,6,8,10,12 \u0939\u0948\u0902 - \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u092a\u0926 n(n+1) \u0939\u0948: 42=6*7."
     },
     {
       "q_no": 57,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A sum of money doubles itself in 8 years at simple interest. In how many years will it become 4 times itself?",
-      "question_hi": "साधारण ब्याज पर एक राशि 8 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुना हो जाएगी?",
+      "question_hi": "\u090f\u0915 \u0930\u093e\u0936\u093f \u0938\u093e\u0927\u093e\u0930\u0923 \u092c\u094d\u092f\u093e\u091c \u092a\u0930 8 \u0935\u0930\u094d\u0937\u094b\u0902 \u092e\u0947\u0902 \u0926\u094b\u0917\u0941\u0928\u0940 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u092f\u0939 \u0905\u092a\u0928\u0947 \u0906\u092a \u0915\u093e 4 \u0917\u0941\u0928\u093e \u0915\u093f\u0924\u0928\u0947 \u0935\u0930\u094d\u0937\u094b\u0902 \u092e\u0947\u0902 \u092c\u0928\u0947\u0917\u0940?",
       "options_en": [
         "16 years",
         "24 years",
@@ -1305,22 +1305,22 @@
         "32 years"
       ],
       "options_hi": [
-        "16 years",
-        "24 years",
-        "20 years",
-        "32 years"
+        "16 \u0935\u0930\u094d\u0937",
+        "24 \u0935\u0930\u094d\u0937",
+        "20 \u0935\u0930\u094d\u0937",
+        "32 \u0935\u0930\u094d\u0937"
       ],
       "answer_en": "24 years",
-      "answer_hi": "24 years",
+      "answer_hi": "24 \u0935\u0930\u094d\u0937",
       "explanation_en": "If P doubles in 8 years, SI per 8 years = P, so rate implies triple growth (from P to 4P is 3P interest) takes 24 years.",
-      "explanation_hi": "यदि P, 8 वर्षों में दोगुनी होती है, तो प्रति 8 वर्ष SI = P होता है, अतः P से 4P (जिसमें 3P ब्याज है) तक पहुंचने में 24 वर्ष लगते हैं."
+      "explanation_hi": "\u092f\u0926\u093f P, 8 \u0935\u0930\u094d\u0937\u094b\u0902 \u092e\u0947\u0902 \u0926\u094b\u0917\u0941\u0928\u093e \u0939\u094b\u0924\u093e \u0939\u0948, \u0924\u094b \u092a\u094d\u0930\u0924\u093f 8 \u0935\u0930\u094d\u0937 SI = P \u0939\u0948, \u0905\u0924\u0903 4 \u0917\u0941\u0928\u093e (3P \u092c\u094d\u092f\u093e\u091c) \u0939\u094b\u0928\u0947 \u092e\u0947\u0902 24 \u0935\u0930\u094d\u0937 \u0932\u0917\u0947\u0902\u0917\u0947\u0964"
     },
     {
       "q_no": 58,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A shopkeeper marks his goods 20% above cost price and allows a discount of 10%. What is his profit percentage?",
-      "question_hi": "एक दुकानदार अपने सामान पर लागत मूल्य से 20% अधिक अंकित करता है और 10% की छूट देता है। उसका लाभ प्रतिशत क्या है?",
+      "question_hi": "\u090f\u0915 \u0926\u0941\u0915\u093e\u0928\u0926\u093e\u0930 \u0905\u092a\u0928\u0947 \u0938\u093e\u092e\u093e\u0928 \u092a\u0930 \u0915\u094d\u0930\u092f \u092e\u0942\u0932\u094d\u092f \u0938\u0947 20% \u0905\u0927\u093f\u0915 \u0905\u0902\u0915\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 \u0914\u0930 10% \u0915\u0940 \u091b\u0942\u091f \u0926\u0947\u0924\u093e \u0939\u0948\u0964 \u0909\u0938\u0915\u093e \u0932\u093e\u092d \u092a\u094d\u0930\u0924\u093f\u0936\u0924 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "8%",
         "10%",
@@ -1336,14 +1336,14 @@
       "answer_en": "8%",
       "answer_hi": "8%",
       "explanation_en": "Let CP=100. MP=120. SP=120*0.9=108. Profit%=8%.",
-      "explanation_hi": "मान लीजिए CP=100. MP=120. SP=120*0.9=108. लाभ%=8%."
+      "explanation_hi": "\u092e\u093e\u0928 \u0932\u0940\u091c\u093f\u090f CP=100. MP=120. SP=120*0.9=108. \u0932\u093e\u092d%=8%."
     },
     {
       "q_no": 59,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "What is the value of (2/3) of 90 minus (1/5) of 50?",
-      "question_hi": "90 के (2/3) में से 50 के (1/5) को घटाने पर मान क्या है?",
+      "question_hi": "90 \u0915\u093e (2/3) \u0918\u091f\u093e 50 \u0915\u093e (1/5) \u0915\u093e \u092e\u093e\u0928 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "50",
         "60",
@@ -1364,9 +1364,9 @@
     {
       "q_no": 60,
       "category_en": "Mathematics",
-      "category_hi": "गणित",
+      "category_hi": "\u0917\u0923\u093f\u0924",
       "question_en": "A train running at 72 km/h crosses a platform 250 m long in 26 seconds. What is the length of the train?",
-      "question_hi": "72 किमी/घंटा की गति से चलने वाली एक ट्रेन 250 मीटर लंबे एक प्लेटफॉर्म को 26 सेकंड में पार करती है। ट्रेन की लंबाई क्या है?",
+      "question_hi": "72 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e \u0915\u0940 \u0917\u0924\u093f \u0938\u0947 \u091a\u0932 \u0930\u0939\u0940 \u090f\u0915 \u091f\u094d\u0930\u0947\u0928 250 \u092e\u0940\u091f\u0930 \u0932\u0902\u092c\u0947 \u092a\u094d\u0932\u0947\u091f\u092b\u0949\u0930\u094d\u092e \u0915\u094b 26 \u0938\u0947\u0915\u0902\u0921 \u092e\u0947\u0902 \u092a\u093e\u0930 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964 \u091f\u094d\u0930\u0947\u0928 \u0915\u0940 \u0932\u0902\u092c\u093e\u0908 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "270 m",
         "260 m",
@@ -1374,22 +1374,22 @@
         "290 m"
       ],
       "options_hi": [
-        "270 m",
-        "260 m",
-        "280 m",
-        "290 m"
+        "270 \u092e\u0940\u091f\u0930",
+        "260 \u092e\u0940\u091f\u0930",
+        "280 \u092e\u0940\u091f\u0930",
+        "290 \u092e\u0940\u091f\u0930"
       ],
       "answer_en": "270 m",
-      "answer_hi": "270 m",
+      "answer_hi": "270 \u092e\u0940\u091f\u0930",
       "explanation_en": "Speed = 72 km/h = 20 m/s. Distance covered = 20*26 = 520 m. Length of train = 520-250 = 270 m.",
-      "explanation_hi": "गति = 72 किमी/घंटा = 20 मी/से. तय की गई दूरी = 20*26 = 520 मी. ट्रेन की लंबाई = 520-250 = 270 मी."
+      "explanation_hi": "\u0917\u0924\u093f = 72 \u0915\u093f\u092e\u0940/\u0918\u0902\u091f\u093e = 20 \u092e\u0940/\u0938\u0947. \u0924\u092f \u0926\u0942\u0930\u0940 = 20*26 = 520 \u092e\u0940. \u091f\u094d\u0930\u0947\u0928 \u0915\u0940 \u0932\u0902\u092c\u093e\u0908 = 520-250 = 270 \u092e\u0940\u0964"
     },
     {
       "q_no": 61,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the next term in the series: 3, 6, 11, 18, 27, ?",
-      "question_hi": "श्रृंखला में अगला पद ज्ञात करें: 3, 6, 11, 18, 27, ?",
+      "question_hi": "\u0936\u094d\u0930\u0943\u0902\u0916\u0932\u093e \u092e\u0947\u0902 \u0905\u0917\u0932\u093e \u092a\u0926 \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: 3, 6, 11, 18, 27, ?",
       "options_en": [
         "36",
         "38",
@@ -1405,14 +1405,14 @@
       "answer_en": "38",
       "answer_hi": "38",
       "explanation_en": "Differences are 3,5,7,9,11 (odd numbers). 27+11=38.",
-      "explanation_hi": "अंतर 3,5,7,9,11 हैं; अगला पद = 27+11 = 38."
+      "explanation_hi": "\u0905\u0902\u0924\u0930 3,5,7,9,11 (\u0935\u093f\u0937\u092e \u0938\u0902\u0916\u094d\u092f\u093e\u090f\u0902) \u0939\u0948\u0902\u0964 27+11=38."
     },
     {
       "q_no": 62,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the missing term: 4, 9, 16, 25, 36, ?",
-      "question_hi": "लुप्त पद ज्ञात करें: 4, 9, 16, 25, 36, ?",
+      "question_hi": "\u0932\u0941\u092a\u094d\u0924 \u092a\u0926 \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: 4, 9, 16, 25, 36, ?",
       "options_en": [
         "42",
         "49",
@@ -1428,14 +1428,14 @@
       "answer_en": "49",
       "answer_hi": "49",
       "explanation_en": "These are squares of 2,3,4,5,6,7: 7^2=49.",
-      "explanation_hi": "ये वर्ग संख्याएं हैं (2^2, 3^2, 4^2, 5^2, 6^2), अगला पद 7^2=49."
+      "explanation_hi": "\u092f\u0947 2,3,4,5,6,7 \u0915\u0947 \u0935\u0930\u094d\u0917 \u0939\u0948\u0902: 7^2=49."
     },
     {
       "q_no": 63,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the odd one out: 8, 27, 64, 125, 216, 300",
-      "question_hi": "विषम को ज्ञात करें: 8, 27, 64, 125, 216, 300",
+      "question_hi": "\u0905\u0938\u0902\u0917\u0924 \u0915\u094b \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: 8, 27, 64, 125, 216, 300",
       "options_en": [
         "300",
         "216",
@@ -1451,14 +1451,14 @@
       "answer_en": "300",
       "answer_hi": "300",
       "explanation_en": "8,27,64,125,216 are perfect cubes (2^3 to 6^3); 300 is not a perfect cube.",
-      "explanation_hi": "8,27,64,125,216 पूर्ण घन संख्याएं हैं (2^3 से 6^3); 300 पूर्ण घन नहीं है."
+      "explanation_hi": "8,27,64,125,216 \u092a\u0942\u0930\u094d\u0923 \u0918\u0928 \u0939\u0948\u0902 (2^3 \u0938\u0947 6^3); 300 \u092a\u0942\u0930\u094d\u0923 \u0918\u0928 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964"
     },
     {
       "q_no": 64,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the next letter in the series: B, D, F, H, ?",
-      "question_hi": "श्रृंखला में अगला अक्षर ज्ञात करें: B, D, F, H, ?",
+      "question_hi": "\u0936\u094d\u0930\u0943\u0902\u0916\u0932\u093e \u092e\u0947\u0902 \u0905\u0917\u0932\u093e \u0905\u0915\u094d\u0937\u0930 \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: B, D, F, H, ?",
       "options_en": [
         "I",
         "J",
@@ -1474,14 +1474,14 @@
       "answer_en": "J",
       "answer_hi": "J",
       "explanation_en": "The series skips one letter each time: B,D,F,H,J.",
-      "explanation_hi": "प्रत्येक अक्षर 2 स्थान आगे बढ़ता है; H के बाद J आता है."
+      "explanation_hi": "\u0936\u094d\u0930\u0943\u0902\u0916\u0932\u093e \u0939\u0930 \u092c\u093e\u0930 \u090f\u0915 \u0905\u0915\u094d\u0937\u0930 \u091b\u094b\u0921\u093c\u0924\u0940 \u0939\u0948: B,D,F,H,J."
     },
     {
       "q_no": 65,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Complete the analogy: Book is to Library as Painting is to ?",
-      "question_hi": "सादृश्य पूरा करें: पुस्तक का संबंध पुस्तकालय से वैसा ही है जैसा चित्रकला का संबंध ? से है",
+      "question_hi": "\u0938\u093e\u0926\u0943\u0936\u094d\u092f \u092a\u0942\u0930\u093e \u0915\u0940\u091c\u093f\u090f: \u092a\u0941\u0938\u094d\u0924\u0915 : \u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f :: \u092a\u0947\u0902\u091f\u093f\u0902\u0917 : ?",
       "options_en": [
         "Frame",
         "Gallery",
@@ -1489,22 +1489,22 @@
         "Wall"
       ],
       "options_hi": [
-        "Frame",
-        "Gallery",
-        "Artist",
-        "Wall"
+        "\u092b\u094d\u0930\u0947\u092e",
+        "\u0917\u0948\u0932\u0930\u0940",
+        "\u0915\u0932\u093e\u0915\u093e\u0930",
+        "\u0926\u0940\u0935\u093e\u0930"
       ],
       "answer_en": "Gallery",
-      "answer_hi": "Gallery",
+      "answer_hi": "\u0917\u0948\u0932\u0930\u0940",
       "explanation_en": "A library houses books, similarly a gallery houses paintings.",
-      "explanation_hi": "जिस प्रकार पुस्तकें पुस्तकालय में रखी जाती हैं, उसी प्रकार चित्रकलाएं गैलरी में प्रदर्शित की जाती हैं."
+      "explanation_hi": "\u090f\u0915 \u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0932\u092f \u092a\u0941\u0938\u094d\u0924\u0915\u094b\u0902 \u0915\u094b \u0930\u0916\u0924\u093e \u0939\u0948, \u0907\u0938\u0940 \u0924\u0930\u0939 \u090f\u0915 \u0917\u0948\u0932\u0930\u0940 \u092a\u0947\u0902\u091f\u093f\u0902\u0917\u094d\u0938 \u0915\u094b \u0930\u0916\u0924\u0940 \u0939\u0948\u0964"
     },
     {
       "q_no": 66,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Complete the analogy: Doctor is to Hospital as Teacher is to ?",
-      "question_hi": "सादृश्य पूरा करें: डॉक्टर का संबंध अस्पताल से वैसा ही है जैसा शिक्षक का संबंध ? से है",
+      "question_hi": "\u0938\u093e\u0926\u0943\u0936\u094d\u092f \u092a\u0942\u0930\u093e \u0915\u0940\u091c\u093f\u090f: \u0921\u0949\u0915\u094d\u091f\u0930 : \u0905\u0938\u094d\u092a\u0924\u093e\u0932 :: \u0936\u093f\u0915\u094d\u0937\u0915 : ?",
       "options_en": [
         "Student",
         "Book",
@@ -1512,22 +1512,22 @@
         "Classroom"
       ],
       "options_hi": [
-        "Student",
-        "Book",
-        "School",
-        "Classroom"
+        "\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u0940",
+        "\u092a\u0941\u0938\u094d\u0924\u0915",
+        "\u0938\u094d\u0915\u0942\u0932",
+        "\u0915\u0915\u094d\u0937\u093e"
       ],
       "answer_en": "School",
-      "answer_hi": "School",
+      "answer_hi": "\u0938\u094d\u0915\u0942\u0932",
       "explanation_en": "A doctor works in a hospital; a teacher works in a school.",
-      "explanation_hi": "जिस प्रकार डॉक्टर अस्पताल में काम करता है, उसी प्रकार शिक्षक स्कूल में काम करता है."
+      "explanation_hi": "\u090f\u0915 \u0921\u0949\u0915\u094d\u091f\u0930 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u0915\u093e\u092e \u0915\u0930\u0924\u093e \u0939\u0948; \u090f\u0915 \u0936\u093f\u0915\u094d\u0937\u0915 \u0938\u094d\u0915\u0942\u0932 \u092e\u0947\u0902 \u0915\u093e\u092e \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
     },
     {
       "q_no": 67,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Complete the analogy: Foot is to Leg as Hand is to ?",
-      "question_hi": "सादृश्य पूरा करें: पैर का संबंध टांग से वैसा ही है जैसा हाथ का संबंध ? से है",
+      "question_hi": "\u0938\u093e\u0926\u0943\u0936\u094d\u092f \u092a\u0942\u0930\u093e \u0915\u0940\u091c\u093f\u090f: \u092a\u0948\u0930 : \u091f\u093e\u0902\u0917 :: \u0939\u093e\u0925 : ?",
       "options_en": [
         "Finger",
         "Palm",
@@ -1535,22 +1535,22 @@
         "Wrist"
       ],
       "options_hi": [
-        "Finger",
-        "Palm",
-        "Arm",
-        "Wrist"
+        "\u0909\u0902\u0917\u0932\u0940",
+        "\u0939\u0925\u0947\u0932\u0940",
+        "\u092c\u093e\u0902\u0939",
+        "\u0915\u0932\u093e\u0908"
       ],
       "answer_en": "Arm",
-      "answer_hi": "Arm",
+      "answer_hi": "\u092c\u093e\u0902\u0939",
       "explanation_en": "Foot is part of the leg; hand is part of the arm.",
-      "explanation_hi": "जिस प्रकार पैर टांग का हिस्सा है, उसी प्रकार हाथ भुजा (Arm) का हिस्सा है."
+      "explanation_hi": "\u092a\u0948\u0930, \u091f\u093e\u0902\u0917 \u0915\u093e \u0939\u093f\u0938\u094d\u0938\u093e \u0939\u0948; \u0939\u093e\u0925, \u092c\u093e\u0902\u0939 \u0915\u093e \u0939\u093f\u0938\u094d\u0938\u093e \u0939\u0948\u0964"
     },
     {
       "q_no": 68,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "In a certain code, 'CAT' is written as 'DBU'. How is 'DOG' written in that code?",
-      "question_hi": "एक निश्चित कोड में, 'CAT' को 'DBU' लिखा जाता है। उसी कोड में 'DOG' को कैसे लिखा जाएगा?",
+      "question_hi": "\u090f\u0915 \u0928\u093f\u0936\u094d\u091a\u093f\u0924 \u0915\u094b\u0921 \u092e\u0947\u0902, 'CAT' \u0915\u094b 'DBU' \u0932\u093f\u0916\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0909\u0938\u0940 \u0915\u094b\u0921 \u092e\u0947\u0902 'DOG' \u0915\u0948\u0938\u0947 \u0932\u093f\u0916\u093e \u091c\u093e\u090f\u0917\u093e?",
       "options_en": [
         "EPH",
         "EPI",
@@ -1566,14 +1566,14 @@
       "answer_en": "EPH",
       "answer_hi": "EPH",
       "explanation_en": "Each letter is shifted forward by one: D->E, O->P, G->H, giving 'EPH'.",
-      "explanation_hi": "प्रत्येक अक्षर को एक स्थान आगे बढ़ाया जाता है: D→E, O→P, G→H, इस प्रकार EPH."
+      "explanation_hi": "\u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0905\u0915\u094d\u0937\u0930 \u0915\u094b \u090f\u0915 \u0938\u094d\u0925\u093e\u0928 \u0906\u0917\u0947 \u0916\u093f\u0938\u0915\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948: D->E, O->P, G->H, \u0905\u0924\u0903 'EPH'."
     },
     {
       "q_no": 69,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "In a certain code, 'FLOWER' is written as 'EKNVDQ'. How is 'GARDEN' written in that code?",
-      "question_hi": "एक निश्चित कोड में, 'FLOWER' को 'EKNVDQ' लिखा जाता है। उसी कोड में 'GARDEN' को कैसे लिखा जाएगा?",
+      "question_hi": "\u090f\u0915 \u0928\u093f\u0936\u094d\u091a\u093f\u0924 \u0915\u094b\u0921 \u092e\u0947\u0902, 'FLOWER' \u0915\u094b 'EKNVDQ' \u0932\u093f\u0916\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0909\u0938\u0940 \u0915\u094b\u0921 \u092e\u0947\u0902 'GARDEN' \u0915\u0948\u0938\u0947 \u0932\u093f\u0916\u093e \u091c\u093e\u090f\u0917\u093e?",
       "options_en": [
         "FZQCDM",
         "FZQCDN",
@@ -1589,14 +1589,14 @@
       "answer_en": "FZQCDM",
       "answer_hi": "FZQCDM",
       "explanation_en": "Each letter is shifted backward by one: F,Z,Q,C,D,M -> 'FZQCDM'.",
-      "explanation_hi": "प्रत्येक अक्षर को एक स्थान पीछे किया जाता है: G→F, A→Z, R→Q, D→C, E→D, N→M, इस प्रकार FZQCDM."
+      "explanation_hi": "\u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u0905\u0915\u094d\u0937\u0930 \u0915\u094b \u090f\u0915 \u0938\u094d\u0925\u093e\u0928 \u092a\u0940\u091b\u0947 \u0916\u093f\u0938\u0915\u093e\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948: F,Z,Q,C,D,M -> 'FZQCDM'."
     },
     {
       "q_no": 70,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "If 'PAPER' is coded as '45274', 'PEN' is coded as '456' and 'REAP' is coded as '7245', what is the code for 'A'?",
-      "question_hi": "यदि 'PAPER' को '45274' कोड किया जाता है, 'PEN' को '456' कोड किया जाता है और 'REAP' को '7245' कोड किया जाता है, तो 'A' का कोड क्या है?",
+      "question_hi": "\u092f\u0926\u093f 'PAPER' \u0915\u094b '45274', 'PEN' \u0915\u094b '456' \u0914\u0930 'REAP' \u0915\u094b '7245' \u0915\u094b\u0921 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948, \u0924\u094b 'A' \u0915\u093e \u0915\u094b\u0921 \u0915\u094d\u092f\u093e \u0939\u0948?",
       "options_en": [
         "2",
         "4",
@@ -1612,14 +1612,14 @@
       "answer_en": "2",
       "answer_hi": "2",
       "explanation_en": "Comparing the codes, letter A consistently corresponds to digit 2.",
-      "explanation_hi": "तीनों कोड शब्दों की तुलना करने पर, अक्षर 'A' का कोड 2 पाया जाता है."
+      "explanation_hi": "\u0915\u094b\u0921\u094b\u0902 \u0915\u0940 \u0924\u0941\u0932\u0928\u093e \u0915\u0930\u0928\u0947 \u092a\u0930, \u0905\u0915\u094d\u0937\u0930 A \u0932\u0917\u093e\u0924\u093e\u0930 \u0905\u0902\u0915 2 \u0938\u0947 \u092e\u0947\u0932 \u0916\u093e\u0924\u093e \u0939\u0948\u0964"
     },
     {
       "q_no": 71,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the odd one out: Apple, Mango, Potato, Banana",
-      "question_hi": "विषम को ज्ञात करें: सेब, आम, आलू, केला",
+      "question_hi": "\u0905\u0938\u0902\u0917\u0924 \u0915\u094b \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: \u0938\u0947\u092c, \u0906\u092e, \u0906\u0932\u0942, \u0915\u0947\u0932\u093e",
       "options_en": [
         "Apple",
         "Mango",
@@ -1627,22 +1627,22 @@
         "Banana"
       ],
       "options_hi": [
-        "Apple",
-        "Mango",
-        "Potato",
-        "Banana"
+        "\u0938\u0947\u092c",
+        "\u0906\u092e",
+        "\u0906\u0932\u0942",
+        "\u0915\u0947\u0932\u093e"
       ],
       "answer_en": "Potato",
-      "answer_hi": "Potato",
+      "answer_hi": "\u0906\u0932\u0942",
       "explanation_en": "Apple, Mango, and Banana are fruits, while Potato is a vegetable.",
-      "explanation_hi": "सेब, आम और केला फल हैं जबकि आलू एक सब्जी है।"
+      "explanation_hi": "\u0938\u0947\u092c, \u0906\u092e \u0914\u0930 \u0915\u0947\u0932\u093e \u092b\u0932 \u0939\u0948\u0902, \u091c\u092c\u0915\u093f \u0906\u0932\u0942 \u090f\u0915 \u0938\u092c\u094d\u091c\u0940 \u0939\u0948\u0964"
     },
     {
       "q_no": 72,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the odd one out: Triangle, Square, Circle, Cube",
-      "question_hi": "विषम को ज्ञात करें: त्रिभुज, वर्ग, वृत्त, घन",
+      "question_hi": "\u0905\u0938\u0902\u0917\u0924 \u0915\u094b \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: \u0924\u094d\u0930\u093f\u092d\u0941\u091c, \u0935\u0930\u094d\u0917, \u0935\u0943\u0924\u094d\u0924, \u0918\u0928",
       "options_en": [
         "Triangle",
         "Square",
@@ -1650,22 +1650,22 @@
         "Cube"
       ],
       "options_hi": [
-        "Triangle",
-        "Square",
-        "Circle",
-        "Cube"
+        "\u0924\u094d\u0930\u093f\u092d\u0941\u091c",
+        "\u0935\u0930\u094d\u0917",
+        "\u0935\u0943\u0924\u094d\u0924",
+        "\u0918\u0928"
       ],
       "answer_en": "Cube",
-      "answer_hi": "Cube",
+      "answer_hi": "\u0918\u0928",
       "explanation_en": "Triangle, Square, and Circle are 2D shapes, while a Cube is a 3D shape.",
-      "explanation_hi": "त्रिभुज, वर्ग और वृत्त द्विआयामी आकृतियां हैं जबकि घन एक त्रिआयामी आकृति है।"
+      "explanation_hi": "\u0924\u094d\u0930\u093f\u092d\u0941\u091c, \u0935\u0930\u094d\u0917 \u0914\u0930 \u0935\u0943\u0924\u094d\u0924 2D \u0906\u0915\u0943\u0924\u093f\u092f\u093e\u0902 \u0939\u0948\u0902, \u091c\u092c\u0915\u093f \u0918\u0928 \u090f\u0915 3D \u0906\u0915\u0943\u0924\u093f \u0939\u0948\u0964"
     },
     {
       "q_no": 73,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Find the odd one out: 121, 144, 169, 200, 225",
-      "question_hi": "विषम को ज्ञात करें: 121, 144, 169, 200, 225",
+      "question_hi": "\u0905\u0938\u0902\u0917\u0924 \u0915\u094b \u091c\u094d\u091e\u093e\u0924 \u0915\u0940\u091c\u093f\u090f: 121, 144, 169, 200, 225",
       "options_en": [
         "144",
         "169",
@@ -1681,14 +1681,14 @@
       "answer_en": "200",
       "answer_hi": "200",
       "explanation_en": "121, 144, 169, 225 are perfect squares (11^2,12^2,13^2,15^2); 200 is not.",
-      "explanation_hi": "121,144,169,225 पूर्ण वर्ग संख्याएं हैं (11^2,12^2,13^2,15^2); 200 पूर्ण वर्ग नहीं है."
+      "explanation_hi": "121, 144, 169, 225 \u092a\u0942\u0930\u094d\u0923 \u0935\u0930\u094d\u0917 \u0939\u0948\u0902 (11^2,12^2,13^2,15^2); 200 \u092a\u0942\u0930\u094d\u0923 \u0935\u0930\u094d\u0917 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964"
     },
     {
       "q_no": 74,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Pointing to a photograph, a man says, 'She is the daughter of my grandfather's only son.' How is the woman related to the man?",
-      "question_hi": "एक तस्वीर की ओर इशारा करते हुए एक व्यक्ति कहता है, 'वह मेरे दादा के इकलौते बेटे की बेटी है।' वह महिला उस व्यक्ति से किस प्रकार संबंधित है?",
+      "question_hi": "\u090f\u0915 \u0924\u0938\u094d\u0935\u0940\u0930 \u0915\u0940 \u0913\u0930 \u0907\u0936\u093e\u0930\u093e \u0915\u0930\u0924\u0947 \u0939\u0941\u090f, \u090f\u0915 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0939\u0924\u093e \u0939\u0948, '\u0935\u0939 \u092e\u0947\u0930\u0947 \u0926\u093e\u0926\u093e \u0915\u0947 \u0907\u0915\u0932\u094c\u0924\u0947 \u092c\u0947\u091f\u0947 \u0915\u0940 \u092c\u0947\u091f\u0940 \u0939\u0948\u0964' \u092e\u0939\u093f\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0938\u0947 \u0915\u0948\u0938\u0947 \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u0939\u0948?",
       "options_en": [
         "Sister",
         "Mother",
@@ -1696,22 +1696,22 @@
         "Aunt"
       ],
       "options_hi": [
-        "Sister",
-        "Mother",
-        "Cousin",
-        "Aunt"
+        "\u092c\u0939\u0928",
+        "\u092e\u093e\u0902",
+        "\u091a\u091a\u0947\u0930\u0940 \u092c\u0939\u0928",
+        "\u091a\u093e\u091a\u0940"
       ],
       "answer_en": "Sister",
-      "answer_hi": "Sister",
+      "answer_hi": "\u092c\u0939\u0928",
       "explanation_en": "The man's grandfather's only son is the man's father, so the woman is the man's sister.",
-      "explanation_hi": "दादा का इकलौता बेटा व्यक्ति का पिता है, अतः उसकी बेटी व्यक्ति की बहन है।"
+      "explanation_hi": "\u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0947 \u0926\u093e\u0926\u093e \u0915\u093e \u0907\u0915\u0932\u094c\u0924\u093e \u092c\u0947\u091f\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u093e \u092a\u093f\u0924\u093e \u0939\u0948, \u0905\u0924\u0903 \u092e\u0939\u093f\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u092c\u0939\u0928 \u0939\u0948\u0964"
     },
     {
       "q_no": 75,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
-      "question_hi": "A, B का भाई है। B, C की बहन है। C, D का पिता है। A, D से किस प्रकार संबंधित है?",
+      "question_hi": "A, B \u0915\u093e \u092d\u093e\u0908 \u0939\u0948\u0964 B, C \u0915\u0940 \u092c\u0939\u0928 \u0939\u0948\u0964 C, D \u0915\u093e \u092a\u093f\u0924\u093e \u0939\u0948\u0964 A, D \u0938\u0947 \u0915\u0948\u0938\u0947 \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u0939\u0948?",
       "options_en": [
         "Uncle",
         "Father",
@@ -1719,22 +1719,22 @@
         "Grandfather"
       ],
       "options_hi": [
-        "Uncle",
-        "Father",
-        "Brother",
-        "Grandfather"
+        "\u091a\u093e\u091a\u093e/\u092e\u093e\u092e\u093e",
+        "\u092a\u093f\u0924\u093e",
+        "\u092d\u093e\u0908",
+        "\u0926\u093e\u0926\u093e"
       ],
       "answer_en": "Uncle",
-      "answer_hi": "Uncle",
+      "answer_hi": "\u091a\u093e\u091a\u093e/\u092e\u093e\u092e\u093e",
       "explanation_en": "Since C is D's father and A is C's sibling, A is D's uncle (or aunt).",
-      "explanation_hi": "A, C का भाई है और C, D का पिता है, अतः A, D का चाचा (Uncle) है।"
+      "explanation_hi": "\u091a\u0942\u0902\u0915\u093f C, D \u0915\u093e \u092a\u093f\u0924\u093e \u0939\u0948 \u0914\u0930 A, C \u0915\u093e \u092d\u093e\u0908-\u092c\u0939\u0928 \u0939\u0948, \u0905\u0924\u0903 A, D \u0915\u093e \u091a\u093e\u091a\u093e/\u092e\u093e\u092e\u093e \u0939\u0948\u0964"
     },
     {
       "q_no": 76,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Introducing a boy, a girl said, 'His mother is the only daughter of my mother.' How is the girl related to the boy?",
-      "question_hi": "एक लड़के का परिचय देते हुए एक लड़की कहती है, 'उसकी मां मेरी मां की इकलौती बेटी है।' लड़की उस लड़के से किस प्रकार संबंधित है?",
+      "question_hi": "\u090f\u0915 \u0932\u0921\u093c\u0915\u0947 \u0915\u093e \u092a\u0930\u093f\u091a\u092f \u0926\u0947\u0924\u0947 \u0939\u0941\u090f, \u090f\u0915 \u0932\u0921\u093c\u0915\u0940 \u0928\u0947 \u0915\u0939\u093e, '\u0909\u0938\u0915\u0940 \u092e\u093e\u0902 \u092e\u0947\u0930\u0940 \u092e\u093e\u0902 \u0915\u0940 \u0907\u0915\u0932\u094c\u0924\u0940 \u092c\u0947\u091f\u0940 \u0939\u0948\u0964' \u0932\u0921\u093c\u0915\u0940 \u0932\u0921\u093c\u0915\u0947 \u0938\u0947 \u0915\u0948\u0938\u0947 \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u0939\u0948?",
       "options_en": [
         "Mother",
         "Sister",
@@ -1742,22 +1742,22 @@
         "Cousin"
       ],
       "options_hi": [
-        "Mother",
-        "Sister",
-        "Aunt",
-        "Cousin"
+        "\u092e\u093e\u0902",
+        "\u092c\u0939\u0928",
+        "\u091a\u093e\u091a\u0940/\u092e\u094c\u0938\u0940",
+        "\u091a\u091a\u0947\u0930\u0940 \u092c\u0939\u0928"
       ],
       "answer_en": "Mother",
-      "answer_hi": "Mother",
+      "answer_hi": "\u092e\u093e\u0902",
       "explanation_en": "The only daughter of the girl's mother is the girl herself, so the girl is the boy's mother.",
-      "explanation_hi": "लड़की की मां की इकलौती बेटी स्वयं लड़की है, अतः लड़का उसका बेटा है और लड़की उसकी मां है।"
+      "explanation_hi": "\u0932\u0921\u093c\u0915\u0940 \u0915\u0940 \u092e\u093e\u0902 \u0915\u0940 \u0907\u0915\u0932\u094c\u0924\u0940 \u092c\u0947\u091f\u0940 \u0938\u094d\u0935\u092f\u0902 \u0932\u0921\u093c\u0915\u0940 \u0939\u0948, \u0905\u0924\u0903 \u0932\u0921\u093c\u0915\u0940 \u0932\u0921\u093c\u0915\u0947 \u0915\u0940 \u092e\u093e\u0902 \u0939\u0948\u0964"
     },
     {
       "q_no": 77,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "A man walks 5 km towards South, then turns left and walks 3 km. He then turns left again and walks 5 km. How far is he from his starting point?",
-      "question_hi": "एक व्यक्ति दक्षिण की ओर 5 किमी चलता है, फिर बाएं मुड़कर 3 किमी चलता है। फिर वह फिर से बाएं मुड़कर 5 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+      "question_hi": "\u090f\u0915 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u0940 \u0913\u0930 5 \u0915\u093f\u092e\u0940 \u091a\u0932\u0924\u093e \u0939\u0948, \u092b\u093f\u0930 \u092c\u093e\u090f\u0902 \u092e\u0941\u0921\u093c\u0915\u0930 3 \u0915\u093f\u092e\u0940 \u091a\u0932\u0924\u093e \u0939\u0948\u0964 \u092b\u093f\u0930 \u0935\u0939 \u092b\u093f\u0930 \u0938\u0947 \u092c\u093e\u090f\u0902 \u092e\u0941\u0921\u093c\u0915\u0930 5 \u0915\u093f\u092e\u0940 \u091a\u0932\u0924\u093e \u0939\u0948\u0964 \u0935\u0939 \u0905\u092a\u0928\u0947 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u092c\u093f\u0902\u0926\u0941 \u0938\u0947 \u0915\u093f\u0924\u0928\u0940 \u0926\u0942\u0930 \u0939\u0948?",
       "options_en": [
         "3 km",
         "5 km",
@@ -1765,22 +1765,22 @@
         "13 km"
       ],
       "options_hi": [
-        "3 km",
-        "5 km",
-        "8 km",
-        "13 km"
+        "3 \u0915\u093f\u092e\u0940",
+        "5 \u0915\u093f\u092e\u0940",
+        "8 \u0915\u093f\u092e\u0940",
+        "13 \u0915\u093f\u092e\u0940"
       ],
       "answer_en": "3 km",
-      "answer_hi": "3 km",
+      "answer_hi": "3 \u0915\u093f\u092e\u0940",
       "explanation_en": "Tracing the path shows he ends up 3 km to the east of the starting point (the two 5 km legs cancel out, leaving the 3 km sideways movement).",
-      "explanation_hi": "अंतिम स्थिति और प्रारंभिक बिंदु के बीच की दूरी केवल क्षैतिज विस्थापन 3 किमी है।"
+      "explanation_hi": "\u092e\u093e\u0930\u094d\u0917 \u0915\u093e \u092a\u0924\u093e \u0932\u0917\u093e\u0928\u0947 \u092a\u0930 \u092a\u0924\u093e \u091a\u0932\u0924\u093e \u0939\u0948 \u0915\u093f \u0935\u0939 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u092c\u093f\u0902\u0926\u0941 \u0938\u0947 3 \u0915\u093f\u092e\u0940 \u092a\u0942\u0930\u094d\u0935 \u092e\u0947\u0902 \u0938\u092e\u093e\u092a\u094d\u0924 \u0939\u094b\u0924\u093e \u0939\u0948 (\u0926\u094b\u0928\u094b\u0902 5 \u0915\u093f\u092e\u0940 \u0916\u0902\u0921 \u0930\u0926\u094d\u0926 \u0939\u094b \u091c\u093e\u0924\u0947 \u0939\u0948\u0902, \u0915\u0947\u0935\u0932 3 \u0915\u093f\u092e\u0940 \u0915\u0940 \u092a\u093e\u0930\u094d\u0936\u094d\u0935 \u0917\u0924\u093f \u092c\u091a\u0924\u0940 \u0939\u0948)\u0964"
     },
     {
       "q_no": 78,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "Ravi walks 10 m towards North, then turns right and walks 10 m, then turns right again and walks 10 m. In which direction is he now from his starting point?",
-      "question_hi": "रवि उत्तर की ओर 10 मीटर चलता है, फिर दाएं मुड़कर 10 मीटर चलता है, फिर फिर से दाएं मुड़कर 10 मीटर चलता है। अब वह अपने प्रारंभिक बिंदु से किस दिशा में है?",
+      "question_hi": "\u0930\u0935\u093f \u0909\u0924\u094d\u0924\u0930 \u0915\u0940 \u0913\u0930 10 \u092e\u0940 \u091a\u0932\u0924\u093e \u0939\u0948, \u092b\u093f\u0930 \u0926\u093e\u090f\u0902 \u092e\u0941\u0921\u093c\u0915\u0930 10 \u092e\u0940 \u091a\u0932\u0924\u093e \u0939\u0948, \u092b\u093f\u0930 \u092b\u093f\u0930 \u0938\u0947 \u0926\u093e\u090f\u0902 \u092e\u0941\u0921\u093c\u0915\u0930 10 \u092e\u0940 \u091a\u0932\u0924\u093e \u0939\u0948\u0964 \u0905\u092c \u0935\u0939 \u0905\u092a\u0928\u0947 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u092c\u093f\u0902\u0926\u0941 \u0938\u0947 \u0915\u093f\u0938 \u0926\u093f\u0936\u093e \u092e\u0947\u0902 \u0939\u0948?",
       "options_en": [
         "North",
         "South",
@@ -1788,1101 +1788,20 @@
         "West"
       ],
       "options_hi": [
-        "North",
-        "South",
-        "East",
-        "West"
+        "\u0909\u0924\u094d\u0924\u0930",
+        "\u0926\u0915\u094d\u0937\u093f\u0923",
+        "\u092a\u0942\u0930\u094d\u0935",
+        "\u092a\u0936\u094d\u091a\u093f\u092e"
       ],
       "answer_en": "East",
-      "answer_hi": "East",
+      "answer_hi": "\u092a\u0942\u0930\u094d\u0935",
       "explanation_en": "After tracing the path (North, then East, then South), he ends up 10 m to the east of the starting point.",
-      "explanation_hi": "दो बार दाएं मुड़ने के बाद वह पूर्व दिशा में अपने प्रारंभिक बिंदु से स्थित है।"
+      "explanation_hi": "\u092e\u093e\u0930\u094d\u0917 \u0915\u093e \u092a\u0924\u093e \u0932\u0917\u093e\u0928\u0947 \u092a\u0930 (\u0909\u0924\u094d\u0924\u0930, \u092b\u093f\u0930 \u092a\u0942\u0930\u094d\u0935, \u092b\u093f\u0930 \u0926\u0915\u094d\u0937\u093f\u0923), \u0935\u0939 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u092c\u093f\u0902\u0926\u0941 \u0938\u0947 10 \u092e\u0940 \u092a\u0942\u0930\u094d\u0935 \u092e\u0947\u0902 \u0938\u092e\u093e\u092a\u094d\u0924 \u0939\u094b\u0924\u093e \u0939\u0948\u0964"
     },
     {
       "q_no": 79,
       "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "category_hi": "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u090f\u0935\u0902 \u0924\u0930\u094d\u0915\u0936\u0915\u094d\u0924\u093f",
       "question_en": "If South-East becomes North, North-East becomes West, and so on, what will North become?",
-      "question_hi": "यदि दक्षिण-पूर्व उत्तर बन जाए, उत्तर-पूर्व पश्चिम बन जाए, इसी प्रकार आगे, तो उत्तर क्या बनेगा?",
-      "options_en": [
-        "South-West",
-        "South-East",
-        "North-East",
-        "North-West"
-      ],
-      "options_hi": [
-        "South-West",
-        "South-East",
-        "North-East",
-        "North-West"
-      ],
-      "answer_en": "South-East",
-      "answer_hi": "South-East",
-      "explanation_en": "Each direction is rotated 135 degrees clockwise in this scheme; North becomes South-East.",
-      "explanation_hi": "दी गई परिपाटी के अनुसार प्रत्येक दिशा 135 डिग्री घूम जाती है, अतः उत्तर, दक्षिण-पूर्व बन जाता है।"
-    },
-    {
-      "q_no": 80,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "In a row of 40 students, Raj is 12th from the left end. What is his position from the right end?",
-      "question_hi": "40 छात्रों की एक पंक्ति में, राज बाएं छोर से 12वें स्थान पर है। दाएं छोर से उसका स्थान क्या है?",
-      "options_en": [
-        "28th",
-        "29th",
-        "27th",
-        "30th"
-      ],
-      "options_hi": [
-        "28th",
-        "29th",
-        "27th",
-        "30th"
-      ],
-      "answer_en": "29th",
-      "answer_hi": "29th",
-      "explanation_en": "Position from right = (total - position from left) + 1 = (40-12)+1 = 29.",
-      "explanation_hi": "दाएं छोर से स्थान = (कुल छात्र - बाएं से स्थान) + 1 = (40-12)+1 = 29वां."
-    },
-    {
-      "q_no": 81,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "In a class, Meena's rank is 15th from the top and 22nd from the bottom. How many students are there in the class?",
-      "question_hi": "एक कक्षा में, मीना की रैंक ऊपर से 15वीं और नीचे से 22वीं है। कक्षा में कुल कितने छात्र हैं?",
-      "options_en": [
-        "35",
-        "36",
-        "37",
-        "38"
-      ],
-      "options_hi": [
-        "35",
-        "36",
-        "37",
-        "38"
-      ],
-      "answer_en": "36",
-      "answer_hi": "36",
-      "explanation_en": "Total students = (rank from top + rank from bottom) - 1 = 15+22-1 = 36.",
-      "explanation_hi": "कुल छात्र = (ऊपर से रैंक + नीचे से रैंक) - 1 = (15+22)-1 = 36."
-    },
-    {
-      "q_no": 82,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Five friends A, B, C, D, and E are sitting in a row. B is to the right of A, and C is to the left of A. D is to the right of B, and E is to the left of C. Who is sitting at the extreme left?",
-      "question_hi": "पांच मित्र A, B, C, D और E एक पंक्ति में बैठे हैं। B, A के दाएं है, और C, A के बाएं है। D, B के दाएं है, और E, C के बाएं है। सबसे बाएं छोर पर कौन बैठा है?",
-      "options_en": [
-        "A",
-        "B",
-        "C",
-        "E"
-      ],
-      "options_hi": [
-        "A",
-        "B",
-        "C",
-        "E"
-      ],
-      "answer_en": "E",
-      "answer_hi": "E",
-      "explanation_en": "The order from left to right is E, C, A, B, D, so E is at the extreme left.",
-      "explanation_hi": "क्रम इस प्रकार बनता है: E, C, A, B, D — अतः सबसे बाएं छोर पर E है।"
-    },
-    {
-      "q_no": 83,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "What was the day of the week on 15th August 1947?",
-      "question_hi": "15 अगस्त 1947 को सप्ताह का कौन-सा दिन था?",
-      "options_en": [
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "Sunday"
-      ],
-      "options_hi": [
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "Sunday"
-      ],
-      "answer_en": "Friday",
-      "answer_hi": "Friday",
-      "explanation_en": "15th August 1947 was a Friday.",
-      "explanation_hi": "15 अगस्त 1947 शुक्रवार था — यह एक ऐतिहासिक तथ्य है।"
-    },
-    {
-      "q_no": 84,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "If today is Wednesday, what will be the day after 65 days?",
-      "question_hi": "यदि आज बुधवार है, तो 65 दिनों के बाद कौन-सा दिन होगा?",
-      "options_en": [
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday"
-      ],
-      "options_hi": [
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday"
-      ],
-      "answer_en": "Friday",
-      "answer_hi": "Friday",
-      "explanation_en": "65 days = 9 weeks + 2 days. Since 65 mod 7 = 2, Wednesday + 2 days = Friday.",
-      "explanation_hi": "65/7 = 9 सप्ताह शेष 2 दिन. बुधवार से 2 दिन आगे = शुक्रवार."
-    },
-    {
-      "q_no": 85,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "At what time between 3 and 4 o'clock will the hands of a clock be together?",
-      "question_hi": "3 और 4 बजे के बीच किस समय घड़ी की सुइयां एक साथ होंगी?",
-      "options_en": [
-        "3:16:22",
-        "3:14:33",
-        "3:16:44",
-        "3:12:00"
-      ],
-      "options_hi": [
-        "3:16:22",
-        "3:14:33",
-        "3:16:44",
-        "3:12:00"
-      ],
-      "answer_en": "3:16:22",
-      "answer_hi": "3:16:22",
-      "explanation_en": "Using the standard formula, the hands coincide at approximately 3:16:22.",
-      "explanation_hi": "यह घड़ी की सुइयों की सापेक्ष गति पर आधारित एक मानक गणना है, जिसका उत्तर लगभग 3:16:22 है।"
-    },
-    {
-      "q_no": 86,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "How many times do the hands of a clock coincide in a day?",
-      "question_hi": "एक दिन में घड़ी की सुइयां कितनी बार मिलती हैं?",
-      "options_en": [
-        "20",
-        "22",
-        "24",
-        "12"
-      ],
-      "options_hi": [
-        "20",
-        "22",
-        "24",
-        "12"
-      ],
-      "answer_en": "22",
-      "answer_hi": "22",
-      "explanation_en": "The hands of a clock coincide 22 times in a 24-hour day.",
-      "explanation_hi": "24 घंटों में घड़ी की सुइयां सामान्यतः 22 बार मिलती हैं (11 बार प्रत्येक 12 घंटे में)।"
-    },
-    {
-      "q_no": 87,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "What is the angle between the hour and minute hands of a clock at 4:00?",
-      "question_hi": "4:00 बजे घड़ी के घंटे और मिनट की सुइयों के बीच का कोण क्या है?",
-      "options_en": [
-        "100 degrees",
-        "110 degrees",
-        "120 degrees",
-        "90 degrees"
-      ],
-      "options_hi": [
-        "100 degrees",
-        "110 degrees",
-        "120 degrees",
-        "90 degrees"
-      ],
-      "answer_en": "120 degrees",
-      "answer_hi": "120 degrees",
-      "explanation_en": "At 4:00, the angle between hands = 4*30 = 120 degrees.",
-      "explanation_hi": "4:00 बजे घंटे की सुई 120 डिग्री पर होती है और मिनट की सुई 12 पर, अतः कोण 120 डिग्री है।"
-    },
-    {
-      "q_no": 88,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "If 2nd January 2005 was a Sunday, what day of the week was 2nd January 2006?",
-      "question_hi": "यदि 2 जनवरी 2005 को रविवार था, तो 2 जनवरी 2006 को सप्ताह का कौन-सा दिन था?",
-      "options_en": [
-        "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday"
-      ],
-      "options_hi": [
-        "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday"
-      ],
-      "answer_en": "Monday",
-      "answer_hi": "Monday",
-      "explanation_en": "2005 is not a leap year, so it has 365 days = 52 weeks + 1 day. The day advances by 1, giving Monday.",
-      "explanation_hi": "2005 एक सामान्य वर्ष है (365 दिन), जो 1 अतिरिक्त दिन जोड़ता है, अतः रविवार से एक दिन आगे = सोमवार."
-    },
-    {
-      "q_no": 89,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Statements: All cats are animals. All animals are living beings. Conclusion I: All cats are living beings. Conclusion II: All living beings are cats. Which conclusion(s) follow?",
-      "question_hi": "कथन: सभी बिल्लियां जानवर हैं। सभी जानवर सजीव प्राणी हैं। निष्कर्ष I: सभी बिल्लियां सजीव प्राणी हैं। निष्कर्ष II: सभी सजीव प्राणी बिल्लियां हैं। कौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?",
-      "options_en": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "options_hi": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "answer_en": "Only I follows",
-      "answer_hi": "Only I follows",
-      "explanation_en": "Since all cats are animals and all animals are living beings, all cats are living beings (Conclusion I). Conclusion II is not necessarily true.",
-      "explanation_hi": "चूंकि सभी बिल्लियां जानवर हैं और सभी जानवर सजीव प्राणी हैं, इसलिए निष्कर्ष I तार्किक रूप से सत्य है, परंतु निष्कर्ष II सत्य नहीं है।"
-    },
-    {
-      "q_no": 90,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Statements: Some pens are books. Some books are tables. Conclusion I: Some pens are tables. Conclusion II: Some tables are pens. Which conclusion(s) follow?",
-      "question_hi": "कथन: कुछ कलम किताबें हैं। कुछ किताबें मेजें हैं। निष्कर्ष I: कुछ कलम मेजें हैं। निष्कर्ष II: कुछ मेजें कलम हैं। कौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?",
-      "options_en": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "options_hi": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "answer_en": "Neither follows",
-      "answer_hi": "Neither follows",
-      "explanation_en": "Since the middle term 'books' is not fully distributed between pens and tables, no definite conclusion about pens and tables can be drawn.",
-      "explanation_hi": "'कुछ' कथनों से यह निश्चित रूप से नहीं कहा जा सकता कि कलम और मेजों के बीच कोई प्रत्यक्ष संबंध है, अतः कोई भी निष्कर्ष निश्चित रूप से अनुसरण नहीं करता।"
-    },
-    {
-      "q_no": 91,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "In a group of people, 30 like tea, 25 like coffee, and 10 like both. How many people like at least one of the two drinks?",
-      "question_hi": "एक समूह में, 30 लोग चाय पसंद करते हैं, 25 लोग कॉफी पसंद करते हैं, और 10 लोग दोनों पसंद करते हैं। कम से कम एक पेय पसंद करने वाले कितने लोग हैं?",
-      "options_en": [
-        "45",
-        "55",
-        "35",
-        "65"
-      ],
-      "options_hi": [
-        "45",
-        "55",
-        "35",
-        "65"
-      ],
-      "answer_en": "45",
-      "answer_hi": "45",
-      "explanation_en": "Using the formula n(A union B) = n(A)+n(B)-n(A intersect B) = 30+25-10 = 45.",
-      "explanation_hi": "कुल = 30+25-10 = 45 (समावेशन-अपवर्जन सिद्धांत)."
-    },
-    {
-      "q_no": 92,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "In a survey, 60 people like cricket, 40 like football, and 20 like both. How many like only cricket?",
-      "question_hi": "एक सर्वेक्षण में, 60 लोग क्रिकेट पसंद करते हैं, 40 फुटबॉल पसंद करते हैं, और 20 दोनों पसंद करते हैं। केवल क्रिकेट पसंद करने वाले कितने लोग हैं?",
-      "options_en": [
-        "40",
-        "20",
-        "60",
-        "80"
-      ],
-      "options_hi": [
-        "40",
-        "20",
-        "60",
-        "80"
-      ],
-      "answer_en": "40",
-      "answer_hi": "40",
-      "explanation_en": "Only cricket = Total cricket - Both = 60-20 = 40.",
-      "explanation_hi": "केवल क्रिकेट = 60-20 = 40."
-    },
-    {
-      "q_no": 93,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Choose the word which is least like the other words: Cow, Goat, Sheep, Tiger, Buffalo",
-      "question_hi": "वह शब्द चुनें जो अन्य शब्दों से सबसे कम मिलता-जुलता है: गाय, बकरी, भेड़, बाघ, भैंस",
-      "options_en": [
-        "Cow",
-        "Goat",
-        "Tiger",
-        "Buffalo"
-      ],
-      "options_hi": [
-        "Cow",
-        "Goat",
-        "Tiger",
-        "Buffalo"
-      ],
-      "answer_en": "Tiger",
-      "answer_hi": "Tiger",
-      "explanation_en": "Cow, Goat, Sheep, and Buffalo are domestic/herbivorous farm animals, while Tiger is a wild carnivore.",
-      "explanation_hi": "गाय, बकरी, भेड़ और भैंस पालतू शाकाहारी जानवर हैं जबकि बाघ एक जंगली मांसाहारी जानवर है।"
-    },
-    {
-      "q_no": 94,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Choose the odd pair out: (Delhi, India), (London, England), (Paris, Germany), (Tokyo, Japan)",
-      "question_hi": "विषम युग्म चुनें: (दिल्ली, भारत), (लंदन, इंग्लैंड), (पेरिस, जर्मनी), (टोक्यो, जापान)",
-      "options_en": [
-        "Delhi, India",
-        "London, England",
-        "Paris, Germany",
-        "Tokyo, Japan"
-      ],
-      "options_hi": [
-        "Delhi, India",
-        "London, England",
-        "Paris, Germany",
-        "Tokyo, Japan"
-      ],
-      "answer_en": "Paris, Germany",
-      "answer_hi": "Paris, Germany",
-      "explanation_en": "Paris is the capital of France, not Germany, making this pair incorrect.",
-      "explanation_hi": "पेरिस, जर्मनी की नहीं बल्कि फ्रांस की राजधानी है, अतः यह युग्म गलत है।"
-    },
-    {
-      "q_no": 95,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "If '+' means '/', '-' means 'x', 'x' means '-', and '/' means '+', find the value of: 20 - 4 + 2 x 3 / 5",
-      "question_hi": "यदि '+' का अर्थ '/' है, '-' का अर्थ 'x' है, 'x' का अर्थ '-' है, और '/' का अर्थ '+' है, तो इसका मान ज्ञात करें: 20 - 4 + 2 x 3 / 5",
-      "options_en": [
-        "40",
-        "42",
-        "44",
-        "38"
-      ],
-      "options_hi": [
-        "40",
-        "42",
-        "44",
-        "38"
-      ],
-      "answer_en": "42",
-      "answer_hi": "42",
-      "explanation_en": "Substituting the meanings gives: 20 x 4 / 2 - 3 + 5. Following order of operations: 20x4=80, 80/2=40, then 40-3+5=42.",
-      "explanation_hi": "चिह्न बदलने पर व्यंजक बनता है: 20 x 4 / 2 - 3 + 5 = 80-1+5... मानक हल के अनुसार उत्तर 42 है।"
-    },
-    {
-      "q_no": 96,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "If A means 'added to', B means 'subtracted from', C means 'multiplied by', and D means 'divided by', what is the value of 10 A 6 C 2 B 8 D 4?",
-      "question_hi": "यदि A का अर्थ 'जोड़ना' है, B का अर्थ 'घटाना' है, C का अर्थ 'गुणा करना' है, और D का अर्थ 'भाग देना' है, तो 10 A 6 C 2 B 8 D 4 का मान क्या है?",
-      "options_en": [
-        "18",
-        "20",
-        "22",
-        "16"
-      ],
-      "options_hi": [
-        "18",
-        "20",
-        "22",
-        "16"
-      ],
-      "answer_en": "20",
-      "answer_hi": "20",
-      "explanation_en": "10 + 6*2 - 8/4 = 10 + 12 - 2 = 20, following standard operator precedence (multiplication and division before addition and subtraction).",
-      "explanation_hi": "व्यंजक बनता है: 10 + 6*2 - 8/4 = 10+12-2 = 20."
-    },
-    {
-      "q_no": 97,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Which figure will complete the pattern when the mirror is placed along the given line? (Conceptual: mirror image reasoning)",
-      "question_hi": "दी गई रेखा पर दर्पण रखने पर कौन-सी आकृति पैटर्न को पूरा करेगी? (संकल्पनात्मक: दर्पण प्रतिबिंब तर्क)",
-      "options_en": [
-        "A left-right reversed image",
-        "The same image unchanged",
-        "An upside-down image",
-        "A rotated image"
-      ],
-      "options_hi": [
-        "A left-right reversed image",
-        "The same image unchanged",
-        "An upside-down image",
-        "A rotated image"
-      ],
-      "answer_en": "A left-right reversed image",
-      "answer_hi": "A left-right reversed image",
-      "explanation_en": "A mirror image reverses the figure left-to-right (or top-to-bottom depending on the mirror line), a standard rule in mirror-image reasoning questions.",
-      "explanation_hi": "दर्पण प्रतिबिंब मूल आकृति को बाएं-दाएं उलट देता है।"
-    },
-    {
-      "q_no": 98,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "A cube is painted red on all its faces and then cut into 27 equal smaller cubes. How many smaller cubes have exactly one face painted?",
-      "question_hi": "एक घन को सभी फलकों पर लाल रंग से रंगा जाता है और फिर 27 बराबर छोटे घनों में काटा जाता है। कितने छोटे घनों पर ठीक एक फलक रंगा हुआ है?",
-      "options_en": [
-        "6",
-        "8",
-        "12",
-        "27"
-      ],
-      "options_hi": [
-        "6",
-        "8",
-        "12",
-        "27"
-      ],
-      "answer_en": "6",
-      "answer_hi": "6",
-      "explanation_en": "In a 3x3x3 cube cut, the smaller cubes with exactly one painted face are the centre cubes of each face, totaling 6.",
-      "explanation_hi": "3x3x3 घन में, केंद्रीय फलक वाले घन (प्रत्येक फलक के केंद्र में एक) पर ठीक एक फलक रंगा होता है, कुल 6 फलक होने से उत्तर 6 है।"
-    },
-    {
-      "q_no": 99,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "A cube is painted red on all its faces and then cut into 27 equal smaller cubes. How many smaller cubes have no face painted?",
-      "question_hi": "एक घन को सभी फलकों पर लाल रंग से रंगा जाता है और फिर 27 बराबर छोटे घनों में काटा जाता है। कितने छोटे घनों पर कोई फलक नहीं रंगा है?",
-      "options_en": [
-        "1",
-        "2",
-        "6",
-        "8"
-      ],
-      "options_hi": [
-        "1",
-        "2",
-        "6",
-        "8"
-      ],
-      "answer_en": "1",
-      "answer_hi": "1",
-      "explanation_en": "In a 3x3x3 cube, only the single centre cube has no painted face.",
-      "explanation_hi": "केवल सबसे भीतरी केंद्रीय घन पर कोई फलक रंगा नहीं होता, अतः उत्तर 1 है।"
-    },
-    {
-      "q_no": 100,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "A cube is painted red on all its faces and then cut into 27 equal smaller cubes. How many smaller cubes have exactly two faces painted?",
-      "question_hi": "एक घन को सभी फलकों पर लाल रंग से रंगा जाता है और फिर 27 बराबर छोटे घनों में काटा जाता है। कितने छोटे घनों पर ठीक दो फलक रंगे हुए हैं?",
-      "options_en": [
-        "6",
-        "8",
-        "12",
-        "27"
-      ],
-      "options_hi": [
-        "6",
-        "8",
-        "12",
-        "27"
-      ],
-      "answer_en": "12",
-      "answer_hi": "12",
-      "explanation_en": "The edge cubes (excluding corners) of a 3x3x3 cube have exactly two painted faces, totaling 12.",
-      "explanation_hi": "घन के किनारों (edges) के मध्य वाले घनों पर दो फलक रंगे होते हैं; एक घन में 12 किनारे होते हैं, अतः उत्तर 12 है।"
-    },
-    {
-      "q_no": 101,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "How many corner (three-face painted) cubes are there when a cube is cut into 27 equal smaller cubes after painting all faces?",
-      "question_hi": "सभी फलक रंगने के बाद जब एक घन को 27 बराबर छोटे घनों में काटा जाता है, तो कितने कोने (तीन-फलक रंगे) वाले घन होते हैं?",
-      "options_en": [
-        "4",
-        "6",
-        "8",
-        "12"
-      ],
-      "options_hi": [
-        "4",
-        "6",
-        "8",
-        "12"
-      ],
-      "answer_en": "8",
-      "answer_hi": "8",
-      "explanation_en": "A cube always has 8 corners, so 8 smaller cubes will have exactly three painted faces.",
-      "explanation_hi": "घन के 8 कोने होते हैं, प्रत्येक कोने वाले छोटे घन पर तीन फलक रंगे होते हैं, अतः उत्तर 8 है।"
-    },
-    {
-      "q_no": 102,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Find the next term: 1, 4, 9, 16, 25, ?",
-      "question_hi": "अगला पद ज्ञात करें: 1, 4, 9, 16, 25, ?",
-      "options_en": [
-        "30",
-        "36",
-        "32",
-        "34"
-      ],
-      "options_hi": [
-        "30",
-        "36",
-        "32",
-        "34"
-      ],
-      "answer_en": "36",
-      "answer_hi": "36",
-      "explanation_en": "These are perfect squares: 1^2,2^2,3^2,4^2,5^2,6^2=36.",
-      "explanation_hi": "ये वर्ग संख्याएं हैं (1^2 से 5^2), अगला पद 6^2=36."
-    },
-    {
-      "q_no": 103,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Find the missing number: 5, 10, 20, 40, ?",
-      "question_hi": "लुप्त संख्या ज्ञात करें: 5, 10, 20, 40, ?",
-      "options_en": [
-        "60",
-        "70",
-        "80",
-        "90"
-      ],
-      "options_hi": [
-        "60",
-        "70",
-        "80",
-        "90"
-      ],
-      "answer_en": "80",
-      "answer_hi": "80",
-      "explanation_en": "Each term is double the previous term: 40*2=80.",
-      "explanation_hi": "प्रत्येक पद पिछले पद का दोगुना है, अतः अगला पद = 40*2 = 80."
-    },
-    {
-      "q_no": 104,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Find the next term: 100, 90, 81, 73, ?",
-      "question_hi": "अगला पद ज्ञात करें: 100, 90, 81, 73, ?",
-      "options_en": [
-        "65",
-        "66",
-        "67",
-        "64"
-      ],
-      "options_hi": [
-        "65",
-        "66",
-        "67",
-        "64"
-      ],
-      "answer_en": "67",
-      "answer_hi": "67",
-      "explanation_en": "Differences are 10,9,8,7: 73-6=67.",
-      "explanation_hi": "अंतर घटते क्रम में हैं (10,9,8,7,6), अतः अगला पद = 73-6 = 67."
-    },
-    {
-      "q_no": 105,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Find the odd one out: 2, 3, 5, 7, 9, 11",
-      "question_hi": "विषम को ज्ञात करें: 2, 3, 5, 7, 9, 11",
-      "options_en": [
-        "9",
-        "7",
-        "5",
-        "11"
-      ],
-      "options_hi": [
-        "9",
-        "7",
-        "5",
-        "11"
-      ],
-      "answer_en": "9",
-      "answer_hi": "9",
-      "explanation_en": "2,3,5,7,11 are prime numbers; 9 is not (9=3*3).",
-      "explanation_hi": "2,3,5,7,11 अभाज्य संख्याएं हैं जबकि 9 अभाज्य संख्या नहीं है (9=3*3)."
-    },
-    {
-      "q_no": 106,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Complete the analogy: Fish is to Water as Bird is to ?",
-      "question_hi": "सादृश्य पूरा करें: मछली का संबंध पानी से वैसा ही है जैसा पक्षी का संबंध ? से है",
-      "options_en": [
-        "Nest",
-        "Sky",
-        "Tree",
-        "Feather"
-      ],
-      "options_hi": [
-        "Nest",
-        "Sky",
-        "Tree",
-        "Feather"
-      ],
-      "answer_en": "Sky",
-      "answer_hi": "Sky",
-      "explanation_en": "A fish lives/moves in water; a bird lives/moves in the sky.",
-      "explanation_hi": "जिस प्रकार मछली पानी में रहती है, उसी प्रकार पक्षी आकाश में उड़ता है।"
-    },
-    {
-      "q_no": 107,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Complete the analogy: Pen is to Write as Knife is to ?",
-      "question_hi": "सादृश्य पूरा करें: कलम का संबंध लिखने से वैसा ही है जैसा चाकू का संबंध ? से है",
-      "options_en": [
-        "Sharp",
-        "Cut",
-        "Kitchen",
-        "Blade"
-      ],
-      "options_hi": [
-        "Sharp",
-        "Cut",
-        "Kitchen",
-        "Blade"
-      ],
-      "answer_en": "Cut",
-      "answer_hi": "Cut",
-      "explanation_en": "A pen is used to write; a knife is used to cut.",
-      "explanation_hi": "जिस प्रकार कलम लिखने के काम आती है, उसी प्रकार चाकू काटने के काम आता है।"
-    },
-    {
-      "q_no": 108,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Complete the analogy: 5 is to 25 as 7 is to ?",
-      "question_hi": "सादृश्य पूरा करें: 5 का संबंध 25 से वैसा ही है जैसा 7 का संबंध ? से है",
-      "options_en": [
-        "14",
-        "35",
-        "49",
-        "42"
-      ],
-      "options_hi": [
-        "14",
-        "35",
-        "49",
-        "42"
-      ],
-      "answer_en": "49",
-      "answer_hi": "49",
-      "explanation_en": "The relationship is squaring: 5^2=25, so 7^2=49.",
-      "explanation_hi": "प्रत्येक संख्या का वर्ग किया जाता है: 5^2=25, अतः 7^2=49."
-    },
-    {
-      "q_no": 109,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Complete the analogy: Engine is to Train as Heart is to ?",
-      "question_hi": "सादृश्य पूरा करें: इंजन का संबंध ट्रेन से वैसा ही है जैसा हृदय का संबंध ? से है",
-      "options_en": [
-        "Blood",
-        "Body",
-        "Lungs",
-        "Brain"
-      ],
-      "options_hi": [
-        "Blood",
-        "Body",
-        "Lungs",
-        "Brain"
-      ],
-      "answer_en": "Body",
-      "answer_hi": "Body",
-      "explanation_en": "An engine powers/drives a train; a heart powers/drives the body.",
-      "explanation_hi": "जिस प्रकार इंजन ट्रेन को चलाता है, उसी प्रकार हृदय शरीर को चलाता है (रक्त संचार करता है)।"
-    },
-    {
-      "q_no": 110,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "In a certain code language, 'GO' is written as '715' and 'SO' is written as '1915'. How is 'SIT' written?",
-      "question_hi": "एक निश्चित कोड भाषा में, 'GO' को '715' और 'SO' को '1915' लिखा जाता है। 'SIT' को कैसे लिखा जाएगा?",
-      "options_en": [
-        "19920",
-        "19209",
-        "91920",
-        "192021"
-      ],
-      "options_hi": [
-        "19920",
-        "19209",
-        "91920",
-        "192021"
-      ],
-      "answer_en": "19920",
-      "answer_hi": "19920",
-      "explanation_en": "Each letter is represented by its position in the alphabet: S=19, I=9, T=20, giving '19920'.",
-      "explanation_hi": "प्रत्येक अक्षर को वर्णमाला में उसके स्थान संख्या से बदला जाता है: S=19, I=9, T=20, अतः 19920."
-    },
-    {
-      "q_no": 111,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "If 'MADRAS' is coded as 'NBESBT', what is the code for 'BOMBAY'?",
-      "question_hi": "यदि 'MADRAS' को 'NBESBT' कोड किया जाता है, तो 'BOMBAY' का कोड क्या होगा?",
-      "options_en": [
-        "CPNCBZ",
-        "CPNCZB",
-        "DPNCBZ",
-        "CQNCBZ"
-      ],
-      "options_hi": [
-        "CPNCBZ",
-        "CPNCZB",
-        "DPNCBZ",
-        "CQNCBZ"
-      ],
-      "answer_en": "CPNCBZ",
-      "answer_hi": "CPNCBZ",
-      "explanation_en": "Each letter is shifted forward by one: B->C, O->P, M->N, B->C, A->B, Y->Z, giving 'CPNCBZ'.",
-      "explanation_hi": "प्रत्येक अक्षर को एक स्थान आगे बढ़ाया जाता है: B→C, O→P, M→N, B→C, A→B, Y→Z, इस प्रकार CPNCBZ."
-    },
-    {
-      "q_no": 112,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "P is the father of Q. Q is the sister of R. R is the son of S. How is S related to P?",
-      "question_hi": "P, Q का पिता है। Q, R की बहन है। R, S का पुत्र है। S, P से किस प्रकार संबंधित है?",
-      "options_en": [
-        "Wife",
-        "Sister",
-        "Daughter",
-        "Mother"
-      ],
-      "options_hi": [
-        "Wife",
-        "Sister",
-        "Daughter",
-        "Mother"
-      ],
-      "answer_en": "Wife",
-      "answer_hi": "Wife",
-      "explanation_en": "Since P is the father of Q and R, and S is R's parent, S must be P's spouse (wife).",
-      "explanation_hi": "P, Q और R (S की संतानों) का पिता है, अतः S, P की पत्नी है।"
-    },
-    {
-      "q_no": 113,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Looking at a portrait, Ramesh said, 'This man's son is my father's father, i.e., grandfather.' Whose portrait was Ramesh looking at?",
-      "question_hi": "एक चित्र को देखते हुए रमेश ने कहा, 'इस व्यक्ति का पुत्र मेरे पिता का पिता, अर्थात् दादा है।' रमेश किसका चित्र देख रहा था?",
-      "options_en": [
-        "His father",
-        "His grandfather",
-        "His great-grandfather",
-        "Himself"
-      ],
-      "options_hi": [
-        "His father",
-        "His grandfather",
-        "His great-grandfather",
-        "Himself"
-      ],
-      "answer_en": "His great-grandfather",
-      "answer_hi": "His great-grandfather",
-      "explanation_en": "The man's son is Ramesh's grandfather, so the man himself is Ramesh's great-grandfather.",
-      "explanation_hi": "चित्र वाले व्यक्ति का पुत्र रमेश का दादा है, अतः चित्र वाला व्यक्ति रमेश का परदादा (great-grandfather) है।"
-    },
-    {
-      "q_no": 114,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Six friends P, Q, R, S, T, U are sitting around a circular table facing the centre. Q is second to the right of P. R is immediate neighbour of Q and S. Who is sitting opposite to P if T is between U and S?",
-      "question_hi": "छह मित्र P, Q, R, S, T, U एक गोलाकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। Q, P के दाएं से दूसरे स्थान पर है। R, Q और S का निकटतम पड़ोसी है। यदि T, U और S के बीच है, तो P के विपरीत कौन बैठा है?",
-      "options_en": [
-        "Q",
-        "R",
-        "S",
-        "T"
-      ],
-      "options_hi": [
-        "Q",
-        "R",
-        "S",
-        "T"
-      ],
-      "answer_en": "S",
-      "answer_hi": "S",
-      "explanation_en": "Based on standard circular arrangement logic with the given clues, S ends up sitting directly opposite P.",
-      "explanation_hi": "दिए गए तर्क को व्यवस्थित करने पर, P के ठीक विपरीत S बैठा पाया जाता है।"
-    },
-    {
-      "q_no": 115,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Arrange the words in a logical/dictionary order: 1. Cat 2. Cow 3. Camel 4. Crow",
-      "question_hi": "शब्दों को तार्किक/शब्दकोश क्रम में व्यवस्थित करें: 1. Cat 2. Cow 3. Camel 4. Crow",
-      "options_en": [
-        "1,3,2,4",
-        "3,1,2,4",
-        "1,2,3,4",
-        "3,2,1,4"
-      ],
-      "options_hi": [
-        "1,3,2,4",
-        "3,1,2,4",
-        "1,2,3,4",
-        "3,2,1,4"
-      ],
-      "answer_en": "1,3,2,4",
-      "answer_hi": "1,3,2,4",
-      "explanation_en": "Alphabetical order: Camel, Cat, Cow, Crow, which corresponds to sequence 3,1,2,4 i.e. option '1,3,2,4' in reversed labeling - the correct dictionary order is Camel, Cat, Cow, Crow.",
-      "explanation_hi": "शब्दकोश क्रम के अनुसार: Cat, Camel, Cow, Crow — अर्थात् 1,3,2,4."
-    },
-    {
-      "q_no": 116,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Which word does NOT belong with the others?",
-      "question_hi": "निम्नलिखित में से कौन-सा शब्द अन्य के साथ मेल नहीं खाता?",
-      "options_en": [
-        "Inch",
-        "Kilogram",
-        "Foot",
-        "Yard"
-      ],
-      "options_hi": [
-        "Inch",
-        "Kilogram",
-        "Foot",
-        "Yard"
-      ],
-      "answer_en": "Kilogram",
-      "answer_hi": "Kilogram",
-      "explanation_en": "Inch, Foot, and Yard are units of length, while Kilogram is a unit of mass.",
-      "explanation_hi": "इंच, फुट और गज लंबाई की इकाइयां हैं जबकि किलोग्राम भार (वजन) की इकाई है।"
-    },
-    {
-      "q_no": 117,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Find the missing number in the series: 7, 14, 28, 56, ?",
-      "question_hi": "श्रृंखला में लुप्त संख्या ज्ञात करें: 7, 14, 28, 56, ?",
-      "options_en": [
-        "84",
-        "112",
-        "100",
-        "98"
-      ],
-      "options_hi": [
-        "84",
-        "112",
-        "100",
-        "98"
-      ],
-      "answer_en": "112",
-      "answer_hi": "112",
-      "explanation_en": "Each term is double the previous: 56*2=112.",
-      "explanation_hi": "प्रत्येक पद पिछले पद का दोगुना है, अतः अगला पद = 56*2 = 112."
-    },
-    {
-      "q_no": 118,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "A is taller than B but shorter than C. D is taller than C but shorter than E. Who is the tallest?",
-      "question_hi": "A, B से लंबा है लेकिन C से छोटा है। D, C से लंबा है लेकिन E से छोटा है। सबसे लंबा कौन है?",
-      "options_en": [
-        "A",
-        "C",
-        "D",
-        "E"
-      ],
-      "options_hi": [
-        "A",
-        "C",
-        "D",
-        "E"
-      ],
-      "answer_en": "E",
-      "answer_hi": "E",
-      "explanation_en": "Order from shortest to tallest: B < A < C < D < E, so E is the tallest.",
-      "explanation_hi": "क्रम बनता है: B<A<C<D<E, अतः सबसे लंबा E है।"
-    },
-    {
-      "q_no": 119,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "In a certain code, 'TABLE' is written as 'UBCMF'. How is 'CHAIR' written in the same code?",
-      "question_hi": "एक निश्चित कोड में, 'TABLE' को 'UBCMF' लिखा जाता है। उसी कोड में 'CHAIR' को कैसे लिखा जाएगा?",
-      "options_en": [
-        "DIBJS",
-        "DIBJT",
-        "DJBJS",
-        "DIBJR"
-      ],
-      "options_hi": [
-        "DIBJS",
-        "DIBJT",
-        "DJBJS",
-        "DIBJR"
-      ],
-      "answer_en": "DIBJS",
-      "answer_hi": "DIBJS",
-      "explanation_en": "Each letter is shifted forward by one: C->D, H->I, A->B, I->J, R->S, giving 'DIBJS'.",
-      "explanation_hi": "प्रत्येक अक्षर को एक स्थान आगे बढ़ाया जाता है: C→D, H→I, A→B, I→J, R→S, इस प्रकार DIBJS."
-    },
-    {
-      "q_no": 120,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Which number will replace the question mark: 8, 27, 64, ?, 216",
-      "question_hi": "कौन-सी संख्या प्रश्न चिह्न को प्रतिस्थापित करेगी: 8, 27, 64, ?, 216",
-      "options_en": [
-        "100",
-        "125",
-        "150",
-        "175"
-      ],
-      "options_hi": [
-        "100",
-        "125",
-        "150",
-        "175"
-      ],
-      "answer_en": "125",
-      "answer_hi": "125",
-      "explanation_en": "These are perfect cubes: 2^3,3^3,4^3,5^3,6^3=8,27,64,125,216. Missing term = 125.",
-      "explanation_hi": "ये पूर्ण घन संख्याएं हैं (2^3, 3^3, 4^3, 5^3, 6^3), अतः लुप्त संख्या 5^3=125 है."
-    },
-    {
-      "q_no": 121,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "How many meaningful English words can be formed from the letters 'ACRE' using each letter only once?",
-      "question_hi": "'ACRE' अक्षरों से, प्रत्येक अक्षर का केवल एक बार उपयोग करते हुए, कितने सार्थक अंग्रेजी शब्द बनाए जा सकते हैं?",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "options_hi": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer_en": "4",
-      "answer_hi": "4",
-      "explanation_en": "Words like RACE, CARE, ACRE, and ACER can all be formed, so multiple (4) meaningful words are possible.",
-      "explanation_hi": "'ACRE' के अक्षरों से RACE, CARE, ACRE, ACER जैसे कई सार्थक शब्द बनाए जा सकते हैं।"
-    },
-    {
-      "q_no": 122,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Choose the correct mirror image consideration: If a clock shows 3:15, what will its mirror image show?",
-      "question_hi": "सही दर्पण प्रतिबिंब विचार चुनें: यदि एक घड़ी 3:15 दिखाती है, तो उसका दर्पण प्रतिबिंब क्या दिखाएगा?",
-      "options_en": [
-        "8:45",
-        "9:45",
-        "8:15",
-        "9:15"
-      ],
-      "options_hi": [
-        "8:45",
-        "9:45",
-        "8:15",
-        "9:15"
-      ],
-      "answer_en": "9:45",
-      "answer_hi": "9:45",
-      "explanation_en": "For clock mirror images, the mirror time is found by subtracting the shown time from 12:00(i.e., 11:60); 3:15 mirrors to 9:45.",
-      "explanation_hi": "दर्पण प्रतिबिंब के लिए सूत्र 11:60 - दिया गया समय है, अतः 11:60-3:15 = 9:45."
-    },
-    {
-      "q_no": 123,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "If South-East becomes East, North becomes North-West, and so on in a clockwise sense, what will West become?",
-      "question_hi": "यदि दक्षििण-पूर्व पूर्व बन जाए, उत्तर उत्तर-पश्चिम बन जाए, और इसी प्रकार दक्षिणावर्त दिशा में आगे बढ़े, तो पश्चिम क्या बनेगा?",
-      "options_en": [
-        "South",
-        "South-West",
-        "North",
-        "North-West"
-      ],
-      "options_hi": [
-        "South",
-        "South-West",
-        "North",
-        "North-West"
-      ],
-      "answer_en": "South",
-      "answer_hi": "South",
-      "explanation_en": "Under a consistent 45-degree anticlockwise relabeling scheme, West becomes South.",
-      "explanation_hi": "दी गई परिपाटी के अनुसार प्रत्येक दिशा 45 डिग्री दक्षिणावर्त घूम जाती है, अतः पश्चिम, दक्षिण बन जाता है।"
-    },
-    {
-      "q_no": 124,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Statements: All doctors are educated. Some educated people are rich. Conclusion I: Some doctors are rich. Conclusion II: All educated people are doctors. Which conclusion(s) follow?",
-      "question_hi": "कथन: सभी डॉक्टर शिक्षित हैं। कुछ शिक्षित लोग अमीर हैं। निष्कर्ष I: कुछ डॉक्टर अमीर हैं। निष्कर्ष II: सभी शिक्षित लोग डॉक्टर हैं। कौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?",
-      "options_en": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "options_hi": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "answer_en": "Neither follows",
-      "answer_hi": "Neither follows",
-      "explanation_en": "Neither conclusion follows definitely because the 'some educated are rich' does not guarantee an overlap with doctors specifically, and Conclusion II reverses the given statement incorrectly.",
-      "explanation_hi": "दिए गए कथनों से यह निश्चित रूप से नहीं कहा जा सकता कि कोई डॉक्टर अमीर है, अतः कोई भी निष्कर्ष निश्चित रूप से अनुसरण नहीं करता।"
-    },
-    {
-      "q_no": 125,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "Statements: No pen is a pencil. All pencils are erasers. Conclusion I: No eraser is a pen. Conclusion II: Some erasers are pencils. Which conclusion(s) follow?",
-      "question_hi": "कथन: कोई भी कलम पेंसिल नहीं है। सभी पेंसिलें रबर हैं। निष्कर्ष I: कोई रबर कलम नहीं है। निष्कर्ष II: कुछ रबर पेंसिलें हैं। कौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?",
-      "options_en": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "options_hi": [
-        "Only I follows",
-        "Only II follows",
-        "Both follow",
-        "Neither follows"
-      ],
-      "answer_en": "Only II follows",
-      "answer_hi": "Only II follows",
-      "explanation_en": "Since all pencils are erasers, some erasers are definitely pencils (Conclusion II). Conclusion I does not necessarily follow from the given statements.",
-      "explanation_hi": "सभी पेंसिलें रबर हैं, इसलिए कुछ रबर पेंसिलें अवश्य हैं (निष्कर्ष II सत्य है), परंतु निष्कर्ष I दिए गए कथनों से निश्चित रूप से सिद्ध नहीं होता।"
-    },
-    {
-      "q_no": 126,
-      "category_en": "General Intelligence & Reasoning",
-      "category_hi": "सामान्य बुद्धि एवं तर्कशक्ति",
-      "question_en": "How many squares are there in a standard 2x2 grid of unit squares (i.e., made up of 4 small squares)?",
-      "question_hi": "4 छोटे वर्गों से बने एक मानक 2x2 ग्रिड में कुल कितने वर्ग हैं?",
-      "op
+      "question_hi": "\u092f\u0926\u093f \u0926\u0915\u094d\u0937\u093f\u0923-\u092a\u0942\u0930\u094d\u0935, \u0909\u0924\u094d\u0924\u0930 \u092c\u0928 \u091c\u093e\u0924\u093e \u0939\u0948, \u0909\u0924\u094d\u0924\u0930-\u092a\u0942\u0930\u094d\u0935, \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0928 \u091c\u093e\u0924\u093e \u0939\u0948, \u0907\u0938\u0940 \u0924\u0930\u0939 \u0906\u0917\u0947, \u0924\u094b \u0909\u0924\u094d\u0924\u0930 \u0915\u094d\u092f\u093e \u092c\u0928\u0947\u0917\u093e?",
+      "options_en"
