@@ -1,0 +1,3005 @@
+{
+  "title": "Speed Maths Practice — Addition, Subtraction, Squares, Square Roots & Cubes (1-30)",
+  "questions": [
+    {
+      "question_en": "1 + 5 + 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 1 + 5 + 4 = ?",
+      "options_en": [
+        "10",
+        "13",
+        "7",
+        "8"
+      ],
+      "options_hi": [
+        "10",
+        "13",
+        "7",
+        "8"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "1 + 5 + 4 = 10",
+      "explanation_hi": "1 + 5 + 4 = 10"
+    },
+    {
+      "question_en": "1 + 2 + 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 1 + 2 + 4 = ?",
+      "options_en": [
+        "9",
+        "7",
+        "5",
+        "4"
+      ],
+      "options_hi": [
+        "9",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer_en": "7",
+      "answer_hi": "7",
+      "explanation_en": "1 + 2 + 4 = 7",
+      "explanation_hi": "1 + 2 + 4 = 7"
+    },
+    {
+      "question_en": "8 + 5 + 1 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 8 + 5 + 1 = ?",
+      "options_en": [
+        "14",
+        "17",
+        "12",
+        "15"
+      ],
+      "options_hi": [
+        "14",
+        "17",
+        "12",
+        "15"
+      ],
+      "answer_en": "14",
+      "answer_hi": "14",
+      "explanation_en": "8 + 5 + 1 = 14",
+      "explanation_hi": "8 + 5 + 1 = 14"
+    },
+    {
+      "question_en": "6 + 2 + 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 6 + 2 + 2 = ?",
+      "options_en": [
+        "9",
+        "11",
+        "10",
+        "7"
+      ],
+      "options_hi": [
+        "9",
+        "11",
+        "10",
+        "7"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "6 + 2 + 2 = 10",
+      "explanation_hi": "6 + 2 + 2 = 10"
+    },
+    {
+      "question_en": "8 + 9 + 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 8 + 9 + 2 = ?",
+      "options_en": [
+        "16",
+        "20",
+        "19",
+        "21"
+      ],
+      "options_hi": [
+        "16",
+        "20",
+        "19",
+        "21"
+      ],
+      "answer_en": "19",
+      "answer_hi": "19",
+      "explanation_en": "8 + 9 + 2 = 19",
+      "explanation_hi": "8 + 9 + 2 = 19"
+    },
+    {
+      "question_en": "4 + 2 + 1 + 4 + 5 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 4 + 2 + 1 + 4 + 5 = ?",
+      "options_en": [
+        "17",
+        "16",
+        "13",
+        "14"
+      ],
+      "options_hi": [
+        "17",
+        "16",
+        "13",
+        "14"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "4 + 2 + 1 + 4 + 5 = 16",
+      "explanation_hi": "4 + 2 + 1 + 4 + 5 = 16"
+    },
+    {
+      "question_en": "6 + 6 + 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 6 + 6 + 4 = ?",
+      "options_en": [
+        "16",
+        "19",
+        "15",
+        "13"
+      ],
+      "options_hi": [
+        "16",
+        "19",
+        "15",
+        "13"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "6 + 6 + 4 = 16",
+      "explanation_hi": "6 + 6 + 4 = 16"
+    },
+    {
+      "question_en": "8 + 7 + 5 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 8 + 7 + 5 = ?",
+      "options_en": [
+        "22",
+        "20",
+        "18",
+        "23"
+      ],
+      "options_hi": [
+        "22",
+        "20",
+        "18",
+        "23"
+      ],
+      "answer_en": "20",
+      "answer_hi": "20",
+      "explanation_en": "8 + 7 + 5 = 20",
+      "explanation_hi": "8 + 7 + 5 = 20"
+    },
+    {
+      "question_en": "6 + 7 + 5 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 6 + 7 + 5 = ?",
+      "options_en": [
+        "18",
+        "20",
+        "16",
+        "15"
+      ],
+      "options_hi": [
+        "18",
+        "20",
+        "16",
+        "15"
+      ],
+      "answer_en": "18",
+      "answer_hi": "18",
+      "explanation_en": "6 + 7 + 5 = 18",
+      "explanation_hi": "6 + 7 + 5 = 18"
+    },
+    {
+      "question_en": "8 + 3 + 5 + 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 8 + 3 + 5 + 3 = ?",
+      "options_en": [
+        "17",
+        "21",
+        "19",
+        "22"
+      ],
+      "options_hi": [
+        "17",
+        "21",
+        "19",
+        "22"
+      ],
+      "answer_en": "19",
+      "answer_hi": "19",
+      "explanation_en": "8 + 3 + 5 + 3 = 19",
+      "explanation_hi": "8 + 3 + 5 + 3 = 19"
+    },
+    {
+      "question_en": "7 + 6 + 4 + 3 + 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 7 + 6 + 4 + 3 + 9 = ?",
+      "options_en": [
+        "26",
+        "29",
+        "30",
+        "27"
+      ],
+      "options_hi": [
+        "26",
+        "29",
+        "30",
+        "27"
+      ],
+      "answer_en": "29",
+      "answer_hi": "29",
+      "explanation_en": "7 + 6 + 4 + 3 + 9 = 29",
+      "explanation_hi": "7 + 6 + 4 + 3 + 9 = 29"
+    },
+    {
+      "question_en": "2 + 7 + 7 + 8 + 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 2 + 7 + 7 + 8 + 9 = ?",
+      "options_en": [
+        "33",
+        "35",
+        "30",
+        "32"
+      ],
+      "options_hi": [
+        "33",
+        "35",
+        "30",
+        "32"
+      ],
+      "answer_en": "33",
+      "answer_hi": "33",
+      "explanation_en": "2 + 7 + 7 + 8 + 9 = 33",
+      "explanation_hi": "2 + 7 + 7 + 8 + 9 = 33"
+    },
+    {
+      "question_en": "2 + 5 + 7 + 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 2 + 5 + 7 + 3 = ?",
+      "options_en": [
+        "20",
+        "18",
+        "17",
+        "14"
+      ],
+      "options_hi": [
+        "20",
+        "18",
+        "17",
+        "14"
+      ],
+      "answer_en": "17",
+      "answer_hi": "17",
+      "explanation_en": "2 + 5 + 7 + 3 = 17",
+      "explanation_hi": "2 + 5 + 7 + 3 = 17"
+    },
+    {
+      "question_en": "2 + 5 + 9 + 4 + 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 2 + 5 + 9 + 4 + 3 = ?",
+      "options_en": [
+        "23",
+        "21",
+        "22",
+        "25"
+      ],
+      "options_hi": [
+        "23",
+        "21",
+        "22",
+        "25"
+      ],
+      "answer_en": "23",
+      "answer_hi": "23",
+      "explanation_en": "2 + 5 + 9 + 4 + 3 = 23",
+      "explanation_hi": "2 + 5 + 9 + 4 + 3 = 23"
+    },
+    {
+      "question_en": "1 + 2 + 6 + 5 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 1 + 2 + 6 + 5 = ?",
+      "options_en": [
+        "12",
+        "11",
+        "14",
+        "16"
+      ],
+      "options_hi": [
+        "12",
+        "11",
+        "14",
+        "16"
+      ],
+      "answer_en": "14",
+      "answer_hi": "14",
+      "explanation_en": "1 + 2 + 6 + 5 = 14",
+      "explanation_hi": "1 + 2 + 6 + 5 = 14"
+    },
+    {
+      "question_en": "9 + 3 + 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 9 + 3 + 3 = ?",
+      "options_en": [
+        "16",
+        "18",
+        "15",
+        "17"
+      ],
+      "options_hi": [
+        "16",
+        "18",
+        "15",
+        "17"
+      ],
+      "answer_en": "15",
+      "answer_hi": "15",
+      "explanation_en": "9 + 3 + 3 = 15",
+      "explanation_hi": "9 + 3 + 3 = 15"
+    },
+    {
+      "question_en": "9 + 4 + 5 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 9 + 4 + 5 = ?",
+      "options_en": [
+        "17",
+        "19",
+        "21",
+        "18"
+      ],
+      "options_hi": [
+        "17",
+        "19",
+        "21",
+        "18"
+      ],
+      "answer_en": "18",
+      "answer_hi": "18",
+      "explanation_en": "9 + 4 + 5 = 18",
+      "explanation_hi": "9 + 4 + 5 = 18"
+    },
+    {
+      "question_en": "4 + 4 + 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 4 + 4 + 2 = ?",
+      "options_en": [
+        "10",
+        "9",
+        "7",
+        "12"
+      ],
+      "options_hi": [
+        "10",
+        "9",
+        "7",
+        "12"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "4 + 4 + 2 = 10",
+      "explanation_hi": "4 + 4 + 2 = 10"
+    },
+    {
+      "question_en": "2 + 1 + 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 2 + 1 + 4 = ?",
+      "options_en": [
+        "9",
+        "6",
+        "7",
+        "4"
+      ],
+      "options_hi": [
+        "9",
+        "6",
+        "7",
+        "4"
+      ],
+      "answer_en": "7",
+      "answer_hi": "7",
+      "explanation_en": "2 + 1 + 4 = 7",
+      "explanation_hi": "2 + 1 + 4 = 7"
+    },
+    {
+      "question_en": "9 + 3 + 8 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 9 + 3 + 8 = ?",
+      "options_en": [
+        "20",
+        "18",
+        "21",
+        "17"
+      ],
+      "options_hi": [
+        "20",
+        "18",
+        "21",
+        "17"
+      ],
+      "answer_en": "20",
+      "answer_hi": "20",
+      "explanation_en": "9 + 3 + 8 = 20",
+      "explanation_hi": "9 + 3 + 8 = 20"
+    },
+    {
+      "question_en": "7 + 7 + 8 + 1 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 7 + 7 + 8 + 1 = ?",
+      "options_en": [
+        "26",
+        "23",
+        "24",
+        "20"
+      ],
+      "options_hi": [
+        "26",
+        "23",
+        "24",
+        "20"
+      ],
+      "answer_en": "23",
+      "answer_hi": "23",
+      "explanation_en": "7 + 7 + 8 + 1 = 23",
+      "explanation_hi": "7 + 7 + 8 + 1 = 23"
+    },
+    {
+      "question_en": "4 + 9 + 8 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 4 + 9 + 8 = ?",
+      "options_en": [
+        "20",
+        "22",
+        "19",
+        "21"
+      ],
+      "options_hi": [
+        "20",
+        "22",
+        "19",
+        "21"
+      ],
+      "answer_en": "21",
+      "answer_hi": "21",
+      "explanation_en": "4 + 9 + 8 = 21",
+      "explanation_hi": "4 + 9 + 8 = 21"
+    },
+    {
+      "question_en": "9 + 2 + 1 + 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 9 + 2 + 1 + 9 = ?",
+      "options_en": [
+        "22",
+        "18",
+        "19",
+        "21"
+      ],
+      "options_hi": [
+        "22",
+        "18",
+        "19",
+        "21"
+      ],
+      "answer_en": "21",
+      "answer_hi": "21",
+      "explanation_en": "9 + 2 + 1 + 9 = 21",
+      "explanation_hi": "9 + 2 + 1 + 9 = 21"
+    },
+    {
+      "question_en": "1 + 3 + 7 + 1 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 1 + 3 + 7 + 1 = ?",
+      "options_en": [
+        "13",
+        "15",
+        "11",
+        "12"
+      ],
+      "options_hi": [
+        "13",
+        "15",
+        "11",
+        "12"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "1 + 3 + 7 + 1 = 12",
+      "explanation_hi": "1 + 3 + 7 + 1 = 12"
+    },
+    {
+      "question_en": "4 + 1 + 9 + 1 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 4 + 1 + 9 + 1 = ?",
+      "options_en": [
+        "15",
+        "12",
+        "14",
+        "18"
+      ],
+      "options_hi": [
+        "15",
+        "12",
+        "14",
+        "18"
+      ],
+      "answer_en": "15",
+      "answer_hi": "15",
+      "explanation_en": "4 + 1 + 9 + 1 = 15",
+      "explanation_hi": "4 + 1 + 9 + 1 = 15"
+    },
+    {
+      "question_en": "9 + 3 + 1 + 9 + 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 9 + 3 + 1 + 9 + 2 = ?",
+      "options_en": [
+        "21",
+        "24",
+        "22",
+        "26"
+      ],
+      "options_hi": [
+        "21",
+        "24",
+        "22",
+        "26"
+      ],
+      "answer_en": "24",
+      "answer_hi": "24",
+      "explanation_en": "9 + 3 + 1 + 9 + 2 = 24",
+      "explanation_hi": "9 + 3 + 1 + 9 + 2 = 24"
+    },
+    {
+      "question_en": "2 + 4 + 1 + 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 2 + 4 + 1 + 2 = ?",
+      "options_en": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "options_hi": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer_en": "9",
+      "answer_hi": "9",
+      "explanation_en": "2 + 4 + 1 + 2 = 9",
+      "explanation_hi": "2 + 4 + 1 + 2 = 9"
+    },
+    {
+      "question_en": "4 + 5 + 7 + 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 4 + 5 + 7 + 3 = ?",
+      "options_en": [
+        "20",
+        "19",
+        "18",
+        "22"
+      ],
+      "options_hi": [
+        "20",
+        "19",
+        "18",
+        "22"
+      ],
+      "answer_en": "19",
+      "answer_hi": "19",
+      "explanation_en": "4 + 5 + 7 + 3 = 19",
+      "explanation_hi": "4 + 5 + 7 + 3 = 19"
+    },
+    {
+      "question_en": "2 + 2 + 9 + 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 2 + 2 + 9 + 4 = ?",
+      "options_en": [
+        "19",
+        "17",
+        "16",
+        "15"
+      ],
+      "options_hi": [
+        "19",
+        "17",
+        "16",
+        "15"
+      ],
+      "answer_en": "17",
+      "answer_hi": "17",
+      "explanation_en": "2 + 2 + 9 + 4 = 17",
+      "explanation_hi": "2 + 2 + 9 + 4 = 17"
+    },
+    {
+      "question_en": "5 + 3 + 8 + 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 5 + 3 + 8 + 9 = ?",
+      "options_en": [
+        "25",
+        "27",
+        "28",
+        "24"
+      ],
+      "options_hi": [
+        "25",
+        "27",
+        "28",
+        "24"
+      ],
+      "answer_en": "25",
+      "answer_hi": "25",
+      "explanation_en": "5 + 3 + 8 + 9 = 25",
+      "explanation_hi": "5 + 3 + 8 + 9 = 25"
+    },
+    {
+      "question_en": "3 + 5 + 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 3 + 5 + 2 = ?",
+      "options_en": [
+        "12",
+        "7",
+        "10",
+        "13"
+      ],
+      "options_hi": [
+        "12",
+        "7",
+        "10",
+        "13"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "3 + 5 + 2 = 10",
+      "explanation_hi": "3 + 5 + 2 = 10"
+    },
+    {
+      "question_en": "4 + 6 + 4 + 5 + 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 4 + 6 + 4 + 5 + 9 = ?",
+      "options_en": [
+        "28",
+        "27",
+        "29",
+        "25"
+      ],
+      "options_hi": [
+        "28",
+        "27",
+        "29",
+        "25"
+      ],
+      "answer_en": "28",
+      "answer_hi": "28",
+      "explanation_en": "4 + 6 + 4 + 5 + 9 = 28",
+      "explanation_hi": "4 + 6 + 4 + 5 + 9 = 28"
+    },
+    {
+      "question_en": "1 + 1 + 6 + 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 1 + 1 + 6 + 3 = ?",
+      "options_en": [
+        "9",
+        "10",
+        "14",
+        "11"
+      ],
+      "options_hi": [
+        "9",
+        "10",
+        "14",
+        "11"
+      ],
+      "answer_en": "11",
+      "answer_hi": "11",
+      "explanation_en": "1 + 1 + 6 + 3 = 11",
+      "explanation_hi": "1 + 1 + 6 + 3 = 11"
+    },
+    {
+      "question_en": "1 + 2 + 2 + 3 + 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 1 + 2 + 2 + 3 + 9 = ?",
+      "options_en": [
+        "14",
+        "16",
+        "17",
+        "19"
+      ],
+      "options_hi": [
+        "14",
+        "16",
+        "17",
+        "19"
+      ],
+      "answer_en": "17",
+      "answer_hi": "17",
+      "explanation_en": "1 + 2 + 2 + 3 + 9 = 17",
+      "explanation_hi": "1 + 2 + 2 + 3 + 9 = 17"
+    },
+    {
+      "question_en": "5 + 6 + 1 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 5 + 6 + 1 = ?",
+      "options_en": [
+        "12",
+        "10",
+        "15",
+        "11"
+      ],
+      "options_hi": [
+        "12",
+        "10",
+        "15",
+        "11"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "5 + 6 + 1 = 12",
+      "explanation_hi": "5 + 6 + 1 = 12"
+    },
+    {
+      "question_en": "65 - 53 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 65 - 53 = ?",
+      "options_en": [
+        "12",
+        "15",
+        "10",
+        "14"
+      ],
+      "options_hi": [
+        "12",
+        "15",
+        "10",
+        "14"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "65 - 53 = 12",
+      "explanation_hi": "65 - 53 = 12"
+    },
+    {
+      "question_en": "72 - 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 72 - 4 = ?",
+      "options_en": [
+        "67",
+        "66",
+        "71",
+        "68"
+      ],
+      "options_hi": [
+        "67",
+        "66",
+        "71",
+        "68"
+      ],
+      "answer_en": "68",
+      "answer_hi": "68",
+      "explanation_en": "72 - 4 = 68",
+      "explanation_hi": "72 - 4 = 68"
+    },
+    {
+      "question_en": "54 - 11 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 54 - 11 = ?",
+      "options_en": [
+        "46",
+        "43",
+        "44",
+        "40"
+      ],
+      "options_hi": [
+        "46",
+        "43",
+        "44",
+        "40"
+      ],
+      "answer_en": "43",
+      "answer_hi": "43",
+      "explanation_en": "54 - 11 = 43",
+      "explanation_hi": "54 - 11 = 43"
+    },
+    {
+      "question_en": "45 - 30 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 45 - 30 = ?",
+      "options_en": [
+        "12",
+        "14",
+        "15",
+        "13"
+      ],
+      "options_hi": [
+        "12",
+        "14",
+        "15",
+        "13"
+      ],
+      "answer_en": "15",
+      "answer_hi": "15",
+      "explanation_en": "45 - 30 = 15",
+      "explanation_hi": "45 - 30 = 15"
+    },
+    {
+      "question_en": "55 - 5 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 55 - 5 = ?",
+      "options_en": [
+        "49",
+        "52",
+        "53",
+        "50"
+      ],
+      "options_hi": [
+        "49",
+        "52",
+        "53",
+        "50"
+      ],
+      "answer_en": "50",
+      "answer_hi": "50",
+      "explanation_en": "55 - 5 = 50",
+      "explanation_hi": "55 - 5 = 50"
+    },
+    {
+      "question_en": "23 - 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 23 - 4 = ?",
+      "options_en": [
+        "18",
+        "19",
+        "17",
+        "21"
+      ],
+      "options_hi": [
+        "18",
+        "19",
+        "17",
+        "21"
+      ],
+      "answer_en": "19",
+      "answer_hi": "19",
+      "explanation_en": "23 - 4 = 19",
+      "explanation_hi": "23 - 4 = 19"
+    },
+    {
+      "question_en": "96 - 56 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 96 - 56 = ?",
+      "options_en": [
+        "39",
+        "40",
+        "43",
+        "41"
+      ],
+      "options_hi": [
+        "39",
+        "40",
+        "43",
+        "41"
+      ],
+      "answer_en": "40",
+      "answer_hi": "40",
+      "explanation_en": "96 - 56 = 40",
+      "explanation_hi": "96 - 56 = 40"
+    },
+    {
+      "question_en": "52 - 3 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 52 - 3 = ?",
+      "options_en": [
+        "50",
+        "46",
+        "49",
+        "52"
+      ],
+      "options_hi": [
+        "50",
+        "46",
+        "49",
+        "52"
+      ],
+      "answer_en": "49",
+      "answer_hi": "49",
+      "explanation_en": "52 - 3 = 49",
+      "explanation_hi": "52 - 3 = 49"
+    },
+    {
+      "question_en": "28 - 22 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 28 - 22 = ?",
+      "options_en": [
+        "6",
+        "9",
+        "5",
+        "8"
+      ],
+      "options_hi": [
+        "6",
+        "9",
+        "5",
+        "8"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "28 - 22 = 6",
+      "explanation_hi": "28 - 22 = 6"
+    },
+    {
+      "question_en": "84 - 40 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 84 - 40 = ?",
+      "options_en": [
+        "43",
+        "45",
+        "47",
+        "44"
+      ],
+      "options_hi": [
+        "43",
+        "45",
+        "47",
+        "44"
+      ],
+      "answer_en": "44",
+      "answer_hi": "44",
+      "explanation_en": "84 - 40 = 44",
+      "explanation_hi": "84 - 40 = 44"
+    },
+    {
+      "question_en": "90 - 17 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 90 - 17 = ?",
+      "options_en": [
+        "76",
+        "74",
+        "71",
+        "73"
+      ],
+      "options_hi": [
+        "76",
+        "74",
+        "71",
+        "73"
+      ],
+      "answer_en": "73",
+      "answer_hi": "73",
+      "explanation_en": "90 - 17 = 73",
+      "explanation_hi": "90 - 17 = 73"
+    },
+    {
+      "question_en": "98 - 73 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 98 - 73 = ?",
+      "options_en": [
+        "25",
+        "27",
+        "26",
+        "24"
+      ],
+      "options_hi": [
+        "25",
+        "27",
+        "26",
+        "24"
+      ],
+      "answer_en": "25",
+      "answer_hi": "25",
+      "explanation_en": "98 - 73 = 25",
+      "explanation_hi": "98 - 73 = 25"
+    },
+    {
+      "question_en": "46 - 28 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 46 - 28 = ?",
+      "options_en": [
+        "17",
+        "21",
+        "20",
+        "18"
+      ],
+      "options_hi": [
+        "17",
+        "21",
+        "20",
+        "18"
+      ],
+      "answer_en": "18",
+      "answer_hi": "18",
+      "explanation_en": "46 - 28 = 18",
+      "explanation_hi": "46 - 28 = 18"
+    },
+    {
+      "question_en": "47 - 33 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 47 - 33 = ?",
+      "options_en": [
+        "14",
+        "15",
+        "12",
+        "17"
+      ],
+      "options_hi": [
+        "14",
+        "15",
+        "12",
+        "17"
+      ],
+      "answer_en": "14",
+      "answer_hi": "14",
+      "explanation_en": "47 - 33 = 14",
+      "explanation_hi": "47 - 33 = 14"
+    },
+    {
+      "question_en": "31 - 27 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 31 - 27 = ?",
+      "options_en": [
+        "4",
+        "7",
+        "2",
+        "3"
+      ],
+      "options_hi": [
+        "4",
+        "7",
+        "2",
+        "3"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "31 - 27 = 4",
+      "explanation_hi": "31 - 27 = 4"
+    },
+    {
+      "question_en": "23 - 2 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 23 - 2 = ?",
+      "options_en": [
+        "21",
+        "23",
+        "22",
+        "19"
+      ],
+      "options_hi": [
+        "21",
+        "23",
+        "22",
+        "19"
+      ],
+      "answer_en": "21",
+      "answer_hi": "21",
+      "explanation_en": "23 - 2 = 21",
+      "explanation_hi": "23 - 2 = 21"
+    },
+    {
+      "question_en": "93 - 25 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 93 - 25 = ?",
+      "options_en": [
+        "68",
+        "66",
+        "71",
+        "69"
+      ],
+      "options_hi": [
+        "68",
+        "66",
+        "71",
+        "69"
+      ],
+      "answer_en": "68",
+      "answer_hi": "68",
+      "explanation_en": "93 - 25 = 68",
+      "explanation_hi": "93 - 25 = 68"
+    },
+    {
+      "question_en": "33 - 28 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 33 - 28 = ?",
+      "options_en": [
+        "3",
+        "7",
+        "8",
+        "5"
+      ],
+      "options_hi": [
+        "3",
+        "7",
+        "8",
+        "5"
+      ],
+      "answer_en": "5",
+      "answer_hi": "5",
+      "explanation_en": "33 - 28 = 5",
+      "explanation_hi": "33 - 28 = 5"
+    },
+    {
+      "question_en": "35 - 30 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 35 - 30 = ?",
+      "options_en": [
+        "8",
+        "5",
+        "3",
+        "6"
+      ],
+      "options_hi": [
+        "8",
+        "5",
+        "3",
+        "6"
+      ],
+      "answer_en": "5",
+      "answer_hi": "5",
+      "explanation_en": "35 - 30 = 5",
+      "explanation_hi": "35 - 30 = 5"
+    },
+    {
+      "question_en": "90 - 58 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 90 - 58 = ?",
+      "options_en": [
+        "30",
+        "33",
+        "35",
+        "32"
+      ],
+      "options_hi": [
+        "30",
+        "33",
+        "35",
+        "32"
+      ],
+      "answer_en": "32",
+      "answer_hi": "32",
+      "explanation_en": "90 - 58 = 32",
+      "explanation_hi": "90 - 58 = 32"
+    },
+    {
+      "question_en": "55 - 50 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 55 - 50 = ?",
+      "options_en": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "options_hi": [
+        "8",
+        "7",
+        "5",
+        "6"
+      ],
+      "answer_en": "5",
+      "answer_hi": "5",
+      "explanation_en": "55 - 50 = 5",
+      "explanation_hi": "55 - 50 = 5"
+    },
+    {
+      "question_en": "29 - 23 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 29 - 23 = ?",
+      "options_en": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "options_hi": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "29 - 23 = 6",
+      "explanation_hi": "29 - 23 = 6"
+    },
+    {
+      "question_en": "49 - 25 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 49 - 25 = ?",
+      "options_en": [
+        "27",
+        "22",
+        "21",
+        "24"
+      ],
+      "options_hi": [
+        "27",
+        "22",
+        "21",
+        "24"
+      ],
+      "answer_en": "24",
+      "answer_hi": "24",
+      "explanation_en": "49 - 25 = 24",
+      "explanation_hi": "49 - 25 = 24"
+    },
+    {
+      "question_en": "89 - 60 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 89 - 60 = ?",
+      "options_en": [
+        "30",
+        "26",
+        "27",
+        "29"
+      ],
+      "options_hi": [
+        "30",
+        "26",
+        "27",
+        "29"
+      ],
+      "answer_en": "29",
+      "answer_hi": "29",
+      "explanation_en": "89 - 60 = 29",
+      "explanation_hi": "89 - 60 = 29"
+    },
+    {
+      "question_en": "93 - 49 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 93 - 49 = ?",
+      "options_en": [
+        "41",
+        "44",
+        "43",
+        "45"
+      ],
+      "options_hi": [
+        "41",
+        "44",
+        "43",
+        "45"
+      ],
+      "answer_en": "44",
+      "answer_hi": "44",
+      "explanation_en": "93 - 49 = 44",
+      "explanation_hi": "93 - 49 = 44"
+    },
+    {
+      "question_en": "88 - 70 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 88 - 70 = ?",
+      "options_en": [
+        "16",
+        "20",
+        "18",
+        "19"
+      ],
+      "options_hi": [
+        "16",
+        "20",
+        "18",
+        "19"
+      ],
+      "answer_en": "18",
+      "answer_hi": "18",
+      "explanation_en": "88 - 70 = 18",
+      "explanation_hi": "88 - 70 = 18"
+    },
+    {
+      "question_en": "82 - 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 82 - 4 = ?",
+      "options_en": [
+        "77",
+        "81",
+        "79",
+        "78"
+      ],
+      "options_hi": [
+        "77",
+        "81",
+        "79",
+        "78"
+      ],
+      "answer_en": "78",
+      "answer_hi": "78",
+      "explanation_en": "82 - 4 = 78",
+      "explanation_hi": "82 - 4 = 78"
+    },
+    {
+      "question_en": "79 - 17 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 79 - 17 = ?",
+      "options_en": [
+        "63",
+        "59",
+        "62",
+        "64"
+      ],
+      "options_hi": [
+        "63",
+        "59",
+        "62",
+        "64"
+      ],
+      "answer_en": "62",
+      "answer_hi": "62",
+      "explanation_en": "79 - 17 = 62",
+      "explanation_hi": "79 - 17 = 62"
+    },
+    {
+      "question_en": "37 - 30 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 37 - 30 = ?",
+      "options_en": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "options_hi": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer_en": "7",
+      "answer_hi": "7",
+      "explanation_en": "37 - 30 = 7",
+      "explanation_hi": "37 - 30 = 7"
+    },
+    {
+      "question_en": "78 - 42 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 78 - 42 = ?",
+      "options_en": [
+        "35",
+        "37",
+        "33",
+        "36"
+      ],
+      "options_hi": [
+        "35",
+        "37",
+        "33",
+        "36"
+      ],
+      "answer_en": "36",
+      "answer_hi": "36",
+      "explanation_en": "78 - 42 = 36",
+      "explanation_hi": "78 - 42 = 36"
+    },
+    {
+      "question_en": "64 - 15 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 64 - 15 = ?",
+      "options_en": [
+        "49",
+        "47",
+        "52",
+        "46"
+      ],
+      "options_hi": [
+        "49",
+        "47",
+        "52",
+        "46"
+      ],
+      "answer_en": "49",
+      "answer_hi": "49",
+      "explanation_en": "64 - 15 = 49",
+      "explanation_hi": "64 - 15 = 49"
+    },
+    {
+      "question_en": "50 - 9 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 50 - 9 = ?",
+      "options_en": [
+        "42",
+        "38",
+        "41",
+        "44"
+      ],
+      "options_hi": [
+        "42",
+        "38",
+        "41",
+        "44"
+      ],
+      "answer_en": "41",
+      "answer_hi": "41",
+      "explanation_en": "50 - 9 = 41",
+      "explanation_hi": "50 - 9 = 41"
+    },
+    {
+      "question_en": "67 - 22 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 67 - 22 = ?",
+      "options_en": [
+        "47",
+        "48",
+        "45",
+        "42"
+      ],
+      "options_hi": [
+        "47",
+        "48",
+        "45",
+        "42"
+      ],
+      "answer_en": "45",
+      "answer_hi": "45",
+      "explanation_en": "67 - 22 = 45",
+      "explanation_hi": "67 - 22 = 45"
+    },
+    {
+      "question_en": "94 - 4 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 94 - 4 = ?",
+      "options_en": [
+        "93",
+        "89",
+        "92",
+        "90"
+      ],
+      "options_hi": [
+        "93",
+        "89",
+        "92",
+        "90"
+      ],
+      "answer_en": "90",
+      "answer_hi": "90",
+      "explanation_en": "94 - 4 = 90",
+      "explanation_hi": "94 - 4 = 90"
+    },
+    {
+      "question_en": "29 - 19 = ?",
+      "question_hi": "मान ज्ञात कीजिए: 29 - 19 = ?",
+      "options_en": [
+        "13",
+        "8",
+        "10",
+        "7"
+      ],
+      "options_hi": [
+        "13",
+        "8",
+        "10",
+        "7"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "29 - 19 = 10",
+      "explanation_hi": "29 - 19 = 10"
+    },
+    {
+      "question_en": "1² = ?  (Square of 1)",
+      "question_hi": "1 का वर्ग ज्ञात कीजिए। (1² = ?)",
+      "options_en": [
+        "1",
+        "21",
+        "61",
+        "41"
+      ],
+      "options_hi": [
+        "1",
+        "21",
+        "61",
+        "41"
+      ],
+      "answer_en": "1",
+      "answer_hi": "1",
+      "explanation_en": "1 x 1 = 1",
+      "explanation_hi": "1 x 1 = 1"
+    },
+    {
+      "question_en": "2² = ?  (Square of 2)",
+      "question_hi": "2 का वर्ग ज्ञात कीजिए। (2² = ?)",
+      "options_en": [
+        "34",
+        "24",
+        "4",
+        "64"
+      ],
+      "options_hi": [
+        "34",
+        "24",
+        "4",
+        "64"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "2 x 2 = 4",
+      "explanation_hi": "2 x 2 = 4"
+    },
+    {
+      "question_en": "3² = ?  (Square of 3)",
+      "question_hi": "3 का वर्ग ज्ञात कीजिए। (3² = ?)",
+      "options_en": [
+        "39",
+        "19",
+        "59",
+        "9"
+      ],
+      "options_hi": [
+        "39",
+        "19",
+        "59",
+        "9"
+      ],
+      "answer_en": "9",
+      "answer_hi": "9",
+      "explanation_en": "3 x 3 = 9",
+      "explanation_hi": "3 x 3 = 9"
+    },
+    {
+      "question_en": "4² = ?  (Square of 4)",
+      "question_hi": "4 का वर्ग ज्ञात कीजिए। (4² = ?)",
+      "options_en": [
+        "16",
+        "26",
+        "6",
+        "46"
+      ],
+      "options_hi": [
+        "16",
+        "26",
+        "6",
+        "46"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "4 x 4 = 16",
+      "explanation_hi": "4 x 4 = 16"
+    },
+    {
+      "question_en": "5² = ?  (Square of 5)",
+      "question_hi": "5 का वर्ग ज्ञात कीजिए। (5² = ?)",
+      "options_en": [
+        "15",
+        "35",
+        "5",
+        "25"
+      ],
+      "options_hi": [
+        "15",
+        "35",
+        "5",
+        "25"
+      ],
+      "answer_en": "25",
+      "answer_hi": "25",
+      "explanation_en": "5 x 5 = 25",
+      "explanation_hi": "5 x 5 = 25"
+    },
+    {
+      "question_en": "6² = ?  (Square of 6)",
+      "question_hi": "6 का वर्ग ज्ञात कीजिए। (6² = ?)",
+      "options_en": [
+        "16",
+        "36",
+        "96",
+        "6"
+      ],
+      "options_hi": [
+        "16",
+        "36",
+        "96",
+        "6"
+      ],
+      "answer_en": "36",
+      "answer_hi": "36",
+      "explanation_en": "6 x 6 = 36",
+      "explanation_hi": "6 x 6 = 36"
+    },
+    {
+      "question_en": "7² = ?  (Square of 7)",
+      "question_hi": "7 का वर्ग ज्ञात कीजिए। (7² = ?)",
+      "options_en": [
+        "69",
+        "29",
+        "9",
+        "49"
+      ],
+      "options_hi": [
+        "69",
+        "29",
+        "9",
+        "49"
+      ],
+      "answer_en": "49",
+      "answer_hi": "49",
+      "explanation_en": "7 x 7 = 49",
+      "explanation_hi": "7 x 7 = 49"
+    },
+    {
+      "question_en": "8² = ?  (Square of 8)",
+      "question_hi": "8 का वर्ग ज्ञात कीजिए। (8² = ?)",
+      "options_en": [
+        "4",
+        "14",
+        "104",
+        "64"
+      ],
+      "options_hi": [
+        "4",
+        "14",
+        "104",
+        "64"
+      ],
+      "answer_en": "64",
+      "answer_hi": "64",
+      "explanation_en": "8 x 8 = 64",
+      "explanation_hi": "8 x 8 = 64"
+    },
+    {
+      "question_en": "9² = ?  (Square of 9)",
+      "question_hi": "9 का वर्ग ज्ञात कीजिए। (9² = ?)",
+      "options_en": [
+        "141",
+        "81",
+        "131",
+        "51"
+      ],
+      "options_hi": [
+        "141",
+        "81",
+        "131",
+        "51"
+      ],
+      "answer_en": "81",
+      "answer_hi": "81",
+      "explanation_en": "9 x 9 = 81",
+      "explanation_hi": "9 x 9 = 81"
+    },
+    {
+      "question_en": "10² = ?  (Square of 10)",
+      "question_hi": "10 का वर्ग ज्ञात कीजिए। (10² = ?)",
+      "options_en": [
+        "40",
+        "100",
+        "150",
+        "70"
+      ],
+      "options_hi": [
+        "40",
+        "100",
+        "150",
+        "70"
+      ],
+      "answer_en": "100",
+      "answer_hi": "100",
+      "explanation_en": "10 x 10 = 100",
+      "explanation_hi": "10 x 10 = 100"
+    },
+    {
+      "question_en": "11² = ?  (Square of 11)",
+      "question_hi": "11 का वर्ग ज्ञात कीजिए। (11² = ?)",
+      "options_en": [
+        "81",
+        "141",
+        "131",
+        "121"
+      ],
+      "options_hi": [
+        "81",
+        "141",
+        "131",
+        "121"
+      ],
+      "answer_en": "121",
+      "answer_hi": "121",
+      "explanation_en": "11 x 11 = 121",
+      "explanation_hi": "11 x 11 = 121"
+    },
+    {
+      "question_en": "12² = ?  (Square of 12)",
+      "question_hi": "12 का वर्ग ज्ञात कीजिए। (12² = ?)",
+      "options_en": [
+        "204",
+        "144",
+        "94",
+        "194"
+      ],
+      "options_hi": [
+        "204",
+        "144",
+        "94",
+        "194"
+      ],
+      "answer_en": "144",
+      "answer_hi": "144",
+      "explanation_en": "12 x 12 = 144",
+      "explanation_hi": "12 x 12 = 144"
+    },
+    {
+      "question_en": "13² = ?  (Square of 13)",
+      "question_hi": "13 का वर्ग ज्ञात कीजिए। (13² = ?)",
+      "options_en": [
+        "109",
+        "129",
+        "219",
+        "169"
+      ],
+      "options_hi": [
+        "109",
+        "129",
+        "219",
+        "169"
+      ],
+      "answer_en": "169",
+      "answer_hi": "169",
+      "explanation_en": "13 x 13 = 169",
+      "explanation_hi": "13 x 13 = 169"
+    },
+    {
+      "question_en": "14² = ?  (Square of 14)",
+      "question_hi": "14 का वर्ग ज्ञात कीजिए। (14² = ?)",
+      "options_en": [
+        "196",
+        "166",
+        "256",
+        "226"
+      ],
+      "options_hi": [
+        "196",
+        "166",
+        "256",
+        "226"
+      ],
+      "answer_en": "196",
+      "answer_hi": "196",
+      "explanation_en": "14 x 14 = 196",
+      "explanation_hi": "14 x 14 = 196"
+    },
+    {
+      "question_en": "15² = ?  (Square of 15)",
+      "question_hi": "15 का वर्ग ज्ञात कीजिए। (15² = ?)",
+      "options_en": [
+        "265",
+        "275",
+        "225",
+        "285"
+      ],
+      "options_hi": [
+        "265",
+        "275",
+        "225",
+        "285"
+      ],
+      "answer_en": "225",
+      "answer_hi": "225",
+      "explanation_en": "15 x 15 = 225",
+      "explanation_hi": "15 x 15 = 225"
+    },
+    {
+      "question_en": "16² = ?  (Square of 16)",
+      "question_hi": "16 का वर्ग ज्ञात कीजिए। (16² = ?)",
+      "options_en": [
+        "256",
+        "216",
+        "286",
+        "196"
+      ],
+      "options_hi": [
+        "256",
+        "216",
+        "286",
+        "196"
+      ],
+      "answer_en": "256",
+      "answer_hi": "256",
+      "explanation_en": "16 x 16 = 256",
+      "explanation_hi": "16 x 16 = 256"
+    },
+    {
+      "question_en": "17² = ?  (Square of 17)",
+      "question_hi": "17 का वर्ग ज्ञात कीजिए। (17² = ?)",
+      "options_en": [
+        "259",
+        "319",
+        "329",
+        "289"
+      ],
+      "options_hi": [
+        "259",
+        "319",
+        "329",
+        "289"
+      ],
+      "answer_en": "289",
+      "answer_hi": "289",
+      "explanation_en": "17 x 17 = 289",
+      "explanation_hi": "17 x 17 = 289"
+    },
+    {
+      "question_en": "18² = ?  (Square of 18)",
+      "question_hi": "18 का वर्ग ज्ञात कीजिए। (18² = ?)",
+      "options_en": [
+        "284",
+        "324",
+        "374",
+        "274"
+      ],
+      "options_hi": [
+        "284",
+        "324",
+        "374",
+        "274"
+      ],
+      "answer_en": "324",
+      "answer_hi": "324",
+      "explanation_en": "18 x 18 = 324",
+      "explanation_hi": "18 x 18 = 324"
+    },
+    {
+      "question_en": "19² = ?  (Square of 19)",
+      "question_hi": "19 का वर्ग ज्ञात कीजिए। (19² = ?)",
+      "options_en": [
+        "361",
+        "371",
+        "351",
+        "321"
+      ],
+      "options_hi": [
+        "361",
+        "371",
+        "351",
+        "321"
+      ],
+      "answer_en": "361",
+      "answer_hi": "361",
+      "explanation_en": "19 x 19 = 361",
+      "explanation_hi": "19 x 19 = 361"
+    },
+    {
+      "question_en": "20² = ?  (Square of 20)",
+      "question_hi": "20 का वर्ग ज्ञात कीजिए। (20² = ?)",
+      "options_en": [
+        "380",
+        "440",
+        "410",
+        "400"
+      ],
+      "options_hi": [
+        "380",
+        "440",
+        "410",
+        "400"
+      ],
+      "answer_en": "400",
+      "answer_hi": "400",
+      "explanation_en": "20 x 20 = 400",
+      "explanation_hi": "20 x 20 = 400"
+    },
+    {
+      "question_en": "21² = ?  (Square of 21)",
+      "question_hi": "21 का वर्ग ज्ञात कीजिए। (21² = ?)",
+      "options_en": [
+        "431",
+        "481",
+        "391",
+        "441"
+      ],
+      "options_hi": [
+        "431",
+        "481",
+        "391",
+        "441"
+      ],
+      "answer_en": "441",
+      "answer_hi": "441",
+      "explanation_en": "21 x 21 = 441",
+      "explanation_hi": "21 x 21 = 441"
+    },
+    {
+      "question_en": "22² = ?  (Square of 22)",
+      "question_hi": "22 का वर्ग ज्ञात कीजिए। (22² = ?)",
+      "options_en": [
+        "474",
+        "544",
+        "484",
+        "524"
+      ],
+      "options_hi": [
+        "474",
+        "544",
+        "484",
+        "524"
+      ],
+      "answer_en": "484",
+      "answer_hi": "484",
+      "explanation_en": "22 x 22 = 484",
+      "explanation_hi": "22 x 22 = 484"
+    },
+    {
+      "question_en": "23² = ?  (Square of 23)",
+      "question_hi": "23 का वर्ग ज्ञात कीजिए। (23² = ?)",
+      "options_en": [
+        "519",
+        "499",
+        "529",
+        "579"
+      ],
+      "options_hi": [
+        "519",
+        "499",
+        "529",
+        "579"
+      ],
+      "answer_en": "529",
+      "answer_hi": "529",
+      "explanation_en": "23 x 23 = 529",
+      "explanation_hi": "23 x 23 = 529"
+    },
+    {
+      "question_en": "24² = ?  (Square of 24)",
+      "question_hi": "24 का वर्ग ज्ञात कीजिए। (24² = ?)",
+      "options_en": [
+        "566",
+        "576",
+        "556",
+        "536"
+      ],
+      "options_hi": [
+        "566",
+        "576",
+        "556",
+        "536"
+      ],
+      "answer_en": "576",
+      "answer_hi": "576",
+      "explanation_en": "24 x 24 = 576",
+      "explanation_hi": "24 x 24 = 576"
+    },
+    {
+      "question_en": "25² = ?  (Square of 25)",
+      "question_hi": "25 का वर्ग ज्ञात कीजिए। (25² = ?)",
+      "options_en": [
+        "665",
+        "565",
+        "635",
+        "625"
+      ],
+      "options_hi": [
+        "665",
+        "565",
+        "635",
+        "625"
+      ],
+      "answer_en": "625",
+      "answer_hi": "625",
+      "explanation_en": "25 x 25 = 625",
+      "explanation_hi": "25 x 25 = 625"
+    },
+    {
+      "question_en": "26² = ?  (Square of 26)",
+      "question_hi": "26 का वर्ग ज्ञात कीजिए। (26² = ?)",
+      "options_en": [
+        "626",
+        "736",
+        "666",
+        "676"
+      ],
+      "options_hi": [
+        "626",
+        "736",
+        "666",
+        "676"
+      ],
+      "answer_en": "676",
+      "answer_hi": "676",
+      "explanation_en": "26 x 26 = 676",
+      "explanation_hi": "26 x 26 = 676"
+    },
+    {
+      "question_en": "27² = ?  (Square of 27)",
+      "question_hi": "27 का वर्ग ज्ञात कीजिए। (27² = ?)",
+      "options_en": [
+        "719",
+        "709",
+        "679",
+        "729"
+      ],
+      "options_hi": [
+        "719",
+        "709",
+        "679",
+        "729"
+      ],
+      "answer_en": "729",
+      "answer_hi": "729",
+      "explanation_en": "27 x 27 = 729",
+      "explanation_hi": "27 x 27 = 729"
+    },
+    {
+      "question_en": "28² = ?  (Square of 28)",
+      "question_hi": "28 का वर्ग ज्ञात कीजिए। (28² = ?)",
+      "options_en": [
+        "734",
+        "784",
+        "824",
+        "764"
+      ],
+      "options_hi": [
+        "734",
+        "784",
+        "824",
+        "764"
+      ],
+      "answer_en": "784",
+      "answer_hi": "784",
+      "explanation_en": "28 x 28 = 784",
+      "explanation_hi": "28 x 28 = 784"
+    },
+    {
+      "question_en": "29² = ?  (Square of 29)",
+      "question_hi": "29 का वर्ग ज्ञात कीजिए। (29² = ?)",
+      "options_en": [
+        "871",
+        "781",
+        "841",
+        "821"
+      ],
+      "options_hi": [
+        "871",
+        "781",
+        "841",
+        "821"
+      ],
+      "answer_en": "841",
+      "answer_hi": "841",
+      "explanation_en": "29 x 29 = 841",
+      "explanation_hi": "29 x 29 = 841"
+    },
+    {
+      "question_en": "30² = ?  (Square of 30)",
+      "question_hi": "30 का वर्ग ज्ञात कीजिए। (30² = ?)",
+      "options_en": [
+        "870",
+        "960",
+        "910",
+        "900"
+      ],
+      "options_hi": [
+        "870",
+        "960",
+        "910",
+        "900"
+      ],
+      "answer_en": "900",
+      "answer_hi": "900",
+      "explanation_en": "30 x 30 = 900",
+      "explanation_hi": "30 x 30 = 900"
+    },
+    {
+      "question_en": "√1 = ?",
+      "question_hi": "1 का वर्गमूल ज्ञात कीजिए। (√1 = ?)",
+      "options_en": [
+        "11",
+        "1",
+        "31",
+        "21"
+      ],
+      "options_hi": [
+        "11",
+        "1",
+        "31",
+        "21"
+      ],
+      "answer_en": "1",
+      "answer_hi": "1",
+      "explanation_en": "√1 = 1  (since 1 x 1 = 1)",
+      "explanation_hi": "√1 = 1  (क्योंकि 1 x 1 = 1)"
+    },
+    {
+      "question_en": "√4 = ?",
+      "question_hi": "4 का वर्गमूल ज्ञात कीजिए। (√4 = ?)",
+      "options_en": [
+        "32",
+        "2",
+        "12",
+        "22"
+      ],
+      "options_hi": [
+        "32",
+        "2",
+        "12",
+        "22"
+      ],
+      "answer_en": "2",
+      "answer_hi": "2",
+      "explanation_en": "√4 = 2  (since 2 x 2 = 4)",
+      "explanation_hi": "√4 = 2  (क्योंकि 2 x 2 = 4)"
+    },
+    {
+      "question_en": "√9 = ?",
+      "question_hi": "9 का वर्गमूल ज्ञात कीजिए। (√9 = ?)",
+      "options_en": [
+        "33",
+        "3",
+        "23",
+        "13"
+      ],
+      "options_hi": [
+        "33",
+        "3",
+        "23",
+        "13"
+      ],
+      "answer_en": "3",
+      "answer_hi": "3",
+      "explanation_en": "√9 = 3  (since 3 x 3 = 9)",
+      "explanation_hi": "√9 = 3  (क्योंकि 3 x 3 = 9)"
+    },
+    {
+      "question_en": "√16 = ?",
+      "question_hi": "16 का वर्गमूल ज्ञात कीजिए। (√16 = ?)",
+      "options_en": [
+        "4",
+        "34",
+        "24",
+        "14"
+      ],
+      "options_hi": [
+        "4",
+        "34",
+        "24",
+        "14"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "√16 = 4  (since 4 x 4 = 16)",
+      "explanation_hi": "√16 = 4  (क्योंकि 4 x 4 = 16)"
+    },
+    {
+      "question_en": "√25 = ?",
+      "question_hi": "25 का वर्गमूल ज्ञात कीजिए। (√25 = ?)",
+      "options_en": [
+        "35",
+        "15",
+        "5",
+        "25"
+      ],
+      "options_hi": [
+        "35",
+        "15",
+        "5",
+        "25"
+      ],
+      "answer_en": "5",
+      "answer_hi": "5",
+      "explanation_en": "√25 = 5  (since 5 x 5 = 25)",
+      "explanation_hi": "√25 = 5  (क्योंकि 5 x 5 = 25)"
+    },
+    {
+      "question_en": "√36 = ?",
+      "question_hi": "36 का वर्गमूल ज्ञात कीजिए। (√36 = ?)",
+      "options_en": [
+        "36",
+        "6",
+        "26",
+        "16"
+      ],
+      "options_hi": [
+        "36",
+        "6",
+        "26",
+        "16"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "√36 = 6  (since 6 x 6 = 36)",
+      "explanation_hi": "√36 = 6  (क्योंकि 6 x 6 = 36)"
+    },
+    {
+      "question_en": "√49 = ?",
+      "question_hi": "49 का वर्गमूल ज्ञात कीजिए। (√49 = ?)",
+      "options_en": [
+        "37",
+        "27",
+        "17",
+        "7"
+      ],
+      "options_hi": [
+        "37",
+        "27",
+        "17",
+        "7"
+      ],
+      "answer_en": "7",
+      "answer_hi": "7",
+      "explanation_en": "√49 = 7  (since 7 x 7 = 49)",
+      "explanation_hi": "√49 = 7  (क्योंकि 7 x 7 = 49)"
+    },
+    {
+      "question_en": "√64 = ?",
+      "question_hi": "64 का वर्गमूल ज्ञात कीजिए। (√64 = ?)",
+      "options_en": [
+        "38",
+        "28",
+        "8",
+        "18"
+      ],
+      "options_hi": [
+        "38",
+        "28",
+        "8",
+        "18"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "√64 = 8  (since 8 x 8 = 64)",
+      "explanation_hi": "√64 = 8  (क्योंकि 8 x 8 = 64)"
+    },
+    {
+      "question_en": "√81 = ?",
+      "question_hi": "81 का वर्गमूल ज्ञात कीजिए। (√81 = ?)",
+      "options_en": [
+        "19",
+        "9",
+        "29",
+        "39"
+      ],
+      "options_hi": [
+        "19",
+        "9",
+        "29",
+        "39"
+      ],
+      "answer_en": "9",
+      "answer_hi": "9",
+      "explanation_en": "√81 = 9  (since 9 x 9 = 81)",
+      "explanation_hi": "√81 = 9  (क्योंकि 9 x 9 = 81)"
+    },
+    {
+      "question_en": "√100 = ?",
+      "question_hi": "100 का वर्गमूल ज्ञात कीजिए। (√100 = ?)",
+      "options_en": [
+        "30",
+        "20",
+        "40",
+        "10"
+      ],
+      "options_hi": [
+        "30",
+        "20",
+        "40",
+        "10"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "√100 = 10  (since 10 x 10 = 100)",
+      "explanation_hi": "√100 = 10  (क्योंकि 10 x 10 = 100)"
+    },
+    {
+      "question_en": "√121 = ?",
+      "question_hi": "121 का वर्गमूल ज्ञात कीजिए। (√121 = ?)",
+      "options_en": [
+        "1",
+        "21",
+        "11",
+        "31"
+      ],
+      "options_hi": [
+        "1",
+        "21",
+        "11",
+        "31"
+      ],
+      "answer_en": "11",
+      "answer_hi": "11",
+      "explanation_en": "√121 = 11  (since 11 x 11 = 121)",
+      "explanation_hi": "√121 = 11  (क्योंकि 11 x 11 = 121)"
+    },
+    {
+      "question_en": "√144 = ?",
+      "question_hi": "144 का वर्गमूल ज्ञात कीजिए। (√144 = ?)",
+      "options_en": [
+        "22",
+        "12",
+        "42",
+        "32"
+      ],
+      "options_hi": [
+        "22",
+        "12",
+        "42",
+        "32"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "√144 = 12  (since 12 x 12 = 144)",
+      "explanation_hi": "√144 = 12  (क्योंकि 12 x 12 = 144)"
+    },
+    {
+      "question_en": "√169 = ?",
+      "question_hi": "169 का वर्गमूल ज्ञात कीजिए। (√169 = ?)",
+      "options_en": [
+        "3",
+        "13",
+        "33",
+        "23"
+      ],
+      "options_hi": [
+        "3",
+        "13",
+        "33",
+        "23"
+      ],
+      "answer_en": "13",
+      "answer_hi": "13",
+      "explanation_en": "√169 = 13  (since 13 x 13 = 169)",
+      "explanation_hi": "√169 = 13  (क्योंकि 13 x 13 = 169)"
+    },
+    {
+      "question_en": "√196 = ?",
+      "question_hi": "196 का वर्गमूल ज्ञात कीजिए। (√196 = ?)",
+      "options_en": [
+        "4",
+        "14",
+        "44",
+        "24"
+      ],
+      "options_hi": [
+        "4",
+        "14",
+        "44",
+        "24"
+      ],
+      "answer_en": "14",
+      "answer_hi": "14",
+      "explanation_en": "√196 = 14  (since 14 x 14 = 196)",
+      "explanation_hi": "√196 = 14  (क्योंकि 14 x 14 = 196)"
+    },
+    {
+      "question_en": "√225 = ?",
+      "question_hi": "225 का वर्गमूल ज्ञात कीजिए। (√225 = ?)",
+      "options_en": [
+        "5",
+        "45",
+        "15",
+        "25"
+      ],
+      "options_hi": [
+        "5",
+        "45",
+        "15",
+        "25"
+      ],
+      "answer_en": "15",
+      "answer_hi": "15",
+      "explanation_en": "√225 = 15  (since 15 x 15 = 225)",
+      "explanation_hi": "√225 = 15  (क्योंकि 15 x 15 = 225)"
+    },
+    {
+      "question_en": "√256 = ?",
+      "question_hi": "256 का वर्गमूल ज्ञात कीजिए। (√256 = ?)",
+      "options_en": [
+        "36",
+        "26",
+        "46",
+        "16"
+      ],
+      "options_hi": [
+        "36",
+        "26",
+        "46",
+        "16"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "√256 = 16  (since 16 x 16 = 256)",
+      "explanation_hi": "√256 = 16  (क्योंकि 16 x 16 = 256)"
+    },
+    {
+      "question_en": "√289 = ?",
+      "question_hi": "289 का वर्गमूल ज्ञात कीजिए। (√289 = ?)",
+      "options_en": [
+        "17",
+        "47",
+        "7",
+        "37"
+      ],
+      "options_hi": [
+        "17",
+        "47",
+        "7",
+        "37"
+      ],
+      "answer_en": "17",
+      "answer_hi": "17",
+      "explanation_en": "√289 = 17  (since 17 x 17 = 289)",
+      "explanation_hi": "√289 = 17  (क्योंकि 17 x 17 = 289)"
+    },
+    {
+      "question_en": "√324 = ?",
+      "question_hi": "324 का वर्गमूल ज्ञात कीजिए। (√324 = ?)",
+      "options_en": [
+        "28",
+        "18",
+        "38",
+        "8"
+      ],
+      "options_hi": [
+        "28",
+        "18",
+        "38",
+        "8"
+      ],
+      "answer_en": "18",
+      "answer_hi": "18",
+      "explanation_en": "√324 = 18  (since 18 x 18 = 324)",
+      "explanation_hi": "√324 = 18  (क्योंकि 18 x 18 = 324)"
+    },
+    {
+      "question_en": "√361 = ?",
+      "question_hi": "361 का वर्गमूल ज्ञात कीजिए। (√361 = ?)",
+      "options_en": [
+        "19",
+        "49",
+        "39",
+        "9"
+      ],
+      "options_hi": [
+        "19",
+        "49",
+        "39",
+        "9"
+      ],
+      "answer_en": "19",
+      "answer_hi": "19",
+      "explanation_en": "√361 = 19  (since 19 x 19 = 361)",
+      "explanation_hi": "√361 = 19  (क्योंकि 19 x 19 = 361)"
+    },
+    {
+      "question_en": "√400 = ?",
+      "question_hi": "400 का वर्गमूल ज्ञात कीजिए। (√400 = ?)",
+      "options_en": [
+        "40",
+        "30",
+        "50",
+        "20"
+      ],
+      "options_hi": [
+        "40",
+        "30",
+        "50",
+        "20"
+      ],
+      "answer_en": "20",
+      "answer_hi": "20",
+      "explanation_en": "√400 = 20  (since 20 x 20 = 400)",
+      "explanation_hi": "√400 = 20  (क्योंकि 20 x 20 = 400)"
+    },
+    {
+      "question_en": "√441 = ?",
+      "question_hi": "441 का वर्गमूल ज्ञात कीजिए। (√441 = ?)",
+      "options_en": [
+        "11",
+        "21",
+        "31",
+        "1"
+      ],
+      "options_hi": [
+        "11",
+        "21",
+        "31",
+        "1"
+      ],
+      "answer_en": "21",
+      "answer_hi": "21",
+      "explanation_en": "√441 = 21  (since 21 x 21 = 441)",
+      "explanation_hi": "√441 = 21  (क्योंकि 21 x 21 = 441)"
+    },
+    {
+      "question_en": "√484 = ?",
+      "question_hi": "484 का वर्गमूल ज्ञात कीजिए। (√484 = ?)",
+      "options_en": [
+        "22",
+        "52",
+        "32",
+        "12"
+      ],
+      "options_hi": [
+        "22",
+        "52",
+        "32",
+        "12"
+      ],
+      "answer_en": "22",
+      "answer_hi": "22",
+      "explanation_en": "√484 = 22  (since 22 x 22 = 484)",
+      "explanation_hi": "√484 = 22  (क्योंकि 22 x 22 = 484)"
+    },
+    {
+      "question_en": "√529 = ?",
+      "question_hi": "529 का वर्गमूल ज्ञात कीजिए। (√529 = ?)",
+      "options_en": [
+        "13",
+        "53",
+        "23",
+        "3"
+      ],
+      "options_hi": [
+        "13",
+        "53",
+        "23",
+        "3"
+      ],
+      "answer_en": "23",
+      "answer_hi": "23",
+      "explanation_en": "√529 = 23  (since 23 x 23 = 529)",
+      "explanation_hi": "√529 = 23  (क्योंकि 23 x 23 = 529)"
+    },
+    {
+      "question_en": "√576 = ?",
+      "question_hi": "576 का वर्गमूल ज्ञात कीजिए। (√576 = ?)",
+      "options_en": [
+        "54",
+        "14",
+        "24",
+        "44"
+      ],
+      "options_hi": [
+        "54",
+        "14",
+        "24",
+        "44"
+      ],
+      "answer_en": "24",
+      "answer_hi": "24",
+      "explanation_en": "√576 = 24  (since 24 x 24 = 576)",
+      "explanation_hi": "√576 = 24  (क्योंकि 24 x 24 = 576)"
+    },
+    {
+      "question_en": "√625 = ?",
+      "question_hi": "625 का वर्गमूल ज्ञात कीजिए। (√625 = ?)",
+      "options_en": [
+        "15",
+        "5",
+        "25",
+        "35"
+      ],
+      "options_hi": [
+        "15",
+        "5",
+        "25",
+        "35"
+      ],
+      "answer_en": "25",
+      "answer_hi": "25",
+      "explanation_en": "√625 = 25  (since 25 x 25 = 625)",
+      "explanation_hi": "√625 = 25  (क्योंकि 25 x 25 = 625)"
+    },
+    {
+      "question_en": "√676 = ?",
+      "question_hi": "676 का वर्गमूल ज्ञात कीजिए। (√676 = ?)",
+      "options_en": [
+        "26",
+        "6",
+        "36",
+        "16"
+      ],
+      "options_hi": [
+        "26",
+        "6",
+        "36",
+        "16"
+      ],
+      "answer_en": "26",
+      "answer_hi": "26",
+      "explanation_en": "√676 = 26  (since 26 x 26 = 676)",
+      "explanation_hi": "√676 = 26  (क्योंकि 26 x 26 = 676)"
+    },
+    {
+      "question_en": "√729 = ?",
+      "question_hi": "729 का वर्गमूल ज्ञात कीजिए। (√729 = ?)",
+      "options_en": [
+        "37",
+        "7",
+        "27",
+        "57"
+      ],
+      "options_hi": [
+        "37",
+        "7",
+        "27",
+        "57"
+      ],
+      "answer_en": "27",
+      "answer_hi": "27",
+      "explanation_en": "√729 = 27  (since 27 x 27 = 729)",
+      "explanation_hi": "√729 = 27  (क्योंकि 27 x 27 = 729)"
+    },
+    {
+      "question_en": "√784 = ?",
+      "question_hi": "784 का वर्गमूल ज्ञात कीजिए। (√784 = ?)",
+      "options_en": [
+        "18",
+        "28",
+        "58",
+        "38"
+      ],
+      "options_hi": [
+        "18",
+        "28",
+        "58",
+        "38"
+      ],
+      "answer_en": "28",
+      "answer_hi": "28",
+      "explanation_en": "√784 = 28  (since 28 x 28 = 784)",
+      "explanation_hi": "√784 = 28  (क्योंकि 28 x 28 = 784)"
+    },
+    {
+      "question_en": "√841 = ?",
+      "question_hi": "841 का वर्गमूल ज्ञात कीजिए। (√841 = ?)",
+      "options_en": [
+        "29",
+        "49",
+        "39",
+        "59"
+      ],
+      "options_hi": [
+        "29",
+        "49",
+        "39",
+        "59"
+      ],
+      "answer_en": "29",
+      "answer_hi": "29",
+      "explanation_en": "√841 = 29  (since 29 x 29 = 841)",
+      "explanation_hi": "√841 = 29  (क्योंकि 29 x 29 = 841)"
+    },
+    {
+      "question_en": "√900 = ?",
+      "question_hi": "900 का वर्गमूल ज्ञात कीजिए। (√900 = ?)",
+      "options_en": [
+        "40",
+        "50",
+        "30",
+        "60"
+      ],
+      "options_hi": [
+        "40",
+        "50",
+        "30",
+        "60"
+      ],
+      "answer_en": "30",
+      "answer_hi": "30",
+      "explanation_en": "√900 = 30  (since 30 x 30 = 900)",
+      "explanation_hi": "√900 = 30  (क्योंकि 30 x 30 = 900)"
+    },
+    {
+      "question_en": "2³ = ?  (Cube of 2)",
+      "question_hi": "2 का घन ज्ञात कीजिए। (2³ = ?)",
+      "options_en": [
+        "8",
+        "28",
+        "38",
+        "188"
+      ],
+      "options_hi": [
+        "8",
+        "28",
+        "38",
+        "188"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "2 x 2 x 2 = 8",
+      "explanation_hi": "2 x 2 x 2 = 8"
+    },
+    {
+      "question_en": "3³ = ?  (Cube of 3)",
+      "question_hi": "3 का घन ज्ञात कीजिए। (3³ = ?)",
+      "options_en": [
+        "17",
+        "7",
+        "27",
+        "187"
+      ],
+      "options_hi": [
+        "17",
+        "7",
+        "27",
+        "187"
+      ],
+      "answer_en": "27",
+      "answer_hi": "27",
+      "explanation_en": "3 x 3 x 3 = 27",
+      "explanation_hi": "3 x 3 x 3 = 27"
+    },
+    {
+      "question_en": "4³ = ?  (Cube of 4)",
+      "question_hi": "4 का घन ज्ञात कीजिए। (4³ = ?)",
+      "options_en": [
+        "234",
+        "74",
+        "64",
+        "44"
+      ],
+      "options_hi": [
+        "234",
+        "74",
+        "64",
+        "44"
+      ],
+      "answer_en": "64",
+      "answer_hi": "64",
+      "explanation_en": "4 x 4 x 4 = 64",
+      "explanation_hi": "4 x 4 x 4 = 64"
+    },
+    {
+      "question_en": "7³ = ?  (Cube of 7)",
+      "question_hi": "7 का घन ज्ञात कीजिए। (7³ = ?)",
+      "options_en": [
+        "353",
+        "493",
+        "343",
+        "433"
+      ],
+      "options_hi": [
+        "353",
+        "493",
+        "343",
+        "433"
+      ],
+      "answer_en": "343",
+      "answer_hi": "343",
+      "explanation_en": "7 x 7 x 7 = 343",
+      "explanation_hi": "7 x 7 x 7 = 343"
+    },
+    {
+      "question_en": "8³ = ?  (Cube of 8)",
+      "question_hi": "8 का घन ज्ञात कीजिए। (8³ = ?)",
+      "options_en": [
+        "542",
+        "472",
+        "512",
+        "312"
+      ],
+      "options_hi": [
+        "542",
+        "472",
+        "512",
+        "312"
+      ],
+      "answer_en": "512",
+      "answer_hi": "512",
+      "explanation_en": "8 x 8 x 8 = 512",
+      "explanation_hi": "8 x 8 x 8 = 512"
+    },
+    {
+      "question_en": "10³ = ?  (Cube of 10)",
+      "question_hi": "10 का घन ज्ञात कीजिए। (10³ = ?)",
+      "options_en": [
+        "1000",
+        "1140",
+        "1110",
+        "1160"
+      ],
+      "options_hi": [
+        "1000",
+        "1140",
+        "1110",
+        "1160"
+      ],
+      "answer_en": "1000",
+      "answer_hi": "1000",
+      "explanation_en": "10 x 10 x 10 = 1000",
+      "explanation_hi": "10 x 10 x 10 = 1000"
+    },
+    {
+      "question_en": "11³ = ?  (Cube of 11)",
+      "question_hi": "11 का घन ज्ञात कीजिए। (11³ = ?)",
+      "options_en": [
+        "1241",
+        "1131",
+        "1331",
+        "1211"
+      ],
+      "options_hi": [
+        "1241",
+        "1131",
+        "1331",
+        "1211"
+      ],
+      "answer_en": "1331",
+      "answer_hi": "1331",
+      "explanation_en": "11 x 11 x 11 = 1331",
+      "explanation_hi": "11 x 11 x 11 = 1331"
+    },
+    {
+      "question_en": "12³ = ?  (Cube of 12)",
+      "question_hi": "12 का घन ज्ञात कीजिए। (12³ = ?)",
+      "options_en": [
+        "1858",
+        "1598",
+        "1728",
+        "1718"
+      ],
+      "options_hi": [
+        "1858",
+        "1598",
+        "1728",
+        "1718"
+      ],
+      "answer_en": "1728",
+      "answer_hi": "1728",
+      "explanation_en": "12 x 12 x 12 = 1728",
+      "explanation_hi": "12 x 12 x 12 = 1728"
+    },
+    {
+      "question_en": "13³ = ?  (Cube of 13)",
+      "question_hi": "13 का घन ज्ञात कीजिए। (13³ = ?)",
+      "options_en": [
+        "2237",
+        "2377",
+        "2197",
+        "1997"
+      ],
+      "options_hi": [
+        "2237",
+        "2377",
+        "2197",
+        "1997"
+      ],
+      "answer_en": "2197",
+      "answer_hi": "2197",
+      "explanation_en": "13 x 13 x 13 = 2197",
+      "explanation_hi": "13 x 13 x 13 = 2197"
+    },
+    {
+      "question_en": "14³ = ?  (Cube of 14)",
+      "question_hi": "14 का घन ज्ञात कीजिए। (14³ = ?)",
+      "options_en": [
+        "2744",
+        "2724",
+        "2714",
+        "2574"
+      ],
+      "options_hi": [
+        "2744",
+        "2724",
+        "2714",
+        "2574"
+      ],
+      "answer_en": "2744",
+      "answer_hi": "2744",
+      "explanation_en": "14 x 14 x 14 = 2744",
+      "explanation_hi": "14 x 14 x 14 = 2744"
+    },
+    {
+      "question_en": "15³ = ?  (Cube of 15)",
+      "question_hi": "15 का घन ज्ञात कीजिए। (15³ = ?)",
+      "options_en": [
+        "3485",
+        "3375",
+        "3405",
+        "3185"
+      ],
+      "options_hi": [
+        "3485",
+        "3375",
+        "3405",
+        "3185"
+      ],
+      "answer_en": "3375",
+      "answer_hi": "3375",
+      "explanation_en": "15 x 15 x 15 = 3375",
+      "explanation_hi": "15 x 15 x 15 = 3375"
+    },
+    {
+      "question_en": "16³ = ?  (Cube of 16)",
+      "question_hi": "16 का घन ज्ञात कीजिए। (16³ = ?)",
+      "options_en": [
+        "4076",
+        "3976",
+        "4096",
+        "4256"
+      ],
+      "options_hi": [
+        "4076",
+        "3976",
+        "4096",
+        "4256"
+      ],
+      "answer_en": "4096",
+      "answer_hi": "4096",
+      "explanation_en": "16 x 16 x 16 = 4096",
+      "explanation_hi": "16 x 16 x 16 = 4096"
+    },
+    {
+      "question_en": "17³ = ?  (Cube of 17)",
+      "question_hi": "17 का घन ज्ञात कीजिए। (17³ = ?)",
+      "options_en": [
+        "4953",
+        "4913",
+        "5093",
+        "4793"
+      ],
+      "options_hi": [
+        "4953",
+        "4913",
+        "5093",
+        "4793"
+      ],
+      "answer_en": "4913",
+      "answer_hi": "4913",
+      "explanation_en": "17 x 17 x 17 = 4913",
+      "explanation_hi": "17 x 17 x 17 = 4913"
+    },
+    {
+      "question_en": "19³ = ?  (Cube of 19)",
+      "question_hi": "19 का घन ज्ञात कीजिए। (19³ = ?)",
+      "options_en": [
+        "6719",
+        "6919",
+        "6859",
+        "6939"
+      ],
+      "options_hi": [
+        "6719",
+        "6919",
+        "6859",
+        "6939"
+      ],
+      "answer_en": "6859",
+      "answer_hi": "6859",
+      "explanation_en": "19 x 19 x 19 = 6859",
+      "explanation_hi": "19 x 19 x 19 = 6859"
+    },
+    {
+      "question_en": "21³ = ?  (Cube of 21)",
+      "question_hi": "21 का घन ज्ञात कीजिए। (21³ = ?)",
+      "options_en": [
+        "9131",
+        "9261",
+        "9381",
+        "9361"
+      ],
+      "options_hi": [
+        "9131",
+        "9261",
+        "9381",
+        "9361"
+      ],
+      "answer_en": "9261",
+      "answer_hi": "9261",
+      "explanation_en": "21 x 21 x 21 = 9261",
+      "explanation_hi": "21 x 21 x 21 = 9261"
+    },
+    {
+      "question_en": "22³ = ?  (Cube of 22)",
+      "question_hi": "22 का घन ज्ञात कीजिए। (22³ = ?)",
+      "options_en": [
+        "10538",
+        "10648",
+        "10778",
+        "10528"
+      ],
+      "options_hi": [
+        "10538",
+        "10648",
+        "10778",
+        "10528"
+      ],
+      "answer_en": "10648",
+      "answer_hi": "10648",
+      "explanation_en": "22 x 22 x 22 = 10648",
+      "explanation_hi": "22 x 22 x 22 = 10648"
+    },
+    {
+      "question_en": "23³ = ?  (Cube of 23)",
+      "question_hi": "23 का घन ज्ञात कीजिए। (23³ = ?)",
+      "options_en": [
+        "12277",
+        "12087",
+        "12167",
+        "11967"
+      ],
+      "options_hi": [
+        "12277",
+        "12087",
+        "12167",
+        "11967"
+      ],
+      "answer_en": "12167",
+      "answer_hi": "12167",
+      "explanation_en": "23 x 23 x 23 = 12167",
+      "explanation_hi": "23 x 23 x 23 = 12167"
+    },
+    {
+      "question_en": "24³ = ?  (Cube of 24)",
+      "question_hi": "24 का घन ज्ञात कीजिए। (24³ = ?)",
+      "options_en": [
+        "13654",
+        "13624",
+        "13824",
+        "13734"
+      ],
+      "options_hi": [
+        "13654",
+        "13624",
+        "13824",
+        "13734"
+      ],
+      "answer_en": "13824",
+      "answer_hi": "13824",
+      "explanation_en": "24 x 24 x 24 = 13824",
+      "explanation_hi": "24 x 24 x 24 = 13824"
+    },
+    {
+      "question_en": "27³ = ?  (Cube of 27)",
+      "question_hi": "27 का घन ज्ञात कीजिए। (27³ = ?)",
+      "options_en": [
+        "19683",
+        "19833",
+        "19733",
+        "19633"
+      ],
+      "options_hi": [
+        "19683",
+        "19833",
+        "19733",
+        "19633"
+      ],
+      "answer_en": "19683",
+      "answer_hi": "19683",
+      "explanation_en": "27 x 27 x 27 = 19683",
+      "explanation_hi": "27 x 27 x 27 = 19683"
+    },
+    {
+      "question_en": "28³ = ?  (Cube of 28)",
+      "question_hi": "28 का घन ज्ञात कीजिए। (28³ = ?)",
+      "options_en": [
+        "21902",
+        "21802",
+        "21952",
+        "22132"
+      ],
+      "options_hi": [
+        "21902",
+        "21802",
+        "21952",
+        "22132"
+      ],
+      "answer_en": "21952",
+      "answer_hi": "21952",
+      "explanation_en": "28 x 28 x 28 = 21952",
+      "explanation_hi": "28 x 28 x 28 = 21952"
+    }
+  ]
+}
