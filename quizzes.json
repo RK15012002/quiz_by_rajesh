@@ -4,5 +4,5 @@
   { "title": "States & capital", "file": "states.json" },
 { "title": "Geography Basis", "file": "geographybasic.json" },
 { "title": "Geography Stars", "file": "geo_stars.json" },
-{ "title": "RRB Station controller", "file": "rrb_section_controller.json" }
+{ "title": "RRB section controller", "file": "rrb_section_controller.json" }
 ]
