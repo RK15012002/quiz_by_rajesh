@@ -5,4 +5,5 @@
 { "title": "Geography Basis", "file": "geographybasic.json" },
 { "title": "Geography Stars", "file": "geo_stars.json" },
 { "title": "RRB section controller", "file": "rrb_section_controller.json" }
+{ "title": "Solar system", "file": "space_quiz_200_bilingual.json" }
 ]
