@@ -1,0 +1,4608 @@
+{
+  "title": "Space Quiz - Galaxy, Stars & Solar System (200 Questions)",
+  "title_hi": "अंतरिक्ष क्विज़ - आकाशगंगा, तारे और सौर मंडल (200 प्रश्न)",
+  "note": "Covers the Solar System, Sun, planets, moons, comets/asteroids/meteors, stars, galaxies, cosmology, and space exploration (including ISRO missions). Bilingual English-Hindi practice quiz.",
+  "note_hi": "सौर मंडल, सूर्य, ग्रह, चंद्रमा, धूमकेतु/क्षुद्रग्रह/उल्का, तारे, आकाशगंगाएं, ब्रह्मांड विज्ञान, और अंतरिक्ष अन्वेषण (ISRO मिशनों सहित) को कवर करता है। द्विभाषी अंग्रेजी-हिंदी अभ्यास क्विज़।",
+  "questions": [
+    {
+      "q_no": 1,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is at the center of the Solar System?",
+      "question_hi": "सौर मंडल के केंद्र में क्या है?",
+      "options_en": [
+        "Earth",
+        "Moon",
+        "Sun",
+        "Jupiter"
+      ],
+      "options_hi": [
+        "पृथ्वी",
+        "चंद्रमा",
+        "सूर्य",
+        "बृहस्पति"
+      ],
+      "answer_en": "Sun",
+      "answer_hi": "सूर्य",
+      "explanation_en": "The Sun is a star at the center of the Solar System, and all planets orbit around it.",
+      "explanation_hi": "सूर्य सौर मंडल के केंद्र में स्थित एक तारा है, और सभी ग्रह इसके चारों ओर परिक्रमा करते हैं।"
+    },
+    {
+      "q_no": 2,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "How many planets are there in the Solar System?",
+      "question_hi": "सौर मंडल में कुल कितने ग्रह हैं?",
+      "options_en": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "options_hi": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "There are 8 planets in the Solar System since Pluto was reclassified as a dwarf planet in 2006.",
+      "explanation_hi": "2006 में प्लूटो को बौना ग्रह घोषित किए जाने के बाद सौर मंडल में कुल 8 ग्रह हैं।"
+    },
+    {
+      "q_no": 3,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which is the closest planet to the Sun?",
+      "question_hi": "सूर्य के सबसे निकट कौन-सा ग्रह है?",
+      "options_en": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "options_hi": [
+        "शुक्र",
+        "बुध",
+        "पृथ्वी",
+        "मंगल"
+      ],
+      "answer_en": "Mercury",
+      "answer_hi": "बुध",
+      "explanation_en": "Mercury is the closest planet to the Sun, at an average distance of about 58 million km.",
+      "explanation_hi": "बुध सूर्य से लगभग 5.8 करोड़ किमी की औसत दूरी पर स्थित सबसे निकटतम ग्रह है।"
+    },
+    {
+      "q_no": 4,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet is known as the 'Red Planet'?",
+      "question_hi": "किस ग्रह को 'लाल ग्रह' के नाम से जाना जाता है?",
+      "options_en": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "options_hi": [
+        "शुक्र",
+        "मंगल",
+        "बृहस्पति",
+        "बुध"
+      ],
+      "answer_en": "Mars",
+      "answer_hi": "मंगल",
+      "explanation_en": "Mars appears red due to iron oxide (rust) on its surface, earning it the nickname 'Red Planet'.",
+      "explanation_hi": "मंगल की सतह पर आयरन ऑक्साइड (जंग) होने के कारण यह लाल दिखाई देता है, इसलिए इसे 'लाल ग्रह' कहा जाता है।"
+    },
+    {
+      "q_no": 5,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which is the largest planet in the Solar System?",
+      "question_hi": "सौर मंडल का सबसे बड़ा ग्रह कौन-सा है?",
+      "options_en": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "options_hi": [
+        "शनि",
+        "बृहस्पति",
+        "अरुण",
+        "वरुण"
+      ],
+      "answer_en": "Jupiter",
+      "answer_hi": "बृहस्पति",
+      "explanation_en": "Jupiter is the largest planet in the Solar System, with a mass more than twice that of all other planets combined.",
+      "explanation_hi": "बृहस्पति सौर मंडल का सबसे बड़ा ग्रह है, जिसका द्रव्यमान अन्य सभी ग्रहों के संयुक्त द्रव्यमान से दोगुने से भी अधिक है।"
+    },
+    {
+      "q_no": 6,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which is the smallest planet in the Solar System?",
+      "question_hi": "सौर मंडल का सबसे छोटा ग्रह कौन-सा है?",
+      "options_en": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Pluto"
+      ],
+      "options_hi": [
+        "मंगल",
+        "बुध",
+        "शुक्र",
+        "प्लूटो"
+      ],
+      "answer_en": "Mercury",
+      "answer_hi": "बुध",
+      "explanation_en": "Mercury is the smallest of the eight planets in the Solar System.",
+      "explanation_hi": "बुध सौर मंडल के आठ ग्रहों में सबसे छोटा है।"
+    },
+    {
+      "q_no": 7,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "question_hi": "किस ग्रह को 'भोर का तारा' या 'सांझ का तारा' कहा जाता है?",
+      "options_en": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "options_hi": [
+        "मंगल",
+        "शुक्र",
+        "बृहस्पति",
+        "शनि"
+      ],
+      "answer_en": "Venus",
+      "answer_hi": "शुक्र",
+      "explanation_en": "Venus is called the Morning Star or Evening Star because it is often the brightest object visible near sunrise or sunset.",
+      "explanation_hi": "शुक्र को भोर का तारा या सांझ का तारा कहा जाता है क्योंकि यह सूर्योदय या सूर्यास्त के आसपास आकाश में सबसे चमकीला दिखाई देने वाला पिंड है।"
+    },
+    {
+      "q_no": 8,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet has the most prominent ring system?",
+      "question_hi": "किस ग्रह के छल्ले (रिंग) सबसे प्रमुख हैं?",
+      "options_en": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "options_hi": [
+        "बृहस्पति",
+        "शनि",
+        "अरुण",
+        "वरुण"
+      ],
+      "answer_en": "Saturn",
+      "answer_hi": "शनि",
+      "explanation_en": "Saturn is famous for its spectacular and prominent ring system made mostly of ice particles.",
+      "explanation_hi": "शनि अपने शानदार और प्रमुख छल्लों के लिए प्रसिद्ध है, जो मुख्यतः बर्फ के कणों से बने हैं।"
+    },
+    {
+      "q_no": 9,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet is known as Earth's 'twin' due to similar size?",
+      "question_hi": "आकार में समानता के कारण किस ग्रह को पृथ्वी का 'जुड़वां' कहा जाता है?",
+      "options_en": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Neptune"
+      ],
+      "options_hi": [
+        "मंगल",
+        "शुक्र",
+        "बुध",
+        "वरुण"
+      ],
+      "answer_en": "Venus",
+      "answer_hi": "शुक्र",
+      "explanation_en": "Venus is called Earth's twin because it is similar in size and mass to Earth.",
+      "explanation_hi": "शुक्र को पृथ्वी का जुड़वां कहा जाता है क्योंकि यह आकार और द्रव्यमान में पृथ्वी के समान है।"
+    },
+    {
+      "q_no": 10,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet rotates on its side, with an axial tilt of about 98 degrees?",
+      "question_hi": "किस ग्रह की धुरी लगभग 98 डिग्री झुकी हुई है, जिससे वह अपनी करवट पर घूमता है?",
+      "options_en": [
+        "Neptune",
+        "Saturn",
+        "Uranus",
+        "Jupiter"
+      ],
+      "options_hi": [
+        "वरुण",
+        "शनि",
+        "अरुण",
+        "बृहस्पति"
+      ],
+      "answer_en": "Uranus",
+      "answer_hi": "अरुण",
+      "explanation_en": "Uranus has an extreme axial tilt of about 98 degrees, causing it to essentially rotate on its side.",
+      "explanation_hi": "अरुण की धुरी लगभग 98 डिग्री झुकी हुई है, जिसके कारण यह लगभग अपनी करवट पर घूमता प्रतीत होता है।"
+    },
+    {
+      "q_no": 11,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which is the farthest planet from the Sun?",
+      "question_hi": "सूर्य से सबसे दूर स्थित ग्रह कौन-सा है?",
+      "options_en": [
+        "Uranus",
+        "Neptune",
+        "Saturn",
+        "Pluto"
+      ],
+      "options_hi": [
+        "अरुण",
+        "वरुण",
+        "शनि",
+        "प्लूटो"
+      ],
+      "answer_en": "Neptune",
+      "answer_hi": "वरुण",
+      "explanation_en": "Neptune is the farthest planet from the Sun since Pluto was reclassified as a dwarf planet.",
+      "explanation_hi": "प्लूटो को बौना ग्रह घोषित किए जाने के बाद वरुण सूर्य से सबसे दूर स्थित ग्रह है।"
+    },
+    {
+      "q_no": 12,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "How long does it take Earth to complete one revolution around the Sun?",
+      "question_hi": "पृथ्वी को सूर्य के चारों ओर एक परिक्रमा पूरी करने में कितना समय लगता है?",
+      "options_en": [
+        "24 hours",
+        "365.25 days",
+        "30 days",
+        "12 months exactly"
+      ],
+      "options_hi": [
+        "24 घंटे",
+        "365.25 दिन",
+        "30 दिन",
+        "ठीक 12 महीने"
+      ],
+      "answer_en": "365.25 days",
+      "answer_hi": "365.25 दिन",
+      "explanation_en": "Earth takes approximately 365.25 days to orbit the Sun once, which is why we add a leap day every 4 years.",
+      "explanation_hi": "पृथ्वी को सूर्य की एक परिक्रमा पूरी करने में लगभग 365.25 दिन लगते हैं, इसीलिए हर 4 साल में एक लीप दिन जोड़ा जाता है।"
+    },
+    {
+      "q_no": 13,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "How long does it take Earth to complete one rotation on its axis?",
+      "question_hi": "पृथ्वी को अपनी धुरी पर एक चक्कर पूरा करने में कितना समय लगता है?",
+      "options_en": [
+        "12 hours",
+        "24 hours",
+        "365 days",
+        "30 days"
+      ],
+      "options_hi": [
+        "12 घंटे",
+        "24 घंटे",
+        "365 दिन",
+        "30 दिन"
+      ],
+      "answer_en": "24 hours",
+      "answer_hi": "24 घंटे",
+      "explanation_en": "Earth completes one rotation on its axis in about 24 hours, which causes day and night.",
+      "explanation_hi": "पृथ्वी अपनी धुरी पर लगभग 24 घंटे में एक चक्कर पूरा करती है, जिसके कारण दिन और रात होते हैं।"
+    },
+    {
+      "q_no": 14,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the shape of planetary orbits around the Sun?",
+      "question_hi": "सूर्य के चारों ओर ग्रहों की कक्षाओं (ऑर्बिट) का आकार क्या है?",
+      "options_en": [
+        "Circular",
+        "Elliptical",
+        "Square",
+        "Triangular"
+      ],
+      "options_hi": [
+        "वृत्ताकार",
+        "दीर्घवृत्ताकार (अंडाकार)",
+        "चौकोर",
+        "त्रिकोणीय"
+      ],
+      "answer_en": "Elliptical",
+      "answer_hi": "दीर्घवृत्ताकार (अंडाकार)",
+      "explanation_en": "According to Kepler's laws, planets move around the Sun in elliptical orbits, not perfect circles.",
+      "explanation_hi": "केप्लर के नियमों के अनुसार, ग्रह सूर्य के चारों ओर पूर्ण वृत्त में नहीं बल्कि दीर्घवृत्ताकार कक्षाओं में परिक्रमा करते हैं।"
+    },
+    {
+      "q_no": 15,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet has the shortest day (fastest rotation)?",
+      "question_hi": "किस ग्रह का दिन सबसे छोटा (सबसे तेज़ घूर्णन) है?",
+      "options_en": [
+        "Earth",
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "options_hi": [
+        "पृथ्वी",
+        "बृहस्पति",
+        "मंगल",
+        "शुक्र"
+      ],
+      "answer_en": "Jupiter",
+      "answer_hi": "बृहस्पति",
+      "explanation_en": "Jupiter has the shortest day of all planets, rotating once in about 10 hours.",
+      "explanation_hi": "बृहस्पति सभी ग्रहों में सबसे छोटा दिन रखता है, जो लगभग 10 घंटे में एक बार घूमता है।"
+    },
+    {
+      "q_no": 16,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet has the longest day (slowest rotation)?",
+      "question_hi": "किस ग्रह का दिन सबसे लंबा (सबसे धीमा घूर्णन) है?",
+      "options_en": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Saturn"
+      ],
+      "options_hi": [
+        "बुध",
+        "शुक्र",
+        "मंगल",
+        "शनि"
+      ],
+      "answer_en": "Venus",
+      "answer_hi": "शुक्र",
+      "explanation_en": "Venus has the longest day of any planet, taking about 243 Earth days to rotate once.",
+      "explanation_hi": "शुक्र किसी भी ग्रह का सबसे लंबा दिन रखता है, जिसे एक बार घूमने में लगभग 243 पृथ्वी दिन लगते हैं।"
+    },
+    {
+      "q_no": 17,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet spins in the opposite (retrograde) direction to most other planets?",
+      "question_hi": "कौन-सा ग्रह अधिकांश अन्य ग्रहों के विपरीत दिशा में (प्रतिगामी) घूमता है?",
+      "options_en": [
+        "Mars",
+        "Venus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "options_hi": [
+        "मंगल",
+        "शुक्र",
+        "शनि",
+        "बृहस्पति"
+      ],
+      "answer_en": "Venus",
+      "answer_hi": "शुक्र",
+      "explanation_en": "Venus rotates in a retrograde (clockwise) direction, opposite to most planets.",
+      "explanation_hi": "शुक्र प्रतिगामी (दक्षिणावर्त) दिशा में घूमता है, जो अधिकांश ग्रहों के विपरीत है।"
+    },
+    {
+      "q_no": 18,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the name of the imaginary line around which a planet rotates?",
+      "question_hi": "उस काल्पनिक रेखा को क्या कहा जाता है जिसके चारों ओर एक ग्रह घूमता है?",
+      "options_en": [
+        "Orbit",
+        "Axis",
+        "Equator",
+        "Meridian"
+      ],
+      "options_hi": [
+        "कक्षा (ऑर्बिट)",
+        "धुरी (एक्सिस)",
+        "भूमध्य रेखा",
+        "याम्योत्तर"
+      ],
+      "answer_en": "Axis",
+      "answer_hi": "धुरी (एक्सिस)",
+      "explanation_en": "The axis is the imaginary line through the center of a planet around which it rotates.",
+      "explanation_hi": "धुरी वह काल्पनिक रेखा है जो किसी ग्रह के केंद्र से होकर गुजरती है और जिसके चारों ओर वह घूमता है।"
+    },
+    {
+      "q_no": 19,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What causes the seasons on Earth?",
+      "question_hi": "पृथ्वी पर ऋतुएं (मौसम) किस कारण होती हैं?",
+      "options_en": [
+        "Distance from the Sun",
+        "Tilt of Earth's axis",
+        "Speed of Earth's rotation",
+        "Moon's gravity"
+      ],
+      "options_hi": [
+        "सूर्य से दूरी",
+        "पृथ्वी की धुरी का झुकाव",
+        "पृथ्वी के घूर्णन की गति",
+        "चंद्रमा का गुरुत्वाकर्षण"
+      ],
+      "answer_en": "Tilt of Earth's axis",
+      "answer_hi": "पृथ्वी की धुरी का झुकाव",
+      "explanation_en": "Earth's seasons are caused by the roughly 23.5-degree tilt of its axis as it orbits the Sun.",
+      "explanation_hi": "पृथ्वी की ऋतुएं इसकी धुरी के लगभग 23.5 डिग्री झुकाव के कारण होती हैं, जबकि यह सूर्य की परिक्रमा करती है।"
+    },
+    {
+      "q_no": 20,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet has the most moons discovered so far (as of recent counts)?",
+      "question_hi": "अब तक की गणना के अनुसार किस ग्रह के सबसे अधिक चंद्रमा खोजे गए हैं?",
+      "options_en": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "options_hi": [
+        "बृहस्पति",
+        "शनि",
+        "अरुण",
+        "वरुण"
+      ],
+      "answer_en": "Saturn",
+      "answer_hi": "शनि",
+      "explanation_en": "Recent discoveries have given Saturn the most confirmed moons among the planets, surpassing Jupiter.",
+      "explanation_hi": "हाल की खोजों ने शनि को ग्रहों में सबसे अधिक पुष्ट चंद्रमाओं वाला ग्रह बना दिया है, जो बृहस्पति से भी आगे निकल गया है।"
+    },
+    {
+      "q_no": 21,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet is famous for the Great Red Spot, a giant storm?",
+      "question_hi": "किस ग्रह पर 'ग्रेट रेड स्पॉट' नामक विशाल तूफान के लिए यह प्रसिद्ध है?",
+      "options_en": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Mars"
+      ],
+      "options_hi": [
+        "शनि",
+        "बृहस्पति",
+        "वरुण",
+        "मंगल"
+      ],
+      "answer_en": "Jupiter",
+      "answer_hi": "बृहस्पति",
+      "explanation_en": "The Great Red Spot is a giant storm on Jupiter that has been raging for hundreds of years.",
+      "explanation_hi": "ग्रेट रेड स्पॉट बृहस्पति पर एक विशाल तूफान है जो सैकड़ों वर्षों से चल रहा है।"
+    },
+    {
+      "q_no": 22,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which planet has the strongest winds in the Solar System, reaching up to 2,100 km/h?",
+      "question_hi": "सौर मंडल में किस ग्रह पर सबसे तेज़ हवाएं चलती हैं, जो 2,100 किमी/घंटा तक पहुंचती हैं?",
+      "options_en": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Uranus"
+      ],
+      "options_hi": [
+        "बृहस्पति",
+        "शनि",
+        "वरुण",
+        "अरुण"
+      ],
+      "answer_en": "Neptune",
+      "answer_hi": "वरुण",
+      "explanation_en": "Neptune has the fastest winds in the Solar System, reaching speeds up to about 2,100 km/h.",
+      "explanation_hi": "वरुण पर सौर मंडल की सबसे तेज़ हवाएं चलती हैं, जो लगभग 2,100 किमी/घंटा तक पहुंचती हैं।"
+    },
+    {
+      "q_no": 23,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What are Uranus and Neptune together often classified as?",
+      "question_hi": "अरुण और वरुण को साथ में अक्सर किस रूप में वर्गीकृत किया जाता है?",
+      "options_en": [
+        "Rocky planets",
+        "Gas giants",
+        "Ice giants",
+        "Dwarf planets"
+      ],
+      "options_hi": [
+        "चट्टानी ग्रह",
+        "गैस दानव",
+        "बर्फ के दानव",
+        "बौने ग्रह"
+      ],
+      "answer_en": "Ice giants",
+      "answer_hi": "बर्फ के दानव",
+      "explanation_en": "Uranus and Neptune are classified as 'ice giants' due to their composition of heavier volatile substances.",
+      "explanation_hi": "अरुण और वरुण को उनके संघटन में भारी वाष्पशील पदार्थों के कारण 'बर्फ के दानव' के रूप में वर्गीकृत किया जाता है।"
+    },
+    {
+      "q_no": 24,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which of these are called 'gas giants'?",
+      "question_hi": "इनमें से किन्हें 'गैस दानव' कहा जाता है?",
+      "options_en": [
+        "Earth and Mars",
+        "Jupiter and Saturn",
+        "Mercury and Venus",
+        "Uranus and Pluto"
+      ],
+      "options_hi": [
+        "पृथ्वी और मंगल",
+        "बृहस्पति और शनि",
+        "बुध और शुक्र",
+        "अरुण और प्लूटो"
+      ],
+      "answer_en": "Jupiter and Saturn",
+      "answer_hi": "बृहस्पति और शनि",
+      "explanation_en": "Jupiter and Saturn are known as gas giants because they are composed mainly of hydrogen and helium.",
+      "explanation_hi": "बृहस्पति और शनि को गैस दानव कहा जाता है क्योंकि वे मुख्यतः हाइड्रोजन और हीलियम से बने हैं।"
+    },
+    {
+      "q_no": 25,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is Pluto currently classified as?",
+      "question_hi": "प्लूटो को वर्तमान में किस रूप में वर्गीकृत किया गया है?",
+      "options_en": [
+        "A planet",
+        "A dwarf planet",
+        "A moon",
+        "An asteroid"
+      ],
+      "options_hi": [
+        "एक ग्रह",
+        "एक बौना ग्रह",
+        "एक चंद्रमा",
+        "एक क्षुद्रग्रह"
+      ],
+      "answer_en": "A dwarf planet",
+      "answer_hi": "एक बौना ग्रह",
+      "explanation_en": "In 2006, the International Astronomical Union reclassified Pluto as a dwarf planet.",
+      "explanation_hi": "2006 में अंतर्राष्ट्रीय खगोलीय संघ ने प्लूटो को बौना ग्रह के रूप में पुनर्वर्गीकृत किया।"
+    },
+    {
+      "q_no": 26,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "In which region of the Solar System is Pluto located?",
+      "question_hi": "प्लूटो सौर मंडल के किस क्षेत्र में स्थित है?",
+      "options_en": [
+        "Asteroid Belt",
+        "Kuiper Belt",
+        "Oort Cloud",
+        "Inner Solar System"
+      ],
+      "options_hi": [
+        "क्षुद्रग्रह पट्टी",
+        "कुइपर पट्टी",
+        "ऊर्ट बादल",
+        "आंतरिक सौर मंडल"
+      ],
+      "answer_en": "Kuiper Belt",
+      "answer_hi": "कुइपर पट्टी",
+      "explanation_en": "Pluto is located in the Kuiper Belt, a region of icy bodies beyond Neptune.",
+      "explanation_hi": "प्लूटो कुइपर पट्टी में स्थित है, जो वरुण से परे बर्फीले पिंडों का एक क्षेत्र है।"
+    },
+    {
+      "q_no": 27,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the Asteroid Belt located between?",
+      "question_hi": "क्षुद्रग्रह पट्टी किन दो ग्रहों के बीच स्थित है?",
+      "options_en": [
+        "Earth and Mars",
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Venus and Earth"
+      ],
+      "options_hi": [
+        "पृथ्वी और मंगल",
+        "मंगल और बृहस्पति",
+        "बृहस्पति और शनि",
+        "शुक्र और पृथ्वी"
+      ],
+      "answer_en": "Mars and Jupiter",
+      "answer_hi": "मंगल और बृहस्पति",
+      "explanation_en": "The Asteroid Belt is located between the orbits of Mars and Jupiter.",
+      "explanation_hi": "क्षुद्रग्रह पट्टी मंगल और बृहस्पति की कक्षाओं के बीच स्थित है।"
+    },
+    {
+      "q_no": 28,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the name of the largest object in the Asteroid Belt?",
+      "question_hi": "क्षुद्रग्रह पट्टी में सबसे बड़े पिंड का नाम क्या है?",
+      "options_en": [
+        "Vesta",
+        "Pallas",
+        "Ceres",
+        "Juno"
+      ],
+      "options_hi": [
+        "वेस्टा",
+        "पलास",
+        "सेरेस",
+        "जूनो"
+      ],
+      "answer_en": "Ceres",
+      "answer_hi": "सेरेस",
+      "explanation_en": "Ceres is the largest object in the Asteroid Belt and is classified as a dwarf planet.",
+      "explanation_hi": "सेरेस क्षुद्रग्रह पट्टी का सबसे बड़ा पिंड है और इसे बौना ग्रह वर्गीकृत किया गया है।"
+    },
+    {
+      "q_no": 29,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is a comet mainly composed of?",
+      "question_hi": "धूमकेतु मुख्य रूप से किससे बना होता है?",
+      "options_en": [
+        "Rock only",
+        "Ice, dust and rocky material",
+        "Pure metal",
+        "Liquid hydrogen"
+      ],
+      "options_hi": [
+        "केवल चट्टान",
+        "बर्फ, धूल और चट्टानी पदार्थ",
+        "शुद्ध धातु",
+        "तरल हाइड्रोजन"
+      ],
+      "answer_en": "Ice, dust and rocky material",
+      "answer_hi": "बर्फ, धूल और चट्टानी पदार्थ",
+      "explanation_en": "Comets are often called 'dirty snowballs' as they are made of ice, dust, and rocky material.",
+      "explanation_hi": "धूमकेतुओं को अक्सर 'गंदा बर्फ का गोला' कहा जाता है क्योंकि वे बर्फ, धूल और चट्टानी पदार्थ से बने होते हैं।"
+    },
+    {
+      "q_no": 30,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What causes a comet's tail to form?",
+      "question_hi": "धूमकेतु की पूंछ बनने का कारण क्या है?",
+      "options_en": [
+        "Its own gravity",
+        "Heat from the Sun causing ice to vaporize",
+        "Collision with planets",
+        "Magnetic fields of planets"
+      ],
+      "options_hi": [
+        "इसका अपना गुरुत्वाकर्षण",
+        "सूर्य की गर्मी से बर्फ का वाष्पीकरण",
+        "ग्रहों से टकराव",
+        "ग्रहों के चुंबकीय क्षेत्र"
+      ],
+      "answer_en": "Heat from the Sun causing ice to vaporize",
+      "answer_hi": "सूर्य की गर्मी से बर्फ का वाष्पीकरण",
+      "explanation_en": "As a comet nears the Sun, solar heat vaporizes its ice, releasing gas and dust that form the glowing tail.",
+      "explanation_hi": "जब धूमकेतु सूर्य के निकट आता है, तो सौर ऊष्मा से उसकी बर्फ वाष्पित हो जाती है, जिससे गैस और धूल निकलती है जो चमकती पूंछ बनाती है।"
+    },
+    {
+      "q_no": 31,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which famous comet is visible from Earth approximately every 76 years?",
+      "question_hi": "कौन-सा प्रसिद्ध धूमकेतु पृथ्वी से लगभग हर 76 वर्ष में दिखाई देता है?",
+      "options_en": [
+        "Hale-Bopp Comet",
+        "Halley's Comet",
+        "Comet NEOWISE",
+        "Shoemaker-Levy 9"
+      ],
+      "options_hi": [
+        "हेल-बॉप धूमकेतु",
+        "हैली धूमकेतु",
+        "धूमकेतु नियोवाइज़",
+        "शूमेकर-लेवी 9"
+      ],
+      "answer_en": "Halley's Comet",
+      "answer_hi": "हैली धूमकेतु",
+      "explanation_en": "Halley's Comet is visible from Earth approximately every 76 years.",
+      "explanation_hi": "हैली धूमकेतु पृथ्वी से लगभग हर 76 वर्ष में दिखाई देता है।"
+    },
+    {
+      "q_no": 32,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is a meteoroid called once it enters Earth's atmosphere and burns up, creating a streak of light?",
+      "question_hi": "जब कोई उल्कापिंड (meteoroid) पृथ्वी के वायुमंडल में प्रवेश कर जलने लगता है और प्रकाश की एक रेखा बनाता है, तो उसे क्या कहा जाता है?",
+      "options_en": [
+        "Meteor",
+        "Meteorite",
+        "Asteroid",
+        "Comet"
+      ],
+      "options_hi": [
+        "उल्का (Meteor)",
+        "उल्कापात (Meteorite)",
+        "क्षुद्रग्रह",
+        "धूमकेतु"
+      ],
+      "answer_en": "Meteor",
+      "answer_hi": "उल्का (Meteor)",
+      "explanation_en": "A meteoroid that burns up in Earth's atmosphere and creates a streak of light is called a meteor, commonly known as a 'shooting star'.",
+      "explanation_hi": "पृथ्वी के वायुमंडल में जलकर प्रकाश की रेखा बनाने वाले उल्कापिंड को उल्का (Meteor) कहा जाता है, जिसे आमतौर पर 'टूटता तारा' कहते हैं।"
+    },
+    {
+      "q_no": 33,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is a meteoroid called if it survives its fall and lands on Earth's surface?",
+      "question_hi": "यदि कोई उल्कापिंड गिरने के बाद बचकर पृथ्वी की सतह पर पहुंच जाए, तो उसे क्या कहा जाता है?",
+      "options_en": [
+        "Meteor",
+        "Meteorite",
+        "Comet",
+        "Asteroid"
+      ],
+      "options_hi": [
+        "उल्का (Meteor)",
+        "उल्कापिंड (Meteorite)",
+        "धूमकेतु",
+        "क्षुद्रग्रह"
+      ],
+      "answer_en": "Meteorite",
+      "answer_hi": "उल्कापिंड (Meteorite)",
+      "explanation_en": "A meteoroid that survives the fall through the atmosphere and lands on the ground is called a meteorite.",
+      "explanation_hi": "वायुमंडल से गुजरते हुए बच जाने वाला और जमीन पर गिरने वाला उल्कापिंड मेटियोराइट (उल्कापिंड) कहलाता है।"
+    },
+    {
+      "q_no": 34,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "How many known moons does Earth have?",
+      "question_hi": "पृथ्वी के कितने ज्ञात चंद्रमा हैं?",
+      "options_en": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "options_hi": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer_en": "1",
+      "answer_hi": "1",
+      "explanation_en": "Earth has one natural satellite, commonly known as the Moon.",
+      "explanation_hi": "पृथ्वी का एक प्राकृतिक उपग्रह है, जिसे सामान्यतः चंद्रमा कहा जाता है।"
+    },
+    {
+      "q_no": 35,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the name of Mars' two moons?",
+      "question_hi": "मंगल के दो चंद्रमाओं के नाम क्या हैं?",
+      "options_en": [
+        "Titan and Enceladus",
+        "Phobos and Deimos",
+        "Io and Europa",
+        "Triton and Nereid"
+      ],
+      "options_hi": [
+        "टाइटन और एंसेलाडस",
+        "फोबोस और डीमोस",
+        "आयो और यूरोपा",
+        "ट्राइटन और नेरीड"
+      ],
+      "answer_en": "Phobos and Deimos",
+      "answer_hi": "फोबोस और डीमोस",
+      "explanation_en": "Mars has two small moons named Phobos and Deimos.",
+      "explanation_hi": "मंगल के दो छोटे चंद्रमा हैं जिनके नाम फोबोस और डीमोस हैं।"
+    },
+    {
+      "q_no": 36,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which is the largest moon in the Solar System?",
+      "question_hi": "सौर मंडल का सबसे बड़ा चंद्रमा कौन-सा है?",
+      "options_en": [
+        "Titan",
+        "Europa",
+        "Ganymede",
+        "Callisto"
+      ],
+      "options_hi": [
+        "टाइटन",
+        "यूरोपा",
+        "गैनिमीड",
+        "कैलिस्टो"
+      ],
+      "answer_en": "Ganymede",
+      "answer_hi": "गैनिमीड",
+      "explanation_en": "Ganymede, a moon of Jupiter, is the largest moon in the Solar System, even bigger than the planet Mercury.",
+      "explanation_hi": "गैनिमीड, जो बृहस्पति का एक चंद्रमा है, सौर मंडल का सबसे बड़ा चंद्रमा है, जो ग्रह बुध से भी बड़ा है।"
+    },
+    {
+      "q_no": 37,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which moon of Saturn has a thick atmosphere and lakes of liquid methane?",
+      "question_hi": "शनि के किस चंद्रमा में घना वायुमंडल और तरल मीथेन की झीलें हैं?",
+      "options_en": [
+        "Enceladus",
+        "Titan",
+        "Mimas",
+        "Iapetus"
+      ],
+      "options_hi": [
+        "एंसेलाडस",
+        "टाइटन",
+        "मिमास",
+        "इएपेटस"
+      ],
+      "answer_en": "Titan",
+      "answer_hi": "टाइटन",
+      "explanation_en": "Titan, Saturn's largest moon, has a thick atmosphere and lakes made of liquid methane and ethane.",
+      "explanation_hi": "टाइटन, शनि का सबसे बड़ा चंद्रमा, में घना वायुमंडल है और तरल मीथेन तथा एथेन से बनी झीलें हैं।"
+    },
+    {
+      "q_no": 38,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which moon of Jupiter is known for having active volcanoes?",
+      "question_hi": "बृहस्पति के किस चंद्रमा में सक्रिय ज्वालामुखी हैं?",
+      "options_en": [
+        "Europa",
+        "Io",
+        "Callisto",
+        "Ganymede"
+      ],
+      "options_hi": [
+        "यूरोपा",
+        "आयो",
+        "कैलिस्टो",
+        "गैनिमीड"
+      ],
+      "answer_en": "Io",
+      "answer_hi": "आयो",
+      "explanation_en": "Io, one of Jupiter's moons, is the most volcanically active body in the Solar System.",
+      "explanation_hi": "आयो, बृहस्पति का एक चंद्रमा, सौर मंडल का सबसे अधिक ज्वालामुखी रूप से सक्रिय पिंड है।"
+    },
+    {
+      "q_no": 39,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "Which moon of Jupiter is believed to have a subsurface ocean that could potentially harbor life?",
+      "question_hi": "बृहस्पति के किस चंद्रमा में एक उपसतही महासागर होने की संभावना है, जिसमें जीवन हो सकता है?",
+      "options_en": [
+        "Io",
+        "Europa",
+        "Callisto",
+        "Amalthea"
+      ],
+      "options_hi": [
+        "आयो",
+        "यूरोपा",
+        "कैलिस्टो",
+        "अमाल्थिया"
+      ],
+      "answer_en": "Europa",
+      "answer_hi": "यूरोपा",
+      "explanation_en": "Europa is believed to have a subsurface ocean beneath its icy crust, making it a candidate for extraterrestrial life.",
+      "explanation_hi": "यूरोपा में अपनी बर्फीली सतह के नीचे एक उपसतही महासागर होने की संभावना है, जिससे यह अलौकिक जीवन के लिए एक संभावित उम्मीदवार बन जाता है।"
+    },
+    {
+      "q_no": 40,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What percentage of the Sun's mass makes up the total mass of the Solar System, approximately?",
+      "question_hi": "सूर्य का द्रव्यमान सौर मंडल के कुल द्रव्यमान का लगभग कितना प्रतिशत है?",
+      "options_en": [
+        "50%",
+        "75%",
+        "99.8%",
+        "90%"
+      ],
+      "options_hi": [
+        "50%",
+        "75%",
+        "99.8%",
+        "90%"
+      ],
+      "answer_en": "99.8%",
+      "answer_hi": "99.8%",
+      "explanation_en": "The Sun contains about 99.8% of the total mass of the Solar System.",
+      "explanation_hi": "सूर्य में सौर मंडल के कुल द्रव्यमान का लगभग 99.8% भाग समाहित है।"
+    },
+    {
+      "q_no": 41,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the main gas that makes up most of the Sun?",
+      "question_hi": "सूर्य का अधिकांश भाग किस मुख्य गैस से बना है?",
+      "options_en": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "options_hi": [
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "नाइट्रोजन",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "answer_en": "Hydrogen",
+      "answer_hi": "हाइड्रोजन",
+      "explanation_en": "The Sun is composed mostly of hydrogen (about 74%), with helium making up most of the rest.",
+      "explanation_hi": "सूर्य मुख्यतः हाइड्रोजन (लगभग 74%) से बना है, और शेष अधिकांश भाग हीलियम है।"
+    },
+    {
+      "q_no": 42,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What process powers the Sun, converting hydrogen into helium?",
+      "question_hi": "किस प्रक्रिया से सूर्य ऊर्जा प्राप्त करता है, जिसमें हाइड्रोजन हीलियम में परिवर्तित होता है?",
+      "options_en": [
+        "Nuclear fission",
+        "Nuclear fusion",
+        "Chemical combustion",
+        "Radioactive decay"
+      ],
+      "options_hi": [
+        "नाभिकीय विखंडन",
+        "नाभिकीय संलयन",
+        "रासायनिक दहन",
+        "रेडियोधर्मी क्षय"
+      ],
+      "answer_en": "Nuclear fusion",
+      "answer_hi": "नाभिकीय संलयन",
+      "explanation_en": "The Sun is powered by nuclear fusion, where hydrogen atoms combine to form helium, releasing enormous energy.",
+      "explanation_hi": "सूर्य नाभिकीय संलयन से ऊर्जा प्राप्त करता है, जिसमें हाइड्रोजन परमाणु मिलकर हीलियम बनाते हैं और भारी मात्रा में ऊर्जा निकलती है।"
+    },
+    {
+      "q_no": 43,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the outermost layer of the Sun's atmosphere called?",
+      "question_hi": "सूर्य के वायुमंडल की सबसे बाहरी परत को क्या कहा जाता है?",
+      "options_en": [
+        "Photosphere",
+        "Chromosphere",
+        "Corona",
+        "Core"
+      ],
+      "options_hi": [
+        "प्रकाशमंडल",
+        "वर्णमंडल",
+        "किरीट (कोरोना)",
+        "क्रोड"
+      ],
+      "answer_en": "Corona",
+      "answer_hi": "किरीट (कोरोना)",
+      "explanation_en": "The corona is the outermost layer of the Sun's atmosphere, visible during a total solar eclipse.",
+      "explanation_hi": "किरीट (कोरोना) सूर्य के वायुमंडल की सबसे बाहरी परत है, जो पूर्ण सूर्य ग्रहण के दौरान दिखाई देती है।"
+    },
+    {
+      "q_no": 44,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What are dark, cooler spots on the Sun's surface called?",
+      "question_hi": "सूर्य की सतह पर दिखाई देने वाले काले, ठंडे धब्बों को क्या कहा जाता है?",
+      "options_en": [
+        "Solar flares",
+        "Sunspots",
+        "Solar prominences",
+        "Coronal holes"
+      ],
+      "options_hi": [
+        "सौर ज्वालाएं",
+        "सूर्य कलंक (सनस्पॉट)",
+        "सौर प्रमुखताएं",
+        "किरीट छिद्र"
+      ],
+      "answer_en": "Sunspots",
+      "answer_hi": "सूर्य कलंक (सनस्पॉट)",
+      "explanation_en": "Sunspots are temporary dark, cooler regions on the Sun's surface caused by magnetic activity.",
+      "explanation_hi": "सूर्य कलंक सूर्य की सतह पर चुंबकीय गतिविधि के कारण बनने वाले अस्थायी काले, ठंडे क्षेत्र हैं।"
+    },
+    {
+      "q_no": 45,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is a solar eclipse?",
+      "question_hi": "सूर्य ग्रहण क्या होता है?",
+      "options_en": [
+        "Moon passes between Sun and Earth",
+        "Earth passes between Sun and Moon",
+        "Sun passes between Earth and Moon",
+        "Two planets align"
+      ],
+      "options_hi": [
+        "चंद्रमा सूर्य और पृथ्वी के बीच आ जाता है",
+        "पृथ्वी सूर्य और चंद्रमा के बीच आ जाती है",
+        "सूर्य पृथ्वी और चंद्रमा के बीच आ जाता है",
+        "दो ग्रह एक सीध में आते हैं"
+      ],
+      "answer_en": "Moon passes between Sun and Earth",
+      "answer_hi": "चंद्रमा सूर्य और पृथ्वी के बीच आ जाता है",
+      "explanation_en": "A solar eclipse occurs when the Moon passes between the Sun and Earth, blocking sunlight.",
+      "explanation_hi": "सूर्य ग्रहण तब होता है जब चंद्रमा सूर्य और पृथ्वी के बीच आ जाता है और सूर्य के प्रकाश को अवरुद्ध करता है।"
+    },
+    {
+      "q_no": 46,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is a lunar eclipse?",
+      "question_hi": "चंद्र ग्रहण क्या होता है?",
+      "options_en": [
+        "Moon passes between Sun and Earth",
+        "Earth passes between Sun and Moon",
+        "Sun goes dark",
+        "Moon disappears permanently"
+      ],
+      "options_hi": [
+        "चंद्रमा सूर्य और पृथ्वी के बीच आ जाता है",
+        "पृथ्वी सूर्य और चंद्रमा के बीच आ जाती है",
+        "सूर्य अंधकारमय हो जाता है",
+        "चंद्रमा स्थायी रूप से गायब हो जाता है"
+      ],
+      "answer_en": "Earth passes between Sun and Moon",
+      "answer_hi": "पृथ्वी सूर्य और चंद्रमा के बीच आ जाती है",
+      "explanation_en": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting its shadow on the Moon.",
+      "explanation_hi": "चंद्र ग्रहण तब होता है जब पृथ्वी सूर्य और चंद्रमा के बीच आ जाती है और अपनी छाया चंद्रमा पर डालती है।"
+    },
+    {
+      "q_no": 47,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "How long does it take sunlight to reach Earth?",
+      "question_hi": "सूर्य के प्रकाश को पृथ्वी तक पहुंचने में कितना समय लगता है?",
+      "options_en": [
+        "8 minutes",
+        "1 hour",
+        "1 second",
+        "1 day"
+      ],
+      "options_hi": [
+        "8 मिनट",
+        "1 घंटा",
+        "1 सेकंड",
+        "1 दिन"
+      ],
+      "answer_en": "8 minutes",
+      "answer_hi": "8 मिनट",
+      "explanation_en": "Sunlight takes approximately 8 minutes and 20 seconds to travel from the Sun to Earth.",
+      "explanation_hi": "सूर्य का प्रकाश सूर्य से पृथ्वी तक पहुंचने में लगभग 8 मिनट 20 सेकंड लेता है।"
+    },
+    {
+      "q_no": 48,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What is the average distance between the Earth and the Sun called?",
+      "question_hi": "पृथ्वी और सूर्य के बीच की औसत दूरी को क्या कहा जाता है?",
+      "options_en": [
+        "Light year",
+        "Astronomical Unit",
+        "Parsec",
+        "Kilometre"
+      ],
+      "options_hi": [
+        "प्रकाश वर्ष",
+        "खगोलीय इकाई",
+        "पारसेक",
+        "किलोमीटर"
+      ],
+      "answer_en": "Astronomical Unit",
+      "answer_hi": "खगोलीय इकाई",
+      "explanation_en": "The average Earth-Sun distance, about 150 million km, is defined as one Astronomical Unit (AU).",
+      "explanation_hi": "पृथ्वी-सूर्य के बीच की औसत दूरी, लगभग 15 करोड़ किमी, को एक खगोलीय इकाई (AU) के रूप में परिभाषित किया गया है।"
+    },
+    {
+      "q_no": 49,
+      "category_en": "Solar System",
+      "category_hi": "सौर मंडल",
+      "question_en": "What phenomenon causes tides on Earth?",
+      "question_hi": "पृथ्वी पर ज्वार-भाटा किस परिघटना के कारण होता है?",
+      "options_en": [
+        "Sun's heat",
+        "Gravitational pull of the Moon and Sun",
+        "Earth's rotation alone",
+        "Wind patterns"
+      ],
+      "options_hi": [
+        "सूर्य की गर्मी",
+        "चंद्रमा और सूर्य का गुरुत्वाकर्षण खिंचाव",
+        "केवल पृथ्वी का घूर्णन",
+        "हवा के पैटर्न"
+      ],
+      "answer_en": "Gravitational pull of the Moon and Sun",
+      "answer_hi": "चंद्रमा और सूर्य का गुरुत्वाकर्षण खिंचाव",
+      "explanation_en": "Tides are caused mainly by the gravitational pull of the Moon, with additional influence from the Sun.",
+      "explanation_hi": "ज्वार-भाटा मुख्यतः चंद्रमा के गुरुत्वाकर्षण खिंचाव से होता है, जिसमें सूर्य का भी अतिरिक्त प्रभाव होता है।"
+    },
+    {
+      "q_no": 50,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is a star mainly made of?",
+      "question_hi": "एक तारा मुख्यतः किससे बना होता है?",
+      "options_en": [
+        "Rock and metal",
+        "Hydrogen and helium gas",
+        "Liquid water",
+        "Solid ice"
+      ],
+      "options_hi": [
+        "चट्टान और धातु",
+        "हाइड्रोजन और हीलियम गैस",
+        "तरल पानी",
+        "ठोस बर्फ"
+      ],
+      "answer_en": "Hydrogen and helium gas",
+      "answer_hi": "हाइड्रोजन और हीलियम गैस",
+      "explanation_en": "Stars are massive balls of hot gas, mainly hydrogen and helium, held together by gravity.",
+      "explanation_hi": "तारे गर्म गैस के विशाल गोले होते हैं, जो मुख्यतः हाइड्रोजन और हीलियम से बने होते हैं और गुरुत्वाकर्षण द्वारा एक साथ बंधे रहते हैं।"
+    },
+    {
+      "q_no": 51,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What process generates the energy of stars, including our Sun?",
+      "question_hi": "तारों की ऊर्जा, जिसमें हमारा सूर्य भी शामिल है, किस प्रक्रिया से उत्पन्न होती है?",
+      "options_en": [
+        "Nuclear fusion",
+        "Chemical burning",
+        "Nuclear fission",
+        "Radioactive decay"
+      ],
+      "options_hi": [
+        "नाभिकीय संलयन",
+        "रासायनिक दहन",
+        "नाभिकीय विखंडन",
+        "रेडियोधर्मी क्षय"
+      ],
+      "answer_en": "Nuclear fusion",
+      "answer_hi": "नाभिकीय संलयन",
+      "explanation_en": "Stars generate energy through nuclear fusion, converting hydrogen into helium in their cores.",
+      "explanation_hi": "तारे अपने केंद्र में हाइड्रोजन को हीलियम में परिवर्तित करके नाभिकीय संलयन द्वारा ऊर्जा उत्पन्न करते हैं।"
+    },
+    {
+      "q_no": 52,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the closest star to Earth other than the Sun?",
+      "question_hi": "सूर्य के अलावा पृथ्वी के सबसे निकट कौन-सा तारा है?",
+      "options_en": [
+        "Sirius",
+        "Alpha Centauri (Proxima Centauri)",
+        "Betelgeuse",
+        "Polaris"
+      ],
+      "options_hi": [
+        "सिरियस",
+        "अल्फा सेंटॉरी (प्रॉक्सिमा सेंटॉरी)",
+        "बेटेल्ज्यूज़",
+        "ध्रुव तारा"
+      ],
+      "answer_en": "Alpha Centauri (Proxima Centauri)",
+      "answer_hi": "अल्फा सेंटॉरी (प्रॉक्सिमा सेंटॉरी)",
+      "explanation_en": "Proxima Centauri, part of the Alpha Centauri system, is the closest known star to the Sun.",
+      "explanation_hi": "प्रॉक्सिमा सेंटॉरी, जो अल्फा सेंटॉरी प्रणाली का हिस्सा है, सूर्य के सबसे निकट ज्ञात तारा है।"
+    },
+    {
+      "q_no": 53,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "Which is the brightest star visible from Earth's night sky (excluding the Sun)?",
+      "question_hi": "पृथ्वी के रात्रि आकाश से दिखाई देने वाला सबसे चमकीला तारा कौन-सा है (सूर्य को छोड़कर)?",
+      "options_en": [
+        "Polaris",
+        "Sirius",
+        "Betelgeuse",
+        "Vega"
+      ],
+      "options_hi": [
+        "ध्रुव तारा",
+        "सिरियस",
+        "बेटेल्ज्यूज़",
+        "वेगा"
+      ],
+      "answer_en": "Sirius",
+      "answer_hi": "सिरियस",
+      "explanation_en": "Sirius, also called the Dog Star, is the brightest star in the night sky as seen from Earth.",
+      "explanation_hi": "सिरियस, जिसे डॉग स्टार भी कहा जाता है, पृथ्वी से दिखाई देने वाला रात्रि आकाश का सबसे चमकीला तारा है।"
+    },
+    {
+      "q_no": 54,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the common name for the star Polaris?",
+      "question_hi": "ध्रुव तारे (पोलारिस) का सामान्य नाम क्या है?",
+      "options_en": [
+        "Evening Star",
+        "North Star",
+        "Morning Star",
+        "Dog Star"
+      ],
+      "options_hi": [
+        "सांझ का तारा",
+        "ध्रुव तारा (North Star)",
+        "भोर का तारा",
+        "डॉग स्टार"
+      ],
+      "answer_en": "North Star",
+      "answer_hi": "ध्रुव तारा (North Star)",
+      "explanation_en": "Polaris, commonly called the North Star, lies almost directly above Earth's North Pole and is used for navigation.",
+      "explanation_hi": "पोलारिस, जिसे आमतौर पर ध्रुव तारा (North Star) कहा जाता है, पृथ्वी के उत्तरी ध्रुव के लगभग सीधे ऊपर स्थित है और नौवहन में उपयोग होता है।"
+    },
+    {
+      "q_no": 55,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is a group of stars that forms a recognizable pattern in the sky called?",
+      "question_hi": "आकाश में एक पहचानने योग्य आकृति बनाने वाले तारों के समूह को क्या कहा जाता है?",
+      "options_en": [
+        "Galaxy",
+        "Constellation",
+        "Nebula",
+        "Cluster"
+      ],
+      "options_hi": [
+        "आकाशगंगा",
+        "तारामंडल (नक्षत्र)",
+        "नीहारिका",
+        "गुच्छ"
+      ],
+      "answer_en": "Constellation",
+      "answer_hi": "तारामंडल (नक्षत्र)",
+      "explanation_en": "A constellation is a group of stars that forms a recognizable pattern, traditionally named after mythological figures or objects.",
+      "explanation_hi": "तारामंडल तारों का एक ऐसा समूह है जो एक पहचानने योग्य आकृति बनाता है, जिसका नामकरण परंपरागत रूप से पौराणिक आकृतियों या वस्तुओं के नाम पर किया जाता है।"
+    },
+    {
+      "q_no": 56,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the name of the largest constellation in the sky?",
+      "question_hi": "आकाश में सबसे बड़े तारामंडल का नाम क्या है?",
+      "options_en": [
+        "Orion",
+        "Ursa Major",
+        "Hydra",
+        "Leo"
+      ],
+      "options_hi": [
+        "ओरायन",
+        "उर्सा मेजर",
+        "हाइड्रा",
+        "सिंह (लियो)"
+      ],
+      "answer_en": "Hydra",
+      "answer_hi": "हाइड्रा",
+      "explanation_en": "Hydra is the largest of the 88 recognized constellations in the sky.",
+      "explanation_hi": "हाइड्रा आकाश में मान्यता प्राप्त 88 तारामंडलों में सबसे बड़ा है।"
+    },
+    {
+      "q_no": 57,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the life cycle stage where a star like the Sun becomes a 'red giant'?",
+      "question_hi": "सूर्य जैसे तारे के जीवन चक्र में वह चरण क्या कहलाता है जब वह 'लाल दानव' बनता है?",
+      "options_en": [
+        "Beginning of life",
+        "When it runs out of hydrogen fuel in its core",
+        "Immediately after formation",
+        "When it is a white dwarf"
+      ],
+      "options_hi": [
+        "जीवन की शुरुआत",
+        "जब उसके केंद्र में हाइड्रोजन ईंधन समाप्त हो जाता है",
+        "निर्माण के तुरंत बाद",
+        "जब वह श्वेत वामन होता है"
+      ],
+      "answer_en": "When it runs out of hydrogen fuel in its core",
+      "answer_hi": "जब उसके केंद्र में हाइड्रोजन ईंधन समाप्त हो जाता है",
+      "explanation_en": "A star becomes a red giant when it exhausts hydrogen fuel in its core and begins fusing helium, causing it to expand.",
+      "explanation_hi": "एक तारा तब लाल दानव बनता है जब उसके केंद्र में हाइड्रोजन ईंधन समाप्त हो जाता है और वह हीलियम का संलयन शुरू करता है, जिससे उसका विस्तार होता है।"
+    },
+    {
+      "q_no": 58,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What remains after a Sun-like star exhausts its fuel and sheds its outer layers?",
+      "question_hi": "जब सूर्य जैसा तारा अपना ईंधन समाप्त कर लेता है और अपनी बाहरी परतें त्याग देता है, तो क्या शेष रह जाता है?",
+      "options_en": [
+        "Black hole",
+        "White dwarf",
+        "Neutron star",
+        "Supernova"
+      ],
+      "options_hi": [
+        "ब्लैक होल",
+        "श्वेत वामन (White dwarf)",
+        "न्यूट्रॉन तारा",
+        "सुपरनोवा"
+      ],
+      "answer_en": "White dwarf",
+      "answer_hi": "श्वेत वामन (White dwarf)",
+      "explanation_en": "A Sun-like star eventually becomes a small, dense white dwarf after shedding its outer layers.",
+      "explanation_hi": "सूर्य जैसा तारा अंततः अपनी बाहरी परतें त्यागने के बाद एक छोटा, घना श्वेत वामन बन जाता है।"
+    },
+    {
+      "q_no": 59,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the massive explosion that occurs at the end of a massive star's life called?",
+      "question_hi": "एक विशाल तारे के जीवन के अंत में होने वाले विशाल विस्फोट को क्या कहा जाता है?",
+      "options_en": [
+        "Big Bang",
+        "Supernova",
+        "Solar flare",
+        "Eclipse"
+      ],
+      "options_hi": [
+        "बिग बैंग",
+        "सुपरनोवा",
+        "सौर ज्वाला",
+        "ग्रहण"
+      ],
+      "answer_en": "Supernova",
+      "answer_hi": "सुपरनोवा",
+      "explanation_en": "A supernova is a massive explosion that occurs when a massive star reaches the end of its life.",
+      "explanation_hi": "सुपरनोवा एक विशाल विस्फोट है जो तब होता है जब एक विशाल तारा अपने जीवन के अंत तक पहुंचता है।"
+    },
+    {
+      "q_no": 60,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What extremely dense object can form from the collapsed core of a massive star after a supernova?",
+      "question_hi": "सुपरनोवा के बाद एक विशाल तारे के ढहे हुए केंद्र से कौन-सी अत्यंत सघन वस्तु बन सकती है?",
+      "options_en": [
+        "White dwarf",
+        "Neutron star or black hole",
+        "Red giant",
+        "Nebula only"
+      ],
+      "options_hi": [
+        "श्वेत वामन",
+        "न्यूट्रॉन तारा या ब्लैक होल",
+        "लाल दानव",
+        "केवल नीहारिका"
+      ],
+      "answer_en": "Neutron star or black hole",
+      "answer_hi": "न्यूट्रॉन तारा या ब्लैक होल",
+      "explanation_en": "Depending on its mass, the collapsed core of a massive star can become a neutron star or a black hole.",
+      "explanation_hi": "अपने द्रव्यमान के आधार पर, एक विशाल तारे का ढहा हुआ केंद्र न्यूट्रॉन तारा या ब्लैक होल बन सकता है।"
+    },
+    {
+      "q_no": 61,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is a black hole?",
+      "question_hi": "ब्लैक होल क्या होता है?",
+      "options_en": [
+        "A region of space with no matter",
+        "A region with gravity so strong that not even light can escape",
+        "A dark colored planet",
+        "An empty part of a galaxy"
+      ],
+      "options_hi": [
+        "अंतरिक्ष का एक ऐसा क्षेत्र जहां कोई पदार्थ नहीं है",
+        "एक ऐसा क्षेत्र जहां गुरुत्वाकर्षण इतना प्रबल है कि प्रकाश भी बच नहीं सकता",
+        "गहरे रंग का एक ग्रह",
+        "आकाशगंगा का एक खाली हिस्सा"
+      ],
+      "answer_en": "A region with gravity so strong that not even light can escape",
+      "answer_hi": "एक ऐसा क्षेत्र जहां गुरुत्वाकर्षण इतना प्रबल है कि प्रकाश भी बच नहीं सकता",
+      "explanation_en": "A black hole is a region of space with gravity so strong that nothing, not even light, can escape it.",
+      "explanation_hi": "ब्लैक होल अंतरिक्ष का एक ऐसा क्षेत्र है जहां गुरुत्वाकर्षण इतना प्रबल होता है कि कुछ भी, यहां तक कि प्रकाश भी, उससे बच नहीं सकता।"
+    },
+    {
+      "q_no": 62,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is a large cloud of gas and dust in space, often a birthplace of stars, called?",
+      "question_hi": "अंतरिक्ष में गैस और धूल के एक विशाल बादल को क्या कहा जाता है, जो अक्सर तारों का जन्मस्थान होता है?",
+      "options_en": [
+        "Galaxy",
+        "Nebula",
+        "Asteroid belt",
+        "Constellation"
+      ],
+      "options_hi": [
+        "आकाशगंगा",
+        "नीहारिका (नेबुला)",
+        "क्षुद्रग्रह पट्टी",
+        "तारामंडल"
+      ],
+      "answer_en": "Nebula",
+      "answer_hi": "नीहारिका (नेबुला)",
+      "explanation_en": "A nebula is a giant cloud of gas and dust in space, and is often the birthplace of new stars.",
+      "explanation_hi": "नीहारिका अंतरिक्ष में गैस और धूल का एक विशाल बादल है, जो अक्सर नए तारों का जन्मस्थान होता है।"
+    },
+    {
+      "q_no": 63,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the unit used to measure vast distances in space, equal to the distance light travels in one year?",
+      "question_hi": "अंतरिक्ष में विशाल दूरियों को मापने के लिए उपयोग की जाने वाली इकाई क्या है, जो प्रकाश द्वारा एक वर्ष में तय की गई दूरी के बराबर है?",
+      "options_en": [
+        "Astronomical Unit",
+        "Light year",
+        "Kilometre",
+        "Parsec only"
+      ],
+      "options_hi": [
+        "खगोलीय इकाई",
+        "प्रकाश वर्ष",
+        "किलोमीटर",
+        "केवल पारसेक"
+      ],
+      "answer_en": "Light year",
+      "answer_hi": "प्रकाश वर्ष",
+      "explanation_en": "A light year is the distance light travels in one year, used to measure vast distances in space.",
+      "explanation_hi": "प्रकाश वर्ष वह दूरी है जो प्रकाश एक वर्ष में तय करता है, जिसका उपयोग अंतरिक्ष में विशाल दूरियों को मापने के लिए किया जाता है।"
+    },
+    {
+      "q_no": 64,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "Approximately how fast does light travel in a vacuum?",
+      "question_hi": "निर्वात (वैक्यूम) में प्रकाश की गति लगभग कितनी होती है?",
+      "options_en": [
+        "300,000 km/s",
+        "300,000 km/h",
+        "3,000 km/s",
+        "30,000 km/s"
+      ],
+      "options_hi": [
+        "3,00,000 किमी/सेकंड",
+        "3,00,000 किमी/घंटा",
+        "3,000 किमी/सेकंड",
+        "30,000 किमी/सेकंड"
+      ],
+      "answer_en": "300,000 km/s",
+      "answer_hi": "3,00,000 किमी/सेकंड",
+      "explanation_en": "Light travels at approximately 300,000 kilometres per second in a vacuum.",
+      "explanation_hi": "निर्वात में प्रकाश की गति लगभग 3,00,000 किलोमीटर प्रति सेकंड होती है।"
+    },
+    {
+      "q_no": 65,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What color are the hottest stars typically?",
+      "question_hi": "सबसे गर्म तारे आमतौर पर किस रंग के होते हैं?",
+      "options_en": [
+        "Red",
+        "Yellow",
+        "Blue-white",
+        "Orange"
+      ],
+      "options_hi": [
+        "लाल",
+        "पीला",
+        "नीला-सफेद",
+        "नारंगी"
+      ],
+      "answer_en": "Blue-white",
+      "answer_hi": "नीला-सफेद",
+      "explanation_en": "The hottest stars appear blue-white, while cooler stars appear red or orange.",
+      "explanation_hi": "सबसे गर्म तारे नीले-सफेद दिखाई देते हैं, जबकि ठंडे तारे लाल या नारंगी दिखाई देते हैं।"
+    },
+    {
+      "q_no": 66,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What color are the coolest stars typically?",
+      "question_hi": "सबसे ठंडे तारे आमतौर पर किस रंग के होते हैं?",
+      "options_en": [
+        "Blue",
+        "White",
+        "Red",
+        "Green"
+      ],
+      "options_hi": [
+        "नीला",
+        "सफेद",
+        "लाल",
+        "हरा"
+      ],
+      "answer_en": "Red",
+      "answer_hi": "लाल",
+      "explanation_en": "Cooler stars appear red, while hotter stars appear blue or white.",
+      "explanation_hi": "ठंडे तारे लाल दिखाई देते हैं, जबकि अधिक गर्म तारे नीले या सफेद दिखाई देते हैं।"
+    },
+    {
+      "q_no": 67,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "Which type of star is our Sun classified as, based on size?",
+      "question_hi": "आकार के आधार पर हमारा सूर्य किस प्रकार का तारा वर्गीकृत है?",
+      "options_en": [
+        "Red giant",
+        "Yellow dwarf",
+        "White dwarf",
+        "Blue supergiant"
+      ],
+      "options_hi": [
+        "लाल दानव",
+        "पीला वामन",
+        "श्वेत वामन",
+        "नीला महादानव"
+      ],
+      "answer_en": "Yellow dwarf",
+      "answer_hi": "पीला वामन",
+      "explanation_en": "The Sun is classified as a 'yellow dwarf' star, a medium-sized, main-sequence star.",
+      "explanation_hi": "सूर्य को 'पीला वामन' तारा वर्गीकृत किया गया है, जो एक मध्यम आकार का, मुख्य अनुक्रम तारा है।"
+    },
+    {
+      "q_no": 68,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the term for the brightness of a star as it appears from Earth?",
+      "question_hi": "पृथ्वी से किसी तारे की चमक जैसी दिखाई देती है, उसे क्या कहा जाता है?",
+      "options_en": [
+        "Absolute magnitude",
+        "Apparent magnitude",
+        "Luminosity only",
+        "Spectral class"
+      ],
+      "options_hi": [
+        "परम कांतिमान",
+        "आभासी कांतिमान",
+        "केवल दीप्ति",
+        "वर्णक्रम वर्ग"
+      ],
+      "answer_en": "Apparent magnitude",
+      "answer_hi": "आभासी कांतिमान",
+      "explanation_en": "Apparent magnitude measures how bright a star appears from Earth, which depends on its actual brightness and distance.",
+      "explanation_hi": "आभासी कांतिमान यह मापता है कि पृथ्वी से कोई तारा कितना चमकीला दिखाई देता है, जो उसकी वास्तविक चमक और दूरी पर निर्भर करता है।"
+    },
+    {
+      "q_no": 69,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is a binary star system?",
+      "question_hi": "द्विआधारी (बाइनरी) तारा प्रणाली क्या है?",
+      "options_en": [
+        "A star with two colors",
+        "Two stars orbiting a common center of mass",
+        "A star that explodes twice",
+        "A star with two planets"
+      ],
+      "options_hi": [
+        "दो रंगों वाला तारा",
+        "एक साझा द्रव्यमान केंद्र के चारों ओर परिक्रमा करते दो तारे",
+        "दो बार विस्फोट होने वाला तारा",
+        "दो ग्रहों वाला तारा"
+      ],
+      "answer_en": "Two stars orbiting a common center of mass",
+      "answer_hi": "एक साझा द्रव्यमान केंद्र के चारों ओर परिक्रमा करते दो तारे",
+      "explanation_en": "A binary star system consists of two stars that orbit a common center of mass, bound by gravity.",
+      "explanation_hi": "द्विआधारी तारा प्रणाली में दो तारे होते हैं जो गुरुत्वाकर्षण से बंधे हुए एक साझा द्रव्यमान केंद्र के चारों ओर परिक्रमा करते हैं।"
+    },
+    {
+      "q_no": 70,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "Which type of star is much larger and hotter than the Sun and burns fuel very quickly?",
+      "question_hi": "किस प्रकार का तारा सूर्य से बहुत बड़ा और गर्म होता है और अपना ईंधन बहुत तेज़ी से जलाता है?",
+      "options_en": [
+        "Red dwarf",
+        "Blue giant/supergiant",
+        "White dwarf",
+        "Brown dwarf"
+      ],
+      "options_hi": [
+        "लाल वामन",
+        "नीला दानव/महादानव",
+        "श्वेत वामन",
+        "भूरा वामन"
+      ],
+      "answer_en": "Blue giant/supergiant",
+      "answer_hi": "नीला दानव/महादानव",
+      "explanation_en": "Blue giants and supergiants are massive, hot stars that burn through their fuel very quickly compared to smaller stars.",
+      "explanation_hi": "नीले दानव और महादानव विशाल, गर्म तारे होते हैं जो छोटे तारों की तुलना में अपना ईंधन बहुत तेज़ी से जलाते हैं।"
+    },
+    {
+      "q_no": 71,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "Which is the smallest and most common type of star in the universe?",
+      "question_hi": "ब्रह्मांड में सबसे छोटा और सबसे सामान्य प्रकार का तारा कौन-सा है?",
+      "options_en": [
+        "Blue giant",
+        "Red dwarf",
+        "Supergiant",
+        "Neutron star"
+      ],
+      "options_hi": [
+        "नीला दानव",
+        "लाल वामन",
+        "महादानव",
+        "न्यूट्रॉन तारा"
+      ],
+      "answer_en": "Red dwarf",
+      "answer_hi": "लाल वामन",
+      "explanation_en": "Red dwarfs are the smallest and most common type of star, making up the majority of stars in the universe.",
+      "explanation_hi": "लाल वामन सबसे छोटे और सबसे सामान्य प्रकार के तारे हैं, जो ब्रह्मांड के अधिकांश तारों का निर्माण करते हैं।"
+    },
+    {
+      "q_no": 72,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the collapsed core of a massive star made almost entirely of tightly packed neutrons called?",
+      "question_hi": "एक विशाल तारे के ढहे हुए केंद्र को क्या कहा जाता है जो लगभग पूरी तरह से कसकर भरे हुए न्यूट्रॉनों से बना होता है?",
+      "options_en": [
+        "White dwarf",
+        "Neutron star",
+        "Red giant",
+        "Nebula"
+      ],
+      "options_hi": [
+        "श्वेत वामन",
+        "न्यूट्रॉन तारा",
+        "लाल दानव",
+        "नीहारिका"
+      ],
+      "answer_en": "Neutron star",
+      "answer_hi": "न्यूट्रॉन तारा",
+      "explanation_en": "A neutron star is an extremely dense collapsed core made almost entirely of neutrons.",
+      "explanation_hi": "न्यूट्रॉन तारा एक अत्यंत सघन ढहा हुआ केंद्र है जो लगभग पूरी तरह से न्यूट्रॉनों से बना होता है।"
+    },
+    {
+      "q_no": 73,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "Which famous star in the Orion constellation is a red supergiant nearing the end of its life?",
+      "question_hi": "ओरायन तारामंडल में कौन-सा प्रसिद्ध तारा एक लाल महादानव है जो अपने जीवन के अंत के निकट है?",
+      "options_en": [
+        "Rigel",
+        "Betelgeuse",
+        "Sirius",
+        "Polaris"
+      ],
+      "options_hi": [
+        "रिगेल",
+        "बेटेल्ज्यूज़",
+        "सिरियस",
+        "ध्रुव तारा"
+      ],
+      "answer_en": "Betelgeuse",
+      "answer_hi": "बेटेल्ज्यूज़",
+      "explanation_en": "Betelgeuse is a red supergiant star in the Orion constellation, nearing the end of its life and expected to go supernova.",
+      "explanation_hi": "बेटेल्ज्यूज़ ओरायन तारामंडल में एक लाल महादानव तारा है, जो अपने जीवन के अंत के निकट है और इसके सुपरनोवा बनने की संभावना है।"
+    },
+    {
+      "q_no": 74,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the study of celestial objects and the universe called?",
+      "question_hi": "आकाशीय पिंडों और ब्रह्मांड के अध्ययन को क्या कहा जाता है?",
+      "options_en": [
+        "Geology",
+        "Astronomy",
+        "Meteorology",
+        "Biology"
+      ],
+      "options_hi": [
+        "भूविज्ञान",
+        "खगोल विज्ञान (एस्ट्रोनॉमी)",
+        "मौसम विज्ञान",
+        "जीव विज्ञान"
+      ],
+      "answer_en": "Astronomy",
+      "answer_hi": "खगोल विज्ञान (एस्ट्रोनॉमी)",
+      "explanation_en": "Astronomy is the scientific study of celestial objects, space, and the universe as a whole.",
+      "explanation_hi": "खगोल विज्ञान आकाशीय पिंडों, अंतरिक्ष और समस्त ब्रह्मांड का वैज्ञानिक अध्ययन है।"
+    },
+    {
+      "q_no": 75,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the term for a star's total energy output, independent of distance?",
+      "question_hi": "किसी तारे के कुल ऊर्जा उत्सर्जन को क्या कहा जाता है, जो उसकी दूरी पर निर्भर नहीं करता?",
+      "options_en": [
+        "Apparent magnitude",
+        "Luminosity",
+        "Parallax",
+        "Redshift"
+      ],
+      "options_hi": [
+        "आभासी कांतिमान",
+        "दीप्ति (ल्यूमिनोसिटी)",
+        "लंबन (पैरालैक्स)",
+        "लाल विस्थापन"
+      ],
+      "answer_en": "Luminosity",
+      "answer_hi": "दीप्ति (ल्यूमिनोसिटी)",
+      "explanation_en": "Luminosity is the total amount of energy a star emits per second, independent of its distance from an observer.",
+      "explanation_hi": "दीप्ति वह कुल ऊर्जा है जो एक तारा प्रति सेकंड उत्सर्जित करता है, जो पर्यवेक्षक से उसकी दूरी पर निर्भर नहीं करती।"
+    },
+    {
+      "q_no": 76,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What technique do astronomers use to measure the distance to nearby stars using Earth's orbit?",
+      "question_hi": "पृथ्वी की कक्षा का उपयोग करके निकटवर्ती तारों की दूरी मापने के लिए खगोलविद किस तकनीक का उपयोग करते हैं?",
+      "options_en": [
+        "Redshift",
+        "Stellar parallax",
+        "Doppler cooling",
+        "Spectral analysis only"
+      ],
+      "options_hi": [
+        "लाल विस्थापन",
+        "तारकीय लंबन (पैरालैक्स)",
+        "डॉप्लर कूलिंग",
+        "केवल वर्णक्रमीय विश्लेषण"
+      ],
+      "answer_en": "Stellar parallax",
+      "answer_hi": "तारकीय लंबन (पैरालैक्स)",
+      "explanation_en": "Stellar parallax measures the apparent shift in a star's position as Earth orbits the Sun, allowing distance calculation.",
+      "explanation_hi": "तारकीय लंबन किसी तारे की स्थिति में होने वाले आभासी बदलाव को मापता है जब पृथ्वी सूर्य की परिक्रमा करती है, जिससे दूरी की गणना की जा सकती है।"
+    },
+    {
+      "q_no": 77,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What shift in a star's light spectrum indicates it is moving away from Earth?",
+      "question_hi": "किसी तारे के प्रकाश वर्णक्रम में कौन-सा बदलाव यह दर्शाता है कि वह पृथ्वी से दूर जा रहा है?",
+      "options_en": [
+        "Blueshift",
+        "Redshift",
+        "Whiteshift",
+        "No shift"
+      ],
+      "options_hi": [
+        "नीला विस्थापन",
+        "लाल विस्थापन",
+        "श्वेत विस्थापन",
+        "कोई विस्थापन नहीं"
+      ],
+      "answer_en": "Redshift",
+      "answer_hi": "लाल विस्थापन",
+      "explanation_en": "A redshift in a star's spectrum indicates it is moving away from the observer.",
+      "explanation_hi": "किसी तारे के वर्णक्रम में लाल विस्थापन यह दर्शाता है कि वह पर्यवेक्षक से दूर जा रहा है।"
+    },
+    {
+      "q_no": 78,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "What is the name of the nearest large galaxy to the Milky Way, visible to the naked eye?",
+      "question_hi": "मिल्की वे के सबसे निकट स्थित बड़ी आकाशगंगा का नाम क्या है, जो नंगी आंखों से भी दिखाई देती है?",
+      "options_en": [
+        "Triangulum Galaxy",
+        "Andromeda Galaxy",
+        "Whirlpool Galaxy",
+        "Sombrero Galaxy"
+      ],
+      "options_hi": [
+        "ट्रायंगुलम आकाशगंगा",
+        "एंड्रोमेडा आकाशगंगा",
+        "व्हर्लपूल आकाशगंगा",
+        "सोम्ब्रेरो आकाशगंगा"
+      ],
+      "answer_en": "Andromeda Galaxy",
+      "answer_hi": "एंड्रोमेडा आकाशगंगा",
+      "explanation_en": "The Andromeda Galaxy is the nearest large galaxy to the Milky Way and is visible to the naked eye on a clear night.",
+      "explanation_hi": "एंड्रोमेडा आकाशगंगा मिल्की वे के सबसे निकट स्थित बड़ी आकाशगंगा है और एक साफ रात में नंगी आंखों से भी दिखाई देती है।"
+    },
+    {
+      "q_no": 79,
+      "category_en": "Stars",
+      "category_hi": "तारे",
+      "question_en": "In how many years is the Andromeda Galaxy expected to collide with the Milky Way?",
+      "question_hi": "एंड्रोमेडा आकाशगंगा के मिल्की वे से टकराने की संभावना कितने वर्षों में है?",
+      "options_en": [
+        "About 4 billion years",
+        "About 4 million years",
+        "About 400 years",
+        "About 40,000 years"
+      ],
+      "options_hi": [
+        "लगभग 4 अरब वर्ष",
+        "लगभग 4 करोड़ वर्ष",
+        "लगभग 400 वर्ष",
+        "लगभग 40,000 वर्ष"
+      ],
+      "answer_en": "About 4 billion years",
+      "answer_hi": "लगभग 4 अरब वर्ष",
+      "explanation_en": "Scientists predict the Andromeda Galaxy will collide with the Milky Way in about 4 billion years.",
+      "explanation_hi": "वैज्ञानिकों के अनुसार एंड्रोमेडा आकाशगंगा लगभग 4 अरब वर्षों में मिल्की वे से टकराएगी।"
+    },
+    {
+      "q_no": 80,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is a galaxy?",
+      "question_hi": "आकाशगंगा क्या होती है?",
+      "options_en": [
+        "A single star system",
+        "A huge collection of stars, gas, dust, and dark matter bound by gravity",
+        "A type of planet",
+        "A cluster of comets"
+      ],
+      "options_hi": [
+        "एक अकेली तारा प्रणाली",
+        "गुरुत्वाकर्षण से बंधे तारों, गैस, धूल और डार्क मैटर का एक विशाल संग्रह",
+        "एक प्रकार का ग्रह",
+        "धूमकेतुओं का एक गुच्छ"
+      ],
+      "answer_en": "A huge collection of stars, gas, dust, and dark matter bound by gravity",
+      "answer_hi": "गुरुत्वाकर्षण से बंधे तारों, गैस, धूल और डार्क मैटर का एक विशाल संग्रह",
+      "explanation_en": "A galaxy is a massive, gravitationally bound system of stars, stellar remnants, gas, dust, and dark matter.",
+      "explanation_hi": "आकाशगंगा तारों, तारकीय अवशेषों, गैस, धूल और डार्क मैटर की एक विशाल, गुरुत्वाकर्षण से बंधी प्रणाली है।"
+    },
+    {
+      "q_no": 81,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the name of the galaxy that contains our Solar System?",
+      "question_hi": "उस आकाशगंगा का नाम क्या है जिसमें हमारा सौर मंडल स्थित है?",
+      "options_en": [
+        "Andromeda Galaxy",
+        "Milky Way Galaxy",
+        "Whirlpool Galaxy",
+        "Triangulum Galaxy"
+      ],
+      "options_hi": [
+        "एंड्रोमेडा आकाशगंगा",
+        "मिल्की वे (आकाशगंगा)",
+        "व्हर्लपूल आकाशगंगा",
+        "ट्रायंगुलम आकाशगंगा"
+      ],
+      "answer_en": "Milky Way Galaxy",
+      "answer_hi": "मिल्की वे (आकाशगंगा)",
+      "explanation_en": "Our Solar System is located in the Milky Way Galaxy.",
+      "explanation_hi": "हमारा सौर मंडल मिल्की वे आकाशगंगा में स्थित है।"
+    },
+    {
+      "q_no": 82,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What type (shape) of galaxy is the Milky Way?",
+      "question_hi": "मिल्की वे किस प्रकार (आकार) की आकाशगंगा है?",
+      "options_en": [
+        "Elliptical",
+        "Spiral",
+        "Irregular",
+        "Lenticular"
+      ],
+      "options_hi": [
+        "दीर्घवृत्ताकार",
+        "सर्पिल (स्पाइरल)",
+        "अनियमित",
+        "लेंटिकुलर"
+      ],
+      "answer_en": "Spiral",
+      "answer_hi": "सर्पिल (स्पाइरल)",
+      "explanation_en": "The Milky Way is classified as a barred spiral galaxy.",
+      "explanation_hi": "मिल्की वे को एक बार्ड सर्पिल आकाशगंगा के रूप में वर्गीकृत किया गया है।"
+    },
+    {
+      "q_no": 83,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Approximately how many stars does the Milky Way galaxy contain?",
+      "question_hi": "मिल्की वे आकाशगंगा में लगभग कितने तारे हैं?",
+      "options_en": [
+        "1 million",
+        "100-400 billion",
+        "1 billion",
+        "10 trillion"
+      ],
+      "options_hi": [
+        "10 लाख",
+        "100-400 अरब",
+        "1 अरब",
+        "10 खरब"
+      ],
+      "answer_en": "100-400 billion",
+      "answer_hi": "100-400 अरब",
+      "explanation_en": "The Milky Way is estimated to contain between 100 and 400 billion stars.",
+      "explanation_hi": "मिल्की वे में अनुमानतः 100 से 400 अरब तारे हैं।"
+    },
+    {
+      "q_no": 84,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is at the center of the Milky Way galaxy?",
+      "question_hi": "मिल्की वे आकाशगंगा के केंद्र में क्या है?",
+      "options_en": [
+        "A large star cluster only",
+        "A supermassive black hole (Sagittarius A*)",
+        "A giant planet",
+        "Empty space"
+      ],
+      "options_hi": [
+        "केवल एक बड़ा तारा गुच्छ",
+        "एक अतिविशाल ब्लैक होल (सैजिटेरियस A*)",
+        "एक विशाल ग्रह",
+        "खाली स्थान"
+      ],
+      "answer_en": "A supermassive black hole (Sagittarius A*)",
+      "answer_hi": "एक अतिविशाल ब्लैक होल (सैजिटेरियस A*)",
+      "explanation_en": "At the center of the Milky Way lies a supermassive black hole called Sagittarius A*.",
+      "explanation_hi": "मिल्की वे के केंद्र में सैजिटेरियस A* नामक एक अतिविशाल ब्लैक होल स्थित है।"
+    },
+    {
+      "q_no": 85,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Which arm of the Milky Way is our Solar System located in?",
+      "question_hi": "हमारा सौर मंडल मिल्की वे की किस भुजा (आर्म) में स्थित है?",
+      "options_en": [
+        "Perseus Arm",
+        "Orion Arm",
+        "Sagittarius Arm",
+        "Norma Arm"
+      ],
+      "options_hi": [
+        "पर्सियस आर्म",
+        "ओरायन आर्म",
+        "सैजिटेरियस आर्म",
+        "नॉर्मा आर्म"
+      ],
+      "answer_en": "Orion Arm",
+      "answer_hi": "ओरायन आर्म",
+      "explanation_en": "Our Solar System is located in a minor spiral arm of the Milky Way called the Orion Arm.",
+      "explanation_hi": "हमारा सौर मंडल मिल्की वे की एक छोटी सर्पिल भुजा में स्थित है, जिसे ओरायन आर्म कहा जाता है।"
+    },
+    {
+      "q_no": 86,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Approximately how long does it take our Solar System to orbit the center of the Milky Way once?",
+      "question_hi": "हमारे सौर मंडल को मिल्की वे के केंद्र की एक परिक्रमा पूरी करने में लगभग कितना समय लगता है?",
+      "options_en": [
+        "1 million years",
+        "225-250 million years",
+        "1 billion years",
+        "10,000 years"
+      ],
+      "options_hi": [
+        "10 लाख वर्ष",
+        "22.5-25 करोड़ वर्ष",
+        "1 अरब वर्ष",
+        "10,000 वर्ष"
+      ],
+      "answer_en": "225-250 million years",
+      "answer_hi": "22.5-25 करोड़ वर्ष",
+      "explanation_en": "The Solar System takes about 225-250 million years to complete one orbit around the center of the Milky Way, called a galactic year.",
+      "explanation_hi": "सौर मंडल को मिल्की वे के केंद्र की एक परिक्रमा पूरी करने में लगभग 22.5-25 करोड़ वर्ष लगते हैं, जिसे गैलेक्टिक वर्ष कहा जाता है।"
+    },
+    {
+      "q_no": 87,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What are the three main shapes used to classify galaxies?",
+      "question_hi": "आकाशगंगाओं को वर्गीकृत करने के लिए उपयोग किए जाने वाले तीन मुख्य आकार कौन-से हैं?",
+      "options_en": [
+        "Spiral, Elliptical, Irregular",
+        "Round, Square, Flat",
+        "Big, Medium, Small",
+        "Old, Young, Middle-aged"
+      ],
+      "options_hi": [
+        "सर्पिल, दीर्घवृत्ताकार, अनियमित",
+        "गोल, चौकोर, चपटा",
+        "बड़ा, मध्यम, छोटा",
+        "पुराना, नया, मध्यम आयु"
+      ],
+      "answer_en": "Spiral, Elliptical, Irregular",
+      "answer_hi": "सर्पिल, दीर्घवृत्ताकार, अनियमित",
+      "explanation_en": "Galaxies are generally classified into three main shapes: spiral, elliptical, and irregular.",
+      "explanation_hi": "आकाशगंगाओं को सामान्यतः तीन मुख्य आकारों में वर्गीकृत किया जाता है: सर्पिल, दीर्घवृत्ताकार और अनियमित।"
+    },
+    {
+      "q_no": 88,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the smallest type of galaxy, often containing only a few thousand to a few billion stars?",
+      "question_hi": "आकाशगंगा का सबसे छोटा प्रकार कौन-सा है, जिसमें अक्सर केवल कुछ हजार से कुछ अरब तारे होते हैं?",
+      "options_en": [
+        "Spiral galaxy",
+        "Dwarf galaxy",
+        "Elliptical giant",
+        "Starburst galaxy"
+      ],
+      "options_hi": [
+        "सर्पिल आकाशगंगा",
+        "बौनी आकाशगंगा",
+        "दीर्घवृत्ताकार महाकाय",
+        "स्टारबर्स्ट आकाशगंगा"
+      ],
+      "answer_en": "Dwarf galaxy",
+      "answer_hi": "बौनी आकाशगंगा",
+      "explanation_en": "Dwarf galaxies are the smallest type, often containing only a few thousand to a few billion stars.",
+      "explanation_hi": "बौनी आकाशगंगाएं सबसे छोटा प्रकार हैं, जिनमें अक्सर केवल कुछ हजार से कुछ अरब तारे होते हैं।"
+    },
+    {
+      "q_no": 89,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What are the two small galaxies visible from the Southern Hemisphere that orbit the Milky Way?",
+      "question_hi": "दक्षिणी गोलार्ध से दिखाई देने वाली दो छोटी आकाशगंगाएं कौन-सी हैं जो मिल्की वे की परिक्रमा करती हैं?",
+      "options_en": [
+        "Large and Small Magellanic Clouds",
+        "Andromeda and Triangulum",
+        "Sombrero and Whirlpool",
+        "Cartwheel and Pinwheel"
+      ],
+      "options_hi": [
+        "लार्ज और स्मॉल मैगेलेनिक बादल",
+        "एंड्रोमेडा और ट्रायंगुलम",
+        "सोम्ब्रेरो और व्हर्लपूल",
+        "कार्टव्हील और पिनव्हील"
+      ],
+      "answer_en": "Large and Small Magellanic Clouds",
+      "answer_hi": "लार्ज और स्मॉल मैगेलेनिक बादल",
+      "explanation_en": "The Large and Small Magellanic Clouds are dwarf galaxies orbiting the Milky Way, visible from the Southern Hemisphere.",
+      "explanation_hi": "लार्ज और स्मॉल मैगेलेनिक बादल बौनी आकाशगंगाएं हैं जो मिल्की वे की परिक्रमा करती हैं और दक्षिणी गोलार्ध से दिखाई देती हैं।"
+    },
+    {
+      "q_no": 90,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the term for a large group of galaxies bound together by gravity?",
+      "question_hi": "गुरुत्वाकर्षण से एक साथ बंधे आकाशगंगाओं के बड़े समूह को क्या कहा जाता है?",
+      "options_en": [
+        "Galaxy cluster",
+        "Nebula field",
+        "Star system",
+        "Solar cluster"
+      ],
+      "options_hi": [
+        "आकाशगंगा गुच्छ (गैलेक्सी क्लस्टर)",
+        "नीहारिका क्षेत्र",
+        "तारा प्रणाली",
+        "सौर गुच्छ"
+      ],
+      "answer_en": "Galaxy cluster",
+      "answer_hi": "आकाशगंगा गुच्छ (गैलेक्सी क्लस्टर)",
+      "explanation_en": "A galaxy cluster is a large structure consisting of hundreds to thousands of galaxies bound together by gravity.",
+      "explanation_hi": "आकाशगंगा गुच्छ एक विशाल संरचना है जिसमें सैकड़ों से हजारों आकाशगंगाएं गुरुत्वाकर्षण से एक साथ बंधी होती हैं।"
+    },
+    {
+      "q_no": 91,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the term for the local group of galaxies that includes the Milky Way and Andromeda?",
+      "question_hi": "उन आकाशगंगाओं के स्थानीय समूह को क्या कहा जाता है जिसमें मिल्की वे और एंड्रोमेडा शामिल हैं?",
+      "options_en": [
+        "Virgo Supercluster",
+        "Local Group",
+        "Local Cluster",
+        "Milky Way System"
+      ],
+      "options_hi": [
+        "वर्गो सुपरक्लस्टर",
+        "लोकल ग्रुप",
+        "लोकल क्लस्टर",
+        "मिल्की वे सिस्टम"
+      ],
+      "answer_en": "Local Group",
+      "answer_hi": "लोकल ग्रुप",
+      "explanation_en": "The Local Group is a collection of over 80 galaxies, including the Milky Way and Andromeda, bound by gravity.",
+      "explanation_hi": "लोकल ग्रुप 80 से अधिक आकाशगंगाओं का एक संग्रह है, जिसमें मिल्की वे और एंड्रोमेडा शामिल हैं, जो गुरुत्वाकर्षण से बंधी हैं।"
+    },
+    {
+      "q_no": 92,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Which mysterious substance is believed to make up about 27% of the universe and does not emit light?",
+      "question_hi": "किस रहस्यमयी पदार्थ के बारे में माना जाता है कि यह ब्रह्मांड का लगभग 27% भाग बनाता है और प्रकाश उत्सर्जित नहीं करता?",
+      "options_en": [
+        "Dark energy",
+        "Dark matter",
+        "Antimatter",
+        "Plasma"
+      ],
+      "options_hi": [
+        "डार्क एनर्जी",
+        "डार्क मैटर",
+        "एंटीमैटर",
+        "प्लाज्मा"
+      ],
+      "answer_en": "Dark matter",
+      "answer_hi": "डार्क मैटर",
+      "explanation_en": "Dark matter is believed to make up about 27% of the universe and does not emit or absorb light, but its gravity affects galaxies.",
+      "explanation_hi": "माना जाता है कि डार्क मैटर ब्रह्मांड का लगभग 27% भाग बनाता है और प्रकाश उत्सर्जित या अवशोषित नहीं करता, लेकिन इसका गुरुत्वाकर्षण आकाशगंगाओं को प्रभावित करता है।"
+    },
+    {
+      "q_no": 93,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Which mysterious force is believed to be causing the accelerating expansion of the universe?",
+      "question_hi": "किस रहस्यमयी बल के कारण ब्रह्मांड का त्वरित विस्तार होने की संभावना मानी जाती है?",
+      "options_en": [
+        "Dark matter",
+        "Dark energy",
+        "Gravity",
+        "Magnetism"
+      ],
+      "options_hi": [
+        "डार्क मैटर",
+        "डार्क एनर्जी",
+        "गुरुत्वाकर्षण",
+        "चुंबकत्व"
+      ],
+      "answer_en": "Dark energy",
+      "answer_hi": "डार्क एनर्जी",
+      "explanation_en": "Dark energy is believed to be the mysterious force driving the accelerating expansion of the universe.",
+      "explanation_hi": "माना जाता है कि डार्क एनर्जी ब्रह्मांड के त्वरित विस्तार के पीछे का रहस्यमयी बल है।"
+    },
+    {
+      "q_no": 94,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What theory describes the origin of the universe from an extremely hot, dense point about 13.8 billion years ago?",
+      "question_hi": "लगभग 13.8 अरब वर्ष पहले एक अत्यंत गर्म, सघन बिंदु से ब्रह्मांड की उत्पत्ति का वर्णन करने वाला सिद्धांत क्या है?",
+      "options_en": [
+        "Steady State Theory",
+        "Big Bang Theory",
+        "String Theory",
+        "Nebular Theory"
+      ],
+      "options_hi": [
+        "स्टेडी स्टेट सिद्धांत",
+        "बिग बैंग सिद्धांत",
+        "स्ट्रिंग सिद्धांत",
+        "नेब्युलर सिद्धांत"
+      ],
+      "answer_en": "Big Bang Theory",
+      "answer_hi": "बिग बैंग सिद्धांत",
+      "explanation_en": "The Big Bang Theory explains that the universe originated from an extremely hot, dense point about 13.8 billion years ago and has been expanding ever since.",
+      "explanation_hi": "बिग बैंग सिद्धांत बताता है कि ब्रह्मांड की उत्पत्ति लगभग 13.8 अरब वर्ष पहले एक अत्यंत गर्म, सघन बिंदु से हुई थी और तब से यह लगातार विस्तार कर रहा है।"
+    },
+    {
+      "q_no": 95,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Approximately how old is the universe estimated to be?",
+      "question_hi": "ब्रह्मांड की अनुमानित आयु लगभग कितनी है?",
+      "options_en": [
+        "4.5 billion years",
+        "13.8 billion years",
+        "1 billion years",
+        "100 billion years"
+      ],
+      "options_hi": [
+        "4.5 अरब वर्ष",
+        "13.8 अरब वर्ष",
+        "1 अरब वर्ष",
+        "100 अरब वर्ष"
+      ],
+      "answer_en": "13.8 billion years",
+      "answer_hi": "13.8 अरब वर्ष",
+      "explanation_en": "The universe is estimated to be about 13.8 billion years old, based on current cosmological measurements.",
+      "explanation_hi": "वर्तमान ब्रह्मांडीय मापों के आधार पर ब्रह्मांड की अनुमानित आयु लगभग 13.8 अरब वर्ष है।"
+    },
+    {
+      "q_no": 96,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Approximately how old is the Solar System estimated to be?",
+      "question_hi": "सौर मंडल की अनुमानित आयु लगभग कितनी है?",
+      "options_en": [
+        "4.6 billion years",
+        "13.8 billion years",
+        "1 million years",
+        "10 billion years"
+      ],
+      "options_hi": [
+        "4.6 अरब वर्ष",
+        "13.8 अरब वर्ष",
+        "10 लाख वर्ष",
+        "10 अरब वर्ष"
+      ],
+      "answer_en": "4.6 billion years",
+      "answer_hi": "4.6 अरब वर्ष",
+      "explanation_en": "The Solar System is estimated to have formed about 4.6 billion years ago from a collapsing cloud of gas and dust.",
+      "explanation_hi": "सौर मंडल का निर्माण लगभग 4.6 अरब वर्ष पहले गैस और धूल के एक ढहते बादल से हुआ था, ऐसा अनुमान है।"
+    },
+    {
+      "q_no": 97,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the theory that explains how the Solar System formed from a rotating cloud of gas and dust?",
+      "question_hi": "उस सिद्धांत को क्या कहा जाता है जो बताता है कि सौर मंडल गैस और धूल के एक घूमते बादल से कैसे बना?",
+      "options_en": [
+        "Big Bang Theory",
+        "Nebular Hypothesis",
+        "String Theory",
+        "Steady State Theory"
+      ],
+      "options_hi": [
+        "बिग बैंग सिद्धांत",
+        "नेब्युलर परिकल्पना",
+        "स्ट्रिंग सिद्धांत",
+        "स्टेडी स्टेट सिद्धांत"
+      ],
+      "answer_en": "Nebular Hypothesis",
+      "answer_hi": "नेब्युलर परिकल्पना",
+      "explanation_en": "The Nebular Hypothesis explains that the Solar System formed from the gravitational collapse of a giant rotating cloud of gas and dust.",
+      "explanation_hi": "नेब्युलर परिकल्पना बताती है कि सौर मंडल गैस और धूल के एक विशाल घूमते बादल के गुरुत्वाकर्षण पतन से बना।"
+    },
+    {
+      "q_no": 98,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "Which spiral galaxy, visible in the constellation Canes Venatici, is known as the 'Whirlpool Galaxy'?",
+      "question_hi": "किस सर्पिल आकाशगंगा को, जो केन्स वेनेटीसी तारामंडल में दिखाई देती है, 'व्हर्लपूल आकाशगंगा' कहा जाता है?",
+      "options_en": [
+        "M51",
+        "M31",
+        "M87",
+        "M42"
+      ],
+      "options_hi": [
+        "M51",
+        "M31",
+        "M87",
+        "M42"
+      ],
+      "answer_en": "M51",
+      "answer_hi": "M51",
+      "explanation_en": "The Whirlpool Galaxy, catalogued as M51, is a well-known spiral galaxy visible in the constellation Canes Venatici.",
+      "explanation_hi": "व्हर्लपूल आकाशगंगा, जिसे M51 के रूप में सूचीबद्ध किया गया है, केन्स वेनेटीसी तारामंडल में दिखाई देने वाली एक प्रसिद्ध सर्पिल आकाशगंगा है।"
+    },
+    {
+      "q_no": 99,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the term for a galaxy that does not have a regular, defined shape?",
+      "question_hi": "उस आकाशगंगा को क्या कहा जाता है जिसका कोई नियमित, निश्चित आकार नहीं होता?",
+      "options_en": [
+        "Spiral galaxy",
+        "Elliptical galaxy",
+        "Irregular galaxy",
+        "Barred galaxy"
+      ],
+      "options_hi": [
+        "सर्पिल आकाशगंगा",
+        "दीर्घवृत्ताकार आकाशगंगा",
+        "अनियमित आकाशगंगा",
+        "बार्ड आकाशगंगा"
+      ],
+      "answer_en": "Irregular galaxy",
+      "answer_hi": "अनियमित आकाशगंगा",
+      "explanation_en": "Irregular galaxies lack a regular, defined shape and are often the result of gravitational interactions with other galaxies.",
+      "explanation_hi": "अनियमित आकाशगंगाओं का कोई नियमित, निश्चित आकार नहीं होता और वे अक्सर अन्य आकाशगंगाओं के साथ गुरुत्वाकर्षण अंतःक्रिया का परिणाम होती हैं।"
+    },
+    {
+      "q_no": 100,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the name of the galaxy famous for its sombrero-hat-like appearance?",
+      "question_hi": "किस आकाशगंगा को उसके सोम्ब्रेरो टोपी जैसे आकार के लिए प्रसिद्धि मिली है?",
+      "options_en": [
+        "Sombrero Galaxy",
+        "Cartwheel Galaxy",
+        "Pinwheel Galaxy",
+        "Cigar Galaxy"
+      ],
+      "options_hi": [
+        "सोम्ब्रेरो आकाशगंगा",
+        "कार्टव्हील आकाशगंगा",
+        "पिनव्हील आकाशगंगा",
+        "सिगार आकाशगंगा"
+      ],
+      "answer_en": "Sombrero Galaxy",
+      "answer_hi": "सोम्ब्रेरो आकाशगंगा",
+      "explanation_en": "The Sombrero Galaxy is known for its bright nucleus and large central bulge, resembling a sombrero hat.",
+      "explanation_hi": "सोम्ब्रेरो आकाशगंगा अपने चमकीले केंद्रक और बड़े केंद्रीय उभार के लिए जानी जाती है, जो एक सोम्ब्रेरो टोपी जैसा दिखता है।"
+    },
+    {
+      "q_no": 101,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What are the huge, mostly empty regions between galaxy clusters and filaments called?",
+      "question_hi": "आकाशगंगा गुच्छों और फिलामेंट्स के बीच के विशाल, लगभग खाली क्षेत्रों को क्या कहा जाता है?",
+      "options_en": [
+        "Cosmic voids",
+        "Black zones",
+        "Dead space",
+        "Star gaps"
+      ],
+      "options_hi": [
+        "ब्रह्मांडीय रिक्तियां (कॉस्मिक वॉइड्स)",
+        "ब्लैक ज़ोन",
+        "मृत अंतरिक्ष",
+        "तारा अंतराल"
+      ],
+      "answer_en": "Cosmic voids",
+      "answer_hi": "ब्रह्मांडीय रिक्तियां (कॉस्मिक वॉइड्स)",
+      "explanation_en": "Cosmic voids are vast, largely empty regions of space found between galaxy clusters and filaments in the universe's large-scale structure.",
+      "explanation_hi": "ब्रह्मांडीय रिक्तियां अंतरिक्ष के विशाल, लगभग खाली क्षेत्र हैं जो ब्रह्मांड की बड़े पैमाने की संरचना में आकाशगंगा गुच्छों और फिलामेंट्स के बीच पाए जाते हैं।"
+    },
+    {
+      "q_no": 102,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What is the term for the visible band of light stretching across the night sky, formed by the disk of our own galaxy?",
+      "question_hi": "रात्रि आकाश में फैली प्रकाश की दिखाई देने वाली पट्टी को क्या कहा जाता है, जो हमारी अपनी आकाशगंगा की डिस्क द्वारा बनती है?",
+      "options_en": [
+        "Aurora",
+        "Milky Way band",
+        "Zodiacal light",
+        "Corona"
+      ],
+      "options_hi": [
+        "अरोरा",
+        "मिल्की वे पट्टी",
+        "राशिचक्रीय प्रकाश",
+        "किरीट"
+      ],
+      "answer_en": "Milky Way band",
+      "answer_hi": "मिल्की वे पट्टी",
+      "explanation_en": "The Milky Way band is the faint, hazy band of light visible in dark night skies, formed by the combined light of countless stars in our galaxy's disk.",
+      "explanation_hi": "मिल्की वे पट्टी अंधेरे रात्रि आकाश में दिखाई देने वाली प्रकाश की धुंधली पट्टी है, जो हमारी आकाशगंगा की डिस्क में असंख्य तारों के संयुक्त प्रकाश से बनती है।"
+    },
+    {
+      "q_no": 103,
+      "category_en": "Galaxy",
+      "category_hi": "आकाशगंगा",
+      "question_en": "What kind of galaxy is elliptical in shape and generally contains older stars with little new star formation?",
+      "question_hi": "किस प्रकार की आकाशगंगा दीर्घवृत्ताकार होती है और आमतौर पर पुराने तारों से बनी होती है जिसमें नए तारों का निर्माण बहुत कम होता है?",
+      "options_en": [
+        "Spiral galaxy",
+        "Elliptical galaxy",
+        "Irregular galaxy",
+        "Dwarf spiral"
+      ],
+      "options_hi": [
+        "सर्पिल आकाशगंगा",
+        "दीर्घवृत्ताकार आकाशगंगा",
+        "अनियमित आकाशगंगा",
+        "बौनी सर्पिल"
+      ],
+      "answer_en": "Elliptical galaxy",
+      "answer_hi": "दीर्घवृत्ताकार आकाशगंगा",
+      "explanation_en": "Elliptical galaxies are rounded or oval in shape and typically contain older stars with little ongoing star formation.",
+      "explanation_hi": "दीर्घवृत्ताकार आकाशगंगाएं गोल या अंडाकार आकार की होती हैं और आमतौर पर पुराने तारों से बनी होती हैं जिनमें तारा निर्माण बहुत कम होता है।"
+    },
+    {
+      "q_no": 104,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which was the first artificial satellite launched into space?",
+      "question_hi": "अंतरिक्ष में प्रक्षेपित किया गया पहला कृत्रिम उपग्रह कौन-सा था?",
+      "options_en": [
+        "Explorer 1",
+        "Sputnik 1",
+        "Vostok 1",
+        "Voyager 1"
+      ],
+      "options_hi": [
+        "एक्सप्लोरर 1",
+        "स्पुतनिक 1",
+        "वोस्तोक 1",
+        "वॉयेजर 1"
+      ],
+      "answer_en": "Sputnik 1",
+      "answer_hi": "स्पुतनिक 1",
+      "explanation_en": "Sputnik 1, launched by the Soviet Union in 1957, was the first artificial satellite in space.",
+      "explanation_hi": "स्पुतनिक 1, जिसे 1957 में सोवियत संघ द्वारा प्रक्षेपित किया गया, अंतरिक्ष में पहला कृत्रिम उपग्रह था।"
+    },
+    {
+      "q_no": 105,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Who was the first human to travel into space?",
+      "question_hi": "अंतरिक्ष में यात्रा करने वाले पहले मानव कौन थे?",
+      "options_en": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "John Glenn"
+      ],
+      "options_hi": [
+        "नील आर्मस्ट्रांग",
+        "यूरी गागरिन",
+        "बज़ एल्ड्रिन",
+        "जॉन ग्लेन"
+      ],
+      "answer_en": "Yuri Gagarin",
+      "answer_hi": "यूरी गागरिन",
+      "explanation_en": "Yuri Gagarin, a Soviet cosmonaut, became the first human to travel into space in 1961.",
+      "explanation_hi": "यूरी गागरिन, एक सोवियत अंतरिक्ष यात्री, 1961 में अंतरिक्ष में यात्रा करने वाले पहले मानव बने।"
+    },
+    {
+      "q_no": 106,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Who was the first person to walk on the Moon?",
+      "question_hi": "चंद्रमा पर चलने वाले पहले व्यक्ति कौन थे?",
+      "options_en": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "options_hi": [
+        "बज़ एल्ड्रिन",
+        "नील आर्मस्ट्रांग",
+        "यूरी गागरिन",
+        "माइकल कॉलिन्स"
+      ],
+      "answer_en": "Neil Armstrong",
+      "answer_hi": "नील आर्मस्ट्रांग",
+      "explanation_en": "Neil Armstrong became the first person to walk on the Moon during the Apollo 11 mission in 1969.",
+      "explanation_hi": "नील आर्मस्ट्रांग 1969 में अपोलो 11 मिशन के दौरान चंद्रमा पर चलने वाले पहले व्यक्ति बने।"
+    },
+    {
+      "q_no": 107,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which NASA mission first landed humans on the Moon in 1969?",
+      "question_hi": "1969 में मानवों को पहली बार चंद्रमा पर उतारने वाला NASA का मिशन कौन-सा था?",
+      "options_en": [
+        "Apollo 11",
+        "Apollo 13",
+        "Gemini 8",
+        "Mercury 7"
+      ],
+      "options_hi": [
+        "अपोलो 11",
+        "अपोलो 13",
+        "जेमिनी 8",
+        "मर्करी 7"
+      ],
+      "answer_en": "Apollo 11",
+      "answer_hi": "अपोलो 11",
+      "explanation_en": "Apollo 11 was the NASA mission that first landed humans on the Moon in July 1969.",
+      "explanation_hi": "अपोलो 11 वह NASA मिशन था जिसने जुलाई 1969 में पहली बार मानवों को चंद्रमा पर उतारा।"
+    },
+    {
+      "q_no": 108,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Who was the first woman to travel into space?",
+      "question_hi": "अंतरिक्ष में यात्रा करने वाली पहली महिला कौन थीं?",
+      "options_en": [
+        "Sally Ride",
+        "Valentina Tereshkova",
+        "Kalpana Chawla",
+        "Mae Jemison"
+      ],
+      "options_hi": [
+        "सैली राइड",
+        "वेलेंटीना तेरेश्कोवा",
+        "कल्पना चावला",
+        "मे जेमीसन"
+      ],
+      "answer_en": "Valentina Tereshkova",
+      "answer_hi": "वेलेंटीना तेरेश्कोवा",
+      "explanation_en": "Valentina Tereshkova, a Soviet cosmonaut, became the first woman in space in 1963.",
+      "explanation_hi": "वेलेंटीना तेरेश्कोवा, एक सोवियत अंतरिक्ष यात्री, 1963 में अंतरिक्ष में जाने वाली पहली महिला बनीं।"
+    },
+    {
+      "q_no": 109,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Who was the first Indian-origin woman to travel into space?",
+      "question_hi": "अंतरिक्ष में यात्रा करने वाली भारतीय मूल की पहली महिला कौन थीं?",
+      "options_en": [
+        "Sunita Williams",
+        "Kalpana Chawla",
+        "Rakesh Sharma's colleague",
+        "Valentina Tereshkova"
+      ],
+      "options_hi": [
+        "सुनीता विलियम्स",
+        "कल्पना चावला",
+        "राकेश शर्मा की सहयोगी",
+        "वेलेंटीना तेरेश्कोवा"
+      ],
+      "answer_en": "Kalpana Chawla",
+      "answer_hi": "कल्पना चावला",
+      "explanation_en": "Kalpana Chawla was the first Indian-origin woman to travel into space, flying with NASA in 1997.",
+      "explanation_hi": "कल्पना चावला अंतरिक्ष में यात्रा करने वाली भारतीय मूल की पहली महिला थीं, जिन्होंने 1997 में NASA के साथ उड़ान भरी।"
+    },
+    {
+      "q_no": 110,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Who was the first Indian citizen to travel into space?",
+      "question_hi": "अंतरिक्ष में यात्रा करने वाले पहले भारतीय नागरिक कौन थे?",
+      "options_en": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Vikram Sarabhai"
+      ],
+      "options_hi": [
+        "कल्पना चावला",
+        "राकेश शर्मा",
+        "सुनीता विलियम्स",
+        "विक्रम साराभाई"
+      ],
+      "answer_en": "Rakesh Sharma",
+      "answer_hi": "राकेश शर्मा",
+      "explanation_en": "Rakesh Sharma became the first Indian citizen to travel into space in 1984, aboard a Soviet spacecraft.",
+      "explanation_hi": "राकेश शर्मा 1984 में एक सोवियत अंतरिक्ष यान से अंतरिक्ष में यात्रा करने वाले पहले भारतीय नागरिक बने।"
+    },
+    {
+      "q_no": 111,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What does ISRO stand for?",
+      "question_hi": "ISRO का पूर्ण रूप क्या है?",
+      "options_en": [
+        "Indian Space Research Organisation",
+        "International Space Research Office",
+        "Indian Satellite Research Organisation",
+        "Indian Space and Rocket Organisation"
+      ],
+      "options_hi": [
+        "Indian Space Research Organisation",
+        "International Space Research Office",
+        "Indian Satellite Research Organisation",
+        "Indian Space and Rocket Organisation"
+      ],
+      "answer_en": "Indian Space Research Organisation",
+      "answer_hi": "Indian Space Research Organisation",
+      "explanation_en": "ISRO stands for Indian Space Research Organisation, India's national space agency.",
+      "explanation_hi": "ISRO का पूर्ण रूप Indian Space Research Organisation है, जो भारत की राष्ट्रीय अंतरिक्ष एजेंसी है।"
+    },
+    {
+      "q_no": 112,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Who is widely regarded as the father of the Indian space programme?",
+      "question_hi": "भारतीय अंतरिक्ष कार्यक्रम के जनक के रूप में किसे व्यापक रूप से माना जाता है?",
+      "options_en": [
+        "A. P. J. Abdul Kalam",
+        "Vikram Sarabhai",
+        "Homi J. Bhabha",
+        "Satish Dhawan"
+      ],
+      "options_hi": [
+        "ए. पी. जे. अब्दुल कलाम",
+        "विक्रम साराभाई",
+        "होमी जे. भाभा",
+        "सतीश धवन"
+      ],
+      "answer_en": "Vikram Sarabhai",
+      "answer_hi": "विक्रम साराभाई",
+      "explanation_en": "Dr. Vikram Sarabhai is widely regarded as the father of the Indian space programme.",
+      "explanation_hi": "डॉ. विक्रम साराभाई को भारतीय अंतरिक्ष कार्यक्रम के जनक के रूप में व्यापक रूप से माना जाता है।"
+    },
+    {
+      "q_no": 113,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of India's first satellite, launched in 1975?",
+      "question_hi": "1975 में प्रक्षेपित भारत के पहले उपग्रह का नाम क्या था?",
+      "options_en": [
+        "Rohini",
+        "Aryabhata",
+        "Bhaskara",
+        "INSAT-1"
+      ],
+      "options_hi": [
+        "रोहिणी",
+        "आर्यभट्ट",
+        "भास्कर",
+        "इनसैट-1"
+      ],
+      "answer_en": "Aryabhata",
+      "answer_hi": "आर्यभट्ट",
+      "explanation_en": "Aryabhata was India's first satellite, launched with Soviet assistance in 1975.",
+      "explanation_hi": "आर्यभट्ट भारत का पहला उपग्रह था, जिसे 1975 में सोवियत सहायता से प्रक्षेपित किया गया था।"
+    },
+    {
+      "q_no": 114,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of India's first mission to the Moon, launched in 2008?",
+      "question_hi": "2008 में प्रक्षेपित भारत के पहले चंद्रमा मिशन का नाम क्या था?",
+      "options_en": [
+        "Chandrayaan-1",
+        "Chandrayaan-2",
+        "Mangalyaan",
+        "Gaganyaan"
+      ],
+      "options_hi": [
+        "चंद्रयान-1",
+        "चंद्रयान-2",
+        "मंगलयान",
+        "गगनयान"
+      ],
+      "answer_en": "Chandrayaan-1",
+      "answer_hi": "चंद्रयान-1",
+      "explanation_en": "Chandrayaan-1, launched in 2008, was India's first lunar mission and helped confirm the presence of water molecules on the Moon.",
+      "explanation_hi": "चंद्रयान-1, जिसे 2008 में प्रक्षेपित किया गया, भारत का पहला चंद्र मिशन था और इसने चंद्रमा पर जल अणुओं की उपस्थिति की पुष्टि करने में मदद की।"
+    },
+    {
+      "q_no": 115,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which Indian mission successfully landed near the Moon's south pole in 2023?",
+      "question_hi": "किस भारतीय मिशन ने 2023 में चंद्रमा के दक्षिणी ध्रुव के पास सफलतापूर्वक लैंडिंग की?",
+      "options_en": [
+        "Chandrayaan-1",
+        "Chandrayaan-2",
+        "Chandrayaan-3",
+        "Mangalyaan"
+      ],
+      "options_hi": [
+        "चंद्रयान-1",
+        "चंद्रयान-2",
+        "चंद्रयान-3",
+        "मंगलयान"
+      ],
+      "answer_en": "Chandrayaan-3",
+      "answer_hi": "चंद्रयान-3",
+      "explanation_en": "Chandrayaan-3 successfully landed near the Moon's south pole in August 2023, making India the first country to do so.",
+      "explanation_hi": "चंद्रयान-3 ने अगस्त 2023 में चंद्रमा के दक्षिणी ध्रुव के पास सफलतापूर्वक लैंडिंग की, जिससे भारत ऐसा करने वाला पहला देश बन गया।"
+    },
+    {
+      "q_no": 116,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of the lander module of Chandrayaan-3?",
+      "question_hi": "चंद्रयान-3 के लैंडर मॉड्यूल का नाम क्या था?",
+      "options_en": [
+        "Pragyan",
+        "Vikram",
+        "Rohini",
+        "Aryabhata"
+      ],
+      "options_hi": [
+        "प्रज्ञान",
+        "विक्रम",
+        "रोहिणी",
+        "आर्यभट्ट"
+      ],
+      "answer_en": "Vikram",
+      "answer_hi": "विक्रम",
+      "explanation_en": "The lander module of Chandrayaan-3 was named Vikram, in honour of Dr. Vikram Sarabhai.",
+      "explanation_hi": "चंद्रयान-3 के लैंडर मॉड्यूल का नाम डॉ. विक्रम साराभाई के सम्मान में विक्रम रखा गया था।"
+    },
+    {
+      "q_no": 117,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of the rover carried by Chandrayaan-3?",
+      "question_hi": "चंद्रयान-3 द्वारा ले जाए गए रोवर का नाम क्या था?",
+      "options_en": [
+        "Vikram",
+        "Pragyan",
+        "Rohini",
+        "Sojourner"
+      ],
+      "options_hi": [
+        "विक्रम",
+        "प्रज्ञान",
+        "रोहिणी",
+        "सोजॉर्नर"
+      ],
+      "answer_en": "Pragyan",
+      "answer_hi": "प्रज्ञान",
+      "explanation_en": "The rover carried by Chandrayaan-3 was named Pragyan, meaning wisdom in Sanskrit.",
+      "explanation_hi": "चंद्रयान-3 द्वारा ले जाए गए रोवर का नाम प्रज्ञान रखा गया, जिसका संस्कृत में अर्थ 'ज्ञान' है।"
+    },
+    {
+      "q_no": 118,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was India's first interplanetary mission, which reached Mars orbit in 2014?",
+      "question_hi": "भारत का पहला अंतरग्रहीय मिशन कौन-सा था, जो 2014 में मंगल की कक्षा में पहुंचा?",
+      "options_en": [
+        "Chandrayaan-1",
+        "Mangalyaan (Mars Orbiter Mission)",
+        "Aditya-L1",
+        "Gaganyaan"
+      ],
+      "options_hi": [
+        "चंद्रयान-1",
+        "मंगलयान (मार्स ऑर्बिटर मिशन)",
+        "आदित्य-L1",
+        "गगनयान"
+      ],
+      "answer_en": "Mangalyaan (Mars Orbiter Mission)",
+      "answer_hi": "मंगलयान (मार्स ऑर्बिटर मिशन)",
+      "explanation_en": "Mangalyaan, also known as the Mars Orbiter Mission, made India the first country to reach Mars orbit in its first attempt.",
+      "explanation_hi": "मंगलयान, जिसे मार्स ऑर्बिटर मिशन भी कहा जाता है, ने भारत को अपने पहले ही प्रयास में मंगल की कक्षा तक पहुंचने वाला पहला देश बना दिया।"
+    },
+    {
+      "q_no": 119,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of India's first dedicated mission to study the Sun?",
+      "question_hi": "सूर्य का अध्ययन करने के लिए भारत के पहले समर्पित मिशन का नाम क्या है?",
+      "options_en": [
+        "Chandrayaan-3",
+        "Aditya-L1",
+        "Mangalyaan",
+        "Gaganyaan"
+      ],
+      "options_hi": [
+        "चंद्रयान-3",
+        "आदित्य-L1",
+        "मंगलयान",
+        "गगनयान"
+      ],
+      "answer_en": "Aditya-L1",
+      "answer_hi": "आदित्य-L1",
+      "explanation_en": "Aditya-L1 is India's first dedicated mission to study the Sun, launched by ISRO in 2023.",
+      "explanation_hi": "आदित्य-L1 सूर्य का अध्ययन करने के लिए भारत का पहला समर्पित मिशन है, जिसे ISRO ने 2023 में प्रक्षेपित किया।"
+    },
+    {
+      "q_no": 120,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of India's planned first crewed spaceflight mission?",
+      "question_hi": "भारत के प्रस्तावित पहले मानव अंतरिक्ष उड़ान मिशन का नाम क्या है?",
+      "options_en": [
+        "Gaganyaan",
+        "Chandrayaan",
+        "Mangalyaan",
+        "Aditya"
+      ],
+      "options_hi": [
+        "गगनयान",
+        "चंद्रयान",
+        "मंगलयान",
+        "आदित्य"
+      ],
+      "answer_en": "Gaganyaan",
+      "answer_hi": "गगनयान",
+      "explanation_en": "Gaganyaan is ISRO's planned mission to send Indian astronauts into space using an Indian launch vehicle.",
+      "explanation_hi": "गगनयान ISRO का एक प्रस्तावित मिशन है जिसमें भारतीय अंतरिक्ष यात्रियों को एक भारतीय प्रक्षेपण यान का उपयोग करके अंतरिक्ष में भेजा जाएगा।"
+    },
+    {
+      "q_no": 121,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name given to Indian astronauts in the Gaganyaan programme?",
+      "question_hi": "गगनयान कार्यक्रम में भारतीय अंतरिक्ष यात्रियों को क्या नाम दिया गया है?",
+      "options_en": [
+        "Cosmonauts",
+        "Vyomanauts",
+        "Taikonauts",
+        "Astronauts only"
+      ],
+      "options_hi": [
+        "कॉस्मोनॉट्स",
+        "व्योमनॉट्स",
+        "टाइकोनॉट्स",
+        "केवल एस्ट्रोनॉट्स"
+      ],
+      "answer_en": "Vyomanauts",
+      "answer_hi": "व्योमनॉट्स",
+      "explanation_en": "Indian astronauts for the Gaganyaan mission are referred to as 'Vyomanauts', from the Sanskrit word 'vyom' meaning sky/space.",
+      "explanation_hi": "गगनयान मिशन के भारतीय अंतरिक्ष यात्रियों को 'व्योमनॉट्स' कहा जाता है, जो संस्कृत शब्द 'व्योम' से लिया गया है जिसका अर्थ आकाश/अंतरिक्ष है।"
+    },
+    {
+      "q_no": 122,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which US space agency led the Apollo Moon landing programme?",
+      "question_hi": "किस अमेरिकी अंतरिक्ष एजेंसी ने अपोलो चंद्र लैंडिंग कार्यक्रम का नेतृत्व किया?",
+      "options_en": [
+        "ESA",
+        "NASA",
+        "ISRO",
+        "Roscosmos"
+      ],
+      "options_hi": [
+        "ESA",
+        "NASA",
+        "ISRO",
+        "रोसकॉसमॉस"
+      ],
+      "answer_en": "NASA",
+      "answer_hi": "NASA",
+      "explanation_en": "NASA (National Aeronautics and Space Administration) led the Apollo Moon landing programme.",
+      "explanation_hi": "NASA (नेशनल एरोनॉटिक्स एंड स्पेस एडमिनिस्ट्रेशन) ने अपोलो चंद्र लैंडिंग कार्यक्रम का नेतृत्व किया।"
+    },
+    {
+      "q_no": 123,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of Russia's space agency?",
+      "question_hi": "रूस की अंतरिक्ष एजेंसी का नाम क्या है?",
+      "options_en": [
+        "NASA",
+        "Roscosmos",
+        "ESA",
+        "JAXA"
+      ],
+      "options_hi": [
+        "NASA",
+        "रोसकॉसमॉस",
+        "ESA",
+        "जाक्सा (JAXA)"
+      ],
+      "answer_en": "Roscosmos",
+      "answer_hi": "रोसकॉसमॉस",
+      "explanation_en": "Roscosmos is the state space corporation responsible for Russia's space programme.",
+      "explanation_hi": "रोसकॉसमॉस रूस के अंतरिक्ष कार्यक्रम के लिए जिम्मेदार राज्य अंतरिक्ष निगम है।"
+    },
+    {
+      "q_no": 124,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What does ESA stand for?",
+      "question_hi": "ESA का पूर्ण रूप क्या है?",
+      "options_en": [
+        "European Space Agency",
+        "Eastern Space Alliance",
+        "European Satellite Association",
+        "Earth Space Agency"
+      ],
+      "options_hi": [
+        "European Space Agency",
+        "Eastern Space Alliance",
+        "European Satellite Association",
+        "Earth Space Agency"
+      ],
+      "answer_en": "European Space Agency",
+      "answer_hi": "European Space Agency",
+      "explanation_en": "ESA stands for the European Space Agency, an intergovernmental organisation for space exploration.",
+      "explanation_hi": "ESA का पूर्ण रूप European Space Agency है, जो अंतरिक्ष अन्वेषण के लिए एक अंतर-सरकारी संगठन है।"
+    },
+    {
+      "q_no": 125,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of Japan's space agency?",
+      "question_hi": "जापान की अंतरिक्ष एजेंसी का नाम क्या है?",
+      "options_en": [
+        "JAXA",
+        "CNSA",
+        "ESA",
+        "ISRO"
+      ],
+      "options_hi": [
+        "जाक्सा (JAXA)",
+        "सीएनएसए (CNSA)",
+        "ईएसए (ESA)",
+        "इसरो (ISRO)"
+      ],
+      "answer_en": "JAXA",
+      "answer_hi": "जाक्सा (JAXA)",
+      "explanation_en": "JAXA (Japan Aerospace Exploration Agency) is Japan's national space agency.",
+      "explanation_hi": "जाक्सा (जापान एयरोस्पेस एक्सप्लोरेशन एजेंसी) जापान की राष्ट्रीय अंतरिक्ष एजेंसी है।"
+    },
+    {
+      "q_no": 126,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of the space station currently orbiting Earth, jointly operated by multiple countries?",
+      "question_hi": "पृथ्वी की परिक्रमा कर रहे उस अंतरिक्ष स्टेशन का नाम क्या है, जिसे कई देश मिलकर संचालित करते हैं?",
+      "options_en": [
+        "Mir",
+        "International Space Station (ISS)",
+        "Skylab",
+        "Tiangong"
+      ],
+      "options_hi": [
+        "मीर",
+        "अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS)",
+        "स्काईलैब",
+        "तियांगोंग"
+      ],
+      "answer_en": "International Space Station (ISS)",
+      "answer_hi": "अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS)",
+      "explanation_en": "The International Space Station (ISS) is a habitable space station jointly operated by NASA, Roscosmos, ESA, JAXA, and CSA.",
+      "explanation_hi": "अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) एक निवास योग्य अंतरिक्ष स्टेशन है जिसे NASA, रोसकॉसमॉस, ESA, जाक्सा और CSA मिलकर संचालित करते हैं।"
+    },
+    {
+      "q_no": 127,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of China's space station?",
+      "question_hi": "चीन के अंतरिक्ष स्टेशन का नाम क्या है?",
+      "options_en": [
+        "Mir",
+        "Tiangong",
+        "Skylab",
+        "ISS"
+      ],
+      "options_hi": [
+        "मीर",
+        "तियांगोंग",
+        "स्काईलैब",
+        "ISS"
+      ],
+      "answer_en": "Tiangong",
+      "answer_hi": "तियांगोंग",
+      "explanation_en": "Tiangong is China's modular space station, meaning 'Heavenly Palace' in Chinese.",
+      "explanation_hi": "तियांगोंग चीन का एक मॉड्यूलर अंतरिक्ष स्टेशन है, जिसका चीनी भाषा में अर्थ 'स्वर्गीय महल' है।"
+    },
+    {
+      "q_no": 128,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which private company, founded by Elon Musk, is known for its Falcon and Starship rockets?",
+      "question_hi": "एलन मस्क द्वारा स्थापित कौन-सी निजी कंपनी अपने फाल्कन और स्टारशिप रॉकेट के लिए जानी जाती है?",
+      "options_en": [
+        "Blue Origin",
+        "SpaceX",
+        "Virgin Galactic",
+        "Boeing"
+      ],
+      "options_hi": [
+        "ब्लू ओरिजिन",
+        "स्पेसएक्स",
+        "वर्जिन गैलेक्टिक",
+        "बोइंग"
+      ],
+      "answer_en": "SpaceX",
+      "answer_hi": "स्पेसएक्स",
+      "explanation_en": "SpaceX, founded by Elon Musk, is known for its Falcon rockets and the Starship spacecraft, and pioneered reusable rocket technology.",
+      "explanation_hi": "स्पेसएक्स, जिसकी स्थापना एलन मस्क ने की, अपने फाल्कन रॉकेट और स्टारशिप अंतरिक्ष यान के लिए जानी जाती है, और इसने पुनः प्रयोज्य रॉकेट तकनीक की शुरुआत की।"
+    },
+    {
+      "q_no": 129,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of the first reusable space shuttle programme operated by NASA?",
+      "question_hi": "NASA द्वारा संचालित पहले पुनः प्रयोज्य अंतरिक्ष शटल कार्यक्रम का नाम क्या था?",
+      "options_en": [
+        "Apollo Programme",
+        "Space Shuttle Programme",
+        "Gemini Programme",
+        "Mercury Programme"
+      ],
+      "options_hi": [
+        "अपोलो कार्यक्रम",
+        "स्पेस शटल कार्यक्रम",
+        "जेमिनी कार्यक्रम",
+        "मर्करी कार्यक्रम"
+      ],
+      "answer_en": "Space Shuttle Programme",
+      "answer_hi": "स्पेस शटल कार्यक्रम",
+      "explanation_en": "NASA's Space Shuttle Programme, which ran from 1981 to 2011, was the first reusable spacecraft system.",
+      "explanation_hi": "NASA का स्पेस शटल कार्यक्रम, जो 1981 से 2011 तक चला, पहला पुनः प्रयोज्य अंतरिक्ष यान प्रणाली था।"
+    },
+    {
+      "q_no": 130,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which space telescope, launched in 1990, has provided some of the most detailed images of deep space?",
+      "question_hi": "1990 में प्रक्षेपित किस अंतरिक्ष दूरबीन ने गहरे अंतरिक्ष की कुछ सबसे विस्तृत छवियां प्रदान की हैं?",
+      "options_en": [
+        "James Webb Space Telescope",
+        "Hubble Space Telescope",
+        "Kepler Space Telescope",
+        "Spitzer Space Telescope"
+      ],
+      "options_hi": [
+        "जेम्स वेब स्पेस टेलीस्कोप",
+        "हबल स्पेस टेलीस्कोप",
+        "केप्लर स्पेस टेलीस्कोप",
+        "स्पिट्जर स्पेस टेलीस्कोप"
+      ],
+      "answer_en": "Hubble Space Telescope",
+      "answer_hi": "हबल स्पेस टेलीस्कोप",
+      "explanation_en": "The Hubble Space Telescope, launched in 1990, has provided detailed images of deep space for over three decades.",
+      "explanation_hi": "हबल स्पेस टेलीस्कोप, जिसे 1990 में प्रक्षेपित किया गया, तीन दशकों से अधिक समय से गहरे अंतरिक्ष की विस्तृत छवियां प्रदान कर रहा है।"
+    },
+    {
+      "q_no": 131,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which space telescope, launched in 2021, is designed to observe the universe primarily in infrared light?",
+      "question_hi": "2021 में प्रक्षेपित किस अंतरिक्ष दूरबीन को मुख्य रूप से इन्फ्रारेड प्रकाश में ब्रह्मांड का अवलोकन करने के लिए डिज़ाइन किया गया है?",
+      "options_en": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Kepler Space Telescope",
+        "Chandra X-ray Observatory"
+      ],
+      "options_hi": [
+        "हबल स्पेस टेलीस्कोप",
+        "जेम्स वेब स्पेस टेलीस्कोप",
+        "केप्लर स्पेस टेलीस्कोप",
+        "चंद्रा एक्स-रे वेधशाला"
+      ],
+      "answer_en": "James Webb Space Telescope",
+      "answer_hi": "जेम्स वेब स्पेस टेलीस्कोप",
+      "explanation_en": "The James Webb Space Telescope, launched in 2021, observes the universe mainly in infrared light and is the successor to Hubble.",
+      "explanation_hi": "जेम्स वेब स्पेस टेलीस्कोप, जिसे 2021 में प्रक्षेपित किया गया, मुख्य रूप से इन्फ्रारेड प्रकाश में ब्रह्मांड का अवलोकन करता है और यह हबल का उत्तराधिकारी है।"
+    },
+    {
+      "q_no": 132,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which space probe was the first human-made object to leave the Solar System into interstellar space?",
+      "question_hi": "कौन-सा अंतरिक्ष यान सौर मंडल से निकलकर तारे के बीच के अंतरिक्ष (इंटरस्टेलर स्पेस) में जाने वाला पहला मानव-निर्मित वस्तु था?",
+      "options_en": [
+        "Voyager 1",
+        "Pioneer 10",
+        "New Horizons",
+        "Cassini"
+      ],
+      "options_hi": [
+        "वॉयेजर 1",
+        "पायनियर 10",
+        "न्यू होराइजन्स",
+        "कैसिनी"
+      ],
+      "answer_en": "Voyager 1",
+      "answer_hi": "वॉयेजर 1",
+      "explanation_en": "Voyager 1, launched in 1977, became the first human-made object to enter interstellar space in 2012.",
+      "explanation_hi": "वॉयेजर 1, जिसे 1977 में प्रक्षेपित किया गया, 2012 में तारे के बीच के अंतरिक्ष में प्रवेश करने वाला पहला मानव-निर्मित वस्तु बना।"
+    },
+    {
+      "q_no": 133,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which rover is currently exploring Mars and searching for signs of ancient microbial life (launched by NASA in 2020)?",
+      "question_hi": "कौन-सा रोवर वर्तमान में मंगल की खोज कर रहा है और प्राचीन सूक्ष्मजीवी जीवन के संकेतों की खोज कर रहा है (जिसे NASA ने 2020 में प्रक्षेपित किया)?",
+      "options_en": [
+        "Curiosity",
+        "Perseverance",
+        "Opportunity",
+        "Spirit"
+      ],
+      "options_hi": [
+        "क्यूरियोसिटी",
+        "पर्सिवेरेंस",
+        "अपॉर्चुनिटी",
+        "स्पिरिट"
+      ],
+      "answer_en": "Perseverance",
+      "answer_hi": "पर्सिवेरेंस",
+      "explanation_en": "NASA's Perseverance rover, which landed on Mars in 2021, is searching for signs of ancient microbial life.",
+      "explanation_hi": "NASA का पर्सिवेरेंस रोवर, जो 2021 में मंगल पर उतरा, प्राचीन सूक्ष्मजीवी जीवन के संकेतों की खोज कर रहा है।"
+    },
+    {
+      "q_no": 134,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of the small helicopter that flew on Mars alongside the Perseverance rover?",
+      "question_hi": "पर्सिवेरेंस रोवर के साथ मंगल पर उड़ान भरने वाले छोटे हेलीकॉप्टर का नाम क्या है?",
+      "options_en": [
+        "Ingenuity",
+        "Curiosity",
+        "Opportunity",
+        "Explorer"
+      ],
+      "options_hi": [
+        "इनजेनुइटी",
+        "क्यूरियोसिटी",
+        "अपॉर्चुनिटी",
+        "एक्सप्लोरर"
+      ],
+      "answer_en": "Ingenuity",
+      "answer_hi": "इनजेनुइटी",
+      "explanation_en": "Ingenuity was the small robotic helicopter that made the first powered flight on another planet, Mars, in 2021.",
+      "explanation_hi": "इनजेनुइटी वह छोटा रोबोटिक हेलीकॉप्टर था जिसने 2021 में मंगल ग्रह पर पहली संचालित उड़ान भरी।"
+    },
+    {
+      "q_no": 135,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of the mission that sent the first probe to fly by Pluto in 2015?",
+      "question_hi": "उस मिशन का नाम क्या था जिसने 2015 में प्लूटो के पास से उड़ान भरने वाला पहला अंतरिक्ष यान भेजा?",
+      "options_en": [
+        "Voyager 2",
+        "New Horizons",
+        "Cassini",
+        "Juno"
+      ],
+      "options_hi": [
+        "वॉयेजर 2",
+        "न्यू होराइजन्स",
+        "कैसिनी",
+        "जूनो"
+      ],
+      "answer_en": "New Horizons",
+      "answer_hi": "न्यू होराइजन्स",
+      "explanation_en": "NASA's New Horizons probe made the first close flyby of Pluto in 2015.",
+      "explanation_hi": "NASA का न्यू होराइजन्स अंतरिक्ष यान 2015 में प्लूटो के पहले नज़दीकी फ्लाईबाई पर गया।"
+    },
+    {
+      "q_no": 136,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which spacecraft studied Saturn and its moons in detail for over a decade before its mission ended in 2017?",
+      "question_hi": "किस अंतरिक्ष यान ने 2017 में अपना मिशन समाप्त होने से पहले एक दशक से अधिक समय तक शनि और उसके चंद्रमाओं का विस्तार से अध्ययन किया?",
+      "options_en": [
+        "Galileo",
+        "Cassini",
+        "Juno",
+        "Voyager 1"
+      ],
+      "options_hi": [
+        "गैलीलियो",
+        "कैसिनी",
+        "जूनो",
+        "वॉयेजर 1"
+      ],
+      "answer_en": "Cassini",
+      "answer_hi": "कैसिनी",
+      "explanation_en": "The Cassini spacecraft studied Saturn and its moons for over a decade before ending its mission in 2017.",
+      "explanation_hi": "कैसिनी अंतरिक्ष यान ने 2017 में अपना मिशन समाप्त होने से पहले एक दशक से अधिक समय तक शनि और उसके चंद्रमाओं का अध्ययन किया।"
+    },
+    {
+      "q_no": 137,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which NASA spacecraft is studying Jupiter's atmosphere and magnetic field, having arrived in 2016?",
+      "question_hi": "कौन-सा NASA अंतरिक्ष यान बृहस्पति के वायुमंडल और चुंबकीय क्षेत्र का अध्ययन कर रहा है, जो 2016 में वहां पहुंचा?",
+      "options_en": [
+        "Cassini",
+        "Juno",
+        "Galileo",
+        "New Horizons"
+      ],
+      "options_hi": [
+        "कैसिनी",
+        "जूनो",
+        "गैलीलियो",
+        "न्यू होराइजन्स"
+      ],
+      "answer_en": "Juno",
+      "answer_hi": "जूनो",
+      "explanation_en": "NASA's Juno spacecraft has been studying Jupiter's atmosphere and magnetic field since arriving in 2016.",
+      "explanation_hi": "NASA का जूनो अंतरिक्ष यान 2016 में पहुंचने के बाद से बृहस्पति के वायुमंडल और चुंबकीय क्षेत्र का अध्ययन कर रहा है।"
+    },
+    {
+      "q_no": 138,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What term describes a planet outside our own Solar System that orbits another star?",
+      "question_hi": "उस ग्रह को क्या कहा जाता है जो हमारे सौर मंडल के बाहर किसी अन्य तारे की परिक्रमा करता है?",
+      "options_en": [
+        "Dwarf planet",
+        "Exoplanet",
+        "Rogue planet",
+        "Protoplanet"
+      ],
+      "options_hi": [
+        "बौना ग्रह",
+        "बाह्यग्रह (एक्सोप्लैनेट)",
+        "आवारा ग्रह",
+        "प्रोटोप्लैनेट"
+      ],
+      "answer_en": "Exoplanet",
+      "answer_hi": "बाह्यग्रह (एक्सोप्लैनेट)",
+      "explanation_en": "An exoplanet is a planet located outside our Solar System that orbits a star other than the Sun.",
+      "explanation_hi": "बाह्यग्रह (एक्सोप्लैनेट) एक ऐसा ग्रह है जो हमारे सौर मंडल के बाहर स्थित है और सूर्य के अलावा किसी अन्य तारे की परिक्रमा करता है।"
+    },
+    {
+      "q_no": 139,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the term for the region around a star where conditions might allow liquid water to exist on a planet's surface?",
+      "question_hi": "किसी तारे के चारों ओर उस क्षेत्र को क्या कहा जाता है जहां की परिस्थितियां किसी ग्रह की सतह पर तरल जल के अस्तित्व की अनुमति दे सकती हैं?",
+      "options_en": [
+        "Danger zone",
+        "Habitable zone (Goldilocks zone)",
+        "Kuiper zone",
+        "Frost line"
+      ],
+      "options_hi": [
+        "खतरे का क्षेत्र",
+        "रहने योग्य क्षेत्र (गोल्डीलॉक्स ज़ोन)",
+        "कुइपर क्षेत्र",
+        "हिम रेखा"
+      ],
+      "answer_en": "Habitable zone (Goldilocks zone)",
+      "answer_hi": "रहने योग्य क्षेत्र (गोल्डीलॉक्स ज़ोन)",
+      "explanation_en": "The habitable zone, also called the Goldilocks zone, is the region around a star where temperatures might allow liquid water on a planet's surface.",
+      "explanation_hi": "रहने योग्य क्षेत्र, जिसे गोल्डीलॉक्स ज़ोन भी कहा जाता है, किसी तारे के चारों ओर वह क्षेत्र है जहां तापमान किसी ग्रह की सतह पर तरल जल की अनुमति दे सकता है।"
+    },
+    {
+      "q_no": 140,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of the reusable spacecraft developed by SpaceX to carry astronauts to the ISS?",
+      "question_hi": "स्पेसएक्स द्वारा विकसित उस पुनः प्रयोज्य अंतरिक्ष यान का नाम क्या है जो अंतरिक्ष यात्रियों को ISS तक ले जाता है?",
+      "options_en": [
+        "Dragon",
+        "Starliner",
+        "Orion",
+        "Soyuz"
+      ],
+      "options_hi": [
+        "ड्रैगन",
+        "स्टारलाइनर",
+        "ओरायन",
+        "सोयुज"
+      ],
+      "answer_en": "Dragon",
+      "answer_hi": "ड्रैगन",
+      "explanation_en": "SpaceX's Crew Dragon spacecraft is used to carry astronauts to and from the International Space Station.",
+      "explanation_hi": "स्पेसएक्स का क्रू ड्रैगन अंतरिक्ष यान अंतर्राष्ट्रीय अंतरिक्ष स्टेशन तक और वहां से अंतरिक्ष यात्रियों को ले जाने के लिए उपयोग किया जाता है।"
+    },
+    {
+      "q_no": 141,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of the Russian spacecraft that has long carried astronauts to and from the ISS?",
+      "question_hi": "उस रूसी अंतरिक्ष यान का नाम क्या है जो लंबे समय से अंतरिक्ष यात्रियों को ISS तक और वहां से लाता-ले जाता रहा है?",
+      "options_en": [
+        "Soyuz",
+        "Dragon",
+        "Orion",
+        "Progress"
+      ],
+      "options_hi": [
+        "सोयुज",
+        "ड्रैगन",
+        "ओरायन",
+        "प्रोग्रेस"
+      ],
+      "answer_en": "Soyuz",
+      "answer_hi": "सोयुज",
+      "explanation_en": "The Soyuz spacecraft has been used by Russia for decades to transport astronauts to and from the ISS.",
+      "explanation_hi": "सोयुज अंतरिक्ष यान का उपयोग रूस द्वारा दशकों से अंतरिक्ष यात्रियों को ISS तक और वहां से लाने-ले जाने के लिए किया जाता रहा है।"
+    },
+    {
+      "q_no": 142,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of NASA's crewed spacecraft designed for missions to the Moon under the Artemis programme?",
+      "question_hi": "आर्टेमिस कार्यक्रम के तहत चंद्रमा मिशनों के लिए डिज़ाइन किए गए NASA के मानव अंतरिक्ष यान का नाम क्या है?",
+      "options_en": [
+        "Orion",
+        "Dragon",
+        "Starliner",
+        "Apollo"
+      ],
+      "options_hi": [
+        "ओरायन",
+        "ड्रैगन",
+        "स्टारलाइनर",
+        "अपोलो"
+      ],
+      "answer_en": "Orion",
+      "answer_hi": "ओरायन",
+      "explanation_en": "NASA's Orion spacecraft is designed to carry astronauts on missions to the Moon as part of the Artemis programme.",
+      "explanation_hi": "NASA का ओरायन अंतरिक्ष यान आर्टेमिस कार्यक्रम के हिस्से के रूप में अंतरिक्ष यात्रियों को चंद्रमा मिशनों पर ले जाने के लिए डिज़ाइन किया गया है।"
+    },
+    {
+      "q_no": 143,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of NASA's programme aiming to return humans to the Moon, including the first woman?",
+      "question_hi": "NASA के उस कार्यक्रम का नाम क्या है जिसका उद्देश्य मानवों को, जिसमें पहली महिला भी शामिल है, चंद्रमा पर वापस भेजना है?",
+      "options_en": [
+        "Apollo Programme",
+        "Artemis Programme",
+        "Constellation Programme",
+        "Orion Programme"
+      ],
+      "options_hi": [
+        "अपोलो कार्यक्रम",
+        "आर्टेमिस कार्यक्रम",
+        "कॉन्स्टेलेशन कार्यक्रम",
+        "ओरायन कार्यक्रम"
+      ],
+      "answer_en": "Artemis Programme",
+      "answer_hi": "आर्टेमिस कार्यक्रम",
+      "explanation_en": "NASA's Artemis Programme aims to return humans, including the first woman, to the Moon.",
+      "explanation_hi": "NASA के आर्टेमिस कार्यक्रम का उद्देश्य मानवों को, जिसमें पहली महिला भी शामिल है, चंद्रमा पर वापस भेजना है।"
+    },
+    {
+      "q_no": 144,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "How many astronauts walked on the Moon in total during the Apollo missions?",
+      "question_hi": "अपोलो मिशनों के दौरान कुल कितने अंतरिक्ष यात्रियों ने चंद्रमा पर चहलकदमी की?",
+      "options_en": [
+        "6",
+        "12",
+        "9",
+        "15"
+      ],
+      "options_hi": [
+        "6",
+        "12",
+        "9",
+        "15"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "A total of 12 astronauts walked on the Moon's surface across the six successful Apollo landing missions.",
+      "explanation_hi": "छह सफल अपोलो लैंडिंग मिशनों में कुल 12 अंतरिक्ष यात्रियों ने चंद्रमा की सतह पर चहलकदमी की।"
+    },
+    {
+      "q_no": 145,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which Apollo mission suffered an in-flight failure but returned its crew safely to Earth, famously called a 'successful failure'?",
+      "question_hi": "कौन-सा अपोलो मिशन उड़ान के दौरान विफल हो गया लेकिन अपने चालक दल को सुरक्षित रूप से पृथ्वी पर वापस ले आया, जिसे प्रसिद्ध रूप से 'सफल विफलता' कहा जाता है?",
+      "options_en": [
+        "Apollo 11",
+        "Apollo 13",
+        "Apollo 8",
+        "Apollo 1"
+      ],
+      "options_hi": [
+        "अपोलो 11",
+        "अपोलो 13",
+        "अपोलो 8",
+        "अपोलो 1"
+      ],
+      "answer_en": "Apollo 13",
+      "answer_hi": "अपोलो 13",
+      "explanation_en": "Apollo 13 suffered an oxygen tank explosion but its crew returned safely, earning it the nickname 'successful failure'.",
+      "explanation_hi": "अपोलो 13 में ऑक्सीजन टैंक में विस्फोट हुआ था लेकिन उसका चालक दल सुरक्षित रूप से वापस आया, जिससे इसे 'सफल विफलता' का उपनाम मिला।"
+    },
+    {
+      "q_no": 146,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What is the name of the first space station launched by the Soviet Union in 1971?",
+      "question_hi": "सोवियत संघ द्वारा 1971 में प्रक्षेपित पहले अंतरिक्ष स्टेशन का नाम क्या था?",
+      "options_en": [
+        "Mir",
+        "Salyut 1",
+        "Skylab",
+        "ISS"
+      ],
+      "options_hi": [
+        "मीर",
+        "सैल्यूट 1",
+        "स्काईलैब",
+        "ISS"
+      ],
+      "answer_en": "Salyut 1",
+      "answer_hi": "सैल्यूट 1",
+      "explanation_en": "Salyut 1, launched by the Soviet Union in 1971, was the world's first space station.",
+      "explanation_hi": "सैल्यूट 1, जिसे सोवियत संघ ने 1971 में प्रक्षेपित किया, विश्व का पहला अंतरिक्ष स्टेशन था।"
+    },
+    {
+      "q_no": 147,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "What was the name of the first US space station, launched in 1973?",
+      "question_hi": "1973 में प्रक्षेपित पहले अमेरिकी अंतरिक्ष स्टेशन का नाम क्या था?",
+      "options_en": [
+        "Mir",
+        "Skylab",
+        "ISS",
+        "Freedom"
+      ],
+      "options_hi": [
+        "मीर",
+        "स्काईलैब",
+        "ISS",
+        "फ्रीडम"
+      ],
+      "answer_en": "Skylab",
+      "answer_hi": "स्काईलैब",
+      "explanation_en": "Skylab, launched in 1973, was the United States' first space station.",
+      "explanation_hi": "स्काईलैब, जिसे 1973 में प्रक्षेपित किया गया, संयुक्त राज्य अमेरिका का पहला अंतरिक्ष स्टेशन था।"
+    },
+    {
+      "q_no": 148,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which agency launched the world's first reusable orbital rocket booster landing in 2015?",
+      "question_hi": "किस एजेंसी ने 2015 में दुनिया की पहली पुनः प्रयोज्य कक्षीय रॉकेट बूस्टर लैंडिंग की?",
+      "options_en": [
+        "NASA",
+        "SpaceX",
+        "ISRO",
+        "ESA"
+      ],
+      "options_hi": [
+        "NASA",
+        "स्पेसएक्स",
+        "ISRO",
+        "ESA"
+      ],
+      "answer_en": "SpaceX",
+      "answer_hi": "स्पेसएक्स",
+      "explanation_en": "SpaceX achieved the world's first successful landing of an orbital-class rocket booster in December 2015.",
+      "explanation_hi": "स्पेसएक्स ने दिसंबर 2015 में दुनिया की पहली सफल कक्षीय श्रेणी की रॉकेट बूस्टर लैंडिंग की उपलब्धि हासिल की।"
+    },
+    {
+      "q_no": 149,
+      "category_en": "Space Exploration",
+      "category_hi": "अंतरिक्ष अन्वेषण",
+      "question_en": "Which Indian satellite launch vehicle is nicknamed the 'workhorse' of ISRO?",
+      "question_hi": "किस भारतीय उपग्रह प्रक्षेपण यान को ISRO का 'वर्कहॉर्स' उपनाम दिया गया है?",
+      "options_en": [
+        "GSLV",
+        "PSLV",
+        "SSLV",
+        "LVM3"
+      ],
+      "options_hi": [
+        "GSLV",
+        "PSLV",
+        "SSLV",
+        "LVM3"
+      ],
+      "answer_en": "PSLV",
+      "answer_hi": "PSLV",
+      "explanation_en": "The Polar Satellite Launch Vehicle (PSLV) is known as the 'workhorse' of ISRO due to its reliability and versatility.",
+      "explanation_hi": "पोलर सैटेलाइट लॉन्च व्हीकल (PSLV) को उसकी विश्वसनीयता और बहुमुखी प्रतिभा के कारण ISRO का 'वर्कहॉर्स' कहा जाता है।"
+    },
+    {
+      "q_no": 150,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which planet has a day that is longer than its year?",
+      "question_hi": "किस ग्रह का एक दिन उसके एक वर्ष से भी लंबा है?",
+      "options_en": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "options_hi": [
+        "पृथ्वी",
+        "शुक्र",
+        "मंगल",
+        "बृहस्पति"
+      ],
+      "answer_en": "Venus",
+      "answer_hi": "शुक्र",
+      "explanation_en": "Venus takes about 243 Earth days to rotate once but only 225 Earth days to orbit the Sun, making its day longer than its year.",
+      "explanation_hi": "शुक्र को एक बार घूमने में लगभग 243 पृथ्वी दिन लगते हैं जबकि सूर्य की परिक्रमा में केवल 225 पृथ्वी दिन लगते हैं, जिससे इसका दिन इसके वर्ष से लंबा हो जाता है।"
+    },
+    {
+      "q_no": 151,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What instrument is primarily used by astronomers to observe distant celestial objects?",
+      "question_hi": "खगोलविदों द्वारा दूरस्थ आकाशीय पिंडों का अवलोकन करने के लिए मुख्य रूप से किस उपकरण का उपयोग किया जाता है?",
+      "options_en": [
+        "Microscope",
+        "Telescope",
+        "Barometer",
+        "Thermometer"
+      ],
+      "options_hi": [
+        "सूक्ष्मदर्शी",
+        "दूरबीन (टेलीस्कोप)",
+        "बैरोमीटर",
+        "थर्मामीटर"
+      ],
+      "answer_en": "Telescope",
+      "answer_hi": "दूरबीन (टेलीस्कोप)",
+      "explanation_en": "A telescope is the primary instrument used by astronomers to observe distant celestial objects.",
+      "explanation_hi": "दूरबीन (टेलीस्कोप) खगोलविदों द्वारा दूरस्थ आकाशीय पिंडों का अवलोकन करने के लिए उपयोग किया जाने वाला मुख्य उपकरण है।"
+    },
+    {
+      "q_no": 152,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Who is credited with significantly improving the telescope and using it for astronomical observations in the early 1600s?",
+      "question_hi": "1600 के दशक की शुरुआत में दूरबीन में महत्वपूर्ण सुधार करने और इसे खगोलीय अवलोकन के लिए उपयोग करने का श्रेय किसे दिया जाता है?",
+      "options_en": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Nicolaus Copernicus"
+      ],
+      "options_hi": [
+        "आइजैक न्यूटन",
+        "गैलीलियो गैलिली",
+        "योहानेस केप्लर",
+        "निकोलस कोपरनिकस"
+      ],
+      "answer_en": "Galileo Galilei",
+      "answer_hi": "गैलीलियो गैलिली",
+      "explanation_en": "Galileo Galilei significantly improved the telescope and used it to make groundbreaking astronomical observations in the early 1600s.",
+      "explanation_hi": "गैलीलियो गैलिली ने 1600 के दशक की शुरुआत में दूरबीन में महत्वपूर्ण सुधार किया और इसका उपयोग करके अग्रणी खगोलीय अवलोकन किए।"
+    },
+    {
+      "q_no": 153,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Who proposed the heliocentric model, stating that the Sun (not Earth) is at the center of the Solar System?",
+      "question_hi": "सूर्यकेंद्रित मॉडल किसने प्रस्तावित किया, जिसमें कहा गया कि सूर्य (पृथ्वी नहीं) सौर मंडल के केंद्र में है?",
+      "options_en": [
+        "Ptolemy",
+        "Nicolaus Copernicus",
+        "Aristotle",
+        "Johannes Kepler"
+      ],
+      "options_hi": [
+        "टॉलेमी",
+        "निकोलस कोपरनिकस",
+        "अरस्तू",
+        "योहानेस केप्लर"
+      ],
+      "answer_en": "Nicolaus Copernicus",
+      "answer_hi": "निकोलस कोपरनिकस",
+      "explanation_en": "Nicolaus Copernicus proposed the heliocentric model of the Solar System, placing the Sun at the center instead of Earth.",
+      "explanation_hi": "निकोलस कोपरनिकस ने सौर मंडल का सूर्यकेंद्रित मॉडल प्रस्तावित किया, जिसमें पृथ्वी के बजाय सूर्य को केंद्र में रखा गया।"
+    },
+    {
+      "q_no": 154,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Who formulated the three laws of planetary motion?",
+      "question_hi": "ग्रहीय गति के तीन नियम किसने प्रतिपादित किए?",
+      "options_en": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "options_hi": [
+        "गैलीलियो गैलिली",
+        "योहानेस केप्लर",
+        "आइजैक न्यूटन",
+        "अल्बर्ट आइंस्टीन"
+      ],
+      "answer_en": "Johannes Kepler",
+      "answer_hi": "योहानेस केप्लर",
+      "explanation_en": "Johannes Kepler formulated the three laws of planetary motion, describing how planets move around the Sun.",
+      "explanation_hi": "योहानेस केप्लर ने ग्रहीय गति के तीन नियम प्रतिपादित किए, जो बताते हैं कि ग्रह सूर्य के चारों ओर कैसे गति करते हैं।"
+    },
+    {
+      "q_no": 155,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What ancient Indian astronomer accurately calculated the length of a year and explained eclipses scientifically?",
+      "question_hi": "किस प्राचीन भारतीय खगोलविद ने वर्ष की सटीक लंबाई की गणना की और ग्रहणों को वैज्ञानिक रूप से समझाया?",
+      "options_en": [
+        "Aryabhata",
+        "Varahamihira",
+        "Brahmagupta",
+        "Bhaskara"
+      ],
+      "options_hi": [
+        "आर्यभट्ट",
+        "वराहमिहिर",
+        "ब्रह्मगुप्त",
+        "भास्कर"
+      ],
+      "answer_en": "Aryabhata",
+      "answer_hi": "आर्यभट्ट",
+      "explanation_en": "Aryabhata, an ancient Indian astronomer and mathematician, accurately calculated the length of a year and explained solar and lunar eclipses scientifically.",
+      "explanation_hi": "आर्यभट्ट, एक प्राचीन भारतीय खगोलविद और गणितज्ञ, ने वर्ष की सटीक लंबाई की गणना की और सूर्य तथा चंद्र ग्रहणों को वैज्ञानिक रूप से समझाया।"
+    },
+    {
+      "q_no": 156,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the term for the imaginary sphere surrounding Earth on which stars appear to be projected?",
+      "question_hi": "पृथ्वी के चारों ओर उस काल्पनिक गोले को क्या कहा जाता है जिस पर तारे प्रक्षेपित होते प्रतीत होते हैं?",
+      "options_en": [
+        "Ecliptic",
+        "Celestial sphere",
+        "Orbit path",
+        "Meridian"
+      ],
+      "options_hi": [
+        "क्रांतिवृत्त",
+        "आकाशीय गोला (सेलेस्टियल स्फीयर)",
+        "कक्षा पथ",
+        "याम्योत्तर"
+      ],
+      "answer_en": "Celestial sphere",
+      "answer_hi": "आकाशीय गोला (सेलेस्टियल स्फीयर)",
+      "explanation_en": "The celestial sphere is an imaginary sphere surrounding Earth on which all celestial objects appear to lie.",
+      "explanation_hi": "आकाशीय गोला पृथ्वी के चारों ओर एक काल्पनिक गोला है जिस पर सभी आकाशीय पिंड स्थित प्रतीत होते हैं।"
+    },
+    {
+      "q_no": 157,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the apparent path of the Sun across the sky over a year called?",
+      "question_hi": "एक वर्ष में आकाश में सूर्य के आभासी पथ को क्या कहा जाता है?",
+      "options_en": [
+        "Ecliptic",
+        "Equator",
+        "Meridian",
+        "Zenith"
+      ],
+      "options_hi": [
+        "क्रांतिवृत्त (एक्लिप्टिक)",
+        "भूमध्य रेखा",
+        "याम्योत्तर",
+        "शीर्षबिंदु"
+      ],
+      "answer_en": "Ecliptic",
+      "answer_hi": "क्रांतिवृत्त (एक्लिप्टिक)",
+      "explanation_en": "The ecliptic is the apparent path that the Sun traces across the sky over the course of a year.",
+      "explanation_hi": "क्रांतिवृत्त (एक्लिप्टिक) वह आभासी पथ है जिस पर सूर्य एक वर्ष के दौरान आकाश में चलता प्रतीत होता है।"
+    },
+    {
+      "q_no": 158,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the point directly overhead an observer in the sky called?",
+      "question_hi": "आकाश में किसी पर्यवेक्षक के ठीक ऊपर स्थित बिंदु को क्या कहा जाता है?",
+      "options_en": [
+        "Nadir",
+        "Zenith",
+        "Horizon",
+        "Meridian"
+      ],
+      "options_hi": [
+        "निम्नबिंदु (नादिर)",
+        "शीर्षबिंदु (ज़ेनिथ)",
+        "क्षितिज",
+        "याम्योत्तर"
+      ],
+      "answer_en": "Zenith",
+      "answer_hi": "शीर्षबिंदु (ज़ेनिथ)",
+      "explanation_en": "The zenith is the point in the sky directly above an observer.",
+      "explanation_hi": "शीर्षबिंदु (ज़ेनिथ) आकाश में उस बिंदु को कहते हैं जो किसी पर्यवेक्षक के ठीक ऊपर होता है।"
+    },
+    {
+      "q_no": 159,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the point in the sky directly below an observer, opposite the zenith, called?",
+      "question_hi": "आकाश में किसी पर्यवेक्षक के ठीक नीचे, शीर्षबिंदु के विपरीत, स्थित बिंदु को क्या कहा जाता है?",
+      "options_en": [
+        "Zenith",
+        "Nadir",
+        "Horizon",
+        "Ecliptic"
+      ],
+      "options_hi": [
+        "शीर्षबिंदु",
+        "निम्नबिंदु (नादिर)",
+        "क्षितिज",
+        "क्रांतिवृत्त"
+      ],
+      "answer_en": "Nadir",
+      "answer_hi": "निम्नबिंदु (नादिर)",
+      "explanation_en": "The nadir is the point in the sky directly opposite the zenith, below the observer.",
+      "explanation_hi": "निम्नबिंदु (नादिर) आकाश में शीर्षबिंदु के ठीक विपरीत, पर्यवेक्षक के नीचे स्थित बिंदु है।"
+    },
+    {
+      "q_no": 160,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is a full revolution of the Moon around Earth, from new moon to new moon, called?",
+      "question_hi": "नए चंद्रमा से अगले नए चंद्रमा तक, चंद्रमा की पृथ्वी के चारों ओर एक पूरी परिक्रमा को क्या कहा जाता है?",
+      "options_en": [
+        "Solar month",
+        "Lunar month",
+        "Sidereal year",
+        "Leap month"
+      ],
+      "options_hi": [
+        "सौर मास",
+        "चंद्र मास",
+        "नाक्षत्र वर्ष",
+        "लीप माह"
+      ],
+      "answer_en": "Lunar month",
+      "answer_hi": "चंद्र मास",
+      "explanation_en": "A lunar month, about 29.5 days, is the time it takes for the Moon to go through a full cycle of phases, from new moon to new moon.",
+      "explanation_hi": "एक चंद्र मास, लगभग 29.5 दिन, वह समय है जो चंद्रमा को अपने चरणों के पूरे चक्र से गुजरने में लगता है, नए चंद्रमा से अगले नए चंद्रमा तक।"
+    },
+    {
+      "q_no": 161,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the phase of the Moon called when it is fully illuminated and appears as a complete circle?",
+      "question_hi": "चंद्रमा के उस चरण को क्या कहा जाता है जब वह पूरी तरह से प्रकाशित होता है और एक पूर्ण वृत्त के रूप में दिखाई देता है?",
+      "options_en": [
+        "New Moon",
+        "Full Moon",
+        "Crescent Moon",
+        "Half Moon"
+      ],
+      "options_hi": [
+        "अमावस्या",
+        "पूर्णिमा",
+        "अर्धचंद्र (क्रीसेंट)",
+        "अर्ध चंद्रमा"
+      ],
+      "answer_en": "Full Moon",
+      "answer_hi": "पूर्णिमा",
+      "explanation_en": "A Full Moon occurs when the Moon is fully illuminated by the Sun as seen from Earth, appearing as a complete circle.",
+      "explanation_hi": "पूर्णिमा तब होती है जब चंद्रमा पृथ्वी से देखने पर सूर्य द्वारा पूरी तरह से प्रकाशित होता है और एक पूर्ण वृत्त के रूप में दिखाई देता है।"
+    },
+    {
+      "q_no": 162,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the phase of the Moon called when it is not visible from Earth at all?",
+      "question_hi": "चंद्रमा के उस चरण को क्या कहा जाता है जब वह पृथ्वी से बिल्कुल भी दिखाई नहीं देता?",
+      "options_en": [
+        "Full Moon",
+        "New Moon",
+        "Waxing Moon",
+        "Waning Moon"
+      ],
+      "options_hi": [
+        "पूर्णिमा",
+        "अमावस्या",
+        "बढ़ता चंद्रमा",
+        "घटता चंद्रमा"
+      ],
+      "answer_en": "New Moon",
+      "answer_hi": "अमावस्या",
+      "explanation_en": "A New Moon occurs when the Moon is positioned between Earth and the Sun, making its illuminated side face away from Earth, so it appears invisible.",
+      "explanation_hi": "अमावस्या तब होती है जब चंद्रमा पृथ्वी और सूर्य के बीच स्थित होता है, जिससे उसका प्रकाशित भाग पृथ्वी से दूर रहता है, अतः वह अदृश्य प्रतीत होता है।"
+    },
+    {
+      "q_no": 163,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Does the Moon always show the same face to Earth?",
+      "question_hi": "क्या चंद्रमा हमेशा पृथ्वी की ओर अपना एक ही चेहरा दिखाता है?",
+      "options_en": [
+        "Yes, due to tidal locking",
+        "No, it rotates randomly",
+        "Only during full moon",
+        "Only during eclipses"
+      ],
+      "options_hi": [
+        "हां, ज्वारीय बंधन (टाइडल लॉकिंग) के कारण",
+        "नहीं, यह यादृच्छिक रूप से घूमता है",
+        "केवल पूर्णिमा के दौरान",
+        "केवल ग्रहणों के दौरान"
+      ],
+      "answer_en": "Yes, due to tidal locking",
+      "answer_hi": "हां, ज्वारीय बंधन (टाइडल लॉकिंग) के कारण",
+      "explanation_en": "The Moon is tidally locked to Earth, meaning it always shows the same face to us, since its rotation period matches its orbital period.",
+      "explanation_hi": "चंद्रमा पृथ्वी से ज्वारीय रूप से बंधा हुआ है, जिसका अर्थ है कि यह हमेशा हमें अपना एक ही चेहरा दिखाता है, क्योंकि इसकी घूर्णन अवधि इसकी परिक्रमा अवधि के बराबर है।"
+    },
+    {
+      "q_no": 164,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What causes craters on the Moon's surface?",
+      "question_hi": "चंद्रमा की सतह पर गड्ढे (क्रेटर) किस कारण बनते हैं?",
+      "options_en": [
+        "Volcanic eruptions only",
+        "Impacts from asteroids, comets, and meteoroids",
+        "Earthquakes",
+        "Strong winds"
+      ],
+      "options_hi": [
+        "केवल ज्वालामुखी विस्फोट",
+        "क्षुद्रग्रहों, धूमकेतुओं और उल्कापिंडों के प्रभाव",
+        "भूकंप",
+        "तेज़ हवाएं"
+      ],
+      "answer_en": "Impacts from asteroids, comets, and meteoroids",
+      "answer_hi": "क्षुद्रग्रहों, धूमकेतुओं और उल्कापिंडों के प्रभाव",
+      "explanation_en": "Most craters on the Moon are formed by impacts from asteroids, comets, and meteoroids over billions of years.",
+      "explanation_hi": "चंद्रमा पर अधिकांश गड्ढे अरबों वर्षों में क्षुद्रग्रहों, धूमकेतुओं और उल्कापिंडों के प्रभाव से बनते हैं।"
+    },
+    {
+      "q_no": 165,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Why does the Moon lack a significant atmosphere, unlike Earth?",
+      "question_hi": "चंद्रमा में पृथ्वी की तरह महत्वपूर्ण वायुमंडल क्यों नहीं है?",
+      "options_en": [
+        "It is too close to the Sun",
+        "Its gravity is too weak to hold gases",
+        "It has no water",
+        "It rotates too fast"
+      ],
+      "options_hi": [
+        "यह सूर्य के बहुत निकट है",
+        "इसका गुरुत्वाकर्षण गैसों को रोकने के लिए बहुत कमजोर है",
+        "इसमें पानी नहीं है",
+        "यह बहुत तेज़ी से घूमता है"
+      ],
+      "answer_en": "Its gravity is too weak to hold gases",
+      "answer_hi": "इसका गुरुत्वाकर्षण गैसों को रोकने के लिए बहुत कमजोर है",
+      "explanation_en": "The Moon's gravity is too weak to retain a substantial atmosphere, so gases escape into space.",
+      "explanation_hi": "चंद्रमा का गुरुत्वाकर्षण एक महत्वपूर्ण वायुमंडल को बनाए रखने के लिए बहुत कमजोर है, इसलिए गैसें अंतरिक्ष में निकल जाती हैं।"
+    },
+    {
+      "q_no": 166,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What are the two basic types of galaxies based on whether they are actively forming stars?",
+      "question_hi": "तारा निर्माण की सक्रियता के आधार पर आकाशगंगाओं के दो बुनियादी प्रकार कौन-से हैं?",
+      "options_en": [
+        "Hot and cold galaxies",
+        "Active and passive galaxies",
+        "Big and small galaxies",
+        "Old and new galaxies"
+      ],
+      "options_hi": [
+        "गर्म और ठंडी आकाशगंगाएं",
+        "सक्रिय और निष्क्रिय आकाशगंगाएं",
+        "बड़ी और छोटी आकाशगंगाएं",
+        "पुरानी और नई आकाशगंगाएं"
+      ],
+      "answer_en": "Active and passive galaxies",
+      "answer_hi": "सक्रिय और निष्क्रिय आकाशगंगाएं",
+      "explanation_en": "Galaxies can broadly be described as active (with high star formation or an active nucleus) or passive (with little ongoing star formation).",
+      "explanation_hi": "आकाशगंगाओं को व्यापक रूप से सक्रिय (जिनमें उच्च तारा निर्माण या सक्रिय केंद्रक होता है) या निष्क्रिय (जिनमें बहुत कम तारा निर्माण होता है) के रूप में वर्णित किया जा सकता है।"
+    },
+    {
+      "q_no": 167,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the term for a massive star that suddenly becomes far brighter due to a catastrophic explosion?",
+      "question_hi": "एक विशाल तारे को क्या कहा जाता है जो एक विनाशकारी विस्फोट के कारण अचानक बहुत अधिक चमकीला हो जाता है?",
+      "options_en": [
+        "Nova",
+        "Supernova",
+        "Pulsar",
+        "Quasar"
+      ],
+      "options_hi": [
+        "नोवा",
+        "सुपरनोवा",
+        "पल्सर",
+        "क्वासर"
+      ],
+      "answer_en": "Supernova",
+      "answer_hi": "सुपरनोवा",
+      "explanation_en": "A supernova is a powerful and luminous explosion marking the end of a massive star's life.",
+      "explanation_hi": "सुपरनोवा एक शक्तिशाली और चमकदार विस्फोट है जो एक विशाल तारे के जीवन के अंत का प्रतीक है।"
+    },
+    {
+      "q_no": 168,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is a rapidly rotating neutron star that emits beams of radiation called?",
+      "question_hi": "एक तेज़ी से घूमने वाले न्यूट्रॉन तारे को क्या कहा जाता है जो विकिरण की किरणें उत्सर्जित करता है?",
+      "options_en": [
+        "Quasar",
+        "Pulsar",
+        "Nova",
+        "Magnetar only"
+      ],
+      "options_hi": [
+        "क्वासर",
+        "पल्सर",
+        "नोवा",
+        "केवल मैग्नेटार"
+      ],
+      "answer_en": "Pulsar",
+      "answer_hi": "पल्सर",
+      "explanation_en": "A pulsar is a rapidly rotating neutron star that emits regular beams of electromagnetic radiation, detectable as pulses.",
+      "explanation_hi": "पल्सर एक तेज़ी से घूमने वाला न्यूट्रॉन तारा है जो नियमित रूप से विद्युतचुंबकीय विकिरण की किरणें उत्सर्जित करता है, जिन्हें स्पंदन के रूप में पहचाना जा सकता है।"
+    },
+    {
+      "q_no": 169,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the extremely bright, distant, active galactic nucleus powered by a supermassive black hole called?",
+      "question_hi": "एक अतिविशाल ब्लैक होल द्वारा संचालित अत्यंत चमकीले, दूरस्थ, सक्रिय आकाशगंगा केंद्रक को क्या कहा जाता है?",
+      "options_en": [
+        "Nebula",
+        "Quasar",
+        "Pulsar",
+        "Nova"
+      ],
+      "options_hi": [
+        "नीहारिका",
+        "क्वासर",
+        "पल्सर",
+        "नोवा"
+      ],
+      "answer_en": "Quasar",
+      "answer_hi": "क्वासर",
+      "explanation_en": "A quasar is an extremely bright and distant active galactic nucleus, powered by material falling into a supermassive black hole.",
+      "explanation_hi": "क्वासर एक अत्यंत चमकीला और दूरस्थ सक्रिय आकाशगंगा केंद्रक है, जो एक अतिविशाल ब्लैक होल में गिरने वाले पदार्थ द्वारा संचालित होता है।"
+    },
+    {
+      "q_no": 170,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the term for the smallest unit of a chemical element found in stars, primarily hydrogen and helium?",
+      "question_hi": "तारों में पाए जाने वाले किसी रासायनिक तत्व की सबसे छोटी इकाई को क्या कहा जाता है, जो मुख्यतः हाइड्रोजन और हीलियम हैं?",
+      "options_en": [
+        "Molecule",
+        "Atom",
+        "Cell",
+        "Ion only"
+      ],
+      "options_hi": [
+        "अणु",
+        "परमाणु",
+        "कोशिका",
+        "केवल आयन"
+      ],
+      "answer_en": "Atom",
+      "answer_hi": "परमाणु",
+      "explanation_en": "An atom is the smallest unit of a chemical element; stars are composed mainly of hydrogen and helium atoms.",
+      "explanation_hi": "परमाणु किसी रासायनिक तत्व की सबसे छोटी इकाई है; तारे मुख्यतः हाइड्रोजन और हीलियम परमाणुओं से बने होते हैं।"
+    },
+    {
+      "q_no": 171,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What natural phenomenon, caused by charged particles from the Sun interacting with Earth's magnetic field, creates colourful lights in polar skies?",
+      "question_hi": "सूर्य से आवेशित कणों के पृथ्वी के चुंबकीय क्षेत्र के साथ अंतःक्रिया करने से होने वाली प्राकृतिक परिघटना क्या है, जो ध्रुवीय आकाश में रंगीन रोशनी पैदा करती है?",
+      "options_en": [
+        "Solar eclipse",
+        "Aurora (Northern/Southern Lights)",
+        "Meteor shower",
+        "Lunar halo"
+      ],
+      "options_hi": [
+        "सूर्य ग्रहण",
+        "अरोरा (उत्तरी/दक्षिणी रोशनी)",
+        "उल्का बौछार",
+        "चंद्र प्रभामंडल"
+      ],
+      "answer_en": "Aurora (Northern/Southern Lights)",
+      "answer_hi": "अरोरा (उत्तरी/दक्षिणी रोशनी)",
+      "explanation_en": "Auroras are natural light displays caused by charged particles from the Sun interacting with Earth's magnetic field, visible near the poles.",
+      "explanation_hi": "अरोरा प्राकृतिक प्रकाश प्रदर्शन हैं जो सूर्य से आवेशित कणों के पृथ्वी के चुंबकीय क्षेत्र के साथ अंतःक्रिया करने से होते हैं, जो ध्रुवों के निकट दिखाई देते हैं।"
+    },
+    {
+      "q_no": 172,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the name of the aurora seen in the Northern Hemisphere?",
+      "question_hi": "उत्तरी गोलार्ध में दिखाई देने वाले अरोरा का नाम क्या है?",
+      "options_en": [
+        "Aurora Australis",
+        "Aurora Borealis",
+        "Aurora Polaris",
+        "Aurora Solaris"
+      ],
+      "options_hi": [
+        "अरोरा ऑस्ट्रेलिस",
+        "अरोरा बोरियालिस",
+        "अरोरा पोलारिस",
+        "अरोरा सोलारिस"
+      ],
+      "answer_en": "Aurora Borealis",
+      "answer_hi": "अरोरा बोरियालिस",
+      "explanation_en": "The aurora seen in the Northern Hemisphere is called Aurora Borealis, or the Northern Lights.",
+      "explanation_hi": "उत्तरी गोलार्ध में दिखाई देने वाले अरोरा को अरोरा बोरियालिस, या उत्तरी रोशनी कहा जाता है।"
+    },
+    {
+      "q_no": 173,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the name of the aurora seen in the Southern Hemisphere?",
+      "question_hi": "दक्षिणी गोलार्ध में दिखाई देने वाले अरोरा का नाम क्या है?",
+      "options_en": [
+        "Aurora Borealis",
+        "Aurora Australis",
+        "Aurora Polaris",
+        "Aurora Solaris"
+      ],
+      "options_hi": [
+        "अरोरा बोरियालिस",
+        "अरोरा ऑस्ट्रेलिस",
+        "अरोरा पोलारिस",
+        "अरोरा सोलारिस"
+      ],
+      "answer_en": "Aurora Australis",
+      "answer_hi": "अरोरा ऑस्ट्रेलिस",
+      "explanation_en": "The aurora seen in the Southern Hemisphere is called Aurora Australis, or the Southern Lights.",
+      "explanation_hi": "दक्षिणी गोलार्ध में दिखाई देने वाले अरोरा को अरोरा ऑस्ट्रेलिस, या दक्षिणी रोशनी कहा जाता है।"
+    },
+    {
+      "q_no": 174,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is a meteor shower?",
+      "question_hi": "उल्का बौछार (मीटियोर शावर) क्या है?",
+      "options_en": [
+        "A single bright meteor",
+        "Many meteors appearing to radiate from one point in the sky, usually from comet debris",
+        "A type of solar storm",
+        "A collision between two planets"
+      ],
+      "options_hi": [
+        "एक अकेली चमकीली उल्का",
+        "आकाश में एक बिंदु से निकलती प्रतीत होने वाली कई उल्काएं, जो आमतौर पर धूमकेतु के मलबे से बनती हैं",
+        "एक प्रकार का सौर तूफान",
+        "दो ग्रहों के बीच टक्कर"
+      ],
+      "answer_en": "Many meteors appearing to radiate from one point in the sky, usually from comet debris",
+      "answer_hi": "आकाश में एक बिंदु से निकलती प्रतीत होने वाली कई उल्काएं, जो आमतौर पर धूमकेतु के मलबे से बनती हैं",
+      "explanation_en": "A meteor shower occurs when Earth passes through debris left by a comet, causing many meteors to appear to radiate from one point in the sky.",
+      "explanation_hi": "उल्का बौछार तब होती है जब पृथ्वी किसी धूमकेतु द्वारा छोड़े गए मलबे से गुजरती है, जिससे आकाश में एक बिंदु से निकलती प्रतीत होने वाली कई उल्काएं दिखाई देती हैं।"
+    },
+    {
+      "q_no": 175,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which annual meteor shower, associated with Halley's Comet debris, is visible in October?",
+      "question_hi": "हैली धूमकेतु के मलबे से जुड़ी कौन-सी वार्षिक उल्का बौछार अक्टूबर में दिखाई देती है?",
+      "options_en": [
+        "Perseids",
+        "Orionids",
+        "Leonids",
+        "Geminids"
+      ],
+      "options_hi": [
+        "पर्सिड्स",
+        "ओरायोनिड्स",
+        "लियोनिड्स",
+        "जेमिनिड्स"
+      ],
+      "answer_en": "Orionids",
+      "answer_hi": "ओरायोनिड्स",
+      "explanation_en": "The Orionid meteor shower, occurring in October, is associated with debris left by Halley's Comet.",
+      "explanation_hi": "ओरायोनिड उल्का बौछार, जो अक्टूबर में होती है, हैली धूमकेतु द्वारा छोड़े गए मलबे से जुड़ी है।"
+    },
+    {
+      "q_no": 176,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which popular annual meteor shower, visible in August, is associated with Comet Swift-Tuttle?",
+      "question_hi": "अगस्त में दिखाई देने वाली कौन-सी लोकप्रिय वार्षिक उल्का बौछार धूमकेतु स्विफ्ट-टटल से जुड़ी है?",
+      "options_en": [
+        "Perseids",
+        "Orionids",
+        "Leonids",
+        "Quadrantids"
+      ],
+      "options_hi": [
+        "पर्सिड्स",
+        "ओरायोनिड्स",
+        "लियोनिड्स",
+        "क्वाड्रांटिड्स"
+      ],
+      "answer_en": "Perseids",
+      "answer_hi": "पर्सिड्स",
+      "explanation_en": "The Perseid meteor shower, visible in August, is associated with debris from Comet Swift-Tuttle and is one of the most popular meteor showers.",
+      "explanation_hi": "पर्सिड उल्का बौछार, जो अगस्त में दिखाई देती है, धूमकेतु स्विफ्ट-टटल के मलबे से जुड़ी है और यह सबसे लोकप्रिय उल्का बौछारों में से एक है।"
+    },
+    {
+      "q_no": 177,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the term used for the moment a celestial body such as a star or planet rises above the horizon?",
+      "question_hi": "किसी तारे या ग्रह जैसे आकाशीय पिंड के क्षितिज से ऊपर उठने के क्षण को क्या कहा जाता है?",
+      "options_en": [
+        "Setting",
+        "Rising (Rise)",
+        "Transit",
+        "Occultation"
+      ],
+      "options_hi": [
+        "अस्त होना",
+        "उदय (उगना)",
+        "गोचर (ट्रांजिट)",
+        "गुप्तिकरण (ऑकल्टेशन)"
+      ],
+      "answer_en": "Rising (Rise)",
+      "answer_hi": "उदय (उगना)",
+      "explanation_en": "The rising of a celestial body refers to the moment it appears above the horizon.",
+      "explanation_hi": "किसी आकाशीय पिंड का उदय उस क्षण को दर्शाता है जब वह क्षितिज से ऊपर दिखाई देता है।"
+    },
+    {
+      "q_no": 178,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is it called when one celestial body passes in front of another, blocking it from view?",
+      "question_hi": "जब एक आकाशीय पिंड दूसरे के सामने से गुजरता है और उसे दृश्य से अवरुद्ध कर देता है, तो उसे क्या कहा जाता है?",
+      "options_en": [
+        "Transit",
+        "Occultation",
+        "Conjunction",
+        "Opposition"
+      ],
+      "options_hi": [
+        "गोचर (ट्रांजिट)",
+        "गुप्तिकरण (ऑकल्टेशन)",
+        "युति (कंजंक्शन)",
+        "प्रतियुति (ऑपोज़िशन)"
+      ],
+      "answer_en": "Occultation",
+      "answer_hi": "गुप्तिकरण (ऑकल्टेशन)",
+      "explanation_en": "An occultation occurs when one celestial body passes in front of another, temporarily blocking it from view.",
+      "explanation_hi": "गुप्तिकरण तब होता है जब एक आकाशीय पिंड दूसरे के सामने से गुजरता है और उसे अस्थायी रूप से दृश्य से अवरुद्ध कर देता है।"
+    },
+    {
+      "q_no": 179,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is it called when a planet, as seen from Earth, appears to move backward in the sky temporarily?",
+      "question_hi": "जब पृथ्वी से देखने पर कोई ग्रह अस्थायी रूप से आकाश में पीछे की ओर गति करता प्रतीत होता है, तो उसे क्या कहा जाता है?",
+      "options_en": [
+        "Direct motion",
+        "Retrograde motion",
+        "Transit motion",
+        "Orbital decay"
+      ],
+      "options_hi": [
+        "सीधी गति",
+        "प्रतिगामी गति",
+        "गोचर गति",
+        "कक्षीय क्षय"
+      ],
+      "answer_en": "Retrograde motion",
+      "answer_hi": "प्रतिगामी गति",
+      "explanation_en": "Retrograde motion is the apparent backward movement of a planet in the sky, an optical effect caused by relative orbital speeds.",
+      "explanation_hi": "प्रतिगामी गति आकाश में किसी ग्रह की आभासी पीछे की गति है, जो सापेक्ष कक्षीय गति के कारण होने वाला एक प्रकाशीय प्रभाव है।"
+    },
+    {
+      "q_no": 180,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which planet's atmosphere is made mostly of carbon dioxide, causing an extreme greenhouse effect and very high surface temperatures?",
+      "question_hi": "किस ग्रह का वायुमंडल मुख्यतः कार्बन डाइऑक्साइड से बना है, जिससे एक अत्यधिक ग्रीनहाउस प्रभाव और बहुत अधिक सतही तापमान होता है?",
+      "options_en": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
+      ],
+      "options_hi": [
+        "मंगल",
+        "शुक्र",
+        "बुध",
+        "बृहस्पति"
+      ],
+      "answer_en": "Venus",
+      "answer_hi": "शुक्र",
+      "explanation_en": "Venus has a thick carbon dioxide atmosphere that traps heat, giving it surface temperatures hot enough to melt lead.",
+      "explanation_hi": "शुक्र का घना कार्बन डाइऑक्साइड वायुमंडल गर्मी को रोक लेता है, जिससे इसकी सतह का तापमान इतना अधिक हो जाता है कि सीसा भी पिघल सकता है।"
+    },
+    {
+      "q_no": 181,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which planet has the highest known mountain in the Solar System, Olympus Mons?",
+      "question_hi": "सौर मंडल का सबसे ऊंचा ज्ञात पर्वत, ओलंपस मॉन्स, किस ग्रह पर स्थित है?",
+      "options_en": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Mercury"
+      ],
+      "options_hi": [
+        "पृथ्वी",
+        "मंगल",
+        "शुक्र",
+        "बुध"
+      ],
+      "answer_en": "Mars",
+      "answer_hi": "मंगल",
+      "explanation_en": "Olympus Mons, located on Mars, is the tallest known mountain and volcano in the Solar System.",
+      "explanation_hi": "ओलंपस मॉन्स, जो मंगल पर स्थित है, सौर मंडल का सबसे ऊंचा ज्ञात पर्वत और ज्वालामुखी है।"
+    },
+    {
+      "q_no": 182,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which planet has the largest canyon system in the Solar System, Valles Marineris?",
+      "question_hi": "सौर मंडल की सबसे बड़ी घाटी प्रणाली, वैलेस मैरिनेरिस, किस ग्रह पर स्थित है?",
+      "options_en": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Mercury"
+      ],
+      "options_hi": [
+        "पृथ्वी",
+        "मंगल",
+        "शुक्र",
+        "बुध"
+      ],
+      "answer_en": "Mars",
+      "answer_hi": "मंगल",
+      "explanation_en": "Valles Marineris on Mars is one of the largest canyon systems in the Solar System, stretching thousands of kilometres.",
+      "explanation_hi": "मंगल पर स्थित वैलेस मैरिनेरिस सौर मंडल की सबसे बड़ी घाटी प्रणालियों में से एक है, जो हजारों किलोमीटर तक फैली हुई है।"
+    },
+    {
+      "q_no": 183,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "How many known moons does Mars have?",
+      "question_hi": "मंगल के कितने ज्ञात चंद्रमा हैं?",
+      "options_en": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "options_hi": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer_en": "2",
+      "answer_hi": "2",
+      "explanation_en": "Mars has two small moons, Phobos and Deimos.",
+      "explanation_hi": "मंगल के दो छोटे चंद्रमा हैं, फोबोस और डीमोस।"
+    },
+    {
+      "q_no": 184,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "How many known moons does Jupiter have (approximately, as of recent counts)?",
+      "question_hi": "बृहस्पति के लगभग कितने ज्ञात चंद्रमा हैं (हाल की गणना के अनुसार)?",
+      "options_en": [
+        "Around 2",
+        "Around 95",
+        "Around 20",
+        "Around 500"
+      ],
+      "options_hi": [
+        "लगभग 2",
+        "लगभग 95",
+        "लगभग 20",
+        "लगभग 500"
+      ],
+      "answer_en": "Around 95",
+      "answer_hi": "लगभग 95",
+      "explanation_en": "Jupiter has around 95 confirmed moons, including the four large Galilean moons.",
+      "explanation_hi": "बृहस्पति के लगभग 95 पुष्ट चंद्रमा हैं, जिनमें चार बड़े गैलिलियन चंद्रमा शामिल हैं।"
+    },
+    {
+      "q_no": 185,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What are the four large moons of Jupiter, discovered by Galileo, collectively called?",
+      "question_hi": "गैलीलियो द्वारा खोजे गए बृहस्पति के चार बड़े चंद्रमाओं को सामूहिक रूप से क्या कहा जाता है?",
+      "options_en": [
+        "Galilean moons",
+        "Jovian rings",
+        "Titan group",
+        "Solar moons"
+      ],
+      "options_hi": [
+        "गैलिलियन चंद्रमा",
+        "जोवियन रिंग्स",
+        "टाइटन समूह",
+        "सौर चंद्रमा"
+      ],
+      "answer_en": "Galilean moons",
+      "answer_hi": "गैलिलियन चंद्रमा",
+      "explanation_en": "The four large moons of Jupiter — Io, Europa, Ganymede, and Callisto — are collectively known as the Galilean moons.",
+      "explanation_hi": "बृहस्पति के चार बड़े चंद्रमा — आयो, यूरोपा, गैनिमीड, और कैलिस्टो — को सामूहिक रूप से गैलिलियन चंद्रमा कहा जाता है।"
+    },
+    {
+      "q_no": 186,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What are Saturn's rings mainly made of?",
+      "question_hi": "शनि के छल्ले मुख्यतः किससे बने हैं?",
+      "options_en": [
+        "Solid rock",
+        "Ice particles and rocky debris",
+        "Liquid methane",
+        "Metal fragments only"
+      ],
+      "options_hi": [
+        "ठोस चट्टान",
+        "बर्फ के कण और चट्टानी मलबा",
+        "तरल मीथेन",
+        "केवल धातु के टुकड़े"
+      ],
+      "answer_en": "Ice particles and rocky debris",
+      "answer_hi": "बर्फ के कण और चट्टानी मलबा",
+      "explanation_en": "Saturn's rings are made mostly of ice particles, with smaller amounts of rocky debris and dust.",
+      "explanation_hi": "शनि के छल्ले मुख्यतः बर्फ के कणों से बने हैं, जिनमें थोड़ी मात्रा में चट्टानी मलबा और धूल भी शामिल है।"
+    },
+    {
+      "q_no": 187,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which planet has faint rings that are much less prominent than Saturn's, discovered in 1977?",
+      "question_hi": "किस ग्रह के हल्के छल्ले हैं जो शनि के छल्लों की तुलना में बहुत कम प्रमुख हैं, जिनकी खोज 1977 में हुई थी?",
+      "options_en": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Mercury"
+      ],
+      "options_hi": [
+        "बृहस्पति",
+        "अरुण",
+        "वरुण",
+        "बुध"
+      ],
+      "answer_en": "Uranus",
+      "answer_hi": "अरुण",
+      "explanation_en": "Uranus has a system of faint rings, discovered in 1977, much less prominent than Saturn's famous rings.",
+      "explanation_hi": "अरुण के पास हल्के छल्लों की एक प्रणाली है, जिनकी खोज 1977 में हुई थी, जो शनि के प्रसिद्ध छल्लों की तुलना में बहुत कम प्रमुख हैं।"
+    },
+    {
+      "q_no": 188,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which planet also has a faint ring system, confirmed by the Voyager 2 mission?",
+      "question_hi": "किस ग्रह के पास भी हल्के छल्लों की एक प्रणाली है, जिसकी पुष्टि वॉयेजर 2 मिशन ने की?",
+      "options_en": [
+        "Mercury",
+        "Venus",
+        "Neptune",
+        "Mars"
+      ],
+      "options_hi": [
+        "बुध",
+        "शुक्र",
+        "वरुण",
+        "मंगल"
+      ],
+      "answer_en": "Neptune",
+      "answer_hi": "वरुण",
+      "explanation_en": "Neptune has a faint system of rings, confirmed by the Voyager 2 spacecraft in 1989.",
+      "explanation_hi": "वरुण के पास हल्के छल्लों की एक प्रणाली है, जिसकी पुष्टि वॉयेजर 2 अंतरिक्ष यान ने 1989 में की।"
+    },
+    {
+      "q_no": 189,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the largest moon of Neptune, which orbits in a retrograde direction?",
+      "question_hi": "वरुण के सबसे बड़े चंद्रमा का नाम क्या है, जो प्रतिगामी दिशा में परिक्रमा करता है?",
+      "options_en": [
+        "Triton",
+        "Titan",
+        "Charon",
+        "Europa"
+      ],
+      "options_hi": [
+        "ट्राइटन",
+        "टाइटन",
+        "कैरन",
+        "यूरोपा"
+      ],
+      "answer_en": "Triton",
+      "answer_hi": "ट्राइटन",
+      "explanation_en": "Triton, Neptune's largest moon, orbits in a retrograde direction, suggesting it was captured rather than formed alongside Neptune.",
+      "explanation_hi": "ट्राइटन, वरुण का सबसे बड़ा चंद्रमा, प्रतिगामी दिशा में परिक्रमा करता है, जो यह सुझाव देता है कि यह वरुण के साथ नहीं बना बल्कि बाद में पकड़ा गया।"
+    },
+    {
+      "q_no": 190,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the name of Pluto's largest moon?",
+      "question_hi": "प्लूटो के सबसे बड़े चंद्रमा का नाम क्या है?",
+      "options_en": [
+        "Titan",
+        "Charon",
+        "Triton",
+        "Nix"
+      ],
+      "options_hi": [
+        "टाइटन",
+        "कैरन",
+        "ट्राइटन",
+        "निक्स"
+      ],
+      "answer_en": "Charon",
+      "answer_hi": "कैरन",
+      "explanation_en": "Charon is the largest of Pluto's five known moons, and is so large relative to Pluto that they are sometimes considered a double dwarf-planet system.",
+      "explanation_hi": "कैरन प्लूटो के पांच ज्ञात चंद्रमाओं में सबसे बड़ा है, और प्लूटो की तुलना में यह इतना बड़ा है कि कभी-कभी इन्हें एक द्वैत बौना-ग्रह प्रणाली माना जाता है।"
+    },
+    {
+      "q_no": 191,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What term describes a star system with three or more stars orbiting a common centre of mass?",
+      "question_hi": "तीन या अधिक तारों वाली उस तारा प्रणाली को क्या कहा जाता है जो एक साझा द्रव्यमान केंद्र के चारों ओर परिक्रमा करती है?",
+      "options_en": [
+        "Binary system",
+        "Multiple star system",
+        "Star cluster only",
+        "Galaxy cluster"
+      ],
+      "options_hi": [
+        "द्विआधारी प्रणाली",
+        "बहु-तारा प्रणाली",
+        "केवल तारा गुच्छ",
+        "आकाशगंगा गुच्छ"
+      ],
+      "answer_en": "Multiple star system",
+      "answer_hi": "बहु-तारा प्रणाली",
+      "explanation_en": "A multiple star system consists of three or more stars gravitationally bound and orbiting a common centre of mass.",
+      "explanation_hi": "बहु-तारा प्रणाली में तीन या अधिक तारे होते हैं जो गुरुत्वाकर्षण से बंधे होते हैं और एक साझा द्रव्यमान केंद्र के चारों ओर परिक्रमा करते हैं।"
+    },
+    {
+      "q_no": 192,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the name for a tightly bound group of hundreds of thousands of very old stars, often found around galaxies?",
+      "question_hi": "आकाशगंगाओं के चारों ओर अक्सर पाए जाने वाले लाखों बहुत पुराने तारों के कसकर बंधे समूह को क्या कहा जाता है?",
+      "options_en": [
+        "Open cluster",
+        "Globular cluster",
+        "Nebula",
+        "Galaxy cluster"
+      ],
+      "options_hi": [
+        "ओपन क्लस्टर",
+        "गोलाकार गुच्छ (ग्लोब्युलर क्लस्टर)",
+        "नीहारिका",
+        "आकाशगंगा गुच्छ"
+      ],
+      "answer_en": "Globular cluster",
+      "answer_hi": "गोलाकार गुच्छ (ग्लोब्युलर क्लस्टर)",
+      "explanation_en": "A globular cluster is a tightly bound, roughly spherical group of very old stars, often orbiting the outskirts of galaxies.",
+      "explanation_hi": "गोलाकार गुच्छ बहुत पुराने तारों का एक कसकर बंधा, लगभग गोलाकार समूह है, जो अक्सर आकाशगंगाओं के बाहरी हिस्सों की परिक्रमा करता है।"
+    },
+    {
+      "q_no": 193,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is a loosely bound group of a few hundred to a few thousand relatively young stars called?",
+      "question_hi": "कुछ सौ से कुछ हजार अपेक्षाकृत युवा तारों के ढीले-ढाले समूह को क्या कहा जाता है?",
+      "options_en": [
+        "Globular cluster",
+        "Open cluster",
+        "Star nursery only",
+        "Elliptical cluster"
+      ],
+      "options_hi": [
+        "गोलाकार गुच्छ",
+        "खुला गुच्छ (ओपन क्लस्टर)",
+        "केवल तारा नर्सरी",
+        "दीर्घवृत्ताकार गुच्छ"
+      ],
+      "answer_en": "Open cluster",
+      "answer_hi": "खुला गुच्छ (ओपन क्लस्टर)",
+      "explanation_en": "An open cluster is a loosely bound group of relatively young stars that formed together from the same molecular cloud.",
+      "explanation_hi": "खुला गुच्छ अपेक्षाकृत युवा तारों का एक ढीले-ढाले बंधा समूह है जो एक ही आणविक बादल से एक साथ बना।"
+    },
+    {
+      "q_no": 194,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "Which famous open star cluster is also known as the 'Seven Sisters', visible to the naked eye?",
+      "question_hi": "किस प्रसिद्ध खुले तारा गुच्छ को 'सात बहनें' के नाम से भी जाना जाता है, जो नंगी आंखों से भी दिखाई देता है?",
+      "options_en": [
+        "Orion Nebula",
+        "Pleiades",
+        "Hyades",
+        "Beehive Cluster"
+      ],
+      "options_hi": [
+        "ओरायन नीहारिका",
+        "प्लीएडीज़",
+        "हायाडीज़",
+        "बीहाइव क्लस्टर"
+      ],
+      "answer_en": "Pleiades",
+      "answer_hi": "प्लीएडीज़",
+      "explanation_en": "The Pleiades, also known as the 'Seven Sisters', is a famous open star cluster visible to the naked eye in the constellation Taurus.",
+      "explanation_hi": "प्लीएडीज़, जिसे 'सात बहनें' भी कहा जाता है, वृषभ तारामंडल में नंगी आंखों से दिखाई देने वाला एक प्रसिद्ध खुला तारा गुच्छ है।"
+    },
+    {
+      "q_no": 195,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the term for the boundary around a black hole beyond which nothing can escape?",
+      "question_hi": "ब्लैक होल के चारों ओर उस सीमा को क्या कहा जाता है जिसके पार से कुछ भी बच नहीं सकता?",
+      "options_en": [
+        "Photon sphere",
+        "Event horizon",
+        "Singularity boundary",
+        "Accretion edge"
+      ],
+      "options_hi": [
+        "फोटॉन गोला",
+        "घटना क्षितिज (इवेंट होराइजन)",
+        "विलक्षणता सीमा",
+        "अभिवृद्धि किनारा"
+      ],
+      "answer_en": "Event horizon",
+      "answer_hi": "घटना क्षितिज (इवेंट होराइजन)",
+      "explanation_en": "The event horizon is the boundary around a black hole beyond which nothing, including light, can escape its gravitational pull.",
+      "explanation_hi": "घटना क्षितिज ब्लैक होल के चारों ओर वह सीमा है जिसके पार से कुछ भी, प्रकाश सहित, उसके गुरुत्वाकर्षण खिंचाव से बच नहीं सकता।"
+    },
+    {
+      "q_no": 196,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the point at the centre of a black hole, where gravity is thought to be infinitely strong, called?",
+      "question_hi": "ब्लैक होल के केंद्र में स्थित उस बिंदु को क्या कहा जाता है, जहां गुरुत्वाकर्षण को अनंत रूप से प्रबल माना जाता है?",
+      "options_en": [
+        "Event horizon",
+        "Singularity",
+        "Photon sphere",
+        "Core"
+      ],
+      "options_hi": [
+        "घटना क्षितिज",
+        "विलक्षणता (सिंग्युलैरिटी)",
+        "फोटॉन गोला",
+        "क्रोड"
+      ],
+      "answer_en": "Singularity",
+      "answer_hi": "विलक्षणता (सिंग्युलैरिटी)",
+      "explanation_en": "A singularity is the point at the centre of a black hole where matter is thought to be compressed to infinite density.",
+      "explanation_hi": "विलक्षणता ब्लैक होल के केंद्र में स्थित वह बिंदु है जहां पदार्थ को अनंत घनत्व तक संकुचित माना जाता है।"
+    },
+    {
+      "q_no": 197,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "In April 2019, scientists released the first-ever direct image of what astronomical object?",
+      "question_hi": "अप्रैल 2019 में, वैज्ञानिकों ने किस खगोलीय पिंड की अब तक की पहली प्रत्यक्ष छवि जारी की?",
+      "options_en": [
+        "A neutron star",
+        "A black hole",
+        "An exoplanet",
+        "A supernova"
+      ],
+      "options_hi": [
+        "एक न्यूट्रॉन तारा",
+        "एक ब्लैक होल",
+        "एक बाह्यग्रह",
+        "एक सुपरनोवा"
+      ],
+      "answer_en": "A black hole",
+      "answer_hi": "एक ब्लैक होल",
+      "explanation_en": "In April 2019, scientists released the first-ever direct image of a black hole, located at the centre of galaxy M87.",
+      "explanation_hi": "अप्रैल 2019 में, वैज्ञानिकों ने एक ब्लैक होल की अब तक की पहली प्रत्यक्ष छवि जारी की, जो आकाशगंगा M87 के केंद्र में स्थित है।"
+    },
+    {
+      "q_no": 198,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the name of the national space agency responsible for satellite launches and space research in India?",
+      "question_hi": "भारत में उपग्रह प्रक्षेपण और अंतरिक्ष अनुसंधान के लिए जिम्मेदार राष्ट्रीय अंतरिक्ष एजेंसी का नाम क्या है?",
+      "options_en": [
+        "DRDO",
+        "ISRO",
+        "BARC",
+        "CSIR"
+      ],
+      "options_hi": [
+        "DRDO",
+        "ISRO",
+        "BARC",
+        "CSIR"
+      ],
+      "answer_en": "ISRO",
+      "answer_hi": "ISRO",
+      "explanation_en": "ISRO (Indian Space Research Organisation) is India's national space agency, responsible for satellite launches and space research.",
+      "explanation_hi": "ISRO (इंडियन स्पेस रिसर्च ऑर्गनाइजेशन) भारत की राष्ट्रीय अंतरिक्ष एजेंसी है, जो उपग्रह प्रक्षेपण और अंतरिक्ष अनुसंधान के लिए जिम्मेदार है।"
+    },
+    {
+      "q_no": 199,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "What is the headquarters of ISRO located in?",
+      "question_hi": "ISRO का मुख्यालय कहां स्थित है?",
+      "options_en": [
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "New Delhi"
+      ],
+      "options_hi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "चेन्नई",
+        "नई दिल्ली"
+      ],
+      "answer_en": "Bengaluru",
+      "answer_hi": "बेंगलुरु",
+      "explanation_en": "ISRO's headquarters is located in Bengaluru, Karnataka.",
+      "explanation_hi": "ISRO का मुख्यालय बेंगलुरु, कर्नाटक में स्थित है।"
+    },
+    {
+      "q_no": 200,
+      "category_en": "Astronomy Basics",
+      "category_hi": "खगोल विज्ञान मूल बातें",
+      "question_en": "From which spaceport does ISRO primarily launch its rockets and satellites?",
+      "question_hi": "ISRO मुख्यतः किस स्पेसपोर्ट से अपने रॉकेट और उपग्रह प्रक्षेपित करता है?",
+      "options_en": [
+        "Thumba",
+        "Satish Dhawan Space Centre, Sriharikota",
+        "Bengaluru Space Centre",
+        "Vikram Sarabhai Centre"
+      ],
+      "options_hi": [
+        "थुम्बा",
+        "सतीश धवन अंतरिक्ष केंद्र, श्रीहरिकोटा",
+        "बेंगलुरु स्पेस सेंटर",
+        "विक्रम साराभाई केंद्र"
+      ],
+      "answer_en": "Satish Dhawan Space Centre, Sriharikota",
+      "answer_hi": "सतीश धवन अंतरिक्ष केंद्र, श्रीहरिकोटा",
+      "explanation_en": "ISRO primarily launches its rockets and satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh.",
+      "explanation_hi": "ISRO मुख्यतः आंध्र प्रदेश के श्रीहरिकोटा स्थित सतीश धवन अंतरिक्ष केंद्र से अपने रॉकेट और उपग्रह प्रक्षेपित करता है।"
+    }
+  ]
+}
