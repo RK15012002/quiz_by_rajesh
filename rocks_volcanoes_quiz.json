@@ -1,0 +1,2005 @@
+{
+  "title": "Rocks & Volcanoes Quiz",
+  "questions": [
+    {
+      "question_en": "Rocks formed by the cooling and solidification of magma or lava are called ____.",
+      "question_hi": "मैग्मा या लावा के ठंडा होकर जमने से बनी चट्टानें ____ कहलाती हैं।",
+      "options_en": [
+        "Igneous rocks",
+        "Sedimentary rocks",
+        "Metamorphic rocks",
+        "Fossil rocks"
+      ],
+      "options_hi": [
+        "आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान",
+        "जीवाश्म चट्टान"
+      ],
+      "answer_en": "Igneous rocks",
+      "answer_hi": "आग्नेय चट्टान",
+      "explanation_en": "Igneous rocks form when molten magma or lava cools and solidifies, either underground or on the surface.",
+      "explanation_hi": "आग्नेय चट्टानें तब बनती हैं जब पिघला हुआ मैग्मा या लावा जमीन के नीचे या सतह पर ठंडा होकर ठोस बनता है।"
+    },
+    {
+      "question_en": "Which rock is formed by the deposition and compaction of sediments over time?",
+      "question_hi": "समय के साथ अवसादों के जमाव और संघनन से कौन-सी चट्टान बनती है?",
+      "options_en": [
+        "Sedimentary rock",
+        "Igneous rock",
+        "Metamorphic rock",
+        "Volcanic rock"
+      ],
+      "options_hi": [
+        "अवसादी चट्टान",
+        "आग्नेय चट्टान",
+        "कायांतरित चट्टान",
+        "ज्वालामुखीय चट्टान"
+      ],
+      "answer_en": "Sedimentary rock",
+      "answer_hi": "अवसादी चट्टान",
+      "explanation_en": "Sedimentary rocks form from layers of sediment (sand, mud, organic matter) that get compacted and cemented together.",
+      "explanation_hi": "अवसादी चट्टानें अवसाद (रेत, मिट्टी, कार्बनिक पदार्थ) की परतों के संघनित और सीमेंटित होने से बनती हैं।"
+    },
+    {
+      "question_en": "Rocks changed by heat and pressure without melting are called ____.",
+      "question_hi": "बिना पिघले ताप और दाब से बदली गई चट्टानें ____ कहलाती हैं।",
+      "options_en": [
+        "Metamorphic rocks",
+        "Igneous rocks",
+        "Sedimentary rocks",
+        "Mineral rocks"
+      ],
+      "options_hi": [
+        "कायांतरित चट्टान",
+        "आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "खनिज चट्टान"
+      ],
+      "answer_en": "Metamorphic rocks",
+      "answer_hi": "कायांतरित चट्टान",
+      "explanation_en": "Metamorphic rocks form when existing rocks are transformed by intense heat and pressure without fully melting.",
+      "explanation_hi": "कायांतरित चट्टानें तब बनती हैं जब मौजूदा चट्टानें तीव्र ताप और दाब से पूरी तरह पिघले बिना बदल जाती हैं।"
+    },
+    {
+      "question_en": "Granite is an example of which type of rock?",
+      "question_hi": "ग्रेनाइट किस प्रकार की चट्टान का उदाहरण है?",
+      "options_en": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Organic rock"
+      ],
+      "options_hi": [
+        "आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान",
+        "जैविक चट्टान"
+      ],
+      "answer_en": "Igneous rock",
+      "answer_hi": "आग्नेय चट्टान",
+      "explanation_en": "Granite is a coarse-grained igneous rock that forms from the slow cooling of magma deep underground.",
+      "explanation_hi": "ग्रेनाइट एक मोटे दाने वाली आग्नेय चट्टान है जो जमीन के अंदर मैग्मा के धीरे-धीरे ठंडा होने से बनती है।"
+    },
+    {
+      "question_en": "Limestone is mainly composed of which mineral?",
+      "question_hi": "चूना पत्थर (Limestone) मुख्य रूप से किस खनिज से बना होता है?",
+      "options_en": [
+        "Calcium carbonate",
+        "Silica",
+        "Iron oxide",
+        "Magnesium sulfate"
+      ],
+      "options_hi": [
+        "कैल्शियम कार्बोनेट",
+        "सिलिका",
+        "आयरन ऑक्साइड",
+        "मैग्नीशियम सल्फेट"
+      ],
+      "answer_en": "Calcium carbonate",
+      "answer_hi": "कैल्शियम कार्बोनेट",
+      "explanation_en": "Limestone is a sedimentary rock made mostly of calcium carbonate, often from marine organism shells.",
+      "explanation_hi": "चूना पत्थर एक अवसादी चट्टान है जो मुख्यतः कैल्शियम कार्बोनेट से बनी होती है, अक्सर समुद्री जीवों के खोल से।"
+    },
+    {
+      "question_en": "Marble is a metamorphic rock formed from which sedimentary rock?",
+      "question_hi": "संगमरमर (Marble) किस अवसादी चट्टान से बनी कायांतरित चट्टान है?",
+      "options_en": [
+        "Limestone",
+        "Sandstone",
+        "Shale",
+        "Conglomerate"
+      ],
+      "options_hi": [
+        "चूना पत्थर",
+        "बलुआ पत्थर",
+        "शेल",
+        "समूह चट्टान"
+      ],
+      "answer_en": "Limestone",
+      "answer_hi": "चूना पत्थर",
+      "explanation_en": "Marble forms when limestone is subjected to heat and pressure, recrystallizing its calcite grains.",
+      "explanation_hi": "संगमरमर तब बनता है जब चूना पत्थर पर ताप और दाब पड़ता है, जिससे उसके कैल्साइट कण पुनर्क्रिस्टलीकृत हो जाते हैं।"
+    },
+    {
+      "question_en": "Slate is a metamorphic rock formed from which rock?",
+      "question_hi": "स्लेट (Slate) किस चट्टान से बनी कायांतरित चट्टान है?",
+      "options_en": [
+        "Shale",
+        "Granite",
+        "Limestone",
+        "Basalt"
+      ],
+      "options_hi": [
+        "शेल",
+        "ग्रेनाइट",
+        "चूना पत्थर",
+        "बेसाल्ट"
+      ],
+      "answer_en": "Shale",
+      "answer_hi": "शेल",
+      "explanation_en": "Slate forms from the metamorphism of shale, a fine-grained sedimentary rock.",
+      "explanation_hi": "स्लेट शेल (एक बारीक दाने वाली अवसादी चट्टान) के कायांतरण से बनती है।"
+    },
+    {
+      "question_en": "Which of these is an example of a metamorphic rock?",
+      "question_hi": "इनमें से कौन-सी कायांतरित चट्टान का उदाहरण है?",
+      "options_en": [
+        "Gneiss",
+        "Granite",
+        "Sandstone",
+        "Basalt"
+      ],
+      "options_hi": [
+        "नाइस (Gneiss)",
+        "ग्रेनाइट",
+        "बलुआ पत्थर",
+        "बेसाल्ट"
+      ],
+      "answer_en": "Gneiss",
+      "answer_hi": "नाइस (Gneiss)",
+      "explanation_en": "Gneiss is a high-grade metamorphic rock known for its banded appearance.",
+      "explanation_hi": "नाइस एक उच्च-श्रेणी की कायांतरित चट्टान है जो अपनी धारीदार बनावट के लिए जानी जाती है।"
+    },
+    {
+      "question_en": "Basalt is a common type of which rock, often found in volcanic regions?",
+      "question_hi": "बेसाल्ट किस प्रकार की चट्टान है, जो अक्सर ज्वालामुखीय क्षेत्रों में पाई जाती है?",
+      "options_en": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Chemical rock"
+      ],
+      "options_hi": [
+        "आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान",
+        "रासायनिक चट्टान"
+      ],
+      "answer_en": "Igneous rock",
+      "answer_hi": "आग्नेय चट्टान",
+      "explanation_en": "Basalt is a dark, fine-grained extrusive igneous rock formed from rapidly cooled lava.",
+      "explanation_hi": "बेसाल्ट एक गहरे रंग की, बारीक दाने वाली बहिर्वेधी आग्नेय चट्टान है जो तेजी से ठंडे हुए लावा से बनती है।"
+    },
+    {
+      "question_en": "Which rock is formed from compacted sand grains?",
+      "question_hi": "रेत के कणों के संघनन से कौन-सी चट्टान बनती है?",
+      "options_en": [
+        "Sandstone",
+        "Limestone",
+        "Marble",
+        "Basalt"
+      ],
+      "options_hi": [
+        "बलुआ पत्थर",
+        "चूना पत्थर",
+        "संगमरमर",
+        "बेसाल्ट"
+      ],
+      "answer_en": "Sandstone",
+      "answer_hi": "बलुआ पत्थर",
+      "explanation_en": "Sandstone is a sedimentary rock formed by the compaction and cementation of sand grains.",
+      "explanation_hi": "बलुआ पत्थर रेत के कणों के संघनन और सीमेंटीकरण से बनी अवसादी चट्टान है।"
+    },
+    {
+      "question_en": "Obsidian is a type of igneous rock formed by ____.",
+      "question_hi": "ऑब्सीडियन (Obsidian) एक प्रकार की आग्नेय चट्टान है जो ____ से बनती है।",
+      "options_en": [
+        "Rapid cooling of lava",
+        "Slow cooling of magma",
+        "Compaction of sediments",
+        "Heat and pressure on rock"
+      ],
+      "options_hi": [
+        "लावा का तेजी से ठंडा होना",
+        "मैग्मा का धीरे-धीरे ठंडा होना",
+        "अवसादों का संघनन",
+        "चट्टान पर ताप और दाब"
+      ],
+      "answer_en": "Rapid cooling of lava",
+      "answer_hi": "लावा का तेजी से ठंडा होना",
+      "explanation_en": "Obsidian is a natural volcanic glass formed when lava cools so quickly that crystals don't have time to form.",
+      "explanation_hi": "ऑब्सीडियन एक प्राकृतिक ज्वालामुखीय कांच है जो लावा के इतनी तेजी से ठंडा होने पर बनता है कि क्रिस्टल बनने का समय नहीं मिलता।"
+    },
+    {
+      "question_en": "Pumice is a light, porous volcanic rock formed due to ____.",
+      "question_hi": "प्यूमिस (Pumice) एक हल्की, छिद्रयुक्त ज्वालामुखीय चट्टान है जो ____ के कारण बनती है।",
+      "options_en": [
+        "Trapped gas bubbles in cooling lava",
+        "Slow crystallization",
+        "Compaction of ash layers",
+        "Chemical weathering"
+      ],
+      "options_hi": [
+        "ठंडे होते लावा में फंसे गैस के बुलबुले",
+        "धीमी क्रिस्टलीकरण",
+        "राख की परतों का संघनन",
+        "रासायनिक अपक्षय"
+      ],
+      "answer_en": "Trapped gas bubbles in cooling lava",
+      "answer_hi": "ठंडे होते लावा में फंसे गैस के बुलबुले",
+      "explanation_en": "Pumice forms when gas-rich lava cools rapidly, trapping bubbles that make the rock light and porous enough to float on water.",
+      "explanation_hi": "प्यूमिस तब बनता है जब गैस युक्त लावा तेजी से ठंडा होता है, जिससे बुलबुले फंस जाते हैं और चट्टान इतनी हल्की व छिद्रयुक्त हो जाती है कि पानी पर तैर सकती है।"
+    },
+    {
+      "question_en": "Which is the hardest naturally occurring mineral, often found in igneous rocks?",
+      "question_hi": "कौन-सा सबसे कठोर प्राकृतिक खनिज है, जो अक्सर आग्नेय चट्टानों में पाया जाता है?",
+      "options_en": [
+        "Diamond",
+        "Quartz",
+        "Feldspar",
+        "Mica"
+      ],
+      "options_hi": [
+        "हीरा",
+        "क्वार्ट्ज",
+        "फेल्डस्पार",
+        "अभ्रक"
+      ],
+      "answer_en": "Diamond",
+      "answer_hi": "हीरा",
+      "explanation_en": "Diamond, a crystalline form of carbon, is the hardest known natural mineral, rated 10 on the Mohs scale.",
+      "explanation_hi": "हीरा, कार्बन का क्रिस्टलीय रूप, सबसे कठोर ज्ञात प्राकृतिक खनिज है, जो मोह्स पैमाने पर 10 अंक रखता है।"
+    },
+    {
+      "question_en": "Which rock type can be classified based on grain size, texture, and mineral content?",
+      "question_hi": "किस प्रकार की चट्टानों को दाने के आकार, बनावट और खनिज सामग्री के आधार पर वर्गीकृत किया जाता है?",
+      "options_en": [
+        "All rock types",
+        "Only igneous rocks",
+        "Only sedimentary rocks",
+        "Only metamorphic rocks"
+      ],
+      "options_hi": [
+        "सभी प्रकार की चट्टानें",
+        "केवल आग्नेय चट्टानें",
+        "केवल अवसादी चट्टानें",
+        "केवल कायांतरित चट्टानें"
+      ],
+      "answer_en": "All rock types",
+      "answer_hi": "सभी प्रकार की चट्टानें",
+      "explanation_en": "Geologists classify all rocks — igneous, sedimentary, and metamorphic — using grain size, texture, and mineral composition.",
+      "explanation_hi": "भूवैज्ञानिक सभी चट्टानों — आग्नेय, अवसादी और कायांतरित — को दाने के आकार, बनावट और खनिज संरचना के आधार पर वर्गीकृत करते हैं।"
+    },
+    {
+      "question_en": "The continuous process by which rocks change from one type to another is called the ____.",
+      "question_hi": "वह निरंतर प्रक्रिया जिसमें चट्टानें एक प्रकार से दूसरे प्रकार में बदलती हैं, ____ कहलाती है।",
+      "options_en": [
+        "Rock cycle",
+        "Water cycle",
+        "Carbon cycle",
+        "Erosion cycle"
+      ],
+      "options_hi": [
+        "शैल चक्र (Rock cycle)",
+        "जल चक्र",
+        "कार्बन चक्र",
+        "अपरदन चक्र"
+      ],
+      "answer_en": "Rock cycle",
+      "answer_hi": "शैल चक्र",
+      "explanation_en": "The rock cycle describes the continuous transformation of rocks between igneous, sedimentary, and metamorphic forms over geological time.",
+      "explanation_hi": "शैल चक्र भूवैज्ञानिक समय में आग्नेय, अवसादी और कायांतरित रूपों के बीच चट्टानों के निरंतर परिवर्तन का वर्णन करता है।"
+    },
+    {
+      "question_en": "Which rock is known for containing visible fossils of ancient marine life?",
+      "question_hi": "कौन-सी चट्टान प्राचीन समुद्री जीवन के दृश्य जीवाश्मों के लिए जानी जाती है?",
+      "options_en": [
+        "Limestone",
+        "Granite",
+        "Basalt",
+        "Obsidian"
+      ],
+      "options_hi": [
+        "चूना पत्थर",
+        "ग्रेनाइट",
+        "बेसाल्ट",
+        "ऑब्सीडियन"
+      ],
+      "answer_en": "Limestone",
+      "answer_hi": "चूना पत्थर",
+      "explanation_en": "Limestone often contains fossils of shells, corals, and other marine organisms preserved over millions of years.",
+      "explanation_hi": "चूना पत्थर में अक्सर लाखों वर्षों से संरक्षित सीप, प्रवाल और अन्य समुद्री जीवों के जीवाश्म पाए जाते हैं।"
+    },
+    {
+      "question_en": "Shale is formed from the compaction of ____.",
+      "question_hi": "शेल (Shale) ____ के संघनन से बनती है।",
+      "options_en": [
+        "Clay and mud",
+        "Sand grains",
+        "Molten lava",
+        "Coral fragments"
+      ],
+      "options_hi": [
+        "मिट्टी और गाद",
+        "रेत के कण",
+        "पिघला हुआ लावा",
+        "प्रवाल के टुकड़े"
+      ],
+      "answer_en": "Clay and mud",
+      "answer_hi": "मिट्टी और गाद",
+      "explanation_en": "Shale is a fine-grained sedimentary rock formed from the compaction of clay and mud particles.",
+      "explanation_hi": "शेल एक बारीक दाने वाली अवसादी चट्टान है जो मिट्टी और गाद के कणों के संघनन से बनती है।"
+    },
+    {
+      "question_en": "Which rock forms deep underground from slowly cooling magma, giving it large crystals?",
+      "question_hi": "कौन-सी चट्टान जमीन के अंदर धीरे-धीरे ठंडे होते मैग्मा से बनती है, जिससे उसमें बड़े क्रिस्टल बनते हैं?",
+      "options_en": [
+        "Intrusive igneous rock",
+        "Extrusive igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock"
+      ],
+      "options_hi": [
+        "अंतर्वेधी आग्नेय चट्टान",
+        "बहिर्वेधी आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान"
+      ],
+      "answer_en": "Intrusive igneous rock",
+      "answer_hi": "अंतर्वेधी आग्नेय चट्टान",
+      "explanation_en": "Intrusive (plutonic) igneous rocks like granite cool slowly underground, allowing large crystals to form.",
+      "explanation_hi": "अंतर्वेधी (प्लूटोनिक) आग्नेय चट्टानें जैसे ग्रेनाइट जमीन के अंदर धीरे-धीरे ठंडी होती हैं, जिससे बड़े क्रिस्टल बनते हैं।"
+    },
+    {
+      "question_en": "Which rock forms on or near the Earth's surface from quickly cooling lava, giving it small crystals?",
+      "question_hi": "कौन-सी चट्टान पृथ्वी की सतह पर या उसके पास तेजी से ठंडे होते लावा से बनती है, जिससे छोटे क्रिस्टल बनते हैं?",
+      "options_en": [
+        "Extrusive igneous rock",
+        "Intrusive igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock"
+      ],
+      "options_hi": [
+        "बहिर्वेधी आग्नेय चट्टान",
+        "अंतर्वेधी आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान"
+      ],
+      "answer_en": "Extrusive igneous rock",
+      "answer_hi": "बहिर्वेधी आग्नेय चट्टान",
+      "explanation_en": "Extrusive (volcanic) igneous rocks like basalt cool quickly on the surface, resulting in small crystals.",
+      "explanation_hi": "बहिर्वेधी (ज्वालामुखीय) आग्नेय चट्टानें जैसे बेसाल्ट सतह पर तेजी से ठंडी होती हैं, जिससे छोटे क्रिस्टल बनते हैं।"
+    },
+    {
+      "question_en": "Coal is classified as which type of rock?",
+      "question_hi": "कोयला किस प्रकार की चट्टान के रूप में वर्गीकृत है?",
+      "options_en": [
+        "Sedimentary (organic) rock",
+        "Igneous rock",
+        "Metamorphic rock",
+        "Mineral ore"
+      ],
+      "options_hi": [
+        "अवसादी (जैविक) चट्टान",
+        "आग्नेय चट्टान",
+        "कायांतरित चट्टान",
+        "खनिज अयस्क"
+      ],
+      "answer_en": "Sedimentary (organic) rock",
+      "answer_hi": "अवसादी (जैविक) चट्टान",
+      "explanation_en": "Coal is an organic sedimentary rock formed from compressed and heated ancient plant material.",
+      "explanation_hi": "कोयला संकुचित और तप्त प्राचीन वनस्पति सामग्री से बनी एक जैविक अवसादी चट्टान है।"
+    },
+    {
+      "question_en": "Quartzite is a metamorphic rock formed from which sedimentary rock?",
+      "question_hi": "क्वार्टजाइट (Quartzite) किस अवसादी चट्टान से बनी कायांतरित चट्टान है?",
+      "options_en": [
+        "Sandstone",
+        "Limestone",
+        "Shale",
+        "Conglomerate"
+      ],
+      "options_hi": [
+        "बलुआ पत्थर",
+        "चूना पत्थर",
+        "शेल",
+        "समूह चट्टान"
+      ],
+      "answer_en": "Sandstone",
+      "answer_hi": "बलुआ पत्थर",
+      "explanation_en": "Quartzite forms when sandstone is subjected to heat and pressure, fusing its quartz grains together.",
+      "explanation_hi": "क्वार्टजाइट तब बनती है जब बलुआ पत्थर पर ताप और दाब पड़ता है, जिससे उसके क्वार्ट्ज कण आपस में जुड़ जाते हैं।"
+    },
+    {
+      "question_en": "Which layer of the Earth is molten rock (magma) primarily found in before an eruption?",
+      "question_hi": "विस्फोट से पहले पिघली हुई चट्टान (मैग्मा) मुख्यतः पृथ्वी की किस परत में पाई जाती है?",
+      "options_en": [
+        "Mantle",
+        "Crust surface",
+        "Outer core",
+        "Inner core"
+      ],
+      "options_hi": [
+        "मैंटल",
+        "भू-पर्पटी की सतह",
+        "बाहरी क्रोड",
+        "आंतरिक क्रोड"
+      ],
+      "answer_en": "Mantle",
+      "answer_hi": "मैंटल",
+      "explanation_en": "Magma primarily originates in the upper mantle and lower crust before rising toward the surface.",
+      "explanation_hi": "मैग्मा मुख्यतः ऊपरी मैंटल और निचली भू-पर्पटी में उत्पन्न होता है, इससे पहले कि यह सतह की ओर उठे।"
+    },
+    {
+      "question_en": "Chalk, used for writing, is a soft, white type of which rock?",
+      "question_hi": "लिखने में प्रयुक्त चॉक (Chalk) किस चट्टान का नरम, सफेद प्रकार है?",
+      "options_en": [
+        "Limestone",
+        "Granite",
+        "Basalt",
+        "Slate"
+      ],
+      "options_hi": [
+        "चूना पत्थर",
+        "ग्रेनाइट",
+        "बेसाल्ट",
+        "स्लेट"
+      ],
+      "answer_en": "Limestone",
+      "answer_hi": "चूना पत्थर",
+      "explanation_en": "Chalk is a soft, fine-grained form of limestone made mostly of calcium carbonate from microscopic marine organisms.",
+      "explanation_hi": "चॉक चूना पत्थर का एक नरम, बारीक रूप है जो सूक्ष्म समुद्री जीवों से बने कैल्शियम कार्बोनेट से बना होता है।"
+    },
+    {
+      "question_en": "Which mineral gives granite its pink or reddish color in some samples?",
+      "question_hi": "कुछ नमूनों में ग्रेनाइट को गुलाबी या लालिमा युक्त रंग कौन-सा खनिज देता है?",
+      "options_en": [
+        "Feldspar",
+        "Quartz",
+        "Mica",
+        "Olivine"
+      ],
+      "options_hi": [
+        "फेल्डस्पार",
+        "क्वार्ट्ज",
+        "अभ्रक",
+        "ओलिवाइन"
+      ],
+      "answer_en": "Feldspar",
+      "answer_hi": "फेल्डस्पार",
+      "explanation_en": "Potassium feldspar crystals in granite often give it a pink or reddish tint.",
+      "explanation_hi": "ग्रेनाइट में पोटैशियम फेल्डस्पार के क्रिस्टल अक्सर उसे गुलाबी या लाल रंगत देते हैं।"
+    },
+    {
+      "question_en": "Conglomerate is a sedimentary rock made of ____.",
+      "question_hi": "समूह चट्टान (Conglomerate) ____ से बनी एक अवसादी चट्टान है।",
+      "options_en": [
+        "Rounded pebbles cemented together",
+        "Volcanic ash only",
+        "Cooled lava",
+        "Crystallized minerals only"
+      ],
+      "options_hi": [
+        "गोल कंकड़ों का सीमेंटीकरण",
+        "केवल ज्वालामुखीय राख",
+        "ठंडा हुआ लावा",
+        "केवल क्रिस्टलीकृत खनिज"
+      ],
+      "answer_en": "Rounded pebbles cemented together",
+      "answer_hi": "गोल कंकड़ों का सीमेंटीकरण",
+      "explanation_en": "Conglomerate forms when rounded gravel and pebbles are cemented together by finer sediment.",
+      "explanation_hi": "समूह चट्टान तब बनती है जब गोल बजरी और कंकड़ बारीक अवसाद द्वारा आपस में जुड़ जाते हैं।"
+    },
+    {
+      "question_en": "Mount Vesuvius, famous for destroying Pompeii in 79 AD, is located in which country?",
+      "question_hi": "79 ईस्वी में पोम्पेई को नष्ट करने के लिए प्रसिद्ध माउंट वेसुवियस किस देश में स्थित है?",
+      "options_en": [
+        "Italy",
+        "Greece",
+        "Spain",
+        "France"
+      ],
+      "options_hi": [
+        "इटली",
+        "ग्रीस",
+        "स्पेन",
+        "फ्रांस"
+      ],
+      "answer_en": "Italy",
+      "answer_hi": "इटली",
+      "explanation_en": "Mount Vesuvius is located near Naples, Italy, and its 79 AD eruption buried the Roman city of Pompeii.",
+      "explanation_hi": "माउंट वेसुवियस इटली के नेपल्स के पास स्थित है, और इसके 79 ईस्वी के विस्फोट ने रोमन शहर पोम्पेई को दबा दिया था।"
+    },
+    {
+      "question_en": "Mount Fuji, an iconic stratovolcano, is located in which country?",
+      "question_hi": "एक प्रतिष्ठित स्ट्रैटोवोल्केनो, माउंट फ़ूजी किस देश में स्थित है?",
+      "options_en": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Philippines"
+      ],
+      "options_hi": [
+        "जापान",
+        "चीन",
+        "दक्षिण कोरिया",
+        "फिलीपींस"
+      ],
+      "answer_en": "Japan",
+      "answer_hi": "जापान",
+      "explanation_en": "Mount Fuji is Japan's highest peak and an active stratovolcano, considered a sacred symbol of the country.",
+      "explanation_hi": "माउंट फ़ूजी जापान की सबसे ऊंची चोटी और एक सक्रिय स्ट्रैटोवोल्केनो है, जिसे देश का पवित्र प्रतीक माना जाता है।"
+    },
+    {
+      "question_en": "Krakatoa, known for its catastrophic 1883 eruption, is located in which country?",
+      "question_hi": "अपने विनाशकारी 1883 के विस्फोट के लिए प्रसिद्ध क्राकाटोआ किस देश में स्थित है?",
+      "options_en": [
+        "Indonesia",
+        "Philippines",
+        "Malaysia",
+        "Thailand"
+      ],
+      "options_hi": [
+        "इंडोनेशिया",
+        "फिलीपींस",
+        "मलेशिया",
+        "थाईलैंड"
+      ],
+      "answer_en": "Indonesia",
+      "answer_hi": "इंडोनेशिया",
+      "explanation_en": "Krakatoa is a volcanic island in Indonesia; its 1883 eruption was one of the most powerful in recorded history.",
+      "explanation_hi": "क्राकाटोआ इंडोनेशिया का एक ज्वालामुखी द्वीप है; इसका 1883 का विस्फोट दर्ज इतिहास के सबसे शक्तिशाली विस्फोटों में से एक था।"
+    },
+    {
+      "question_en": "Mount St. Helens, which erupted dramatically in 1980, is located in which country?",
+      "question_hi": "माउंट सेंट हेलेंस, जिसमें 1980 में भारी विस्फोट हुआ था, किस देश में स्थित है?",
+      "options_en": [
+        "United States",
+        "Canada",
+        "Mexico",
+        "Chile"
+      ],
+      "options_hi": [
+        "संयुक्त राज्य अमेरिका",
+        "कनाडा",
+        "मेक्सिको",
+        "चिली"
+      ],
+      "answer_en": "United States",
+      "answer_hi": "संयुक्त राज्य अमेरिका",
+      "explanation_en": "Mount St. Helens is in Washington state, USA; its 1980 eruption was the deadliest in U.S. history.",
+      "explanation_hi": "माउंट सेंट हेलेंस अमेरिका के वाशिंगटन राज्य में है; इसका 1980 का विस्फोट अमेरिकी इतिहास का सबसे घातक विस्फोट था।"
+    },
+    {
+      "question_en": "Mauna Loa, one of the largest active volcanoes on Earth, is located in which U.S. state?",
+      "question_hi": "पृथ्वी के सबसे बड़े सक्रिय ज्वालामुखियों में से एक, मौना लोआ किस अमेरिकी राज्य में स्थित है?",
+      "options_en": [
+        "Hawaii",
+        "Alaska",
+        "California",
+        "Oregon"
+      ],
+      "options_hi": [
+        "हवाई",
+        "अलास्का",
+        "कैलिफ़ोर्निया",
+        "ओरेगन"
+      ],
+      "answer_en": "Hawaii",
+      "answer_hi": "हवाई",
+      "explanation_en": "Mauna Loa, located on the Big Island of Hawaii, is one of the largest volcanoes on Earth by volume.",
+      "explanation_hi": "मौना लोआ, हवाई के बिग आइलैंड पर स्थित, आयतन के हिसाब से पृथ्वी के सबसे बड़े ज्वालामुखियों में से एक है।"
+    },
+    {
+      "question_en": "Mount Etna, one of the most active volcanoes in the world, is located on which island?",
+      "question_hi": "दुनिया के सबसे सक्रिय ज्वालामुखियों में से एक, माउंट एटना किस द्वीप पर स्थित है?",
+      "options_en": [
+        "Sicily",
+        "Sardinia",
+        "Crete",
+        "Cyprus"
+      ],
+      "options_hi": [
+        "सिसिली",
+        "सार्डिनिया",
+        "क्रीट",
+        "साइप्रस"
+      ],
+      "answer_en": "Sicily",
+      "answer_hi": "सिसिली",
+      "explanation_en": "Mount Etna is located on the island of Sicily, Italy, and is one of the most continuously active volcanoes.",
+      "explanation_hi": "माउंट एटना इटली के सिसिली द्वीप पर स्थित है और यह सबसे लगातार सक्रिय ज्वालामुखियों में से एक है।"
+    },
+    {
+      "question_en": "Kilauea, one of the most active volcanoes in the world, is located in ____.",
+      "question_hi": "दुनिया के सबसे सक्रिय ज्वालामुखियों में से एक, किलाउआ (Kilauea) ____ में स्थित है।",
+      "options_en": [
+        "Hawaii",
+        "Iceland",
+        "Japan",
+        "Indonesia"
+      ],
+      "options_hi": [
+        "हवाई",
+        "आइसलैंड",
+        "जापान",
+        "इंडोनेशिया"
+      ],
+      "answer_en": "Hawaii",
+      "answer_hi": "हवाई",
+      "explanation_en": "Kilauea is a highly active shield volcano on the Big Island of Hawaii.",
+      "explanation_hi": "किलाउआ हवाई के बिग आइलैंड पर एक अत्यधिक सक्रिय शील्ड ज्वालामुखी है।"
+    },
+    {
+      "question_en": "Which volcano in the Philippines had a massive eruption in 1991, one of the largest of the 20th century?",
+      "question_hi": "फिलीपींस के किस ज्वालामुखी में 1991 में भारी विस्फोट हुआ था, जो 20वीं सदी के सबसे बड़े विस्फोटों में से एक था?",
+      "options_en": [
+        "Mount Pinatubo",
+        "Mount Mayon",
+        "Mount Apo",
+        "Taal Volcano"
+      ],
+      "options_hi": [
+        "माउंट पिनातुबो",
+        "माउंट मायोन",
+        "माउंट अपो",
+        "ताल ज्वालामुखी"
+      ],
+      "answer_en": "Mount Pinatubo",
+      "answer_hi": "माउंट पिनातुबो",
+      "explanation_en": "Mount Pinatubo's 1991 eruption was one of the largest volcanic eruptions of the 20th century, affecting global climate.",
+      "explanation_hi": "माउंट पिनातुबो का 1991 का विस्फोट 20वीं सदी के सबसे बड़े ज्वालामुखी विस्फोटों में से एक था, जिसने वैश्विक जलवायु को प्रभावित किया।"
+    },
+    {
+      "question_en": "Cotopaxi, one of the highest active volcanoes in the world, is located in which country?",
+      "question_hi": "दुनिया के सबसे ऊंचे सक्रिय ज्वालामुखियों में से एक, कोटोपैक्सी किस देश में स्थित है?",
+      "options_en": [
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Colombia"
+      ],
+      "options_hi": [
+        "इक्वाडोर",
+        "पेरू",
+        "बोलीविया",
+        "कोलंबिया"
+      ],
+      "answer_en": "Ecuador",
+      "answer_hi": "इक्वाडोर",
+      "explanation_en": "Cotopaxi is a stratovolcano located in the Andes Mountains of Ecuador.",
+      "explanation_hi": "कोटोपैक्सी इक्वाडोर के एंडीज़ पर्वतों में स्थित एक स्ट्रैटोवोल्केनो है।"
+    },
+    {
+      "question_en": "Popocatepetl, an active volcano near Mexico City, is located in which country?",
+      "question_hi": "मेक्सिको सिटी के पास स्थित सक्रिय ज्वालामुखी पोपोकाटेपेटल किस देश में है?",
+      "options_en": [
+        "Mexico",
+        "Guatemala",
+        "Chile",
+        "Peru"
+      ],
+      "options_hi": [
+        "मेक्सिको",
+        "ग्वाटेमाला",
+        "चिली",
+        "पेरू"
+      ],
+      "answer_en": "Mexico",
+      "answer_hi": "मेक्सिको",
+      "explanation_en": "Popocatepetl is one of Mexico's most active volcanoes, located close to Mexico City.",
+      "explanation_hi": "पोपोकाटेपेटल मेक्सिको के सबसे सक्रिय ज्वालामुखियों में से एक है, जो मेक्सिको सिटी के पास स्थित है।"
+    },
+    {
+      "question_en": "Stromboli, known as the 'Lighthouse of the Mediterranean' for its continuous eruptions, is located in which country?",
+      "question_hi": "अपने निरंतर विस्फोटों के लिए 'भूमध्यसागर का प्रकाशस्तंभ' कहलाने वाला स्ट्रोम्बोली किस देश में स्थित है?",
+      "options_en": [
+        "Italy",
+        "Greece",
+        "Turkey",
+        "Malta"
+      ],
+      "options_hi": [
+        "इटली",
+        "ग्रीस",
+        "तुर्की",
+        "माल्टा"
+      ],
+      "answer_en": "Italy",
+      "answer_hi": "इटली",
+      "explanation_en": "Stromboli is a small volcanic island off the coast of Italy, famous for near-continuous mild eruptions.",
+      "explanation_hi": "स्ट्रोम्बोली इटली के तट के पास एक छोटा ज्वालामुखी द्वीप है, जो लगभग निरंतर हल्के विस्फोटों के लिए प्रसिद्ध है।"
+    },
+    {
+      "question_en": "Yellowstone Caldera, a supervolcano, is located in which country?",
+      "question_hi": "एक सुपरज्वालामुखी, यलोस्टोन काल्डेरा किस देश में स्थित है?",
+      "options_en": [
+        "United States",
+        "Canada",
+        "Iceland",
+        "Russia"
+      ],
+      "options_hi": [
+        "संयुक्त राज्य अमेरिका",
+        "कनाडा",
+        "आइसलैंड",
+        "रूस"
+      ],
+      "answer_en": "United States",
+      "answer_hi": "संयुक्त राज्य अमेरिका",
+      "explanation_en": "Yellowstone Caldera in Wyoming, USA, is one of the world's largest active supervolcano systems.",
+      "explanation_hi": "अमेरिका के व्योमिंग में स्थित यलोस्टोन काल्डेरा दुनिया के सबसे बड़े सक्रिय सुपरज्वालामुखी तंत्रों में से एक है।"
+    },
+    {
+      "question_en": "Anak Krakatau, which erupted causing a deadly tsunami in 2018, is located in which country?",
+      "question_hi": "अनक क्राकाटाओ, जिसमें 2018 में विस्फोट से घातक सुनामी आई थी, किस देश में स्थित है?",
+      "options_en": [
+        "Indonesia",
+        "Philippines",
+        "Japan",
+        "Papua New Guinea"
+      ],
+      "options_hi": [
+        "इंडोनेशिया",
+        "फिलीपींस",
+        "जापान",
+        "पापुआ न्यू गिनी"
+      ],
+      "answer_en": "Indonesia",
+      "answer_hi": "इंडोनेशिया",
+      "explanation_en": "Anak Krakatau ('Child of Krakatoa') is a volcanic island in the Sunda Strait, Indonesia.",
+      "explanation_hi": "अनक क्राकाटाओ ('क्राकाटोआ का बच्चा') इंडोनेशिया के सुंडा जलडमरूमध्य में स्थित एक ज्वालामुखी द्वीप है।"
+    },
+    {
+      "question_en": "Which is the only active volcano on the Indian subcontinent, located on Barren Island?",
+      "question_hi": "बैरन द्वीप पर स्थित भारतीय उपमहाद्वीप का एकमात्र सक्रिय ज्वालामुखी कौन-सा है?",
+      "options_en": [
+        "Barren Island Volcano",
+        "Narcondam Volcano",
+        "Deccan Volcano",
+        "Saddle Peak Volcano"
+      ],
+      "options_hi": [
+        "बैरन द्वीप ज्वालामुखी",
+        "नारकोंडम ज्वालामुखी",
+        "दक्कन ज्वालामुखी",
+        "सैडल पीक ज्वालामुखी"
+      ],
+      "answer_en": "Barren Island Volcano",
+      "answer_hi": "बैरन द्वीप ज्वालामुखी",
+      "explanation_en": "The Barren Island Volcano in the Andaman Islands, India, is the only confirmed active volcano in South Asia.",
+      "explanation_hi": "भारत के अंडमान द्वीप समूह में स्थित बैरन द्वीप ज्वालामुखी दक्षिण एशिया का एकमात्र पुष्टि किया गया सक्रिय ज्वालामुखी है।"
+    },
+    {
+      "question_en": "Mount Merapi, one of Indonesia's most active volcanoes, is located on which island?",
+      "question_hi": "इंडोनेशिया के सबसे सक्रिय ज्वालामुखियों में से एक, माउंट मेरापी किस द्वीप पर स्थित है?",
+      "options_en": [
+        "Java",
+        "Sumatra",
+        "Bali",
+        "Borneo"
+      ],
+      "options_hi": [
+        "जावा",
+        "सुमात्रा",
+        "बाली",
+        "बोर्नियो"
+      ],
+      "answer_en": "Java",
+      "answer_hi": "जावा",
+      "explanation_en": "Mount Merapi is located on the island of Java, Indonesia, and is one of the country's most active volcanoes.",
+      "explanation_hi": "माउंट मेरापी इंडोनेशिया के जावा द्वीप पर स्थित है और यह देश के सबसे सक्रिय ज्वालामुखियों में से एक है।"
+    },
+    {
+      "question_en": "Which volcano in Iceland caused major flight disruptions across Europe in 2010?",
+      "question_hi": "आइसलैंड के किस ज्वालामुखी ने 2010 में पूरे यूरोप में बड़े पैमाने पर उड़ानों में व्यवधान डाला था?",
+      "options_en": [
+        "Eyjafjallajokull",
+        "Hekla",
+        "Katla",
+        "Askja"
+      ],
+      "options_hi": [
+        "आइजफ्जाल्लायोकुल",
+        "हेक्ला",
+        "काटला",
+        "आस्क्जा"
+      ],
+      "answer_en": "Eyjafjallajokull",
+      "answer_hi": "आइजफ्जाल्लायोकुल",
+      "explanation_en": "The 2010 eruption of Eyjafjallajokull in Iceland released huge ash clouds, disrupting European air travel for weeks.",
+      "explanation_hi": "2010 में आइसलैंड के आइजफ्जाल्लायोकुल के विस्फोट ने भारी राख के बादल छोड़े, जिससे कई सप्ताह तक यूरोपीय हवाई यात्रा बाधित रही।"
+    },
+    {
+      "question_en": "Mount Kilimanjaro, Africa's highest peak, is a dormant volcano located in which country?",
+      "question_hi": "अफ्रीका की सबसे ऊंची चोटी, माउंट किलिमंजारो, किस देश में स्थित एक निष्क्रिय ज्वालामुखी है?",
+      "options_en": [
+        "Tanzania",
+        "Kenya",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "options_hi": [
+        "तंजानिया",
+        "केन्या",
+        "युगांडा",
+        "इथियोपिया"
+      ],
+      "answer_en": "Tanzania",
+      "answer_hi": "तंजानिया",
+      "explanation_en": "Mount Kilimanjaro is a dormant stratovolcano in Tanzania and the highest mountain in Africa.",
+      "explanation_hi": "माउंट किलिमंजारो तंजानिया में स्थित एक निष्क्रिय स्ट्रैटोवोल्केनो और अफ्रीका का सबसे ऊंचा पर्वत है।"
+    },
+    {
+      "question_en": "Mount Nyiragongo, known for its persistent lava lake, is located in which country?",
+      "question_hi": "अपनी स्थायी लावा झील के लिए प्रसिद्ध माउंट न्यिरागोंगो किस देश में स्थित है?",
+      "options_en": [
+        "Democratic Republic of Congo",
+        "Kenya",
+        "Tanzania",
+        "Rwanda"
+      ],
+      "options_hi": [
+        "कांगो लोकतांत्रिक गणराज्य",
+        "केन्या",
+        "तंजानिया",
+        "रवांडा"
+      ],
+      "answer_en": "Democratic Republic of Congo",
+      "answer_hi": "कांगो लोकतांत्रिक गणराज्य",
+      "explanation_en": "Mount Nyiragongo in the DR Congo has one of the largest and most active lava lakes in the world.",
+      "explanation_hi": "कांगो लोकतांत्रिक गणराज्य में स्थित माउंट न्यिरागोंगो में दुनिया की सबसे बड़ी और सबसे सक्रिय लावा झीलों में से एक है।"
+    },
+    {
+      "question_en": "Which volcano is known as the tallest active volcano in Europe?",
+      "question_hi": "यूरोप का सबसे ऊंचा सक्रिय ज्वालामुखी किसे कहा जाता है?",
+      "options_en": [
+        "Mount Etna",
+        "Mount Vesuvius",
+        "Stromboli",
+        "Mount Fuji"
+      ],
+      "options_hi": [
+        "माउंट एटना",
+        "माउंट वेसुवियस",
+        "स्ट्रोम्बोली",
+        "माउंट फ़ूजी"
+      ],
+      "answer_en": "Mount Etna",
+      "answer_hi": "माउंट एटना",
+      "explanation_en": "Mount Etna in Sicily is the tallest and one of the most active volcanoes in Europe.",
+      "explanation_hi": "सिसिली में स्थित माउंट एटना यूरोप का सबसे ऊंचा और सबसे सक्रिय ज्वालामुखियों में से एक है।"
+    },
+    {
+      "question_en": "Mount Tambora, whose 1815 eruption caused the 'Year Without a Summer', is located in which country?",
+      "question_hi": "माउंट तंबोरा, जिसके 1815 के विस्फोट के कारण 'बिना गर्मी का वर्ष' आया, किस देश में स्थित है?",
+      "options_en": [
+        "Indonesia",
+        "Philippines",
+        "Papua New Guinea",
+        "Japan"
+      ],
+      "options_hi": [
+        "इंडोनेशिया",
+        "फिलीपींस",
+        "पापुआ न्यू गिनी",
+        "जापान"
+      ],
+      "answer_en": "Indonesia",
+      "answer_hi": "इंडोनेशिया",
+      "explanation_en": "Mount Tambora's 1815 eruption in Indonesia was the most powerful in recorded history, affecting global climate for years.",
+      "explanation_hi": "इंडोनेशिया में माउंट तंबोरा का 1815 का विस्फोट दर्ज इतिहास का सबसे शक्तिशाली विस्फोट था, जिसने वर्षों तक वैश्विक जलवायु को प्रभावित किया।"
+    },
+    {
+      "question_en": "Ojos del Salado, the highest active volcano in the world, is located between which two countries?",
+      "question_hi": "दुनिया का सबसे ऊंचा सक्रिय ज्वालामुखी, ओजोस डेल सालाडो, किन दो देशों के बीच स्थित है?",
+      "options_en": [
+        "Chile and Argentina",
+        "Peru and Bolivia",
+        "Ecuador and Colombia",
+        "Brazil and Chile"
+      ],
+      "options_hi": [
+        "चिली और अर्जेंटीना",
+        "पेरू और बोलीविया",
+        "इक्वाडोर और कोलंबिया",
+        "ब्राज़ील और चिली"
+      ],
+      "answer_en": "Chile and Argentina",
+      "answer_hi": "चिली और अर्जेंटीना",
+      "explanation_en": "Ojos del Salado sits on the border of Chile and Argentina and is the highest active volcano on Earth.",
+      "explanation_hi": "ओजोस डेल सालाडो चिली और अर्जेंटीना की सीमा पर स्थित है और पृथ्वी का सबसे ऊंचा सक्रिय ज्वालामुखी है।"
+    },
+    {
+      "question_en": "Mount Rainier, a major stratovolcano near Seattle, is located in which country?",
+      "question_hi": "सिएटल के पास स्थित एक प्रमुख स्ट्रैटोवोल्केनो, माउंट रेनियर किस देश में है?",
+      "options_en": [
+        "United States",
+        "Canada",
+        "Mexico",
+        "Japan"
+      ],
+      "options_hi": [
+        "संयुक्त राज्य अमेरिका",
+        "कनाडा",
+        "मेक्सिको",
+        "जापान"
+      ],
+      "answer_en": "United States",
+      "answer_hi": "संयुक्त राज्य अमेरिका",
+      "explanation_en": "Mount Rainier is a stratovolcano in Washington state, USA, considered one of the most dangerous volcanoes due to nearby population.",
+      "explanation_hi": "माउंट रेनियर अमेरिका के वाशिंगटन राज्य में एक स्ट्रैटोवोल्केनो है, जिसे आसपास की आबादी के कारण सबसे खतरनाक ज्वालामुखियों में से एक माना जाता है।"
+    },
+    {
+      "question_en": "Which volcano destroyed the Minoan settlement on the island of Santorini in ancient Greece?",
+      "question_hi": "प्राचीन ग्रीस में सैंटोरिनी द्वीप पर मिनोअन बस्ती को किस ज्वालामुखी ने नष्ट किया था?",
+      "options_en": [
+        "Thera (Santorini) Volcano",
+        "Mount Olympus",
+        "Mount Etna",
+        "Nisyros Volcano"
+      ],
+      "options_hi": [
+        "थेरा (सैंटोरिनी) ज्वालामुखी",
+        "माउंट ओलंपस",
+        "माउंट एटना",
+        "निसिरोस ज्वालामुखी"
+      ],
+      "answer_en": "Thera (Santorini) Volcano",
+      "answer_hi": "थेरा (सैंटोरिनी) ज्वालामुखी",
+      "explanation_en": "The massive Thera eruption around 1600 BC devastated the Minoan settlement on Santorini and shaped its caldera.",
+      "explanation_hi": "लगभग 1600 ईसा पूर्व थेरा के भीषण विस्फोट ने सैंटोरिनी पर मिनोअन बस्ती को तबाह कर दिया और इसकी काल्डेरा को आकार दिया।"
+    },
+    {
+      "question_en": "Which volcanic mountain range runs along the western coast of South America?",
+      "question_hi": "दक्षिण अमेरिका के पश्चिमी तट पर कौन-सी ज्वालामुखीय पर्वत श्रृंखला फैली है?",
+      "options_en": [
+        "The Andes",
+        "The Rockies",
+        "The Alps",
+        "The Urals"
+      ],
+      "options_hi": [
+        "एंडीज़",
+        "रॉकीज़",
+        "आल्प्स",
+        "यूराल"
+      ],
+      "answer_en": "The Andes",
+      "answer_hi": "एंडीज़",
+      "explanation_en": "The Andes mountain range hosts numerous active volcanoes along South America's western coast.",
+      "explanation_hi": "एंडीज़ पर्वत श्रृंखला दक्षिण अमेरिका के पश्चिमी तट पर कई सक्रिय ज्वालामुखियों को समेटे हुए है।"
+    },
+    {
+      "question_en": "Mount Bromo, a popular tourist attraction volcano, is located in which country?",
+      "question_hi": "एक लोकप्रिय पर्यटक आकर्षण ज्वालामुखी, माउंट ब्रोमो किस देश में स्थित है?",
+      "options_en": [
+        "Indonesia",
+        "Malaysia",
+        "Thailand",
+        "Vietnam"
+      ],
+      "options_hi": [
+        "इंडोनेशिया",
+        "मलेशिया",
+        "थाईलैंड",
+        "वियतनाम"
+      ],
+      "answer_en": "Indonesia",
+      "answer_hi": "इंडोनेशिया",
+      "explanation_en": "Mount Bromo is an active volcano in East Java, Indonesia, famous for its dramatic sunrise views.",
+      "explanation_hi": "माउंट ब्रोमो इंडोनेशिया के पूर्वी जावा में एक सक्रिय ज्वालामुखी है, जो अपने शानदार सूर्योदय दृश्यों के लिए प्रसिद्ध है।"
+    },
+    {
+      "question_en": "The opening in the Earth's crust through which lava, ash, and gases erupt is called a ____.",
+      "question_hi": "पृथ्वी की पर्पटी में वह छिद्र जिससे लावा, राख और गैसें बाहर निकलती हैं, ____ कहलाता है।",
+      "options_en": [
+        "Volcanic vent",
+        "Fault line",
+        "Trench",
+        "Delta"
+      ],
+      "options_hi": [
+        "ज्वालामुखीय छिद्र (वेंट)",
+        "भ्रंश रेखा",
+        "गर्त",
+        "डेल्टा"
+      ],
+      "answer_en": "Volcanic vent",
+      "answer_hi": "ज्वालामुखीय छिद्र",
+      "explanation_en": "A volcanic vent is the opening at the Earth's surface through which volcanic material is expelled.",
+      "explanation_hi": "ज्वालामुखीय छिद्र पृथ्वी की सतह पर वह उद्घाटन है जिससे ज्वालामुखीय पदार्थ बाहर निकलता है।"
+    },
+    {
+      "question_en": "Molten rock beneath the Earth's surface is called ____, while it is called ____ once it erupts onto the surface.",
+      "question_hi": "पृथ्वी की सतह के नीचे पिघली हुई चट्टान को ____ कहते हैं, जबकि सतह पर आने के बाद इसे ____ कहा जाता है।",
+      "options_en": [
+        "Magma; Lava",
+        "Lava; Magma",
+        "Ash; Magma",
+        "Magma; Ash"
+      ],
+      "options_hi": [
+        "मैग्मा; लावा",
+        "लावा; मैग्मा",
+        "राख; मैग्मा",
+        "मैग्मा; राख"
+      ],
+      "answer_en": "Magma; Lava",
+      "answer_hi": "मैग्मा; लावा",
+      "explanation_en": "Magma is molten rock underground; once it erupts onto the surface, it is called lava.",
+      "explanation_hi": "मैग्मा जमीन के नीचे पिघली हुई चट्टान है; सतह पर फूटने के बाद इसे लावा कहा जाता है।"
+    },
+    {
+      "question_en": "The large depression formed after a volcanic eruption empties a magma chamber is called a ____.",
+      "question_hi": "ज्वालामुखी विस्फोट के बाद मैग्मा कक्ष खाली होने से बना बड़ा गड्ढा ____ कहलाता है।",
+      "options_en": [
+        "Caldera",
+        "Crater",
+        "Fissure",
+        "Sill"
+      ],
+      "options_hi": [
+        "काल्डेरा",
+        "क्रेटर",
+        "दरार",
+        "सिल"
+      ],
+      "answer_en": "Caldera",
+      "answer_hi": "काल्डेरा",
+      "explanation_en": "A caldera is a large depression formed when a volcano's magma chamber empties and the ground collapses.",
+      "explanation_hi": "काल्डेरा एक बड़ा गड्ढा है जो तब बनता है जब ज्वालामुखी का मैग्मा कक्ष खाली हो जाता है और जमीन धंस जाती है।"
+    },
+    {
+      "question_en": "A volcano that has not erupted in recorded history but could erupt again is called ____.",
+      "question_hi": "ऐसा ज्वालामुखी जिसमें दर्ज इतिहास में विस्फोट नहीं हुआ है लेकिन फिर से फूट सकता है, ____ कहलाता है।",
+      "options_en": [
+        "Dormant volcano",
+        "Active volcano",
+        "Extinct volcano",
+        "Shield volcano"
+      ],
+      "options_hi": [
+        "निष्क्रिय ज्वालामुखी",
+        "सक्रिय ज्वालामुखी",
+        "मृत ज्वालामुखी",
+        "शील्ड ज्वालामुखी"
+      ],
+      "answer_en": "Dormant volcano",
+      "answer_hi": "निष्क्रिय ज्वालामुखी",
+      "explanation_en": "A dormant volcano is currently inactive but has the potential to erupt again in the future.",
+      "explanation_hi": "निष्क्रिय ज्वालामुखी वर्तमान में शांत होता है लेकिन भविष्य में फिर से फूटने की संभावना रखता है।"
+    },
+    {
+      "question_en": "A volcano that is unlikely to ever erupt again is called ____.",
+      "question_hi": "ऐसा ज्वालामुखी जिसके फिर से फूटने की संभावना नहीं होती, ____ कहलाता है।",
+      "options_en": [
+        "Extinct volcano",
+        "Active volcano",
+        "Dormant volcano",
+        "Composite volcano"
+      ],
+      "options_hi": [
+        "मृत ज्वालामुखी",
+        "सक्रिय ज्वालामुखी",
+        "निष्क्रिय ज्वालामुखी",
+        "संयुक्त ज्वालामुखी"
+      ],
+      "answer_en": "Extinct volcano",
+      "answer_hi": "मृत ज्वालामुखी",
+      "explanation_en": "An extinct volcano has no magma supply and is not expected to erupt again.",
+      "explanation_hi": "मृत ज्वालामुखी में मैग्मा की आपूर्ति नहीं होती और उसके फिर से फूटने की उम्मीद नहीं होती।"
+    },
+    {
+      "question_en": "Broad, gently sloping volcanoes built from fluid basaltic lava flows are called ____ volcanoes.",
+      "question_hi": "तरल बेसाल्टिक लावा प्रवाह से बने चौड़े, हल्के ढलान वाले ज्वालामुखी ____ ज्वालामुखी कहलाते हैं।",
+      "options_en": [
+        "Shield",
+        "Composite",
+        "Cinder cone",
+        "Caldera"
+      ],
+      "options_hi": [
+        "शील्ड",
+        "संयुक्त (कंपोजिट)",
+        "सिंडर शंकु",
+        "काल्डेरा"
+      ],
+      "answer_en": "Shield",
+      "answer_hi": "शील्ड",
+      "explanation_en": "Shield volcanoes, like those in Hawaii, form from low-viscosity basaltic lava that spreads widely before cooling.",
+      "explanation_hi": "शील्ड ज्वालामुखी, जैसे हवाई के, कम श्यानता वाले बेसाल्टिक लावा से बनते हैं जो ठंडा होने से पहले व्यापक रूप से फैलता है।"
+    },
+    {
+      "question_en": "Tall, steep-sided volcanoes built from alternating layers of lava and ash are called ____ volcanoes.",
+      "question_hi": "लावा और राख की एकांतर परतों से बने ऊंचे, तीव्र ढलान वाले ज्वालामुखी ____ ज्वालामुखी कहलाते हैं।",
+      "options_en": [
+        "Composite (stratovolcano)",
+        "Shield",
+        "Cinder cone",
+        "Fissure"
+      ],
+      "options_hi": [
+        "संयुक्त (स्ट्रैटोवोल्केनो)",
+        "शील्ड",
+        "सिंडर शंकु",
+        "दरार"
+      ],
+      "answer_en": "Composite (stratovolcano)",
+      "answer_hi": "संयुक्त (स्ट्रैटोवोल्केनो)",
+      "explanation_en": "Composite volcanoes, or stratovolcanoes, are built from alternating layers of lava, ash, and rock debris, such as Mount Fuji.",
+      "explanation_hi": "संयुक्त ज्वालामुखी, या स्ट्रैटोवोल्केनो, लावा, राख और चट्टान के मलबे की एकांतर परतों से बनते हैं, जैसे माउंट फ़ूजी।"
+    },
+    {
+      "question_en": "Small, steep volcanic hills made of loose volcanic fragments are called ____.",
+      "question_hi": "ढीले ज्वालामुखीय टुकड़ों से बनी छोटी, तीव्र ढलान वाली ज्वालामुखीय पहाड़ियाँ ____ कहलाती हैं।",
+      "options_en": [
+        "Cinder cones",
+        "Shield volcanoes",
+        "Calderas",
+        "Fissures"
+      ],
+      "options_hi": [
+        "सिंडर शंकु",
+        "शील्ड ज्वालामुखी",
+        "काल्डेरा",
+        "दरारें"
+      ],
+      "answer_en": "Cinder cones",
+      "answer_hi": "सिंडर शंकु",
+      "explanation_en": "Cinder cones are small, steep-sided volcanoes formed from accumulated volcanic cinders and ash around a vent.",
+      "explanation_hi": "सिंडर शंकु एक छिद्र के चारों ओर जमा ज्वालामुखीय सिंडर और राख से बने छोटे, तीव्र ढलान वाले ज्वालामुखी हैं।"
+    },
+    {
+      "question_en": "The bowl-shaped depression at the top of a volcano's central vent is called the ____.",
+      "question_hi": "ज्वालामुखी के मुख्य छिद्र के ऊपर कटोरे के आकार का गड्ढा ____ कहलाता है।",
+      "options_en": [
+        "Crater",
+        "Caldera",
+        "Fissure",
+        "Sill"
+      ],
+      "options_hi": [
+        "क्रेटर",
+        "काल्डेरा",
+        "दरार",
+        "सिल"
+      ],
+      "answer_en": "Crater",
+      "answer_hi": "क्रेटर",
+      "explanation_en": "A crater is the bowl-shaped depression found at the summit of a volcano around its main vent, generally smaller than a caldera.",
+      "explanation_hi": "क्रेटर एक कटोरे के आकार का गड्ढा है जो ज्वालामुखी के शिखर पर उसके मुख्य छिद्र के चारों ओर पाया जाता है, जो आमतौर पर काल्डेरा से छोटा होता है।"
+    },
+    {
+      "question_en": "Fast-moving currents of hot gas and volcanic material during an eruption are called ____.",
+      "question_hi": "विस्फोट के दौरान गर्म गैस और ज्वालामुखीय पदार्थ की तेज़ गति वाली धाराएँ ____ कहलाती हैं।",
+      "options_en": [
+        "Pyroclastic flows",
+        "Lahars",
+        "Tsunamis",
+        "Geysers"
+      ],
+      "options_hi": [
+        "पायरोक्लास्टिक प्रवाह",
+        "लाहार",
+        "सुनामी",
+        "गीज़र"
+      ],
+      "answer_en": "Pyroclastic flows",
+      "answer_hi": "पायरोक्लास्टिक प्रवाह",
+      "explanation_en": "Pyroclastic flows are fast-moving, extremely hot mixtures of gas, ash, and rock that can travel at high speeds down a volcano's slopes.",
+      "explanation_hi": "पायरोक्लास्टिक प्रवाह गैस, राख और चट्टान का तेज़ गति से चलने वाला, अत्यंत गर्म मिश्रण है जो ज्वालामुखी की ढलानों पर तेज़ गति से बह सकता है।"
+    },
+    {
+      "question_en": "A volcanic mudflow made of water mixed with volcanic debris is called a ____.",
+      "question_hi": "पानी और ज्वालामुखीय मलबे के मिश्रण से बना ज्वालामुखीय कीचड़ प्रवाह ____ कहलाता है।",
+      "options_en": [
+        "Lahar",
+        "Caldera",
+        "Geyser",
+        "Fumarole"
+      ],
+      "options_hi": [
+        "लाहार",
+        "काल्डेरा",
+        "गीज़र",
+        "फ्यूमरोल"
+      ],
+      "answer_en": "Lahar",
+      "answer_hi": "लाहार",
+      "explanation_en": "A lahar is a destructive mudflow of volcanic ash, rock, and water, often triggered by eruptions or heavy rainfall on volcanic slopes.",
+      "explanation_hi": "लाहार ज्वालामुखीय राख, चट्टान और पानी का एक विनाशकारी कीचड़ प्रवाह है, जो अक्सर विस्फोट या ज्वालामुखीय ढलानों पर भारी बारिश से उत्पन्न होता है।"
+    },
+    {
+      "question_en": "An opening in the ground that emits steam and volcanic gases is called a ____.",
+      "question_hi": "जमीन में वह छिद्र जिससे भाप और ज्वालामुखीय गैसें निकलती हैं, ____ कहलाता है।",
+      "options_en": [
+        "Fumarole",
+        "Caldera",
+        "Sill",
+        "Dike"
+      ],
+      "options_hi": [
+        "फ्यूमरोल",
+        "काल्डेरा",
+        "सिल",
+        "डाइक"
+      ],
+      "answer_en": "Fumarole",
+      "answer_hi": "फ्यूमरोल",
+      "explanation_en": "A fumarole is a vent that releases steam and volcanic gases, commonly found in geothermally active areas.",
+      "explanation_hi": "फ्यूमरोल एक छिद्र है जिससे भाप और ज्वालामुखीय गैसें निकलती हैं, जो सामान्यतः भू-तापीय रूप से सक्रिय क्षेत्रों में पाया जाता है।"
+    },
+    {
+      "question_en": "Which gas is most commonly and abundantly released during volcanic eruptions?",
+      "question_hi": "ज्वालामुखी विस्फोटों के दौरान सबसे अधिक मात्रा में कौन-सी गैस निकलती है?",
+      "options_en": [
+        "Water vapor",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "options_hi": [
+        "जलवाष्प",
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "हाइड्रोजन"
+      ],
+      "answer_en": "Water vapor",
+      "answer_hi": "जलवाष्प",
+      "explanation_en": "Water vapor is the most abundant gas released during volcanic eruptions, followed by carbon dioxide and sulfur dioxide.",
+      "explanation_hi": "जलवाष्प ज्वालामुखी विस्फोटों के दौरान निकलने वाली सबसे प्रचुर गैस है, इसके बाद कार्बन डाइऑक्साइड और सल्फर डाइऑक्साइड आते हैं।"
+    },
+    {
+      "question_en": "The theory that Earth's crust is divided into moving plates, causing volcanic and seismic activity, is called ____.",
+      "question_hi": "यह सिद्धांत कि पृथ्वी की पर्पटी गतिशील प्लेटों में विभाजित है, जिससे ज्वालामुखीय और भूकंपीय गतिविधि होती है, ____ कहलाता है।",
+      "options_en": [
+        "Plate tectonics",
+        "Continental drift only",
+        "Rock cycle theory",
+        "Erosion theory"
+      ],
+      "options_hi": [
+        "प्लेट विवर्तनिकी",
+        "केवल महाद्वीपीय बहाव",
+        "शैल चक्र सिद्धांत",
+        "अपरदन सिद्धांत"
+      ],
+      "answer_en": "Plate tectonics",
+      "answer_hi": "प्लेट विवर्तनिकी",
+      "explanation_en": "Plate tectonics explains how Earth's lithosphere is divided into plates whose movement causes most volcanic and seismic activity.",
+      "explanation_hi": "प्लेट विवर्तनिकी बताती है कि पृथ्वी का स्थलमंडल प्लेटों में विभाजित है जिनकी गति अधिकांश ज्वालामुखीय और भूकंपीय गतिविधि का कारण बनती है।"
+    },
+    {
+      "question_en": "The zone around the Pacific Ocean with frequent earthquakes and volcanic eruptions is called the ____.",
+      "question_hi": "प्रशांत महासागर के चारों ओर वह क्षेत्र जहाँ बार-बार भूकंप और ज्वालामुखी विस्फोट होते हैं, ____ कहलाता है।",
+      "options_en": [
+        "Ring of Fire",
+        "Fault Belt",
+        "Volcanic Corridor",
+        "Seismic Circle"
+      ],
+      "options_hi": [
+        "रिंग ऑफ फायर",
+        "फॉल्ट बेल्ट",
+        "ज्वालामुखीय गलियारा",
+        "भूकंपीय वृत्त"
+      ],
+      "answer_en": "Ring of Fire",
+      "answer_hi": "रिंग ऑफ फायर",
+      "explanation_en": "The Ring of Fire is a horseshoe-shaped zone around the Pacific Ocean known for intense volcanic and seismic activity.",
+      "explanation_hi": "रिंग ऑफ फायर प्रशांत महासागर के चारों ओर घोड़े की नाल के आकार का क्षेत्र है जो तीव्र ज्वालामुखीय और भूकंपीय गतिविधि के लिए जाना जाता है।"
+    },
+    {
+      "question_en": "Volcanoes formed at the boundary where one tectonic plate slides beneath another are typically found at ____ boundaries.",
+      "question_hi": "एक टेक्टोनिक प्लेट के दूसरी के नीचे खिसकने की सीमा पर बने ज्वालामुखी आमतौर पर ____ सीमाओं पर पाए जाते हैं।",
+      "options_en": [
+        "Convergent (subduction zone)",
+        "Divergent",
+        "Transform",
+        "Passive"
+      ],
+      "options_hi": [
+        "अभिसारी (सबडक्शन जोन)",
+        "अपसारी",
+        "रूपांतरण",
+        "निष्क्रिय"
+      ],
+      "answer_en": "Convergent (subduction zone)",
+      "answer_hi": "अभिसारी (सबडक्शन जोन)",
+      "explanation_en": "Volcanoes at convergent boundaries form when one plate subducts beneath another, generating magma that rises to the surface.",
+      "explanation_hi": "अभिसारी सीमाओं पर ज्वालामुखी तब बनते हैं जब एक प्लेट दूसरी के नीचे धंसती है, जिससे मैग्मा उत्पन्न होता है जो सतह की ओर उठता है।"
+    },
+    {
+      "question_en": "Underwater volcanoes along mid-ocean ridges are formed at ____ plate boundaries.",
+      "question_hi": "मध्य-महासागरीय कटकों के साथ पानी के नीचे के ज्वालामुखी ____ प्लेट सीमाओं पर बनते हैं।",
+      "options_en": [
+        "Divergent",
+        "Convergent",
+        "Transform",
+        "Passive"
+      ],
+      "options_hi": [
+        "अपसारी",
+        "अभिसारी",
+        "रूपांतरण",
+        "निष्क्रिय"
+      ],
+      "answer_en": "Divergent",
+      "answer_hi": "अपसारी",
+      "explanation_en": "At divergent boundaries, plates move apart, allowing magma to rise and form new crust, often creating underwater volcanoes.",
+      "explanation_hi": "अपसारी सीमाओं पर, प्लेटें एक-दूसरे से दूर जाती हैं, जिससे मैग्मा ऊपर उठकर नई पर्पटी बनाता है, अक्सर पानी के नीचे ज्वालामुखी बनाते हुए।"
+    },
+    {
+      "question_en": "Volcanoes that form over stationary plumes of rising magma unrelated to plate boundaries are called ____ volcanoes.",
+      "question_hi": "प्लेट सीमाओं से असंबंधित, स्थिर मैग्मा प्लम के ऊपर बनने वाले ज्वालामुखी ____ ज्वालामुखी कहलाते हैं।",
+      "options_en": [
+        "Hotspot",
+        "Composite",
+        "Shield only",
+        "Fissure"
+      ],
+      "options_hi": [
+        "हॉटस्पॉट",
+        "संयुक्त",
+        "केवल शील्ड",
+        "दरार"
+      ],
+      "answer_en": "Hotspot",
+      "answer_hi": "हॉटस्पॉट",
+      "explanation_en": "Hotspot volcanoes, like those forming the Hawaiian Islands, occur over stationary plumes of magma rising from deep within the mantle.",
+      "explanation_hi": "हॉटस्पॉट ज्वालामुखी, जैसे हवाई द्वीप बनाने वाले, मैंटल की गहराई से उठते स्थिर मैग्मा प्लम के ऊपर बनते हैं।"
+    },
+    {
+      "question_en": "Fine particles of pulverized rock and glass ejected during an eruption are called volcanic ____.",
+      "question_hi": "विस्फोट के दौरान निकलने वाले चूर्णित चट्टान और कांच के बारीक कण ज्वालामुखीय ____ कहलाते हैं।",
+      "options_en": [
+        "Ash",
+        "Bombs",
+        "Blocks",
+        "Lapilli"
+      ],
+      "options_hi": [
+        "राख",
+        "बम",
+        "खंड",
+        "लापिली"
+      ],
+      "answer_en": "Ash",
+      "answer_hi": "राख",
+      "explanation_en": "Volcanic ash consists of tiny fragments of pulverized rock and glass ejected during an eruption, which can travel long distances.",
+      "explanation_hi": "ज्वालामुखीय राख विस्फोट के दौरान निकलने वाले चूर्णित चट्टान और कांच के छोटे टुकड़ों से बनी होती है, जो लंबी दूरी तक जा सकती है।"
+    },
+    {
+      "question_en": "Large, solidified blobs of lava thrown out during an explosive eruption are called volcanic ____.",
+      "question_hi": "विस्फोटक उद्गार के दौरान फेंके गए लावा के बड़े, ठोस टुकड़े ज्वालामुखीय ____ कहलाते हैं।",
+      "options_en": [
+        "Bombs",
+        "Ash",
+        "Dust",
+        "Silt"
+      ],
+      "options_hi": [
+        "बम",
+        "राख",
+        "धूल",
+        "गाद"
+      ],
+      "answer_en": "Bombs",
+      "answer_hi": "बम",
+      "explanation_en": "Volcanic bombs are large chunks of molten or semi-molten rock ejected during an eruption that solidify as they fly through the air.",
+      "explanation_hi": "ज्वालामुखीय बम विस्फोट के दौरान निकलने वाले पिघले या अर्ध-पिघले चट्टान के बड़े टुकड़े हैं जो हवा में उड़ते समय ठोस बन जाते हैं।"
+    },
+    {
+      "question_en": "A hot spring that periodically ejects a column of water and steam into the air is called a ____.",
+      "question_hi": "एक गर्म झरना जो समय-समय पर पानी और भाप का स्तंभ हवा में फेंकता है, ____ कहलाता है।",
+      "options_en": [
+        "Geyser",
+        "Fumarole",
+        "Caldera",
+        "Lahar"
+      ],
+      "options_hi": [
+        "गीज़र",
+        "फ्यूमरोल",
+        "काल्डेरा",
+        "लाहार"
+      ],
+      "answer_en": "Geyser",
+      "answer_hi": "गीज़र",
+      "explanation_en": "A geyser is a hot spring that periodically erupts, shooting a column of hot water and steam due to underground volcanic heat.",
+      "explanation_hi": "गीज़र एक गर्म झरना है जो भूमिगत ज्वालामुखीय ताप के कारण समय-समय पर फूटता है और गर्म पानी व भाप का स्तंभ छोड़ता है।"
+    },
+    {
+      "question_en": "A long, narrow crack in the Earth's surface from which lava erupts is called a volcanic ____.",
+      "question_hi": "पृथ्वी की सतह में लंबी, संकरी दरार जिससे लावा निकलता है, ज्वालामुखीय ____ कहलाती है।",
+      "options_en": [
+        "Fissure",
+        "Caldera",
+        "Crater",
+        "Sill"
+      ],
+      "options_hi": [
+        "दरार (फिशर)",
+        "काल्डेरा",
+        "क्रेटर",
+        "सिल"
+      ],
+      "answer_en": "Fissure",
+      "answer_hi": "दरार (फिशर)",
+      "explanation_en": "A volcanic fissure is a long crack in the ground from which lava can erupt, often without forming a central cone.",
+      "explanation_hi": "ज्वालामुखीय दरार जमीन में एक लंबी दरार है जिससे लावा फूट सकता है, अक्सर बिना केंद्रीय शंकु बनाए।"
+    },
+    {
+      "question_en": "Which scale is used to measure the explosivity of volcanic eruptions?",
+      "question_hi": "ज्वालामुखी विस्फोटों की विस्फोटकता मापने के लिए किस पैमाने का उपयोग किया जाता है?",
+      "options_en": [
+        "Volcanic Explosivity Index (VEI)",
+        "Richter Scale",
+        "Mohs Scale",
+        "Beaufort Scale"
+      ],
+      "options_hi": [
+        "ज्वालामुखीय विस्फोटकता सूचकांक (VEI)",
+        "रिक्टर स्केल",
+        "मोह्स स्केल",
+        "ब्यूफोर्ट स्केल"
+      ],
+      "answer_en": "Volcanic Explosivity Index (VEI)",
+      "answer_hi": "ज्वालामुखीय विस्फोटकता सूचकांक (VEI)",
+      "explanation_en": "The Volcanic Explosivity Index (VEI) is a scale from 0 to 8 used to measure the explosivity of volcanic eruptions.",
+      "explanation_hi": "ज्वालामुखीय विस्फोटकता सूचकांक (VEI) 0 से 8 तक का एक पैमाना है जिसका उपयोग ज्वालामुखी विस्फोटों की विस्फोटकता मापने के लिए किया जाता है।"
+    },
+    {
+      "question_en": "The Richter scale, often confused with volcano measurement, is actually used to measure ____.",
+      "question_hi": "रिक्टर स्केल, जिसे अक्सर ज्वालामुखी मापन से जोड़ा जाता है, वास्तव में ____ मापने के लिए प्रयुक्त होता है।",
+      "options_en": [
+        "Earthquake magnitude",
+        "Volcano explosivity",
+        "Wind speed",
+        "Rock hardness"
+      ],
+      "options_hi": [
+        "भूकंप की तीव्रता",
+        "ज्वालामुखी की विस्फोटकता",
+        "हवा की गति",
+        "चट्टान की कठोरता"
+      ],
+      "answer_en": "Earthquake magnitude",
+      "answer_hi": "भूकंप की तीव्रता",
+      "explanation_en": "The Richter scale measures the magnitude of earthquakes, not volcanic eruptions, which are measured using the VEI.",
+      "explanation_hi": "रिक्टर स्केल भूकंप की तीव्रता मापता है, न कि ज्वालामुखी विस्फोट को, जिसे VEI द्वारा मापा जाता है।"
+    },
+    {
+      "question_en": "The scientific study of volcanoes is called ____.",
+      "question_hi": "ज्वालामुखियों के वैज्ञानिक अध्ययन को ____ कहा जाता है।",
+      "options_en": [
+        "Volcanology",
+        "Seismology",
+        "Geology only",
+        "Petrology only"
+      ],
+      "options_hi": [
+        "ज्वालामुखी विज्ञान (Volcanology)",
+        "भूकंप विज्ञान",
+        "केवल भूविज्ञान",
+        "केवल पेट्रोलॉजी"
+      ],
+      "answer_en": "Volcanology",
+      "answer_hi": "ज्वालामुखी विज्ञान",
+      "explanation_en": "Volcanology is the branch of geology focused specifically on the study of volcanoes, lava, magma, and related phenomena.",
+      "explanation_hi": "ज्वालामुखी विज्ञान भूविज्ञान की वह शाखा है जो विशेष रूप से ज्वालामुखियों, लावा, मैग्मा और संबंधित घटनाओं के अध्ययन पर केंद्रित है।"
+    },
+    {
+      "question_en": "Which is the largest volcanic province in India, formed by ancient lava flows?",
+      "question_hi": "प्राचीन लावा प्रवाह से बना भारत का सबसे बड़ा ज्वालामुखीय क्षेत्र कौन-सा है?",
+      "options_en": [
+        "Deccan Traps",
+        "Aravalli Range",
+        "Vindhya Range",
+        "Western Ghats only"
+      ],
+      "options_hi": [
+        "दक्कन ट्रैप",
+        "अरावली श्रेणी",
+        "विंध्य श्रेणी",
+        "केवल पश्चिमी घाट"
+      ],
+      "answer_en": "Deccan Traps",
+      "answer_hi": "दक्कन ट्रैप",
+      "explanation_en": "The Deccan Traps in western and central India formed from massive volcanic eruptions around 66 million years ago.",
+      "explanation_hi": "पश्चिमी और मध्य भारत में स्थित दक्कन ट्रैप लगभग 6.6 करोड़ वर्ष पहले भारी ज्वालामुखीय विस्फोटों से बना था।"
+    },
+    {
+      "question_en": "Which mineral, commonly used in glass and electronics, is one of the most abundant in Earth's crust?",
+      "question_hi": "कौन-सा खनिज, जो सामान्यतः कांच और इलेक्ट्रॉनिक्स में उपयोग होता है, पृथ्वी की पर्पटी में सबसे प्रचुर मात्रा में पाया जाता है?",
+      "options_en": [
+        "Quartz",
+        "Gold",
+        "Diamond",
+        "Copper"
+      ],
+      "options_hi": [
+        "क्वार्ट्ज",
+        "सोना",
+        "हीरा",
+        "तांबा"
+      ],
+      "answer_en": "Quartz",
+      "answer_hi": "क्वार्ट्ज",
+      "explanation_en": "Quartz, made of silicon dioxide, is one of the most abundant minerals in the Earth's continental crust.",
+      "explanation_hi": "क्वार्ट्ज, जो सिलिकॉन डाइऑक्साइड से बना है, पृथ्वी की महाद्वीपीय पर्पटी के सबसे प्रचुर खनिजों में से एक है।"
+    },
+    {
+      "question_en": "The hardness of minerals is measured using which scale?",
+      "question_hi": "खनिजों की कठोरता किस पैमाने का उपयोग करके मापी जाती है?",
+      "options_en": [
+        "Mohs scale",
+        "Richter scale",
+        "VEI scale",
+        "Beaufort scale"
+      ],
+      "options_hi": [
+        "मोह्स स्केल",
+        "रिक्टर स्केल",
+        "VEI स्केल",
+        "ब्यूफोर्ट स्केल"
+      ],
+      "answer_en": "Mohs scale",
+      "answer_hi": "मोह्स स्केल",
+      "explanation_en": "The Mohs scale ranks mineral hardness from 1 (softest, talc) to 10 (hardest, diamond).",
+      "explanation_hi": "मोह्स स्केल खनिजों की कठोरता को 1 (सबसे नरम, टैल्क) से 10 (सबसे कठोर, हीरा) तक क्रमबद्ध करता है।"
+    },
+    {
+      "question_en": "Which layer of the Earth lies directly beneath the crust and contains most of Earth's volume?",
+      "question_hi": "पृथ्वी की कौन-सी परत सीधे पर्पटी के नीचे स्थित है और पृथ्वी के अधिकांश आयतन को समेटे हुए है?",
+      "options_en": [
+        "Mantle",
+        "Outer core",
+        "Inner core",
+        "Lithosphere only"
+      ],
+      "options_hi": [
+        "मैंटल",
+        "बाहरी क्रोड",
+        "आंतरिक क्रोड",
+        "केवल स्थलमंडल"
+      ],
+      "answer_en": "Mantle",
+      "answer_hi": "मैंटल",
+      "explanation_en": "The mantle lies beneath the crust and makes up roughly 84% of Earth's total volume.",
+      "explanation_hi": "मैंटल पर्पटी के नीचे स्थित है और पृथ्वी के कुल आयतन का लगभग 84% हिस्सा बनाता है।"
+    },
+    {
+      "question_en": "Weathering and erosion of rocks primarily contribute to the formation of which rock type?",
+      "question_hi": "चट्टानों का अपक्षय और अपरदन मुख्यतः किस प्रकार की चट्टान के निर्माण में योगदान देता है?",
+      "options_en": [
+        "Sedimentary rock",
+        "Igneous rock",
+        "Metamorphic rock",
+        "Volcanic rock"
+      ],
+      "options_hi": [
+        "अवसादी चट्टान",
+        "आग्नेय चट्टान",
+        "कायांतरित चट्टान",
+        "ज्वालामुखीय चट्टान"
+      ],
+      "answer_en": "Sedimentary rock",
+      "answer_hi": "अवसादी चट्टान",
+      "explanation_en": "Weathering breaks down rocks into sediments, which are then transported, deposited, and compacted into sedimentary rock.",
+      "explanation_hi": "अपक्षय चट्टानों को अवसाद में तोड़ता है, जिन्हें फिर परिवहन, जमाव और संघनन के जरिए अवसादी चट्टान में बदला जाता है।"
+    },
+    {
+      "question_en": "A rock composed of a single mineral, like pure quartzite, is called ____.",
+      "question_hi": "एक ही खनिज से बनी चट्टान, जैसे शुद्ध क्वार्टजाइट, ____ कहलाती है।",
+      "options_en": [
+        "Monomineralic rock",
+        "Polymineralic rock",
+        "Composite rock",
+        "Organic rock"
+      ],
+      "options_hi": [
+        "एकल-खनिज चट्टान",
+        "बहु-खनिज चट्टान",
+        "संयुक्त चट्टान",
+        "जैविक चट्टान"
+      ],
+      "answer_en": "Monomineralic rock",
+      "answer_hi": "एकल-खनिज चट्टान",
+      "explanation_en": "A monomineralic rock is composed almost entirely of a single mineral, unlike most rocks which are polymineralic.",
+      "explanation_hi": "एकल-खनिज चट्टान लगभग पूरी तरह से एक ही खनिज से बनी होती है, जबकि अधिकांश चट्टानें बहु-खनिज होती हैं।"
+    },
+    {
+      "question_en": "Which precious gemstone is a crystalline form of pure carbon formed under extreme pressure?",
+      "question_hi": "अत्यधिक दाब में बनने वाला शुद्ध कार्बन का क्रिस्टलीय रूप कौन-सा कीमती रत्न है?",
+      "options_en": [
+        "Diamond",
+        "Ruby",
+        "Emerald",
+        "Sapphire"
+      ],
+      "options_hi": [
+        "हीरा",
+        "माणिक",
+        "पन्ना",
+        "नीलम"
+      ],
+      "answer_en": "Diamond",
+      "answer_hi": "हीरा",
+      "explanation_en": "Diamonds form deep within the Earth's mantle under extreme heat and pressure and are transported to the surface by volcanic eruptions.",
+      "explanation_hi": "हीरे पृथ्वी के मैंटल की गहराई में अत्यधिक ताप और दाब में बनते हैं और ज्वालामुखी विस्फोटों के जरिए सतह पर लाए जाते हैं।"
+    },
+    {
+      "question_en": "Kimberlite, a rock associated with diamond deposits, is what type of rock?",
+      "question_hi": "हीरे के भंडारों से जुड़ी चट्टान किम्बरलाइट किस प्रकार की चट्टान है?",
+      "options_en": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Organic rock"
+      ],
+      "options_hi": [
+        "आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान",
+        "जैविक चट्टान"
+      ],
+      "answer_en": "Igneous rock",
+      "answer_hi": "आग्नेय चट्टान",
+      "explanation_en": "Kimberlite is an igneous rock that originates deep in the mantle and can carry diamonds to the surface during eruptions.",
+      "explanation_hi": "किम्बरलाइट एक आग्नेय चट्टान है जो मैंटल की गहराई से उत्पन्न होती है और विस्फोटों के दौरान हीरों को सतह पर ला सकती है।"
+    },
+    {
+      "question_en": "The Earth's outermost solid layer, made of the crust and uppermost mantle, is called the ____.",
+      "question_hi": "पृथ्वी की सबसे बाहरी ठोस परत, जो पर्पटी और ऊपरी मैंटल से बनी है, ____ कहलाती है।",
+      "options_en": [
+        "Lithosphere",
+        "Asthenosphere",
+        "Mesosphere",
+        "Barysphere"
+      ],
+      "options_hi": [
+        "स्थलमंडल (Lithosphere)",
+        "दुर्बलमंडल (Asthenosphere)",
+        "मध्यमंडल",
+        "बैरीस्फीयर"
+      ],
+      "answer_en": "Lithosphere",
+      "answer_hi": "स्थलमंडल",
+      "explanation_en": "The lithosphere is Earth's rigid outer layer, consisting of the crust and the uppermost part of the mantle, broken into tectonic plates.",
+      "explanation_hi": "स्थलमंडल पृथ्वी की कठोर बाहरी परत है, जिसमें पर्पटी और मैंटल का सबसे ऊपरी भाग शामिल है, जो टेक्टोनिक प्लेटों में विभाजित है।"
+    },
+    {
+      "question_en": "Which type of rock is most commonly used to build monuments due to its durability, such as the Taj Mahal's use of marble?",
+      "question_hi": "अपनी टिकाऊपन के कारण स्मारक बनाने के लिए किस प्रकार की चट्टान का सबसे अधिक उपयोग होता है, जैसे ताजमहल में संगमरमर का उपयोग?",
+      "options_en": [
+        "Metamorphic rock",
+        "Sedimentary rock",
+        "Volcanic ash rock",
+        "Organic rock"
+      ],
+      "options_hi": [
+        "कायांतरित चट्टान",
+        "अवसादी चट्टान",
+        "ज्वालामुखीय राख चट्टान",
+        "जैविक चट्टान"
+      ],
+      "answer_en": "Metamorphic rock",
+      "answer_hi": "कायांतरित चट्टान",
+      "explanation_en": "Marble, a metamorphic rock, is prized for monument-building because of its durability and polish, as seen in the Taj Mahal.",
+      "explanation_hi": "संगमरमर, एक कायांतरित चट्टान, अपनी टिकाऊपन और चमक के कारण स्मारक निर्माण में पसंद किया जाता है, जैसा कि ताजमहल में देखा जाता है।"
+    },
+    {
+      "question_en": "The process by which magma rises and cools slowly to form large crystal rock bodies underground is called ____.",
+      "question_hi": "वह प्रक्रिया जिसमें मैग्मा ऊपर उठकर धीरे-धीरे ठंडा होकर जमीन के अंदर बड़े क्रिस्टलीय चट्टान पिंड बनाता है, ____ कहलाती है।",
+      "options_en": [
+        "Plutonism",
+        "Volcanism",
+        "Weathering",
+        "Erosion"
+      ],
+      "options_hi": [
+        "प्लूटोनिज्म",
+        "ज्वालामुखीयता",
+        "अपक्षय",
+        "अपरदन"
+      ],
+      "answer_en": "Plutonism",
+      "answer_hi": "प्लूटोनिज्म",
+      "explanation_en": "Plutonism refers to the slow cooling and crystallization of magma underground, forming intrusive igneous rock bodies like batholiths.",
+      "explanation_hi": "प्लूटोनिज्म जमीन के अंदर मैग्मा के धीमे ठंडा होने और क्रिस्टलीकरण को संदर्भित करता है, जिससे बैथोलिथ जैसे अंतर्वेधी आग्नेय चट्टान पिंड बनते हैं।"
+    },
+    {
+      "question_en": "Which term describes rocks that are resistant to weathering and often form cliffs and mountains?",
+      "question_hi": "कौन-सा शब्द उन चट्टानों का वर्णन करता है जो अपक्षय के प्रति प्रतिरोधी होती हैं और अक्सर चट्टानी किनारे व पर्वत बनाती हैं?",
+      "options_en": [
+        "Resistant rocks",
+        "Fragile rocks",
+        "Soluble rocks",
+        "Loose rocks"
+      ],
+      "options_hi": [
+        "प्रतिरोधी चट्टानें",
+        "भंगुर चट्टानें",
+        "घुलनशील चट्टानें",
+        "ढीली चट्टानें"
+      ],
+      "answer_en": "Resistant rocks",
+      "answer_hi": "प्रतिरोधी चट्टानें",
+      "explanation_en": "Resistant rocks, such as granite and quartzite, withstand weathering better than softer rocks, often forming prominent landforms.",
+      "explanation_hi": "प्रतिरोधी चट्टानें, जैसे ग्रेनाइट और क्वार्टजाइट, नरम चट्टानों की तुलना में अपक्षय को बेहतर सहन करती हैं, जो अक्सर प्रमुख भू-आकृतियाँ बनाती हैं।"
+    },
+    {
+      "question_en": "Which sedimentary rock is a major source of fossil fuel formation, alongside coal?",
+      "question_hi": "कोयले के साथ, कौन-सी अवसादी चट्टान जीवाश्म ईंधन निर्माण का प्रमुख स्रोत है?",
+      "options_en": [
+        "Shale (oil shale)",
+        "Marble",
+        "Granite",
+        "Quartzite"
+      ],
+      "options_hi": [
+        "शेल (तेल शेल)",
+        "संगमरमर",
+        "ग्रेनाइट",
+        "क्वार्टजाइट"
+      ],
+      "answer_en": "Shale (oil shale)",
+      "answer_hi": "शेल (तेल शेल)",
+      "explanation_en": "Oil shale, a fine-grained sedimentary rock, contains organic material that can be a source of petroleum and natural gas.",
+      "explanation_hi": "तेल शेल, एक बारीक दाने वाली अवसादी चट्टान, में कार्बनिक पदार्थ होता है जो पेट्रोलियम और प्राकृतिक गैस का स्रोत हो सकता है।"
+    },
+    {
+      "question_en": "Andesite, named after the Andes mountains, is what type of rock commonly found near subduction zones?",
+      "question_hi": "एंडीज़ पर्वतों के नाम पर रखी गई एंडेसाइट (Andesite) किस प्रकार की चट्टान है जो सबडक्शन क्षेत्रों के पास पाई जाती है?",
+      "options_en": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Organic rock"
+      ],
+      "options_hi": [
+        "आग्नेय चट्टान",
+        "अवसादी चट्टान",
+        "कायांतरित चट्टान",
+        "जैविक चट्टान"
+      ],
+      "answer_en": "Igneous rock",
+      "answer_hi": "आग्नेय चट्टान",
+      "explanation_en": "Andesite is a volcanic igneous rock commonly formed at subduction zones, intermediate in composition between basalt and rhyolite.",
+      "explanation_hi": "एंडेसाइट एक ज्वालामुखीय आग्नेय चट्टान है जो सामान्यतः सबडक्शन क्षेत्रों में बनती है, जिसकी संरचना बेसाल्ट और रायोलाइट के बीच होती है।"
+    },
+    {
+      "question_en": "Rhyolite is a light-colored, fine-grained extrusive igneous rock chemically similar to which intrusive rock?",
+      "question_hi": "रायोलाइट (Rhyolite) एक हल्के रंग की, बारीक दाने वाली बहिर्वेधी आग्नेय चट्टान है जो रासायनिक रूप से किस अंतर्वेधी चट्टान के समान है?",
+      "options_en": [
+        "Granite",
+        "Basalt",
+        "Gabbro",
+        "Peridotite"
+      ],
+      "options_hi": [
+        "ग्रेनाइट",
+        "बेसाल्ट",
+        "गैब्रो",
+        "पेरिडोटाइट"
+      ],
+      "answer_en": "Granite",
+      "answer_hi": "ग्रेनाइट",
+      "explanation_en": "Rhyolite has the same chemical composition as granite but cools much faster on the surface, forming small crystals.",
+      "explanation_hi": "रायोलाइट की रासायनिक संरचना ग्रेनाइट जैसी होती है, लेकिन यह सतह पर बहुत तेजी से ठंडी होती है, जिससे छोटे क्रिस्टल बनते हैं।"
+    },
+    {
+      "question_en": "Peridotite, a rock rich in olivine, is primarily found in which layer of the Earth?",
+      "question_hi": "ओलिवाइन से समृद्ध चट्टान पेरिडोटाइट मुख्यतः पृथ्वी की किस परत में पाई जाती है?",
+      "options_en": [
+        "Mantle",
+        "Crust surface",
+        "Outer core",
+        "Inner core"
+      ],
+      "options_hi": [
+        "मैंटल",
+        "पर्पटी की सतह",
+        "बाहरी क्रोड",
+        "आंतरिक क्रोड"
+      ],
+      "answer_en": "Mantle",
+      "answer_hi": "मैंटल",
+      "explanation_en": "Peridotite is the dominant rock type of the Earth's upper mantle, rich in the mineral olivine.",
+      "explanation_hi": "पेरिडोटाइट पृथ्वी के ऊपरी मैंटल की प्रमुख चट्टान है, जो खनिज ओलिवाइन से समृद्ध होती है।"
+    },
+    {
+      "question_en": "Which term refers to volcanic eruptions occurring under a layer of ice, common in Iceland?",
+      "question_hi": "आइसलैंड में आम, बर्फ की परत के नीचे होने वाले ज्वालामुखी विस्फोटों को क्या कहा जाता है?",
+      "options_en": [
+        "Subglacial eruption",
+        "Submarine eruption",
+        "Fissure eruption",
+        "Phreatic eruption"
+      ],
+      "options_hi": [
+        "उप-हिमनद विस्फोट",
+        "पनडुब्बी विस्फोट",
+        "दरार विस्फोट",
+        "फ्रीएटिक विस्फोट"
+      ],
+      "answer_en": "Subglacial eruption",
+      "answer_hi": "उप-हिमनद विस्फोट",
+      "explanation_en": "Subglacial eruptions occur beneath glaciers or ice sheets, common in Iceland, and can cause rapid glacial melting and flooding.",
+      "explanation_hi": "उप-हिमनद विस्फोट हिमनदों या बर्फ की चादरों के नीचे होते हैं, जो आइसलैंड में आम हैं, और तेजी से हिमनद पिघलने व बाढ़ का कारण बन सकते हैं।"
+    },
+    {
+      "question_en": "A volcanic eruption caused by the interaction of magma with groundwater, producing a steam-driven explosion, is called a ____ eruption.",
+      "question_hi": "मैग्मा और भूजल की परस्पर क्रिया से भाप-चालित विस्फोट पैदा करने वाला ज्वालामुखी विस्फोट ____ विस्फोट कहलाता है।",
+      "options_en": [
+        "Phreatic",
+        "Effusive",
+        "Fissure",
+        "Plinian"
+      ],
+      "options_hi": [
+        "फ्रीएटिक",
+        "प्रवाही (इफ्यूसिव)",
+        "दरार",
+        "प्लिनियन"
+      ],
+      "answer_en": "Phreatic",
+      "answer_hi": "फ्रीएटिक",
+      "explanation_en": "A phreatic eruption is a steam-driven explosion caused by magma heating groundwater, without necessarily releasing new magma.",
+      "explanation_hi": "फ्रीएटिक विस्फोट मैग्मा द्वारा भूजल को गर्म करने से उत्पन्न भाप-चालित विस्फोट है, जिसमें आवश्यक रूप से नया मैग्मा नहीं निकलता।"
+    },
+    {
+      "question_en": "A gentle, non-explosive volcanic eruption where lava flows steadily is called an ____ eruption.",
+      "question_hi": "एक हल्का, गैर-विस्फोटक ज्वालामुखी विस्फोट जिसमें लावा लगातार बहता है, ____ विस्फोट कहलाता है।",
+      "options_en": [
+        "Effusive",
+        "Phreatic",
+        "Plinian",
+        "Vulcanian"
+      ],
+      "options_hi": [
+        "प्रवाही (इफ्यूसिव)",
+        "फ्रीएटिक",
+        "प्लिनियन",
+        "वल्केनियन"
+      ],
+      "answer_en": "Effusive",
+      "answer_hi": "प्रवाही (इफ्यूसिव)",
+      "explanation_en": "Effusive eruptions involve the steady, non-explosive outflow of low-viscosity lava, typical of shield volcanoes like Kilauea.",
+      "explanation_hi": "प्रवाही विस्फोट में कम श्यानता वाले लावा का स्थिर, गैर-विस्फोटक बहाव होता है, जो किलाउआ जैसे शील्ड ज्वालामुखियों में सामान्य है।"
+    },
+    {
+      "question_en": "An extremely violent, high-column volcanic eruption like that of Mount Vesuvius in 79 AD is classified as a ____ eruption.",
+      "question_hi": "79 ईस्वी में माउंट वेसुवियस जैसे अत्यंत हिंसक, ऊंचे स्तंभ वाले ज्वालामुखी विस्फोट को ____ विस्फोट के रूप में वर्गीकृत किया जाता है।",
+      "options_en": [
+        "Plinian",
+        "Effusive",
+        "Phreatic",
+        "Hawaiian"
+      ],
+      "options_hi": [
+        "प्लिनियन",
+        "प्रवाही",
+        "फ्रीएटिक",
+        "हवाईयन"
+      ],
+      "answer_en": "Plinian",
+      "answer_hi": "प्लिनियन",
+      "explanation_en": "Plinian eruptions are highly explosive, producing towering columns of ash and gas, named after Pliny the Younger's account of Vesuvius.",
+      "explanation_hi": "प्लिनियन विस्फोट अत्यधिक विस्फोटक होते हैं, जो राख और गैस के ऊंचे स्तंभ बनाते हैं, इसका नाम प्लिनी द यंगर के वेसुवियस विवरण पर आधारित है।"
+    },
+    {
+      "question_en": "Which rock type, formed from cooled lava on the ocean floor, often has a distinctive pillow-like shape?",
+      "question_hi": "समुद्र तल पर ठंडे हुए लावा से बनी कौन-सी चट्टान अक्सर तकिये जैसे आकार की होती है?",
+      "options_en": [
+        "Pillow basalt",
+        "Granite",
+        "Sandstone",
+        "Slate"
+      ],
+      "options_hi": [
+        "पिलो बेसाल्ट",
+        "ग्रेनाइट",
+        "बलुआ पत्थर",
+        "स्लेट"
+      ],
+      "answer_en": "Pillow basalt",
+      "answer_hi": "पिलो बेसाल्ट",
+      "explanation_en": "Pillow basalt forms when lava erupts underwater and cools rapidly, creating rounded, pillow-shaped rock formations.",
+      "explanation_hi": "पिलो बेसाल्ट तब बनता है जब लावा पानी के नीचे फूटता है और तेजी से ठंडा होता है, जिससे गोल, तकिये के आकार की चट्टान संरचनाएँ बनती हैं।"
+    },
+    {
+      "question_en": "Which famous Indian hill range, though not volcanic, was formed by the collision of tectonic plates like the Himalayas?",
+      "question_hi": "कौन-सी प्रसिद्ध भारतीय पर्वत श्रृंखला, हालांकि ज्वालामुखीय नहीं है, हिमालय की तरह टेक्टोनिक प्लेटों की टक्कर से बनी थी?",
+      "options_en": [
+        "The Himalayas",
+        "The Deccan Traps",
+        "Barren Island",
+        "Narcondam Island"
+      ],
+      "options_hi": [
+        "हिमालय",
+        "दक्कन ट्रैप",
+        "बैरन द्वीप",
+        "नारकोंडम द्वीप"
+      ],
+      "answer_en": "The Himalayas",
+      "answer_hi": "हिमालय",
+      "explanation_en": "The Himalayas were formed by the collision of the Indian and Eurasian tectonic plates, not by volcanic activity.",
+      "explanation_hi": "हिमालय भारतीय और यूरेशियाई टेक्टोनिक प्लेटों की टक्कर से बना है, न कि ज्वालामुखीय गतिविधि से।"
+    },
+    {
+      "question_en": "Which is considered a 'dormant' volcano in the Andaman Islands, distinct from the active Barren Island?",
+      "question_hi": "अंडमान द्वीप समूह में सक्रिय बैरन द्वीप से अलग, किसे 'निष्क्रिय' ज्वालामुखी माना जाता है?",
+      "options_en": [
+        "Narcondam Island Volcano",
+        "Havelock Island",
+        "Ross Island",
+        "Neil Island"
+      ],
+      "options_hi": [
+        "नारकोंडम द्वीप ज्वालामुखी",
+        "हैवलॉक द्वीप",
+        "रॉस द्वीप",
+        "नील द्वीप"
+      ],
+      "answer_en": "Narcondam Island Volcano",
+      "answer_hi": "नारकोंडम द्वीप ज्वालामुखी",
+      "explanation_en": "Narcondam Island in the Andamans hosts a dormant volcano, unlike the nearby active Barren Island volcano.",
+      "explanation_hi": "अंडमान में स्थित नारकोंडम द्वीप में एक निष्क्रिय ज्वालामुखी है, जबकि पास का बैरन द्वीप ज्वालामुखी सक्रिय है।"
+    },
+    {
+      "question_en": "Which force, generated by the movement of tectonic plates, is responsible for both volcanic activity and mountain building?",
+      "question_hi": "टेक्टोनिक प्लेटों की गति से उत्पन्न कौन-सी शक्ति ज्वालामुखीय गतिविधि और पर्वत निर्माण दोनों के लिए जिम्मेदार है?",
+      "options_en": [
+        "Tectonic force",
+        "Gravitational force",
+        "Magnetic force",
+        "Centrifugal force"
+      ],
+      "options_hi": [
+        "विवर्तनिक शक्ति",
+        "गुरुत्वाकर्षण शक्ति",
+        "चुंबकीय शक्ति",
+        "अपकेंद्री शक्ति"
+      ],
+      "answer_en": "Tectonic force",
+      "answer_hi": "विवर्तनिक शक्ति",
+      "explanation_en": "Tectonic forces from the movement of Earth's plates drive both volcanic activity and the formation of mountain ranges.",
+      "explanation_hi": "पृथ्वी की प्लेटों की गति से उत्पन्न विवर्तनिक शक्तियाँ ज्वालामुखीय गतिविधि और पर्वत श्रृंखलाओं के निर्माण दोनों को प्रेरित करती हैं।"
+    },
+    {
+      "question_en": "Which famous supervolcano eruption, occurring around 74,000 years ago in Indonesia, is linked to a global volcanic winter?",
+      "question_hi": "इंडोनेशिया में लगभग 74,000 वर्ष पहले हुआ कौन-सा प्रसिद्ध सुपरज्वालामुखी विस्फोट वैश्विक ज्वालामुखीय शीत ऋतु से जुड़ा है?",
+      "options_en": [
+        "Lake Toba eruption",
+        "Krakatoa eruption",
+        "Tambora eruption",
+        "Merapi eruption"
+      ],
+      "options_hi": [
+        "टोबा झील विस्फोट",
+        "क्राकाटोआ विस्फोट",
+        "तंबोरा विस्फोट",
+        "मेरापी विस्फोट"
+      ],
+      "answer_en": "Lake Toba eruption",
+      "answer_hi": "टोबा झील विस्फोट",
+      "explanation_en": "The Toba supervolcano eruption in Indonesia around 74,000 years ago was one of the largest known eruptions, possibly triggering a volcanic winter.",
+      "explanation_hi": "लगभग 74,000 वर्ष पहले इंडोनेशिया में टोबा सुपरज्वालामुखी विस्फोट अब तक के सबसे बड़े ज्ञात विस्फोटों में से एक था, जिसने संभवतः ज्वालामुखीय शीत ऋतु को जन्म दिया।"
+    }
+  ]
+}

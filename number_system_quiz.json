@@ -1,0 +1,2105 @@
+{
+  "title": "Number System Quiz - Simple, Medium, Hard (Bhajak/Gunankhand)",
+  "questions": [
+    {
+      "question_en": "What is the smallest natural number?",
+      "question_hi": "सबसे छोटी प्राकृत संख्या (Natural Number) कौन-सी है?",
+      "options_en": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "options_hi": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "answer_en": "1",
+      "answer_hi": "1",
+      "explanation_en": "Natural numbers start from 1 (1, 2, 3, 4, ...).",
+      "explanation_hi": "प्राकृत संख्याएँ 1 से शुरू होती हैं (1, 2, 3, 4, ...).",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "What is the smallest whole number?",
+      "question_hi": "सबसे छोटी पूर्ण संख्या (Whole Number) कौन-सी है?",
+      "options_en": [
+        "0",
+        "1",
+        "-1",
+        "10"
+      ],
+      "options_hi": [
+        "0",
+        "1",
+        "-1",
+        "10"
+      ],
+      "answer_en": "0",
+      "answer_hi": "0",
+      "explanation_en": "Whole numbers start from 0 (0, 1, 2, 3, ...).",
+      "explanation_hi": "पूर्ण संख्याएँ 0 से शुरू होती हैं (0, 1, 2, 3, ...).",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Which of these is an example of an integer?",
+      "question_hi": "इनमें से कौन-सी एक पूर्णांक (Integer) का उदाहरण है?",
+      "options_en": [
+        "-5",
+        "1/2",
+        "0.75",
+        "√2"
+      ],
+      "options_hi": [
+        "-5",
+        "1/2",
+        "0.75",
+        "√2"
+      ],
+      "answer_en": "-5",
+      "answer_hi": "-5",
+      "explanation_en": "Integers include all whole numbers and their negatives: ..., -2, -1, 0, 1, 2, ...",
+      "explanation_hi": "पूर्णांकों में सभी पूर्ण संख्याएँ और उनकी ऋणात्मक संख्याएँ शामिल हैं: ..., -2, -1, 0, 1, 2, ...",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number that can be expressed in the form p/q, where p and q are integers and q≠0, is called a ____ number.",
+      "question_hi": "एक संख्या जिसे p/q के रूप में व्यक्त किया जा सकता है, जहाँ p और q पूर्णांक हैं और q≠0 है, ____ संख्या कहलाती है।",
+      "options_en": [
+        "Rational",
+        "Irrational",
+        "Whole",
+        "Natural"
+      ],
+      "options_hi": [
+        "परिमेय (Rational)",
+        "अपरिमेय (Irrational)",
+        "पूर्ण",
+        "प्राकृत"
+      ],
+      "answer_en": "Rational",
+      "answer_hi": "परिमेय",
+      "explanation_en": "Rational numbers can be written as a fraction p/q of two integers with q not equal to zero.",
+      "explanation_hi": "परिमेय संख्याओं को दो पूर्णांकों के भिन्न p/q के रूप में लिखा जा सकता है, जहाँ q शून्य के बराबर नहीं है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number that cannot be expressed as a simple fraction, like √2 or π, is called a(n) ____ number.",
+      "question_hi": "एक संख्या जिसे साधारण भिन्न के रूप में व्यक्त नहीं किया जा सकता, जैसे √2 या π, ____ संख्या कहलाती है।",
+      "options_en": [
+        "Irrational",
+        "Rational",
+        "Whole",
+        "Even"
+      ],
+      "options_hi": [
+        "अपरिमेय (Irrational)",
+        "परिमेय",
+        "पूर्ण",
+        "सम"
+      ],
+      "answer_en": "Irrational",
+      "answer_hi": "अपरिमेय",
+      "explanation_en": "Irrational numbers cannot be expressed as a ratio of two integers; their decimal expansion is non-terminating and non-repeating.",
+      "explanation_hi": "अपरिमेय संख्याओं को दो पूर्णांकों के अनुपात के रूप में व्यक्त नहीं किया जा सकता; उनका दशमलव विस्तार अनवसानी और अनावर्ती होता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number that has exactly two factors, 1 and itself, is called a ____ number.",
+      "question_hi": "एक संख्या जिसके ठीक दो गुणनखंड होते हैं, 1 और स्वयं, ____ संख्या कहलाती है।",
+      "options_en": [
+        "Prime",
+        "Composite",
+        "Even",
+        "Odd"
+      ],
+      "options_hi": [
+        "अभाज्य (Prime)",
+        "भाज्य (Composite)",
+        "सम",
+        "विषम"
+      ],
+      "answer_en": "Prime",
+      "answer_hi": "अभाज्य",
+      "explanation_en": "A prime number has exactly two distinct factors: 1 and the number itself, e.g., 2, 3, 5, 7, 11.",
+      "explanation_hi": "अभाज्य संख्या के ठीक दो गुणनखंड होते हैं: 1 और वह संख्या स्वयं, जैसे 2, 3, 5, 7, 11।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number with more than two factors is called a ____ number.",
+      "question_hi": "एक संख्या जिसके दो से अधिक गुणनखंड होते हैं, ____ संख्या कहलाती है।",
+      "options_en": [
+        "Composite",
+        "Prime",
+        "Natural",
+        "Whole"
+      ],
+      "options_hi": [
+        "भाज्य (Composite)",
+        "अभाज्य",
+        "प्राकृत",
+        "पूर्ण"
+      ],
+      "answer_en": "Composite",
+      "answer_hi": "भाज्य",
+      "explanation_en": "A composite number has more than two factors, e.g., 4, 6, 8, 9, 10.",
+      "explanation_hi": "भाज्य संख्या के दो से अधिक गुणनखंड होते हैं, जैसे 4, 6, 8, 9, 10।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Which of the following is the only even prime number?",
+      "question_hi": "निम्नलिखित में से कौन-सी एकमात्र सम अभाज्य संख्या है?",
+      "options_en": [
+        "2",
+        "4",
+        "3",
+        "9"
+      ],
+      "options_hi": [
+        "2",
+        "4",
+        "3",
+        "9"
+      ],
+      "answer_en": "2",
+      "answer_hi": "2",
+      "explanation_en": "2 is the only even prime number; all other even numbers are divisible by 2 and hence composite.",
+      "explanation_hi": "2 ही एकमात्र सम अभाज्य संख्या है; अन्य सभी सम संख्याएँ 2 से विभाज्य होने के कारण भाज्य होती हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number divisible by 2 is called a(n) ____ number.",
+      "question_hi": "2 से विभाज्य संख्या ____ संख्या कहलाती है।",
+      "options_en": [
+        "Even",
+        "Odd",
+        "Prime",
+        "Composite"
+      ],
+      "options_hi": [
+        "सम (Even)",
+        "विषम (Odd)",
+        "अभाज्य",
+        "भाज्य"
+      ],
+      "answer_en": "Even",
+      "answer_hi": "सम",
+      "explanation_en": "Even numbers are exactly divisible by 2, e.g., 2, 4, 6, 8, 10.",
+      "explanation_hi": "सम संख्याएँ 2 से पूर्णतः विभाज्य होती हैं, जैसे 2, 4, 6, 8, 10।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number not divisible by 2 is called a(n) ____ number.",
+      "question_hi": "2 से विभाज्य न होने वाली संख्या ____ संख्या कहलाती है।",
+      "options_en": [
+        "Odd",
+        "Even",
+        "Prime",
+        "Composite"
+      ],
+      "options_hi": [
+        "विषम (Odd)",
+        "सम",
+        "अभाज्य",
+        "भाज्य"
+      ],
+      "answer_en": "Odd",
+      "answer_hi": "विषम",
+      "explanation_en": "Odd numbers leave a remainder of 1 when divided by 2, e.g., 1, 3, 5, 7, 9.",
+      "explanation_hi": "विषम संख्याएँ 2 से विभाजित करने पर शेषफल 1 छोड़ती हैं, जैसे 1, 3, 5, 7, 9।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "In the number 4,582, what is the place value of digit 5?",
+      "question_hi": "संख्या 4,582 में अंक 5 का स्थानीय मान क्या है?",
+      "options_en": [
+        "500",
+        "5",
+        "50",
+        "5000"
+      ],
+      "options_hi": [
+        "500",
+        "5",
+        "50",
+        "5000"
+      ],
+      "answer_en": "500",
+      "answer_hi": "500",
+      "explanation_en": "In 4,582, the digit 5 is in the hundreds place, so its place value is 500.",
+      "explanation_hi": "4,582 में, अंक 5 सैकड़ों के स्थान पर है, इसलिए इसका स्थानीय मान 500 है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "What is the face value of the digit 7 in the number 3,745?",
+      "question_hi": "संख्या 3,745 में अंक 7 का अंकित मान (Face Value) क्या है?",
+      "options_en": [
+        "7",
+        "700",
+        "70",
+        "7000"
+      ],
+      "options_hi": [
+        "7",
+        "700",
+        "70",
+        "7000"
+      ],
+      "answer_en": "7",
+      "answer_hi": "7",
+      "explanation_en": "The face value of a digit is the digit itself, regardless of its position, so the face value of 7 is simply 7.",
+      "explanation_hi": "किसी अंक का अंकित मान उसकी स्थिति की परवाह किए बिना वह अंक स्वयं होता है, इसलिए 7 का अंकित मान केवल 7 है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 5 if its last digit is ____.",
+      "question_hi": "यदि किसी संख्या का अंतिम अंक ____ हो, तो वह 5 से विभाज्य होती है।",
+      "options_en": [
+        "0 or 5",
+        "0 or 2",
+        "5 or 10",
+        "Any even number"
+      ],
+      "options_hi": [
+        "0 या 5",
+        "0 या 2",
+        "5 या 10",
+        "कोई भी सम संख्या"
+      ],
+      "answer_en": "0 or 5",
+      "answer_hi": "0 या 5",
+      "explanation_en": "A number is divisible by 5 if its last digit is either 0 or 5.",
+      "explanation_hi": "यदि किसी संख्या का अंतिम अंक 0 या 5 हो, तो वह संख्या 5 से विभाज्य होती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 10 if its last digit is ____.",
+      "question_hi": "यदि किसी संख्या का अंतिम अंक ____ हो, तो वह 10 से विभाज्य होती है।",
+      "options_en": [
+        "0",
+        "5",
+        "2",
+        "1"
+      ],
+      "options_hi": [
+        "0",
+        "5",
+        "2",
+        "1"
+      ],
+      "answer_en": "0",
+      "answer_hi": "0",
+      "explanation_en": "A number is divisible by 10 only if it ends in 0.",
+      "explanation_hi": "कोई संख्या केवल तभी 10 से विभाज्य होती है जब वह 0 पर समाप्त होती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 3 if the sum of its digits is divisible by ____.",
+      "question_hi": "यदि किसी संख्या के अंकों का योग ____ से विभाज्य हो, तो वह संख्या 3 से विभाज्य होती है।",
+      "options_en": [
+        "3",
+        "6",
+        "9",
+        "2"
+      ],
+      "options_hi": [
+        "3",
+        "6",
+        "9",
+        "2"
+      ],
+      "answer_en": "3",
+      "answer_hi": "3",
+      "explanation_en": "A number is divisible by 3 if the sum of its digits is divisible by 3. For example, 123: 1+2+3=6, divisible by 3.",
+      "explanation_hi": "यदि किसी संख्या के अंकों का योग 3 से विभाज्य हो, तो वह संख्या 3 से विभाज्य होती है। उदाहरण: 123 में 1+2+3=6, जो 3 से विभाज्य है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 9 if the sum of its digits is divisible by ____.",
+      "question_hi": "यदि किसी संख्या के अंकों का योग ____ से विभाज्य हो, तो वह संख्या 9 से विभाज्य होती है।",
+      "options_en": [
+        "9",
+        "3",
+        "6",
+        "18"
+      ],
+      "options_hi": [
+        "9",
+        "3",
+        "6",
+        "18"
+      ],
+      "answer_en": "9",
+      "answer_hi": "9",
+      "explanation_en": "A number is divisible by 9 if the sum of its digits is divisible by 9. For example, 189: 1+8+9=18, divisible by 9.",
+      "explanation_hi": "यदि किसी संख्या के अंकों का योग 9 से विभाज्य हो, तो वह संख्या 9 से विभाज्य होती है। उदाहरण: 189 में 1+8+9=18, जो 9 से विभाज्य है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 4 if its last ____ digits are divisible by 4.",
+      "question_hi": "यदि किसी संख्या के अंतिम ____ अंक 4 से विभाज्य हों, तो वह संख्या 4 से विभाज्य होती है।",
+      "options_en": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "options_hi": [
+        "दो",
+        "तीन",
+        "एक",
+        "चार"
+      ],
+      "answer_en": "Two",
+      "answer_hi": "दो",
+      "explanation_en": "A number is divisible by 4 if the number formed by its last two digits is divisible by 4.",
+      "explanation_hi": "यदि किसी संख्या के अंतिम दो अंकों से बनी संख्या 4 से विभाज्य हो, तो वह संख्या 4 से विभाज्य होती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 11 if the difference between the sum of digits at odd and even places is 0 or divisible by ____.",
+      "question_hi": "यदि विषम और सम स्थानों के अंकों के योग का अंतर 0 या ____ से विभाज्य हो, तो वह संख्या 11 से विभाज्य होती है।",
+      "options_en": [
+        "11",
+        "9",
+        "7",
+        "13"
+      ],
+      "options_hi": [
+        "11",
+        "9",
+        "7",
+        "13"
+      ],
+      "answer_en": "11",
+      "answer_hi": "11",
+      "explanation_en": "A number is divisible by 11 if the difference between the sum of its digits at odd and even positions is 0 or a multiple of 11.",
+      "explanation_hi": "यदि किसी संख्या के विषम और सम स्थानों के अंकों के योग का अंतर 0 या 11 का गुणज हो, तो वह संख्या 11 से विभाज्य होती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "The number 0 is considered ____.",
+      "question_hi": "संख्या 0 को ____ माना जाता है।",
+      "options_en": [
+        "Neither positive nor negative",
+        "Always positive",
+        "Always negative",
+        "Only a natural number"
+      ],
+      "options_hi": [
+        "न धनात्मक न ऋणात्मक",
+        "हमेशा धनात्मक",
+        "हमेशा ऋणात्मक",
+        "केवल एक प्राकृत संख्या"
+      ],
+      "answer_en": "Neither positive nor negative",
+      "answer_hi": "न धनात्मक न ऋणात्मक",
+      "explanation_en": "Zero is neither a positive nor a negative number; it separates positive and negative numbers on the number line.",
+      "explanation_hi": "शून्य न तो धनात्मक है और न ही ऋणात्मक; यह संख्या रेखा पर धनात्मक और ऋणात्मक संख्याओं को अलग करता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 6 have?",
+      "question_hi": "संख्या 6 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "options_hi": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "The divisors of 6 are 1, 2, 3, and 6 — a total of 4 divisors.",
+      "explanation_hi": "6 के भाजक 1, 2, 3, और 6 हैं — कुल 4 भाजक।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 10 have?",
+      "question_hi": "संख्या 10 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "options_hi": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "The divisors of 10 are 1, 2, 5, and 10 — a total of 4 divisors.",
+      "explanation_hi": "10 के भाजक 1, 2, 5, और 10 हैं — कुल 4 भाजक।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 15 have?",
+      "question_hi": "संख्या 15 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "options_hi": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "The divisors of 15 are 1, 3, 5, and 15 — a total of 4 divisors.",
+      "explanation_hi": "15 के भाजक 1, 3, 5, और 15 हैं — कुल 4 भाजक।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 7 have?",
+      "question_hi": "संख्या 7 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "2",
+        "1",
+        "3",
+        "7"
+      ],
+      "options_hi": [
+        "2",
+        "1",
+        "3",
+        "7"
+      ],
+      "answer_en": "2",
+      "answer_hi": "2",
+      "explanation_en": "7 is a prime number, so it has exactly 2 divisors: 1 and 7.",
+      "explanation_hi": "7 एक अभाज्य संख्या है, इसलिए इसके ठीक 2 भाजक हैं: 1 और 7।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 9 have?",
+      "question_hi": "संख्या 9 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "3",
+        "2",
+        "4",
+        "9"
+      ],
+      "options_hi": [
+        "3",
+        "2",
+        "4",
+        "9"
+      ],
+      "answer_en": "3",
+      "answer_hi": "3",
+      "explanation_en": "The divisors of 9 are 1, 3, and 9 — a total of 3 divisors.",
+      "explanation_hi": "9 के भाजक 1, 3, और 9 हैं — कुल 3 भाजक।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 8 have?",
+      "question_hi": "संख्या 8 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "4",
+        "3",
+        "2",
+        "8"
+      ],
+      "options_hi": [
+        "4",
+        "3",
+        "2",
+        "8"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "The divisors of 8 are 1, 2, 4, and 8 — a total of 4 divisors.",
+      "explanation_hi": "8 के भाजक 1, 2, 4, और 8 हैं — कुल 4 भाजक।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 12 have?",
+      "question_hi": "संख्या 12 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "6",
+        "4",
+        "5",
+        "12"
+      ],
+      "options_hi": [
+        "6",
+        "4",
+        "5",
+        "12"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "The divisors of 12 are 1, 2, 3, 4, 6, and 12 — a total of 6 divisors.",
+      "explanation_hi": "12 के भाजक 1, 2, 3, 4, 6, और 12 हैं — कुल 6 भाजक।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "What is the HCF (Highest Common Factor) of 12 and 18?",
+      "question_hi": "12 और 18 का म.स.प. (HCF) क्या है?",
+      "options_en": [
+        "6",
+        "3",
+        "9",
+        "12"
+      ],
+      "options_hi": [
+        "6",
+        "3",
+        "9",
+        "12"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "The common factors of 12 and 18 are 1, 2, 3, 6; the highest is 6.",
+      "explanation_hi": "12 और 18 के उभयनिष्ठ गुणनखंड 1, 2, 3, 6 हैं; इनमें सबसे बड़ा 6 है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "What is the LCM (Least Common Multiple) of 4 and 6?",
+      "question_hi": "4 और 6 का ल.स.प. (LCM) क्या है?",
+      "options_en": [
+        "12",
+        "24",
+        "10",
+        "6"
+      ],
+      "options_hi": [
+        "12",
+        "24",
+        "10",
+        "6"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "The LCM of 4 and 6 is the smallest number divisible by both, which is 12.",
+      "explanation_hi": "4 और 6 का ल.स.प. वह सबसे छोटी संख्या है जो दोनों से विभाज्य हो, जो 12 है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Two numbers are called co-prime if their HCF is ____.",
+      "question_hi": "यदि दो संख्याओं का HCF ____ हो, तो वे सहअभाज्य (Co-prime) कहलाती हैं।",
+      "options_en": [
+        "1",
+        "0",
+        "2",
+        "Equal to one of the numbers"
+      ],
+      "options_hi": [
+        "1",
+        "0",
+        "2",
+        "किसी एक संख्या के बराबर"
+      ],
+      "answer_en": "1",
+      "answer_hi": "1",
+      "explanation_en": "Two numbers are co-prime if their highest common factor is 1, meaning they share no common factor other than 1.",
+      "explanation_hi": "यदि दो संख्याओं का म.स.प. 1 हो, तो वे सहअभाज्य कहलाती हैं, यानी उनका 1 के अलावा कोई उभयनिष्ठ गुणनखंड नहीं होता।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Which of the following pairs is co-prime?",
+      "question_hi": "निम्नलिखित में से कौन-सा युग्म सहअभाज्य है?",
+      "options_en": [
+        "8 and 9",
+        "6 and 9",
+        "10 and 15",
+        "4 and 8"
+      ],
+      "options_hi": [
+        "8 और 9",
+        "6 और 9",
+        "10 और 15",
+        "4 और 8"
+      ],
+      "answer_en": "8 and 9",
+      "answer_hi": "8 और 9",
+      "explanation_en": "8 (2×2×2) and 9 (3×3) share no common prime factors, so their HCF is 1, making them co-prime.",
+      "explanation_hi": "8 (2×2×2) और 9 (3×3) का कोई उभयनिष्ठ अभाज्य गुणनखंड नहीं है, इसलिए उनका HCF 1 है, जिससे वे सहअभाज्य हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "The prime factorization of 36 is ____.",
+      "question_hi": "36 का अभाज्य गुणनखंडन ____ है।",
+      "options_en": [
+        "2^2 x 3^2",
+        "2 x 3^3",
+        "2^3 x 3",
+        "2^2 x 3"
+      ],
+      "options_hi": [
+        "2^2 x 3^2",
+        "2 x 3^3",
+        "2^3 x 3",
+        "2^2 x 3"
+      ],
+      "answer_en": "2^2 x 3^2",
+      "answer_hi": "2^2 x 3^2",
+      "explanation_en": "36 = 2 x 2 x 3 x 3 = 2^2 x 3^2.",
+      "explanation_hi": "36 = 2 x 2 x 3 x 3 = 2^2 x 3^2।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "The prime factorization of 60 is ____.",
+      "question_hi": "60 का अभाज्य गुणनखंडन ____ है।",
+      "options_en": [
+        "2^2 x 3 x 5",
+        "2 x 3^2 x 5",
+        "2^3 x 3 x 5",
+        "2^2 x 3 x 7"
+      ],
+      "options_hi": [
+        "2^2 x 3 x 5",
+        "2 x 3^2 x 5",
+        "2^3 x 3 x 5",
+        "2^2 x 3 x 7"
+      ],
+      "answer_en": "2^2 x 3 x 5",
+      "answer_hi": "2^2 x 3 x 5",
+      "explanation_en": "60 = 2 x 2 x 3 x 5 = 2^2 x 3 x 5.",
+      "explanation_hi": "60 = 2 x 2 x 3 x 5 = 2^2 x 3 x 5।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A perfect number is one whose factors (excluding itself) add up to the number. Which of these is a perfect number?",
+      "question_hi": "एक पूर्ण संख्या (Perfect Number) वह होती है जिसके गुणनखंडों (स्वयं को छोड़कर) का योग उस संख्या के बराबर हो। इनमें से कौन-सी पूर्ण संख्या है?",
+      "options_en": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "options_hi": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "6's factors excluding itself are 1, 2, 3, and their sum is 1+2+3=6, so 6 is a perfect number.",
+      "explanation_hi": "6 के स्वयं को छोड़कर गुणनखंड 1, 2, 3 हैं, और उनका योग 1+2+3=6 है, इसलिए 6 एक पूर्ण संख्या है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Which formula gives the total number of divisors of a number N = p^a x q^b (p, q prime)?",
+      "question_hi": "N = p^a x q^b (p, q अभाज्य) रूप की संख्या के कुल भाजकों की संख्या किस सूत्र से ज्ञात होती है?",
+      "options_en": [
+        "(a+1)(b+1)",
+        "a x b",
+        "a + b",
+        "(a-1)(b-1)"
+      ],
+      "options_hi": [
+        "(a+1)(b+1)",
+        "a x b",
+        "a + b",
+        "(a-1)(b-1)"
+      ],
+      "answer_en": "(a+1)(b+1)",
+      "answer_hi": "(a+1)(b+1)",
+      "explanation_en": "The number of divisors of N = p^a x q^b is given by (a+1)(b+1), by adding 1 to each exponent and multiplying.",
+      "explanation_hi": "N = p^a x q^b के भाजकों की संख्या (a+1)(b+1) से ज्ञात होती है, प्रत्येक घातांक में 1 जोड़कर गुणा करने पर।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 16 have?",
+      "question_hi": "संख्या 16 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "6",
+        "5",
+        "2",
+        "3"
+      ],
+      "options_hi": [
+        "6",
+        "5",
+        "2",
+        "3"
+      ],
+      "answer_en": "5",
+      "answer_hi": "5",
+      "explanation_en": "16 = 2^4. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 16 has 5 divisors.",
+      "explanation_hi": "16 = 2^4. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 16 के 5 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 18 have?",
+      "question_hi": "संख्या 18 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "6",
+        "3",
+        "4",
+        "9"
+      ],
+      "options_hi": [
+        "6",
+        "3",
+        "4",
+        "9"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "18 = 2 x 3^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 18 has 6 divisors.",
+      "explanation_hi": "18 = 2 x 3^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 18 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 20 have?",
+      "question_hi": "संख्या 20 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "4",
+        "6",
+        "5",
+        "9"
+      ],
+      "options_hi": [
+        "4",
+        "6",
+        "5",
+        "9"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "20 = 2^2 x 5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 20 has 6 divisors.",
+      "explanation_hi": "20 = 2^2 x 5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 20 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 24 have?",
+      "question_hi": "संख्या 24 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "8",
+        "11",
+        "5",
+        "10"
+      ],
+      "options_hi": [
+        "8",
+        "11",
+        "5",
+        "10"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "24 = 2^3 x 3. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 24 has 8 divisors.",
+      "explanation_hi": "24 = 2^3 x 3. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 24 के 8 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 27 have?",
+      "question_hi": "संख्या 27 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "options_hi": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "27 = 3^3. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 27 has 4 divisors.",
+      "explanation_hi": "27 = 3^3. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 27 के 4 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 28 have?",
+      "question_hi": "संख्या 28 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "options_hi": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "28 = 2^2 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 28 has 6 divisors.",
+      "explanation_hi": "28 = 2^2 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 28 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 32 have?",
+      "question_hi": "संख्या 32 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "4",
+        "9",
+        "6",
+        "7"
+      ],
+      "options_hi": [
+        "4",
+        "9",
+        "6",
+        "7"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "32 = 2^5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 32 has 6 divisors.",
+      "explanation_hi": "32 = 2^5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 32 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 40 have?",
+      "question_hi": "संख्या 40 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "8",
+        "10",
+        "6",
+        "11"
+      ],
+      "options_hi": [
+        "8",
+        "10",
+        "6",
+        "11"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "40 = 2^3 x 5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 40 has 8 divisors.",
+      "explanation_hi": "40 = 2^3 x 5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 40 के 8 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 45 have?",
+      "question_hi": "संख्या 45 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "3",
+        "5",
+        "6",
+        "9"
+      ],
+      "options_hi": [
+        "3",
+        "5",
+        "6",
+        "9"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "45 = 3^2 x 5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 45 has 6 divisors.",
+      "explanation_hi": "45 = 3^2 x 5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 45 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 48 have?",
+      "question_hi": "संख्या 48 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "11",
+        "10",
+        "9",
+        "8"
+      ],
+      "options_hi": [
+        "11",
+        "10",
+        "9",
+        "8"
+      ],
+      "answer_en": "10",
+      "answer_hi": "10",
+      "explanation_en": "48 = 2^4 x 3. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 48 has 10 divisors.",
+      "explanation_hi": "48 = 2^4 x 3. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 48 के 10 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 49 have?",
+      "question_hi": "संख्या 49 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "options_hi": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer_en": "3",
+      "answer_hi": "3",
+      "explanation_en": "49 = 7^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 49 has 3 divisors.",
+      "explanation_hi": "49 = 7^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 49 के 3 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 50 have?",
+      "question_hi": "संख्या 50 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "7",
+        "3",
+        "6",
+        "4"
+      ],
+      "options_hi": [
+        "7",
+        "3",
+        "6",
+        "4"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "50 = 2 x 5^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 50 has 6 divisors.",
+      "explanation_hi": "50 = 2 x 5^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 50 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 54 have?",
+      "question_hi": "संख्या 54 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "8",
+        "7",
+        "10",
+        "9"
+      ],
+      "options_hi": [
+        "8",
+        "7",
+        "10",
+        "9"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "54 = 2 x 3^3. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 54 has 8 divisors.",
+      "explanation_hi": "54 = 2 x 3^3. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 54 के 8 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 56 have?",
+      "question_hi": "संख्या 56 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "options_hi": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "56 = 2^3 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 56 has 8 divisors.",
+      "explanation_hi": "56 = 2^3 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 56 के 8 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 63 have?",
+      "question_hi": "संख्या 63 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "6",
+        "3",
+        "9",
+        "5"
+      ],
+      "options_hi": [
+        "6",
+        "3",
+        "9",
+        "5"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "63 = 3^2 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 63 has 6 divisors.",
+      "explanation_hi": "63 = 3^2 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 63 के 6 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "What is the HCF of two co-prime numbers?",
+      "question_hi": "दो सहअभाज्य संख्याओं का HCF क्या होता है?",
+      "options_en": [
+        "1",
+        "0",
+        "Their product",
+        "Their sum"
+      ],
+      "options_hi": [
+        "1",
+        "0",
+        "उनका गुणनफल",
+        "उनका योग"
+      ],
+      "answer_en": "1",
+      "answer_hi": "1",
+      "explanation_en": "By definition, co-prime numbers have an HCF of 1.",
+      "explanation_hi": "परिभाषा के अनुसार, सहअभाज्य संख्याओं का HCF 1 होता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "The product of HCF and LCM of two numbers is equal to ____.",
+      "question_hi": "दो संख्याओं के HCF और LCM का गुणनफल ____ के बराबर होता है।",
+      "options_en": [
+        "The product of the two numbers",
+        "Their sum",
+        "Their difference",
+        "Twice their sum"
+      ],
+      "options_hi": [
+        "दोनों संख्याओं का गुणनफल",
+        "उनका योग",
+        "उनका अंतर",
+        "उनके योग का दोगुना"
+      ],
+      "answer_en": "The product of the two numbers",
+      "answer_hi": "दोनों संख्याओं का गुणनफल",
+      "explanation_en": "For any two numbers a and b: HCF(a,b) x LCM(a,b) = a x b.",
+      "explanation_hi": "किन्हीं दो संख्याओं a और b के लिए: HCF(a,b) x LCM(a,b) = a x b।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "If the HCF of two numbers is 4 and their product is 96, what is their LCM?",
+      "question_hi": "यदि दो संख्याओं का HCF 4 है और उनका गुणनफल 96 है, तो उनका LCM क्या है?",
+      "options_en": [
+        "24",
+        "12",
+        "48",
+        "96"
+      ],
+      "options_hi": [
+        "24",
+        "12",
+        "48",
+        "96"
+      ],
+      "answer_en": "24",
+      "answer_hi": "24",
+      "explanation_en": "Since HCF x LCM = product of numbers, LCM = 96 / 4 = 24.",
+      "explanation_hi": "चूँकि HCF x LCM = संख्याओं का गुणनफल, LCM = 96 / 4 = 24।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Which of the following numbers has an odd number of divisors?",
+      "question_hi": "निम्नलिखित में से किस संख्या के भाजकों की संख्या विषम है?",
+      "options_en": [
+        "16",
+        "12",
+        "18",
+        "20"
+      ],
+      "options_hi": [
+        "16",
+        "12",
+        "18",
+        "20"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "Only perfect squares have an odd number of divisors. 16 = 4^2 is a perfect square with divisors 1,2,4,8,16 (5 divisors).",
+      "explanation_hi": "केवल पूर्ण वर्ग संख्याओं के भाजकों की संख्या विषम होती है। 16 = 4^2 एक पूर्ण वर्ग है जिसके भाजक 1,2,4,8,16 हैं (5 भाजक)।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A number has an odd number of divisors only if it is a ____.",
+      "question_hi": "किसी संख्या के भाजकों की संख्या विषम केवल तभी होती है जब वह एक ____ हो।",
+      "options_en": [
+        "Perfect square",
+        "Prime number",
+        "Composite number",
+        "Even number"
+      ],
+      "options_hi": [
+        "पूर्ण वर्ग",
+        "अभाज्य संख्या",
+        "भाज्य संख्या",
+        "सम संख्या"
+      ],
+      "answer_en": "Perfect square",
+      "answer_hi": "पूर्ण वर्ग",
+      "explanation_en": "Divisors normally pair up (d and N/d), except when a divisor equals its pair (√N), which only happens for perfect squares.",
+      "explanation_hi": "भाजक सामान्यतः जोड़े में होते हैं (d और N/d), सिवाय तब जब कोई भाजक अपने जोड़े (√N) के बराबर हो, जो केवल पूर्ण वर्गों में होता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "What is the sum of the first 5 prime numbers?",
+      "question_hi": "पहली 5 अभाज्य संख्याओं का योग क्या है?",
+      "options_en": [
+        "28",
+        "26",
+        "30",
+        "24"
+      ],
+      "options_hi": [
+        "28",
+        "26",
+        "30",
+        "24"
+      ],
+      "answer_en": "28",
+      "answer_hi": "28",
+      "explanation_en": "The first 5 primes are 2, 3, 5, 7, 11. Their sum is 2+3+5+7+11 = 28.",
+      "explanation_hi": "पहली 5 अभाज्य संख्याएँ 2, 3, 5, 7, 11 हैं। उनका योग 2+3+5+7+11 = 28 है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many prime numbers are there between 1 and 20?",
+      "question_hi": "1 और 20 के बीच कितनी अभाज्य संख्याएँ हैं?",
+      "options_en": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "options_hi": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "The primes between 1 and 20 are 2, 3, 5, 7, 11, 13, 17, 19 — a total of 8 primes.",
+      "explanation_hi": "1 और 20 के बीच अभाज्य संख्याएँ 2, 3, 5, 7, 11, 13, 17, 19 हैं — कुल 8 अभाज्य संख्याएँ।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Which of these is a twin prime pair (primes differing by 2)?",
+      "question_hi": "इनमें से कौन-सा जुड़वाँ अभाज्य (Twin Prime) युग्म है (जिनका अंतर 2 हो)?",
+      "options_en": [
+        "17 and 19",
+        "13 and 17",
+        "7 and 11",
+        "23 and 27"
+      ],
+      "options_hi": [
+        "17 और 19",
+        "13 और 17",
+        "7 और 11",
+        "23 और 27"
+      ],
+      "answer_en": "17 and 19",
+      "answer_hi": "17 और 19",
+      "explanation_en": "Twin primes are pairs of primes that differ by exactly 2. 17 and 19 are both prime and differ by 2.",
+      "explanation_hi": "जुड़वाँ अभाज्य संख्याएँ ऐसी अभाज्य संख्याओं के जोड़े हैं जिनका अंतर ठीक 2 होता है। 17 और 19 दोनों अभाज्य हैं और उनका अंतर 2 है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "What is the smallest composite number?",
+      "question_hi": "सबसे छोटी भाज्य संख्या (Composite Number) कौन-सी है?",
+      "options_en": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "options_hi": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "4 is the smallest composite number, with factors 1, 2, and 4.",
+      "explanation_hi": "4 सबसे छोटी भाज्य संख्या है, जिसके गुणनखंड 1, 2, और 4 हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "The number of even divisors of 20 is ____.",
+      "question_hi": "20 के सम भाजकों की संख्या ____ है।",
+      "options_en": [
+        "4",
+        "3",
+        "6",
+        "2"
+      ],
+      "options_hi": [
+        "4",
+        "3",
+        "6",
+        "2"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "The divisors of 20 are 1, 2, 4, 5, 10, 20. The even ones are 2, 4, 10, 20 — a total of 4.",
+      "explanation_hi": "20 के भाजक 1, 2, 4, 5, 10, 20 हैं। इनमें सम भाजक 2, 4, 10, 20 हैं — कुल 4।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "The number of odd divisors of 45 is ____.",
+      "question_hi": "45 के विषम भाजकों की संख्या ____ है।",
+      "options_en": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "options_hi": [
+        "6",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "45 = 3^2 x 5, and since 45 has no factor of 2, all 6 of its divisors (1,3,5,9,15,45) are odd.",
+      "explanation_hi": "45 = 3^2 x 5, और चूँकि 45 में 2 का कोई गुणनखंड नहीं है, इसके सभी 6 भाजक (1,3,5,9,15,45) विषम हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 72 have?",
+      "question_hi": "संख्या 72 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "11",
+        "14",
+        "9",
+        "12"
+      ],
+      "options_hi": [
+        "11",
+        "14",
+        "9",
+        "12"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "72 = 2^3 x 3^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 72 has 12 divisors.",
+      "explanation_hi": "72 = 2^3 x 3^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 72 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 84 have?",
+      "question_hi": "संख्या 84 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "9",
+        "12",
+        "13",
+        "15"
+      ],
+      "options_hi": [
+        "9",
+        "12",
+        "13",
+        "15"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "84 = 2^2 x 3 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 84 has 12 divisors.",
+      "explanation_hi": "84 = 2^2 x 3 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 84 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 90 have?",
+      "question_hi": "संख्या 90 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "12",
+        "13",
+        "11",
+        "15"
+      ],
+      "options_hi": [
+        "12",
+        "13",
+        "11",
+        "15"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "90 = 2 x 3^2 x 5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 90 has 12 divisors.",
+      "explanation_hi": "90 = 2 x 3^2 x 5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 90 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 96 have?",
+      "question_hi": "संख्या 96 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "9",
+        "12",
+        "11",
+        "10"
+      ],
+      "options_hi": [
+        "9",
+        "12",
+        "11",
+        "10"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "96 = 2^5 x 3. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 96 has 12 divisors.",
+      "explanation_hi": "96 = 2^5 x 3. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 96 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 100 have?",
+      "question_hi": "संख्या 100 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "9",
+        "11",
+        "12",
+        "7"
+      ],
+      "options_hi": [
+        "9",
+        "11",
+        "12",
+        "7"
+      ],
+      "answer_en": "9",
+      "answer_hi": "9",
+      "explanation_en": "100 = 2^2 x 5^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 100 has 9 divisors.",
+      "explanation_hi": "100 = 2^2 x 5^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 100 के 9 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 108 have?",
+      "question_hi": "संख्या 108 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "15",
+        "12",
+        "13",
+        "10"
+      ],
+      "options_hi": [
+        "15",
+        "12",
+        "13",
+        "10"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "108 = 2^2 x 3^3. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 108 has 12 divisors.",
+      "explanation_hi": "108 = 2^2 x 3^3. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 108 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 120 have?",
+      "question_hi": "संख्या 120 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "14",
+        "16",
+        "17",
+        "13"
+      ],
+      "options_hi": [
+        "14",
+        "16",
+        "17",
+        "13"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "120 = 2^3 x 3 x 5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 120 has 16 divisors.",
+      "explanation_hi": "120 = 2^3 x 3 x 5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 120 के 16 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 126 have?",
+      "question_hi": "संख्या 126 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "10",
+        "9",
+        "14",
+        "12"
+      ],
+      "options_hi": [
+        "10",
+        "9",
+        "14",
+        "12"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "126 = 2 x 3^2 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 126 has 12 divisors.",
+      "explanation_hi": "126 = 2 x 3^2 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 126 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 128 have?",
+      "question_hi": "संख्या 128 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "11",
+        "8",
+        "6",
+        "5"
+      ],
+      "options_hi": [
+        "11",
+        "8",
+        "6",
+        "5"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "128 = 2^7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 128 has 8 divisors.",
+      "explanation_hi": "128 = 2^7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 128 के 8 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 144 have?",
+      "question_hi": "संख्या 144 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "15",
+        "18",
+        "14",
+        "16"
+      ],
+      "options_hi": [
+        "15",
+        "18",
+        "14",
+        "16"
+      ],
+      "answer_en": "15",
+      "answer_hi": "15",
+      "explanation_en": "144 = 2^4 x 3^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 144 has 15 divisors.",
+      "explanation_hi": "144 = 2^4 x 3^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 144 के 15 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 150 have?",
+      "question_hi": "संख्या 150 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "12",
+        "14",
+        "10",
+        "13"
+      ],
+      "options_hi": [
+        "12",
+        "14",
+        "10",
+        "13"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "150 = 2 x 3 x 5^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 150 has 12 divisors.",
+      "explanation_hi": "150 = 2 x 3 x 5^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 150 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 168 have?",
+      "question_hi": "संख्या 168 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "15",
+        "19",
+        "14",
+        "16"
+      ],
+      "options_hi": [
+        "15",
+        "19",
+        "14",
+        "16"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "168 = 2^3 x 3 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 168 has 16 divisors.",
+      "explanation_hi": "168 = 2^3 x 3 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 168 के 16 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 180 have?",
+      "question_hi": "संख्या 180 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "16",
+        "21",
+        "18",
+        "17"
+      ],
+      "options_hi": [
+        "16",
+        "21",
+        "18",
+        "17"
+      ],
+      "answer_en": "18",
+      "answer_hi": "18",
+      "explanation_en": "180 = 2^2 x 3^2 x 5. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 180 has 18 divisors.",
+      "explanation_hi": "180 = 2^2 x 3^2 x 5. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 180 के 18 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 200 have?",
+      "question_hi": "संख्या 200 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "12",
+        "13",
+        "11",
+        "15"
+      ],
+      "options_hi": [
+        "12",
+        "13",
+        "11",
+        "15"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "200 = 2^3 x 5^2. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 200 has 12 divisors.",
+      "explanation_hi": "200 = 2^3 x 5^2. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 200 के 12 भाजक होते हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors does 360 have, given 360 = 2^3 x 3^2 x 5?",
+      "question_hi": "360 के कितने भाजक हैं, यदि 360 = 2^3 x 3^2 x 5?",
+      "options_en": [
+        "24",
+        "18",
+        "20",
+        "30"
+      ],
+      "options_hi": [
+        "24",
+        "18",
+        "20",
+        "30"
+      ],
+      "answer_en": "24",
+      "answer_hi": "24",
+      "explanation_en": "Using (3+1)(2+1)(1+1) = 4 x 3 x 2 = 24 divisors.",
+      "explanation_hi": "(3+1)(2+1)(1+1) = 4 x 3 x 2 = 24 भाजक का उपयोग करते हुए।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors does 1000 have, given 1000 = 2^3 x 5^3?",
+      "question_hi": "1000 के कितने भाजक हैं, यदि 1000 = 2^3 x 5^3?",
+      "options_en": [
+        "16",
+        "12",
+        "20",
+        "24"
+      ],
+      "options_hi": [
+        "16",
+        "12",
+        "20",
+        "24"
+      ],
+      "answer_en": "16",
+      "answer_hi": "16",
+      "explanation_en": "Using (3+1)(3+1) = 4 x 4 = 16 divisors.",
+      "explanation_hi": "(3+1)(3+1) = 4 x 4 = 16 भाजक का उपयोग करते हुए।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors does 5040 have, given 5040 = 2^4 x 3^2 x 5 x 7?",
+      "question_hi": "5040 के कितने भाजक हैं, यदि 5040 = 2^4 x 3^2 x 5 x 7?",
+      "options_en": [
+        "60",
+        "48",
+        "50",
+        "40"
+      ],
+      "options_hi": [
+        "60",
+        "48",
+        "50",
+        "40"
+      ],
+      "answer_en": "60",
+      "answer_hi": "60",
+      "explanation_en": "Using (4+1)(2+1)(1+1)(1+1) = 5 x 3 x 2 x 2 = 60 divisors.",
+      "explanation_hi": "(4+1)(2+1)(1+1)(1+1) = 5 x 3 x 2 x 2 = 60 भाजक का उपयोग करते हुए।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors does 2310 have, given 2310 = 2 x 3 x 5 x 7 x 11?",
+      "question_hi": "2310 के कितने भाजक हैं, यदि 2310 = 2 x 3 x 5 x 7 x 11?",
+      "options_en": [
+        "32",
+        "16",
+        "24",
+        "20"
+      ],
+      "options_hi": [
+        "32",
+        "16",
+        "24",
+        "20"
+      ],
+      "answer_en": "32",
+      "answer_hi": "32",
+      "explanation_en": "Since all exponents are 1, using (1+1)^5 = 2^5 = 32 divisors.",
+      "explanation_hi": "चूँकि सभी घातांक 1 हैं, (1+1)^5 = 2^5 = 32 भाजक का उपयोग करते हुए।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many perfect square divisors does 144 have, given 144 = 2^4 x 3^2?",
+      "question_hi": "144 के कितने पूर्ण वर्ग भाजक हैं, यदि 144 = 2^4 x 3^2?",
+      "options_en": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "options_hi": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "answer_en": "6",
+      "answer_hi": "6",
+      "explanation_en": "Perfect square divisors use even exponents: 2^0,2^2,2^4 (3 choices) x 3^0,3^2 (2 choices) = 3 x 2 = 6.",
+      "explanation_hi": "पूर्ण वर्ग भाजकों में सम घातांक होते हैं: 2^0,2^2,2^4 (3 विकल्प) x 3^0,3^2 (2 विकल्प) = 3 x 2 = 6।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "What is the sum of all divisors of 28 (including 28 itself)?",
+      "question_hi": "28 के सभी भाजकों (28 सहित) का योग क्या है?",
+      "options_en": [
+        "56",
+        "48",
+        "52",
+        "60"
+      ],
+      "options_hi": [
+        "56",
+        "48",
+        "52",
+        "60"
+      ],
+      "answer_en": "56",
+      "answer_hi": "56",
+      "explanation_en": "Divisors of 28: 1,2,4,7,14,28. Sum = 1+2+4+7+14+28 = 56. (Note: 28 is a perfect number since sum excluding itself = 28.)",
+      "explanation_hi": "28 के भाजक: 1,2,4,7,14,28। योग = 1+2+4+7+14+28 = 56। (ध्यान दें: 28 एक पूर्ण संख्या है क्योंकि स्वयं को छोड़कर योग = 28.)",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "If N = 2^5 x 3^3 x 5^2, how many total divisors does N have?",
+      "question_hi": "यदि N = 2^5 x 3^3 x 5^2 है, तो N के कुल कितने भाजक हैं?",
+      "options_en": [
+        "72",
+        "60",
+        "48",
+        "90"
+      ],
+      "options_hi": [
+        "72",
+        "60",
+        "48",
+        "90"
+      ],
+      "answer_en": "72",
+      "answer_hi": "72",
+      "explanation_en": "Using (5+1)(3+1)(2+1) = 6 x 4 x 3 = 72 divisors.",
+      "explanation_hi": "(5+1)(3+1)(2+1) = 6 x 4 x 3 = 72 भाजक का उपयोग करते हुए।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many divisors of 100 are perfect squares, given 100 = 2^2 x 5^2?",
+      "question_hi": "100 के कितने भाजक पूर्ण वर्ग हैं, यदि 100 = 2^2 x 5^2?",
+      "options_en": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "options_hi": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "answer_en": "4",
+      "answer_hi": "4",
+      "explanation_en": "Perfect square divisors: 2^0,2^2 (2 choices) x 5^0,5^2 (2 choices) = 2 x 2 = 4 (they are 1, 4, 25, 100).",
+      "explanation_hi": "पूर्ण वर्ग भाजक: 2^0,2^2 (2 विकल्प) x 5^0,5^2 (2 विकल्प) = 2 x 2 = 4 (वे 1, 4, 25, 100 हैं)।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "Two numbers have LCM 180 and HCF 6. If one number is 30, what is the other?",
+      "question_hi": "दो संख्याओं का LCM 180 और HCF 6 है। यदि एक संख्या 30 है, तो दूसरी संख्या क्या है?",
+      "options_en": [
+        "36",
+        "30",
+        "24",
+        "42"
+      ],
+      "options_hi": [
+        "36",
+        "30",
+        "24",
+        "42"
+      ],
+      "answer_en": "36",
+      "answer_hi": "36",
+      "explanation_en": "Since HCF x LCM = product of numbers: 6 x 180 = 30 x other, so other = 1080/30 = 36.",
+      "explanation_hi": "चूँकि HCF x LCM = संख्याओं का गुणनफल: 6 x 180 = 30 x दूसरी संख्या, इसलिए दूसरी संख्या = 1080/30 = 36।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "How many factors of 720 are even, given 720 = 2^4 x 3^2 x 5?",
+      "question_hi": "720 के कितने भाजक सम हैं, यदि 720 = 2^4 x 3^2 x 5?",
+      "options_en": [
+        "24",
+        "30",
+        "20",
+        "15"
+      ],
+      "options_hi": [
+        "24",
+        "30",
+        "20",
+        "15"
+      ],
+      "answer_en": "24",
+      "answer_hi": "24",
+      "explanation_en": "Total divisors = (4+1)(2+1)(1+1)=30. Odd divisors (using only 3^a x 5^b) = (2+1)(1+1)=6. Even divisors = 30-6 = 24.",
+      "explanation_hi": "कुल भाजक = (4+1)(2+1)(1+1)=30। विषम भाजक (केवल 3^a x 5^b) = (2+1)(1+1)=6। सम भाजक = 30-6 = 24।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "The number of ways to write 12 as a product of two positive integers (order not mattering) is ____.",
+      "question_hi": "12 को दो धनात्मक पूर्णांकों के गुणनफल के रूप में लिखने के तरीकों की संख्या (क्रम मायने नहीं रखता) ____ है।",
+      "options_en": [
+        "3",
+        "6",
+        "4",
+        "2"
+      ],
+      "options_hi": [
+        "3",
+        "6",
+        "4",
+        "2"
+      ],
+      "answer_en": "3",
+      "answer_hi": "3",
+      "explanation_en": "12 has 6 divisors (1,2,3,4,6,12), giving 6/2=3 unordered pairs: (1,12), (2,6), (3,4).",
+      "explanation_hi": "12 के 6 भाजक हैं (1,2,3,4,6,12), जिससे 6/2=3 अक्रमित युग्म बनते हैं: (1,12), (2,6), (3,4)।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "If a number N has exactly 12 divisors and N = 2^a x 3^b, which of these (a,b) pairs is valid?",
+      "question_hi": "यदि किसी संख्या N के ठीक 12 भाजक हैं और N = 2^a x 3^b है, तो इनमें से कौन-सा (a,b) युग्म मान्य है?",
+      "options_en": [
+        "a=3, b=2",
+        "a=2, b=2",
+        "a=4, b=1",
+        "a=1, b=1"
+      ],
+      "options_hi": [
+        "a=3, b=2",
+        "a=2, b=2",
+        "a=4, b=1",
+        "a=1, b=1"
+      ],
+      "answer_en": "a=3, b=2",
+      "answer_hi": "a=3, b=2",
+      "explanation_en": "(a+1)(b+1)=12 needs factors of 12; with a=3,b=2: (3+1)(2+1)=4x3=12, which works.",
+      "explanation_hi": "(a+1)(b+1)=12 के लिए 12 के गुणनखंड चाहिए; a=3,b=2 से: (3+1)(2+1)=4x3=12, जो सही है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "What is the HCF of 24, 36, and 60?",
+      "question_hi": "24, 36, और 60 का HCF क्या है?",
+      "options_en": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "options_hi": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "24=2^3x3, 36=2^2x3^2, 60=2^2x3x5. Common factors: 2^2 x 3 = 12.",
+      "explanation_hi": "24=2^3x3, 36=2^2x3^2, 60=2^2x3x5। उभयनिष्ठ गुणनखंड: 2^2 x 3 = 12।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "What is the LCM of 24, 36, and 60?",
+      "question_hi": "24, 36, और 60 का LCM क्या है?",
+      "options_en": [
+        "360",
+        "180",
+        "240",
+        "720"
+      ],
+      "options_hi": [
+        "360",
+        "180",
+        "240",
+        "720"
+      ],
+      "answer_en": "360",
+      "answer_hi": "360",
+      "explanation_en": "24=2^3x3, 36=2^2x3^2, 60=2^2x3x5. LCM takes highest powers: 2^3 x 3^2 x 5 = 8x9x5 = 360.",
+      "explanation_hi": "24=2^3x3, 36=2^2x3^2, 60=2^2x3x5। LCM में सबसे बड़ी घातें ली जाती हैं: 2^3 x 3^2 x 5 = 8x9x5 = 360।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A number N is expressed as N = p^2 x q, where p and q are distinct primes. How many divisors does N^2 have?",
+      "question_hi": "एक संख्या N = p^2 x q के रूप में है, जहाँ p और q अलग-अलग अभाज्य हैं। N^2 के कितने भाजक हैं?",
+      "options_en": [
+        "15",
+        "9",
+        "12",
+        "6"
+      ],
+      "options_hi": [
+        "15",
+        "9",
+        "12",
+        "6"
+      ],
+      "answer_en": "15",
+      "answer_hi": "15",
+      "explanation_en": "N^2 = p^4 x q^2, so the number of divisors is (4+1)(2+1) = 5 x 3 = 15.",
+      "explanation_hi": "N^2 = p^4 x q^2, इसलिए भाजकों की संख्या (4+1)(2+1) = 5 x 3 = 15 है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A number is divisible by 6 if it is divisible by both ____.",
+      "question_hi": "यदि कोई संख्या ____ दोनों से विभाज्य हो, तो वह 6 से विभाज्य होती है।",
+      "options_en": [
+        "2 and 3",
+        "2 and 4",
+        "3 and 9",
+        "2 and 5"
+      ],
+      "options_hi": [
+        "2 और 3",
+        "2 और 4",
+        "3 और 9",
+        "2 और 5"
+      ],
+      "answer_en": "2 and 3",
+      "answer_hi": "2 और 3",
+      "explanation_en": "Since 6 = 2 x 3, a number divisible by both 2 and 3 is also divisible by 6.",
+      "explanation_hi": "चूँकि 6 = 2 x 3, इसलिए 2 और 3 दोनों से विभाज्य संख्या 6 से भी विभाज्य होती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A number is divisible by 8 if its last ____ digits are divisible by 8.",
+      "question_hi": "यदि किसी संख्या के अंतिम ____ अंक 8 से विभाज्य हों, तो वह संख्या 8 से विभाज्य होती है।",
+      "options_en": [
+        "Three",
+        "Two",
+        "One",
+        "Four"
+      ],
+      "options_hi": [
+        "तीन",
+        "दो",
+        "एक",
+        "चार"
+      ],
+      "answer_en": "Three",
+      "answer_hi": "तीन",
+      "explanation_en": "A number is divisible by 8 if the number formed by its last three digits is divisible by 8.",
+      "explanation_hi": "यदि किसी संख्या के अंतिम तीन अंकों से बनी संख्या 8 से विभाज्य हो, तो वह संख्या 8 से विभाज्य होती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Real numbers include which of the following?",
+      "question_hi": "वास्तविक संख्याओं (Real Numbers) में निम्नलिखित में से कौन शामिल है?",
+      "options_en": [
+        "Both rational and irrational numbers",
+        "Only rational numbers",
+        "Only integers",
+        "Only natural numbers"
+      ],
+      "options_hi": [
+        "परिमेय और अपरिमेय दोनों संख्याएँ",
+        "केवल परिमेय संख्याएँ",
+        "केवल पूर्णांक",
+        "केवल प्राकृत संख्याएँ"
+      ],
+      "answer_en": "Both rational and irrational numbers",
+      "answer_hi": "परिमेय और अपरिमेय दोनों संख्याएँ",
+      "explanation_en": "The set of real numbers includes all rational numbers (like 1/2) and all irrational numbers (like √2).",
+      "explanation_hi": "वास्तविक संख्याओं के समुच्चय में सभी परिमेय संख्याएँ (जैसे 1/2) और सभी अपरिमेय संख्याएँ (जैसे √2) शामिल हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "What is the main difference between natural numbers and whole numbers?",
+      "question_hi": "प्राकृत संख्याओं और पूर्ण संख्याओं में मुख्य अंतर क्या है?",
+      "options_en": [
+        "Whole numbers include 0, natural numbers do not",
+        "Natural numbers include negatives",
+        "Whole numbers are always odd",
+        "There is no difference"
+      ],
+      "options_hi": [
+        "पूर्ण संख्याओं में 0 शामिल है, प्राकृत संख्याओं में नहीं",
+        "प्राकृत संख्याओं में ऋणात्मक संख्याएँ शामिल हैं",
+        "पूर्ण संख्याएँ हमेशा विषम होती हैं",
+        "कोई अंतर नहीं है"
+      ],
+      "answer_en": "Whole numbers include 0, natural numbers do not",
+      "answer_hi": "पूर्ण संख्याओं में 0 शामिल है, प्राकृत संख्याओं में नहीं",
+      "explanation_en": "Whole numbers (0, 1, 2, 3, ...) include zero, while natural numbers (1, 2, 3, ...) traditionally start from 1.",
+      "explanation_hi": "पूर्ण संख्याओं (0, 1, 2, 3, ...) में शून्य शामिल है, जबकि प्राकृत संख्याएँ (1, 2, 3, ...) परंपरागत रूप से 1 से शुरू होती हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 42 have?",
+      "question_hi": "संख्या 42 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "options_hi": [
+        "9",
+        "7",
+        "6",
+        "8"
+      ],
+      "answer_en": "8",
+      "answer_hi": "8",
+      "explanation_en": "42 = 2 x 3 x 7. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 42 has 8 divisors.",
+      "explanation_hi": "42 = 2 x 3 x 7. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 42 के 8 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors (bhajak) does the number 64 have?",
+      "question_hi": "संख्या 64 के कितने भाजक (गुणनखंड) होते हैं?",
+      "options_en": [
+        "5",
+        "7",
+        "6",
+        "10"
+      ],
+      "options_hi": [
+        "5",
+        "7",
+        "6",
+        "10"
+      ],
+      "answer_en": "7",
+      "answer_hi": "7",
+      "explanation_en": "64 = 2^6. Using the formula (number of divisors) = product of (exponent + 1) for each prime, 64 has 7 divisors.",
+      "explanation_hi": "64 = 2^6. भाजकों की संख्या ज्ञात करने के सूत्र (घातांक + 1) के गुणनफल से, 64 के 7 भाजक होते हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors does a number of the form p^2 (p prime) have?",
+      "question_hi": "p^2 (p अभाज्य) रूप की संख्या के कितने भाजक होते हैं?",
+      "options_en": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "options_hi": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer_en": "3",
+      "answer_hi": "3",
+      "explanation_en": "For N = p^2, the number of divisors is (2+1) = 3, e.g., 9=3^2 has divisors 1, 3, 9.",
+      "explanation_hi": "N = p^2 के लिए, भाजकों की संख्या (2+1) = 3 होती है, जैसे 9=3^2 के भाजक 1, 3, 9 हैं।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "If two numbers are co-prime, what is their LCM equal to?",
+      "question_hi": "यदि दो संख्याएँ सहअभाज्य हैं, तो उनका LCM किसके बराबर होता है?",
+      "options_en": [
+        "Their product",
+        "Their sum",
+        "1",
+        "Their HCF"
+      ],
+      "options_hi": [
+        "उनका गुणनफल",
+        "उनका योग",
+        "1",
+        "उनका HCF"
+      ],
+      "answer_en": "Their product",
+      "answer_hi": "उनका गुणनफल",
+      "explanation_en": "For co-prime numbers, since HCF=1, and HCF x LCM = product, the LCM equals the product of the two numbers.",
+      "explanation_hi": "सहअभाज्य संख्याओं के लिए, चूँकि HCF=1 है, और HCF x LCM = गुणनफल, इसलिए LCM दोनों संख्याओं के गुणनफल के बराबर होता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "How many divisors does 256 have, given 256 = 2^8?",
+      "question_hi": "256 के कितने भाजक हैं, यदि 256 = 2^8?",
+      "options_en": [
+        "9",
+        "8",
+        "16",
+        "7"
+      ],
+      "options_hi": [
+        "9",
+        "8",
+        "16",
+        "7"
+      ],
+      "answer_en": "9",
+      "answer_hi": "9",
+      "explanation_en": "Using (8+1) = 9 divisors: 1,2,4,8,16,32,64,128,256.",
+      "explanation_hi": "(8+1) = 9 भाजक: 1,2,4,8,16,32,64,128,256।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A number N has exactly 4 divisors and is not a perfect cube of a prime. Which form must N take?",
+      "question_hi": "एक संख्या N के ठीक 4 भाजक हैं और यह किसी अभाज्य का पूर्ण घन नहीं है। N किस रूप की होनी चाहिए?",
+      "options_en": [
+        "Product of two distinct primes (p x q)",
+        "Square of a prime (p^2)",
+        "Cube of a prime (p^3)",
+        "Product of three primes"
+      ],
+      "options_hi": [
+        "दो भिन्न अभाज्यों का गुणनफल (p x q)",
+        "एक अभाज्य का वर्ग (p^2)",
+        "एक अभाज्य का घन (p^3)",
+        "तीन अभाज्यों का गुणनफल"
+      ],
+      "answer_en": "Product of two distinct primes (p x q)",
+      "answer_hi": "दो भिन्न अभाज्यों का गुणनफल (p x q)",
+      "explanation_en": "N = p x q (distinct primes) gives (1+1)(1+1) = 4 divisors, e.g., 6 = 2x3 has divisors 1,2,3,6.",
+      "explanation_hi": "N = p x q (भिन्न अभाज्य) से (1+1)(1+1) = 4 भाजक मिलते हैं, जैसे 6 = 2x3 के भाजक 1,2,3,6 हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "What is the sum of all divisors of 6 (a perfect number)?",
+      "question_hi": "6 (एक पूर्ण संख्या) के सभी भाजकों का योग क्या है?",
+      "options_en": [
+        "12",
+        "6",
+        "9",
+        "10"
+      ],
+      "options_hi": [
+        "12",
+        "6",
+        "9",
+        "10"
+      ],
+      "answer_en": "12",
+      "answer_hi": "12",
+      "explanation_en": "Divisors of 6: 1,2,3,6. Sum = 1+2+3+6 = 12, which is twice the number itself (a property of perfect numbers).",
+      "explanation_hi": "6 के भाजक: 1,2,3,6। योग = 1+2+3+6 = 12, जो संख्या का दोगुना है (पूर्ण संख्याओं का एक गुण)।",
+      "difficulty": "hard"
+    }
+  ]
+}

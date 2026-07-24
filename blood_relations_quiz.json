@@ -1,0 +1,1055 @@
+{
+  "title": "Blood Relations Quiz (Simple, Medium, Hard)",
+  "questions": [
+    {
+      "question_en": "Your father's father is your ____.",
+      "question_hi": "आपके पिता के पिता आपके ____ होते हैं।",
+      "options_en": [
+        "Uncle",
+        "Grandfather",
+        "Cousin",
+        "Nephew"
+      ],
+      "options_hi": [
+        "चाचा",
+        "दादा",
+        "चचेरा भाई",
+        "भतीजा"
+      ],
+      "answer_en": "Grandfather",
+      "answer_hi": "दादा",
+      "explanation_en": "Your father's father is your paternal grandfather (दादा).",
+      "explanation_hi": "आपके पिता के पिता आपके दादा (paternal grandfather) कहलाते हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your father's mother is your ____.",
+      "question_hi": "आपके पिता की माता आपकी ____ होती हैं।",
+      "options_en": [
+        "Aunt",
+        "Grandmother",
+        "Sister",
+        "Mother"
+      ],
+      "options_hi": [
+        "चाची",
+        "दादी",
+        "बहन",
+        "माँ"
+      ],
+      "answer_en": "Grandmother",
+      "answer_hi": "दादी",
+      "explanation_en": "Your father's mother is your paternal grandmother (दादी).",
+      "explanation_hi": "आपके पिता की माता आपकी दादी कहलाती हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your mother's father is your ____.",
+      "question_hi": "आपकी माता के पिता आपके ____ होते हैं।",
+      "options_en": [
+        "Grandfather",
+        "Father-in-law",
+        "Uncle",
+        "Brother"
+      ],
+      "options_hi": [
+        "नाना",
+        "ससुर",
+        "मामा",
+        "भाई"
+      ],
+      "answer_en": "Grandfather",
+      "answer_hi": "नाना",
+      "explanation_en": "Your mother's father is your maternal grandfather (नाना).",
+      "explanation_hi": "आपकी माता के पिता आपके नाना कहलाते हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your mother's mother is your ____.",
+      "question_hi": "आपकी माता की माता आपकी ____ होती हैं।",
+      "options_en": [
+        "Grandmother",
+        "Aunt",
+        "Mother-in-law",
+        "Sister"
+      ],
+      "options_hi": [
+        "नानी",
+        "मौसी",
+        "सास",
+        "बहन"
+      ],
+      "answer_en": "Grandmother",
+      "answer_hi": "नानी",
+      "explanation_en": "Your mother's mother is your maternal grandmother (नानी).",
+      "explanation_hi": "आपकी माता की माता आपकी नानी कहलाती हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your father's brother is your ____.",
+      "question_hi": "आपके पिता का भाई आपका ____ होता है।",
+      "options_en": [
+        "Uncle",
+        "Cousin",
+        "Nephew",
+        "Grandfather"
+      ],
+      "options_hi": [
+        "चाचा",
+        "चचेरा भाई",
+        "भतीजा",
+        "दादा"
+      ],
+      "answer_en": "Uncle",
+      "answer_hi": "चाचा",
+      "explanation_en": "Your father's brother is your uncle (चाचा/ताऊ).",
+      "explanation_hi": "आपके पिता का भाई आपका चाचा कहलाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your father's sister is your ____.",
+      "question_hi": "आपके पिता की बहन आपकी ____ होती है।",
+      "options_en": [
+        "Aunt",
+        "Mother",
+        "Cousin",
+        "Niece"
+      ],
+      "options_hi": [
+        "बुआ",
+        "माँ",
+        "चचेरी बहन",
+        "भतीजी"
+      ],
+      "answer_en": "Aunt",
+      "answer_hi": "बुआ",
+      "explanation_en": "Your father's sister is your paternal aunt (बुआ).",
+      "explanation_hi": "आपके पिता की बहन आपकी बुआ कहलाती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your mother's brother is your ____.",
+      "question_hi": "आपकी माता का भाई आपका ____ होता है।",
+      "options_en": [
+        "Uncle",
+        "Cousin",
+        "Father",
+        "Brother-in-law"
+      ],
+      "options_hi": [
+        "मामा",
+        "चचेरा भाई",
+        "पिता",
+        "साला"
+      ],
+      "answer_en": "Uncle",
+      "answer_hi": "मामा",
+      "explanation_en": "Your mother's brother is your maternal uncle (मामा).",
+      "explanation_hi": "आपकी माता का भाई आपका मामा कहलाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your mother's sister is your ____.",
+      "question_hi": "आपकी माता की बहन आपकी ____ होती है।",
+      "options_en": [
+        "Aunt",
+        "Sister",
+        "Grandmother",
+        "Niece"
+      ],
+      "options_hi": [
+        "मौसी",
+        "बहन",
+        "नानी",
+        "भतीजी"
+      ],
+      "answer_en": "Aunt",
+      "answer_hi": "मौसी",
+      "explanation_en": "Your mother's sister is your maternal aunt (मौसी).",
+      "explanation_hi": "आपकी माता की बहन आपकी मौसी कहलाती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your son's wife is your ____.",
+      "question_hi": "आपके बेटे की पत्नी आपकी ____ होती है।",
+      "options_en": [
+        "Daughter-in-law",
+        "Sister-in-law",
+        "Niece",
+        "Daughter"
+      ],
+      "options_hi": [
+        "बहू",
+        "भाभी",
+        "भतीजी",
+        "बेटी"
+      ],
+      "answer_en": "Daughter-in-law",
+      "answer_hi": "बहू",
+      "explanation_en": "Your son's wife is your daughter-in-law (बहू).",
+      "explanation_hi": "आपके बेटे की पत्नी को बहू कहा जाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your daughter's husband is your ____.",
+      "question_hi": "आपकी बेटी का पति आपका ____ होता है।",
+      "options_en": [
+        "Son-in-law",
+        "Brother-in-law",
+        "Nephew",
+        "Son"
+      ],
+      "options_hi": [
+        "दामाद",
+        "जीजा",
+        "भतीजा",
+        "बेटा"
+      ],
+      "answer_en": "Son-in-law",
+      "answer_hi": "दामाद",
+      "explanation_en": "Your daughter's husband is your son-in-law (दामाद).",
+      "explanation_hi": "आपकी बेटी का पति दामाद कहलाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your husband's father is your ____.",
+      "question_hi": "आपके पति के पिता आपके ____ होते हैं।",
+      "options_en": [
+        "Father-in-law",
+        "Grandfather",
+        "Uncle",
+        "Brother-in-law"
+      ],
+      "options_hi": [
+        "ससुर",
+        "दादा",
+        "चाचा",
+        "जीजा"
+      ],
+      "answer_en": "Father-in-law",
+      "answer_hi": "ससुर",
+      "explanation_en": "Your husband's father is your father-in-law (ससुर).",
+      "explanation_hi": "आपके पति के पिता ससुर कहलाते हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your husband's mother is your ____.",
+      "question_hi": "आपके पति की माता आपकी ____ होती हैं।",
+      "options_en": [
+        "Mother-in-law",
+        "Grandmother",
+        "Aunt",
+        "Sister-in-law"
+      ],
+      "options_hi": [
+        "सास",
+        "दादी",
+        "मौसी",
+        "भाभी"
+      ],
+      "answer_en": "Mother-in-law",
+      "answer_hi": "सास",
+      "explanation_en": "Your husband's mother is your mother-in-law (सास).",
+      "explanation_hi": "आपके पति की माता सास कहलाती हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your wife's father is your ____.",
+      "question_hi": "आपकी पत्नी के पिता आपके ____ होते हैं।",
+      "options_en": [
+        "Father-in-law",
+        "Brother-in-law",
+        "Uncle",
+        "Nephew"
+      ],
+      "options_hi": [
+        "ससुर",
+        "साला",
+        "चाचा",
+        "भतीजा"
+      ],
+      "answer_en": "Father-in-law",
+      "answer_hi": "ससुर",
+      "explanation_en": "Your wife's father is your father-in-law (ससुर).",
+      "explanation_hi": "आपकी पत्नी के पिता ससुर कहलाते हैं।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your brother's son is your ____.",
+      "question_hi": "आपके भाई का बेटा आपका ____ होता है।",
+      "options_en": [
+        "Nephew",
+        "Son",
+        "Cousin",
+        "Grandson"
+      ],
+      "options_hi": [
+        "भतीजा",
+        "बेटा",
+        "चचेरा भाई",
+        "पोता"
+      ],
+      "answer_en": "Nephew",
+      "answer_hi": "भतीजा",
+      "explanation_en": "Your brother's son is your nephew (भतीजा).",
+      "explanation_hi": "आपके भाई का बेटा भतीजा कहलाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your brother's daughter is your ____.",
+      "question_hi": "आपके भाई की बेटी आपकी ____ होती है।",
+      "options_en": [
+        "Niece",
+        "Daughter",
+        "Cousin",
+        "Granddaughter"
+      ],
+      "options_hi": [
+        "भतीजी",
+        "बेटी",
+        "चचेरी बहन",
+        "पोती"
+      ],
+      "answer_en": "Niece",
+      "answer_hi": "भतीजी",
+      "explanation_en": "Your brother's daughter is your niece (भतीजी).",
+      "explanation_hi": "आपके भाई की बेटी भतीजी कहलाती है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your sister's son is your ____.",
+      "question_hi": "आपकी बहन का बेटा आपका ____ होता है।",
+      "options_en": [
+        "Nephew",
+        "Son",
+        "Grandson",
+        "Cousin"
+      ],
+      "options_hi": [
+        "भांजा",
+        "बेटा",
+        "पोता",
+        "चचेरा भाई"
+      ],
+      "answer_en": "Nephew",
+      "answer_hi": "भांजा",
+      "explanation_en": "Your sister's son is your nephew (भांजा).",
+      "explanation_hi": "आपकी बहन का बेटा भांजा कहलाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "Your sister's husband is your ____.",
+      "question_hi": "आपकी बहन का पति आपका ____ होता है।",
+      "options_en": [
+        "Brother-in-law",
+        "Cousin",
+        "Uncle",
+        "Father-in-law"
+      ],
+      "options_hi": [
+        "जीजा",
+        "चचेरा भाई",
+        "चाचा",
+        "ससुर"
+      ],
+      "answer_en": "Brother-in-law",
+      "answer_hi": "जीजा",
+      "explanation_en": "Your sister's husband is your brother-in-law (जीजा).",
+      "explanation_hi": "आपकी बहन का पति जीजा कहलाता है।",
+      "difficulty": "simple"
+    },
+    {
+      "question_en": "A is the father of B. B is the brother of C. How is A related to C?",
+      "question_hi": "A, B का पिता है। B, C का भाई है। A का C से क्या संबंध है?",
+      "options_en": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Grandfather"
+      ],
+      "options_hi": [
+        "पिता",
+        "चाचा",
+        "भाई",
+        "दादा"
+      ],
+      "answer_en": "Father",
+      "answer_hi": "पिता",
+      "explanation_en": "Since B and C are siblings, A (B's father) is also C's father.",
+      "explanation_hi": "चूँकि B और C भाई-बहन हैं, इसलिए A (B का पिता) C का भी पिता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is the mother of B. B is the sister of C. How is A related to C?",
+      "question_hi": "A, B की माँ है। B, C की बहन है। A का C से क्या संबंध है?",
+      "options_en": [
+        "Mother",
+        "Aunt",
+        "Grandmother",
+        "Sister"
+      ],
+      "options_hi": [
+        "माँ",
+        "मौसी",
+        "दादी",
+        "बहन"
+      ],
+      "answer_en": "Mother",
+      "answer_hi": "माँ",
+      "explanation_en": "Since B and C are siblings, A (B's mother) is also C's mother.",
+      "explanation_hi": "चूँकि B और C भाई-बहन हैं, इसलिए A (B की माँ) C की भी माँ है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is the son of B. C is the father of B. How is C related to A?",
+      "question_hi": "A, B का बेटा है। C, B का पिता है। C का A से क्या संबंध है?",
+      "options_en": [
+        "Grandfather",
+        "Father",
+        "Uncle",
+        "Brother"
+      ],
+      "options_hi": [
+        "दादा",
+        "पिता",
+        "चाचा",
+        "भाई"
+      ],
+      "answer_en": "Grandfather",
+      "answer_hi": "दादा",
+      "explanation_en": "C is B's father and B is A's father, so C is A's grandfather.",
+      "explanation_hi": "C, B का पिता है और B, A का पिता है, इसलिए C, A का दादा है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is the daughter of B. C is the mother of B. How is C related to A?",
+      "question_hi": "A, B की बेटी है। C, B की माँ है। C का A से क्या संबंध है?",
+      "options_en": [
+        "Grandmother",
+        "Mother",
+        "Aunt",
+        "Sister"
+      ],
+      "options_hi": [
+        "दादी/नानी",
+        "माँ",
+        "मौसी",
+        "बहन"
+      ],
+      "answer_en": "Grandmother",
+      "answer_hi": "दादी/नानी",
+      "explanation_en": "C is B's mother and B is A's parent, so C is A's grandmother.",
+      "explanation_hi": "C, B की माँ है और B, A का माता-पिता है, इसलिए C, A की दादी/नानी है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A's father is B. B's sister is C. How is C related to A?",
+      "question_hi": "A के पिता B हैं। B की बहन C है। C का A से क्या संबंध है?",
+      "options_en": [
+        "Aunt",
+        "Mother",
+        "Grandmother",
+        "Sister"
+      ],
+      "options_hi": [
+        "बुआ",
+        "माँ",
+        "दादी",
+        "बहन"
+      ],
+      "answer_en": "Aunt",
+      "answer_hi": "बुआ",
+      "explanation_en": "C is the sister of A's father, so C is A's aunt (बुआ).",
+      "explanation_hi": "C, A के पिता की बहन है, इसलिए C, A की बुआ है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A's mother is B. B's brother is C. How is C related to A?",
+      "question_hi": "A की माँ B है। B का भाई C है। C का A से क्या संबंध है?",
+      "options_en": [
+        "Uncle",
+        "Father",
+        "Grandfather",
+        "Brother"
+      ],
+      "options_hi": [
+        "मामा",
+        "पिता",
+        "दादा",
+        "भाई"
+      ],
+      "answer_en": "Uncle",
+      "answer_hi": "मामा",
+      "explanation_en": "C is the brother of A's mother, so C is A's maternal uncle (मामा).",
+      "explanation_hi": "C, A की माँ का भाई है, इसलिए C, A का मामा है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Pointing to a man, Riya said, \"He is the son of my father's only son.\" How is the man related to Riya?",
+      "question_hi": "एक व्यक्ति की ओर इशारा करते हुए रिया ने कहा, \"वह मेरे पिता के इकलौते बेटे का बेटा है।\" वह व्यक्ति रिया से किस प्रकार संबंधित है?",
+      "options_en": [
+        "Nephew",
+        "Brother",
+        "Son",
+        "Cousin"
+      ],
+      "options_hi": [
+        "भतीजा",
+        "भाई",
+        "बेटा",
+        "चचेरा भाई"
+      ],
+      "answer_en": "Nephew",
+      "answer_hi": "भतीजा",
+      "explanation_en": "Riya's father's only son is Riya's brother, so his son is Riya's nephew.",
+      "explanation_hi": "रिया के पिता का इकलौता बेटा रिया का भाई है, इसलिए उसका बेटा रिया का भतीजा है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A and B are sisters. C is A's son. How is C related to B?",
+      "question_hi": "A और B बहनें हैं। C, A का बेटा है। C का B से क्या संबंध है?",
+      "options_en": [
+        "Nephew",
+        "Son",
+        "Cousin",
+        "Brother"
+      ],
+      "options_hi": [
+        "भांजा",
+        "बेटा",
+        "चचेरा भाई",
+        "भाई"
+      ],
+      "answer_en": "Nephew",
+      "answer_hi": "भांजा",
+      "explanation_en": "Since A and B are sisters, A's son C is B's nephew (भांजा).",
+      "explanation_hi": "चूँकि A और B बहनें हैं, A का बेटा C, B का भांजा है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is B's brother. C is B's mother. D is C's father. How is A related to D?",
+      "question_hi": "A, B का भाई है। C, B की माँ है। D, C का पिता है। A का D से क्या संबंध है?",
+      "options_en": [
+        "Grandson",
+        "Son",
+        "Nephew",
+        "Brother"
+      ],
+      "options_hi": [
+        "पोता/नाती",
+        "बेटा",
+        "भतीजा",
+        "भाई"
+      ],
+      "answer_en": "Grandson",
+      "answer_hi": "नाती",
+      "explanation_en": "D is C's father, C is A's mother, so D is A's maternal grandfather and A is D's grandson (नाती).",
+      "explanation_hi": "D, C का पिता है और C, A की माँ है, इसलिए D, A का नाना है और A, D का नाती है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is the husband of B. C is the daughter of B. How is A related to C?",
+      "question_hi": "A, B का पति है। C, B की बेटी है। A का C से क्या संबंध है?",
+      "options_en": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Grandfather"
+      ],
+      "options_hi": [
+        "पिता",
+        "चाचा",
+        "भाई",
+        "दादा"
+      ],
+      "answer_en": "Father",
+      "answer_hi": "पिता",
+      "explanation_en": "A is B's husband and C is B's daughter, so A is C's father.",
+      "explanation_hi": "A, B का पति है और C, B की बेटी है, इसलिए A, C का पिता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is B's daughter. B is C's wife. How is C related to A?",
+      "question_hi": "A, B की बेटी है। B, C की पत्नी है। C का A से क्या संबंध है?",
+      "options_en": [
+        "Father",
+        "Uncle",
+        "Grandfather",
+        "Brother"
+      ],
+      "options_hi": [
+        "पिता",
+        "चाचा",
+        "दादा",
+        "भाई"
+      ],
+      "answer_en": "Father",
+      "answer_hi": "पिता",
+      "explanation_en": "B is C's wife and A is B's daughter, so C is A's father.",
+      "explanation_hi": "B, C की पत्नी है और A, B की बेटी है, इसलिए C, A का पिता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A's brother B is married to C. C's mother is D. How is D related to A?",
+      "question_hi": "A के भाई B की शादी C से हुई है। C की माँ D है। D का A से क्या संबंध है?",
+      "options_en": [
+        "Mother-in-law of A's brother",
+        "A's mother",
+        "A's sister",
+        "A's aunt"
+      ],
+      "options_hi": [
+        "A के भाई की सास",
+        "A की माँ",
+        "A की बहन",
+        "A की मौसी"
+      ],
+      "answer_en": "Mother-in-law of A's brother",
+      "answer_hi": "A के भाई की सास",
+      "explanation_en": "C is married to A's brother B, and D is C's mother, so D is B's mother-in-law.",
+      "explanation_hi": "C की शादी A के भाई B से हुई है, और D, C की माँ है, इसलिए D, B की सास है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is the father of B and C. B is the brother of D. D is the daughter of C. How is A related to D?",
+      "question_hi": "A, B और C का पिता है। B, D का भाई है। D, C की बेटी है। A का D से क्या संबंध है?",
+      "options_en": [
+        "Grandfather",
+        "Father",
+        "Uncle",
+        "Brother"
+      ],
+      "options_hi": [
+        "दादा",
+        "पिता",
+        "चाचा",
+        "भाई"
+      ],
+      "answer_en": "Grandfather",
+      "answer_hi": "दादा",
+      "explanation_en": "D is C's daughter, and A is C's father, so A is D's grandfather.",
+      "explanation_hi": "D, C की बेटी है और A, C का पिता है, इसलिए A, D का दादा है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Pointing to a photograph, Amit said, \"She is the daughter of my grandfather's only son.\" Who is she to Amit?",
+      "question_hi": "एक तस्वीर की ओर इशारा करते हुए अमित ने कहा, \"वह मेरे दादा के इकलौते बेटे की बेटी है।\" वह अमित की कौन है?",
+      "options_en": [
+        "Sister",
+        "Cousin",
+        "Daughter",
+        "Aunt"
+      ],
+      "options_hi": [
+        "बहन",
+        "चचेरी बहन",
+        "बेटी",
+        "बुआ"
+      ],
+      "answer_en": "Sister",
+      "answer_hi": "बहन",
+      "explanation_en": "Amit's grandfather's only son is Amit's father, so his daughter is Amit's sister.",
+      "explanation_hi": "अमित के दादा का इकलौता बेटा अमित का पिता ही है, इसलिए उसकी बेटी अमित की बहन है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is B's sister. B is C's father. How is A related to C?",
+      "question_hi": "A, B की बहन है। B, C का पिता है। A का C से क्या संबंध है?",
+      "options_en": [
+        "Aunt",
+        "Mother",
+        "Sister",
+        "Grandmother"
+      ],
+      "options_hi": [
+        "बुआ",
+        "माँ",
+        "बहन",
+        "दादी"
+      ],
+      "answer_en": "Aunt",
+      "answer_hi": "बुआ",
+      "explanation_en": "A is the sister of C's father B, so A is C's aunt (बुआ).",
+      "explanation_hi": "A, C के पिता B की बहन है, इसलिए A, C की बुआ है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is B's husband's sister. How is A related to B?",
+      "question_hi": "A, B के पति की बहन है। A का B से क्या संबंध है?",
+      "options_en": [
+        "Sister-in-law",
+        "Mother-in-law",
+        "Cousin",
+        "Daughter-in-law"
+      ],
+      "options_hi": [
+        "ननद",
+        "सास",
+        "चचेरी बहन",
+        "बहू"
+      ],
+      "answer_en": "Sister-in-law",
+      "answer_hi": "ननद",
+      "explanation_en": "The sister of one's husband is called sister-in-law (ननद).",
+      "explanation_hi": "पति की बहन को ननद कहा जाता है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is C's son. B is A's sister. D is C's wife. How is D related to B?",
+      "question_hi": "A, C का बेटा है। B, A की बहन है। D, C की पत्नी है। D का B से क्या संबंध है?",
+      "options_en": [
+        "Mother",
+        "Aunt",
+        "Sister",
+        "Grandmother"
+      ],
+      "options_hi": [
+        "माँ",
+        "मौसी",
+        "बहन",
+        "दादी"
+      ],
+      "answer_en": "Mother",
+      "answer_hi": "माँ",
+      "explanation_en": "D is C's wife and A/B are C's children, so D is B's mother.",
+      "explanation_hi": "D, C की पत्नी है और A/B, C की संतान हैं, इसलिए D, B की माँ है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "A is B's father-in-law. C is A's only daughter. How is C related to B?",
+      "question_hi": "A, B का ससुर है। C, A की इकलौती बेटी है। C का B से क्या संबंध है?",
+      "options_en": [
+        "Wife",
+        "Sister",
+        "Sister-in-law",
+        "Mother"
+      ],
+      "options_hi": [
+        "पत्नी",
+        "बहन",
+        "साली",
+        "माँ"
+      ],
+      "answer_en": "Wife",
+      "answer_hi": "पत्नी",
+      "explanation_en": "Since A is B's father-in-law, A's daughter C is B's wife.",
+      "explanation_hi": "चूँकि A, B का ससुर है, इसलिए A की बेटी C, B की पत्नी है।",
+      "difficulty": "medium"
+    },
+    {
+      "question_en": "Pointing to a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+      "question_hi": "एक व्यक्ति की ओर इशारा करते हुए एक महिला ने कहा, \"उसकी माँ मेरी माँ की इकलौती बेटी है।\" महिला उस व्यक्ति से किस प्रकार संबंधित है?",
+      "options_en": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Daughter"
+      ],
+      "options_hi": [
+        "माँ",
+        "बहन",
+        "मौसी",
+        "बेटी"
+      ],
+      "answer_en": "Mother",
+      "answer_hi": "माँ",
+      "explanation_en": "The woman's mother's only daughter is the woman herself, so she is the man's mother.",
+      "explanation_hi": "महिला की माँ की इकलौती बेटी स्वयं महिला है, इसलिए वह उस व्यक्ति की माँ है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A + B means A is the mother of B; A - B means A is the brother of B; A × B means A is the father of B. If P × Q - R, how is P related to R?",
+      "question_hi": "A + B का अर्थ है A, B की माँ है; A - B का अर्थ है A, B का भाई है; A × B का अर्थ है A, B का पिता है। यदि P × Q - R है, तो P का R से क्या संबंध है?",
+      "options_en": [
+        "Father",
+        "Uncle",
+        "Grandfather",
+        "Brother"
+      ],
+      "options_hi": [
+        "पिता",
+        "चाचा",
+        "दादा",
+        "भाई"
+      ],
+      "answer_en": "Father",
+      "answer_hi": "पिता",
+      "explanation_en": "P is Q's father, and Q is R's brother, so P is also R's father.",
+      "explanation_hi": "P, Q का पिता है और Q, R का भाई है, इसलिए P, R का भी पिता है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A + B means A is the daughter of B; A × B means A is the husband of B; A ÷ B means A is the mother of B. If P ÷ Q × R, how is P related to R?",
+      "question_hi": "A + B का अर्थ है A, B की बेटी है; A × B का अर्थ है A, B का पति है; A ÷ B का अर्थ है A, B की माँ है। यदि P ÷ Q × R है, तो P का R से क्या संबंध है?",
+      "options_en": [
+        "Mother-in-law",
+        "Mother",
+        "Sister",
+        "Aunt"
+      ],
+      "options_hi": [
+        "सास",
+        "माँ",
+        "बहन",
+        "मौसी"
+      ],
+      "answer_en": "Mother-in-law",
+      "answer_hi": "सास",
+      "explanation_en": "P is Q's mother, and Q is R's husband, so P is R's mother-in-law.",
+      "explanation_hi": "P, Q की माँ है और Q, R का पति है, इसलिए P, R की सास है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "Introducing a man, a woman said, \"He is the only son of my mother's mother.\" How is the man related to the woman?",
+      "question_hi": "एक व्यक्ति का परिचय देते हुए एक महिला ने कहा, \"वह मेरी नानी का इकलौता बेटा है।\" वह व्यक्ति महिला से किस प्रकार संबंधित है?",
+      "options_en": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Grandfather"
+      ],
+      "options_hi": [
+        "मामा",
+        "पिता",
+        "भाई",
+        "दादा"
+      ],
+      "answer_en": "Uncle",
+      "answer_hi": "मामा",
+      "explanation_en": "The woman's grandmother's only son is her mother's brother, i.e., her uncle.",
+      "explanation_hi": "महिला की नानी का इकलौता बेटा उसकी माँ का भाई है, यानी उसका मामा है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A is B's son. B and C are sisters. D is C's mother. How is D related to A?",
+      "question_hi": "A, B का बेटा है। B और C बहनें हैं। D, C की माँ है। D का A से क्या संबंध है?",
+      "options_en": [
+        "Grandmother",
+        "Mother",
+        "Aunt",
+        "Sister"
+      ],
+      "options_hi": [
+        "नानी/दादी",
+        "माँ",
+        "मौसी",
+        "बहन"
+      ],
+      "answer_en": "Grandmother",
+      "answer_hi": "नानी",
+      "explanation_en": "D is B's mother (since B and C are sisters, they share the same mother D), and A is B's son, so D is A's grandmother.",
+      "explanation_hi": "D, B की माँ है (चूँकि B और C बहनें हैं, दोनों की माँ D है), और A, B का बेटा है, इसलिए D, A की नानी है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "Pointing to a photograph, Meera said, \"Her son is my father's grandson, and I am my father's only daughter.\" How is the woman in the photo related to Meera?",
+      "question_hi": "एक तस्वीर की ओर इशारा करते हुए मीरा ने कहा, \"उसका बेटा मेरे पिता का पोता है, और मैं अपने पिता की इकलौती बेटी हूँ।\" तस्वीर में महिला मीरा से किस प्रकार संबंधित है?",
+      "options_en": [
+        "Meera herself or sister-in-law",
+        "Mother",
+        "Aunt",
+        "Daughter"
+      ],
+      "options_hi": [
+        "स्वयं मीरा या भाभी",
+        "माँ",
+        "मौसी",
+        "बेटी"
+      ],
+      "answer_en": "Meera herself or sister-in-law",
+      "answer_hi": "स्वयं मीरा या भाभी",
+      "explanation_en": "The woman's son is Meera's father's grandson, meaning the woman is either Meera herself or her brother's wife (since Meera is the only daughter).",
+      "explanation_hi": "महिला का बेटा मीरा के पिता का पोता है, यानी महिला या तो स्वयं मीरा है या मीरा के भाई की पत्नी (भाभी) है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A is the brother of B. C is the father of A. D is the sister of C. E is the mother of B. How is D related to E?",
+      "question_hi": "A, B का भाई है। C, A का पिता है। D, C की बहन है। E, B की माँ है। D का E से क्या संबंध है?",
+      "options_en": [
+        "Sister-in-law",
+        "Sister",
+        "Mother",
+        "Daughter"
+      ],
+      "options_hi": [
+        "ननद",
+        "बहन",
+        "माँ",
+        "बेटी"
+      ],
+      "answer_en": "Sister-in-law",
+      "answer_hi": "ननद",
+      "explanation_en": "C is A and B's father, so E (B's mother) is C's wife. D is C's sister, so D is E's sister-in-law (ननद).",
+      "explanation_hi": "C, A और B का पिता है, इसलिए E (B की माँ), C की पत्नी है। D, C की बहन है, इसलिए D, E की ननद है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "If X is the son of Y, Y is the daughter of Z, and Z is the father of W, how is W related to X?",
+      "question_hi": "यदि X, Y का बेटा है, Y, Z की बेटी है, और Z, W का पिता है, तो W का X से क्या संबंध है?",
+      "options_en": [
+        "Uncle or Aunt",
+        "Grandfather",
+        "Father",
+        "Brother"
+      ],
+      "options_hi": [
+        "मामा/मौसी या चाचा/बुआ",
+        "दादा",
+        "पिता",
+        "भाई"
+      ],
+      "answer_en": "Uncle or Aunt",
+      "answer_hi": "मामा/मौसी या चाचा/बुआ",
+      "explanation_en": "Z is Y's father and also W's father, so W is Y's sibling. Since X is Y's son, W is X's uncle or aunt.",
+      "explanation_hi": "Z, Y का पिता है और W का भी पिता है, इसलिए W, Y का भाई/बहन है। चूँकि X, Y का बेटा है, W, X का मामा/मौसी या चाचा/बुआ है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A woman introduces a man as, \"His wife is the only granddaughter of my father.\" How is the man related to the woman?",
+      "question_hi": "एक महिला एक व्यक्ति का परिचय देते हुए कहती है, \"उसकी पत्नी मेरे पिता की इकलौती पोती है।\" वह व्यक्ति महिला से किस प्रकार संबंधित है?",
+      "options_en": [
+        "Son-in-law",
+        "Brother",
+        "Husband",
+        "Nephew"
+      ],
+      "options_hi": [
+        "दामाद",
+        "भाई",
+        "पति",
+        "भतीजा"
+      ],
+      "answer_en": "Son-in-law",
+      "answer_hi": "दामाद",
+      "explanation_en": "The woman's father's only granddaughter is the woman's own daughter, so the man (her husband) is the woman's son-in-law.",
+      "explanation_hi": "महिला के पिता की इकलौती पोती स्वयं महिला की बेटी है, इसलिए वह व्यक्ति (उसका पति) महिला का दामाद है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "P is Q's grandfather. R is Q's mother. S is R's brother. T is S's son. How is T related to Q?",
+      "question_hi": "P, Q का दादा है। R, Q की माँ है। S, R का भाई है। T, S का बेटा है। T का Q से क्या संबंध है?",
+      "options_en": [
+        "Cousin",
+        "Brother",
+        "Uncle",
+        "Nephew"
+      ],
+      "options_hi": [
+        "चचेरा/ममेरा भाई",
+        "भाई",
+        "मामा",
+        "भतीजा"
+      ],
+      "answer_en": "Cousin",
+      "answer_hi": "ममेरा भाई",
+      "explanation_en": "S is Q's maternal uncle (mama), so S's son T is Q's cousin (ममेरा भाई).",
+      "explanation_hi": "S, Q का मामा है, इसलिए S का बेटा T, Q का ममेरा भाई (cousin) है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A told B, \"Your mother's husband's sister is my aunt.\" How is A related to B?",
+      "question_hi": "A ने B से कहा, \"तुम्हारी माँ के पति की बहन मेरी बुआ है।\" A का B से क्या संबंध है?",
+      "options_en": [
+        "Cousin",
+        "Brother",
+        "Nephew",
+        "Uncle"
+      ],
+      "options_hi": [
+        "चचेरा भाई",
+        "भाई",
+        "भतीजा",
+        "चाचा"
+      ],
+      "answer_en": "Cousin",
+      "answer_hi": "चचेरा भाई",
+      "explanation_en": "B's mother's husband is B's father; his sister is B's aunt, and she is also A's aunt, meaning A and B share a grandfather — making them cousins.",
+      "explanation_hi": "B की माँ का पति B का पिता है; उसकी बहन B की बुआ है, और वही A की भी बुआ है, यानी A और B के दादा एक ही हैं — इसलिए वे चचेरे भाई हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A is B's daughter's husband. C is A's mother. How is C related to B?",
+      "question_hi": "A, B की बेटी का पति है। C, A की माँ है। C का B से क्या संबंध है?",
+      "options_en": [
+        "Sister-in-law (Samdhan)",
+        "Mother-in-law",
+        "Daughter",
+        "Aunt"
+      ],
+      "options_hi": [
+        "समधन",
+        "सास",
+        "बेटी",
+        "मौसी"
+      ],
+      "answer_en": "Sister-in-law (Samdhan)",
+      "answer_hi": "समधन",
+      "explanation_en": "A is B's son-in-law, and C is A's mother, so C and B are co-parents-in-law, referred to as \"समधन\" (samdhan) to each other.",
+      "explanation_hi": "A, B का दामाद है, और C, A की माँ है, इसलिए C और B एक-दूसरे की \"समधन\" कहलाती हैं।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "Six people P, Q, R, S, T and U are family members. P is the father of Q. Q is the brother of R. R is the daughter of S. S is the wife of P. T is the son of R. How is T related to P?",
+      "question_hi": "छह लोग P, Q, R, S, T और U एक परिवार के सदस्य हैं। P, Q का पिता है। Q, R का भाई है। R, S की बेटी है। S, P की पत्नी है। T, R का बेटा है। T का P से क्या संबंध है?",
+      "options_en": [
+        "Grandson",
+        "Son",
+        "Nephew",
+        "Brother"
+      ],
+      "options_hi": [
+        "नाती/पोता",
+        "बेटा",
+        "भतीजा",
+        "भाई"
+      ],
+      "answer_en": "Grandson",
+      "answer_hi": "नाती",
+      "explanation_en": "R is P's daughter (since S, P's wife, is R's mother), and T is R's son, so T is P's grandson.",
+      "explanation_hi": "R, P की बेटी है (क्योंकि S, P की पत्नी, R की माँ है), और T, R का बेटा है, इसलिए T, P का नाती है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A is the son of B's father's only daughter. B has no brothers. How is A related to B?",
+      "question_hi": "A, B के पिता की इकलौती बेटी का बेटा है। B का कोई भाई नहीं है। A का B से क्या संबंध है?",
+      "options_en": [
+        "Son",
+        "Brother",
+        "Nephew",
+        "Cousin"
+      ],
+      "options_hi": [
+        "बेटा",
+        "भाई",
+        "भतीजा",
+        "चचेरा भाई"
+      ],
+      "answer_en": "Son",
+      "answer_hi": "बेटा",
+      "explanation_en": "Since B has no brothers, B's father's only daughter is B herself, so A is B's son.",
+      "explanation_hi": "चूँकि B का कोई भाई नहीं है, B के पिता की इकलौती बेटी स्वयं B है, इसलिए A, B का बेटा है।",
+      "difficulty": "hard"
+    },
+    {
+      "question_en": "A is married to B. C is the only son of A's mother-in-law. How is C related to B?",
+      "question_hi": "A की शादी B से हुई है। C, A की सास का इकलौता बेटा है। C का B से क्या संबंध है?",
+      "options_en": [
+        "Brother",
+        "Husband",
+        "Father",
+        "Cousin"
+      ],
+      "options_hi": [
+        "भाई",
+        "पति",
+        "पिता",
+        "चचेरा भाई"
+      ],
+      "answer_en": "Brother",
+      "answer_hi": "भाई",
+      "explanation_en": "A's mother-in-law is B's mother, so her only son C is B's brother.",
+      "explanation_hi": "A की सास, B की माँ है, इसलिए उसका इकलौता बेटा C, B का भाई है।",
+      "difficulty": "hard"
+    }
+  ]
+}
