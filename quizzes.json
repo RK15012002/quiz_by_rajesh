@@ -5,5 +5,8 @@
 { "title": "Geography Basis", "file": "geographybasic.json" },
 { "title": "Geography Stars", "file": "geo_stars.json" },
 { "title": "RRB section controller", "file": "rrb_section_controller.json" },
-{ "title": "Solar system", "file": "space_quiz_200_bilingual.json" }
+{ "title": "Blood Relation Hard Questions", "file": "blood_relations_hard50.json" }
+{ "title": "Blood Relation Simple Question", "file": "blood_relations_quiz.json" }
+{ "title": "Number System Quiz", "file": "number_system_quiz.json" }
+{ "title": "Rocks Volcanoes ", "file": "rocks_volcanoes_quiz.json" }
 ]
